@@ -1,8 +1,7 @@
 from config.config import config
 from src.classes.DataFetcher import DataFetcher
-import time
 
-fetcher = DataFetcher(config.fetch_new_data_interval)
+fetcher = DataFetcher(config)
 fetcher.start()
 
 # fetcher executes async while script runs

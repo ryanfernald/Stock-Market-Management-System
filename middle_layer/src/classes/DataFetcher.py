@@ -3,14 +3,14 @@ import time
 
 
 class DataFetcher:
-    def __init__(self, interval=60):
+    def __init__(self, config):
         """
         Initializes the DataFetcher.
 
         Args:
             interval (int): Time in seconds between each execution of fetch_data. Defaults to 60 seconds.
         """
-        self.interval = interval
+        self.interval = config.fetch_new_data_interval
         self._stop_event = threading.Event()
         self._thread = threading.Thread(target=self._run)
 
