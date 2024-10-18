@@ -1,5 +1,4 @@
-USE cs157yelp;
--- SHOW TABLES;
+# USE <db_name>;
 
 -- Drop all tables
 DROP PROCEDURE IF EXISTS `drop_all_tables`;
