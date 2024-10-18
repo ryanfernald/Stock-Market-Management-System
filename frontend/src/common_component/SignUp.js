@@ -5,7 +5,7 @@
 // import { useNavigate } from 'react-router-dom';
 // import animation from "../assets/upload_cloud.json";
 // import Lottie from 'react-lottie';
- 
+
 // const SignUp = () => {
 //   const [formData, setFormData] = useState({
 //     first_name: '',
@@ -57,7 +57,7 @@
 // // 
 //   const handleSubmit = (e) => {
 //     e.preventDefault();
-    
+
 
 //     // Validate required fields
 //     if (!formData.first_name) validationErrors.first_name = 'First name is required';
@@ -93,7 +93,7 @@
 //           <div className="container">
 //             <div className="row">
 //               <div className="col-md-8 m-auto">
-                
+
 //                 <div className='signup-form-container'>
 //                 <div className="animation-container">
 //                   <Lottie options={defaultOptions} height={300} width={300 } speed={.45} />
@@ -186,7 +186,7 @@
 //                     <div className="invalid-feedback">{errorMessage}</div>
 //                     <div className="form-group">
 //                       <label htmlFor="password" className="form-label">
-                        
+
 //                       </label>
 //                     </div>
 //                     <input type="submit" className="signup-btn" value="Register" />
@@ -206,7 +206,8 @@
 // SignUp.js
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { auth } from '../firebaseConfig';
+
+import { auth } from '../firbaseconfig.js'
 import { createUserWithEmailAndPassword, GoogleAuthProvider, signInWithPopup } from 'firebase/auth';
 import './styling/SignUp.css';
 

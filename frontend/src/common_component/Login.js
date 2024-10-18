@@ -1,6 +1,7 @@
 // Login.js
 import React, { useState } from 'react';
-import { auth } from '../firebaseConfig';
+
+import { auth } from '../firbaseconfig.js'
 import { signInWithEmailAndPassword } from 'firebase/auth';
 
 function Login() {
