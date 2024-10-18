@@ -24,6 +24,7 @@ class DataFetcher:
 
     def fetch_data(self):
         print("Fetching data...")
+    #     sample_list=['AAPL', 'GOGL']
     #     here goes the code for fetching data with api and populating db
 
     def start(self):

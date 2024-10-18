@@ -2,7 +2,7 @@ from src.classes.Config import Config
 
 
 config = Config(
-    fetch_new_data_interval=10,
+    fetch_new_data_interval=10, #s
 #     other config parameters..
 
 #     Verbose settings
