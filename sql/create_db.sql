@@ -1,16 +1,21 @@
 # USER
 CREATE TABLE User (
-    user_id INT PRIMARY KEY AUTO_INCREMENT,
+    user_id VARCHAR(255) PRIMARY KEY AUTO_INCREMENT,
     name VARCHAR(100),
     email VARCHAR(100) UNIQUE,
-    password VARCHAR(100) # not sure how secure this is
+    --role is optional
+        --if use is Admin we can create more advanced view for them to be able to modify tables
+        -- regular user get their own views
+    userRole ENUM('Admin', 'EndUser') NOT NULL
+    -- lets have firebase take care of pass
+    -- password VARCHAR(100) # not sure how secure this is
 );
 
 
 # STOCK
 CREATE TABLE Stock (
     ticker_symbol VARCHAR(10) PRIMARY KEY,
-    sector ENUM(
+    sector SET( --set works better because sectore was shown as multivaluet atribute
         'Aerospace & Defense',
         'Automobiles',
         'Banks',
@@ -58,7 +63,7 @@ CREATE TABLE StockPrice (
     price DECIMAL(10, 2),
     time_posted TIMESTAMP,
     PRIMARY KEY (ticker_symbol, time_posted),
-    FOREIGN KEY (ticker_symbol) REFERENCES Stock(ticker_symbol)
+    FOREIGN KEY (ticker_symbol) REFERENCES Stock(ticker_symbol) ON DELETE SET NULL
 );
 
 CREATE TABLE MarketOrder (
@@ -70,7 +75,7 @@ CREATE TABLE MarketOrder (
     purchase_date DATETIME,
     order_type ENUM('BUY', 'SELL'),
     FOREIGN KEY (user_id) REFERENCES User(user_id),
-    FOREIGN KEY (ticker_symbol) REFERENCES Stock(ticker_symbol)
+    FOREIGN KEY (ticker_symbol) REFERENCES Stock(ticker_symbol) ON DELETE SET NULL
 );
 
 CREATE TABLE Portfolio (
@@ -80,7 +85,7 @@ CREATE TABLE Portfolio (
     quantity INT,
     total_value DECIMAL(10, 2),
     FOREIGN KEY (user_id) REFERENCES User(user_id),
-    FOREIGN KEY (ticker_symbol) REFERENCES Stock(ticker_symbol)
+    FOREIGN KEY (ticker_symbol) REFERENCES Stock(ticker_symbol) ON DELETE SET NULL
 );
 
 
@@ -88,7 +93,7 @@ CREATE TABLE Portfolio (
 CREATE TABLE UserBalance (
     user_id INT PRIMARY KEY,
     balance_usd DECIMAL(10, 2),
-    FOREIGN KEY (user_id) REFERENCES User(user_id)
+    FOREIGN KEY (user_id) REFERENCES User(user_id) ON DELETE SET NULL
 );
 
 CREATE TABLE FundsDeposit (

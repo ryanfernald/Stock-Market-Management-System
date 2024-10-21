@@ -206,8 +206,7 @@
 // SignUp.js
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-
-import { auth } from '../firbaseconfig.js'
+import { auth } from '../firbaseconfig.js';
 import { createUserWithEmailAndPassword, GoogleAuthProvider, signInWithPopup } from 'firebase/auth';
 import './styling/SignUp.css';
 
@@ -215,6 +214,7 @@ const SignUp = () => {
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
   const [confirmPassword, setConfirmPassword] = useState('');
+  const [role, setRole] = useState('EndUser');  // default role
   const [error, setError] = useState('');
   const navigate = useNavigate();
 
@@ -228,17 +228,45 @@ const SignUp = () => {
     }
 
     try {
-      await createUserWithEmailAndPassword(auth, email, password);
+      const userCredential = await createUserWithEmailAndPassword(auth, email, password);
+      const user = userCredential.user;
+
+      // After successful Firebase authentication, insert user data into SQL database
+      await insertUserIntoDatabase(user.uid, email, role);
+
       navigate('/userdashboard');
     } catch (error) {
       setError(error.message);
     }
   };
 
+  const insertUserIntoDatabase = async (uid, email, role) => {
+    // Call your backend API to insert the user into the database
+    const requestOptions = {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        user_id: uid,
+        email: email,
+        role: role
+      }),
+    };
+
+    const response = await fetch('http://127.0.0.1:8000/users', requestOptions);
+    const data = await response.json();
+    if (!response.ok) {
+      throw new Error(data.detail || 'Error inserting user into database');
+    }
+  };
+
   const handleGoogleSignIn = async () => {
     const provider = new GoogleAuthProvider();
     try {
-      await signInWithPopup(auth, provider);
+      const userCredential = await signInWithPopup(auth, provider);
+      const user = userCredential.user;
+
+      // After Google sign-in, insert user into the SQL database
+      await insertUserIntoDatabase(user.uid, user.email, 'EndUser');  // default role for Google users
       navigate('/userdashboard');
     } catch (error) {
       setError(error.message);
@@ -278,6 +306,20 @@ const SignUp = () => {
               required
             />
           </div>
+
+          {/* Role selection */}
+          <div className="form-group">
+            <label htmlFor="role">Role:</label>
+            <select
+              id="role"
+              value={role}
+              onChange={(e) => setRole(e.target.value)}
+            >
+              <option value="EndUser">End User</option>
+              <option value="Admin">Admin</option>
+            </select>
+          </div>
+
           <button type="submit" className="signup-button">Sign Up</button>
         </form>
         <p className="or-divider">or</p>
