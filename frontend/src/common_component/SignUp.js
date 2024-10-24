@@ -218,6 +218,7 @@ const SignUp = () => {
   const [error, setError] = useState('');
   const navigate = useNavigate();
 
+  // Sign-up handler function
   const handleSignUp = async (e) => {
     e.preventDefault();
     setError('');
@@ -228,48 +229,63 @@ const SignUp = () => {
     }
 
     try {
+      // Firebase authentication (create user)
       const userCredential = await createUserWithEmailAndPassword(auth, email, password);
       const user = userCredential.user;
 
-      // After successful Firebase authentication, insert user data into SQL database
+      // Insert user into SQL database
       await insertUserIntoDatabase(user.uid, email, role);
 
+      // Navigate to the user dashboard on success
       navigate('/userdashboard');
     } catch (error) {
       setError(error.message);
     }
   };
 
-  const insertUserIntoDatabase = async (uid, email, role) => {
-    // Call your backend API to insert the user into the database
-    const requestOptions = {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        user_id: uid,
-        email: email,
-        role: role
-      }),
-    };
-
-    const response = await fetch('http://127.0.0.1:8000/users', requestOptions);
-    const data = await response.json();
-    if (!response.ok) {
-      throw new Error(data.detail || 'Error inserting user into database');
-    }
-  };
-
+  // Google Sign-in handler function
   const handleGoogleSignIn = async () => {
     const provider = new GoogleAuthProvider();
     try {
       const userCredential = await signInWithPopup(auth, provider);
       const user = userCredential.user;
 
-      // After Google sign-in, insert user into the SQL database
+      // Insert Google user into SQL database
       await insertUserIntoDatabase(user.uid, user.email, 'EndUser');  // default role for Google users
+
+      // Navigate to the user dashboard on success
       navigate('/userdashboard');
     } catch (error) {
       setError(error.message);
+    }
+  };
+
+  // Function to call the backend API for inserting user into SQL database
+  const insertUserIntoDatabase = async (uid, email, role) => {
+    try {
+      // Setup the request options
+      const requestOptions = {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          user_id: uid,  // Firebase UID
+          email: email,
+          role: role
+        }),
+      };
+
+      // Fetch call to the backend API
+      const response = await fetch(env.SQL_USR, requestOptions);
+
+      if (!response.ok) {
+        const data = await response.json();
+        throw new Error(data.detail || 'Error inserting user into database');
+      }
+
+    } catch (error) {
+      // Handle any errors that occur during the API request
+      setError('Failed to sync with the database: ' + error.message);
+      throw error;  // Re-throw error so the UI shows the message
     }
   };
 
