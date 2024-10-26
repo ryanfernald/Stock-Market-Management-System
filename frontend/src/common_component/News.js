@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import Navbar from './Navbar';
-import '../News.css';
+import './styling/News.css';
 
 const categories = [
     { name: 'Business', value: 'business' },
@@ -15,18 +15,18 @@ const categories = [
 const News = () => {
     const [selectedCategory, setSelectedCategory] = useState('business'); // Default to Business
     const [articles, setArticles] = useState([]);
-    
+
     useEffect(() => {
         fetchNews(selectedCategory);
     }, [selectedCategory]);
-    
+
     const fetchNews = (category, query = '') => {
         const apiKey = process.env.REACT_APP_NEWS_API_KEY;
         let url = `https://newsapi.org/v2/top-headlines?category=${category}&language=en&apiKey=${apiKey}`;
         if (query) {
             url = `https://newsapi.org/v2/everything?q=${query}&language=en&apiKey=${apiKey}`;
         }
-    
+
         fetch(url)
             .then(response => response.json())
             .then(data => {
@@ -40,8 +40,8 @@ const News = () => {
             })
             .catch(error => console.error('Error fetching news:', error));
     };
-    
-    
+
+
     // Update the search functionality
     const handleSearch = (event) => {
         event.preventDefault();
@@ -60,7 +60,7 @@ const News = () => {
         <div>
             <Navbar />
             <h1 className="news-header">News</h1>
-            
+
             {/* Category Navbar */}
             <div className="category-navbar">
                 {categories.map((category) => (
@@ -117,6 +117,7 @@ const News = () => {
         </div>
 
     )
+}
 
 export default News;
 
