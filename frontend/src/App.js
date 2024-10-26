@@ -10,6 +10,7 @@ import QandA from './common_component/QandA';
 import AboutUs from './common_component/AboutUs';
 import Contact from './common_component/Contact';
 import News from './common_component/News';
+import Dahsbaord from './user_component/UserDashboard';
 
 function App() {
   return (
@@ -23,6 +24,10 @@ function App() {
           <Route path='/about' element={<AboutUs />} />
           <Route path='/contact' element={<Contact />} />
           <Route path='/news' element={<News />} />
+
+
+          {/* Need to be secured with login function*/}
+          <Route path='/dashboard' element={<Dahsbaord />} />
         </Routes>
       </Router>
     </div>

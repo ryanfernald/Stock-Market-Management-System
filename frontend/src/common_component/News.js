@@ -3,12 +3,12 @@ import Navbar from './Navbar';
 
 const News = () => {
     return (
-        <div> 
+        <div>
             <Navbar />
             <h>
                 News
             </h>
         </div>
     )
-} 
+}
 export default News;
