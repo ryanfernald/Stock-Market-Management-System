@@ -1,3 +1,7 @@
 .DS_Store
 node_modules
 .env
+venv
+middle_layer/.idea
+
+.env
