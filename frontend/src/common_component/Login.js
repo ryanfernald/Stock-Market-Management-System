@@ -24,7 +24,6 @@ function Login() {
       const result = await signInWithPopup(auth, provider);
       const user = result.user;
       alert(`Logged in as ${user.email}`);
-      // You can redirect to another page after successful login
     } catch (error) {
       console.error("Error logging in with Google:", error);
       alert(error.message);
