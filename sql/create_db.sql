@@ -1,136 +1,152 @@
 # USER
+use YHFinance;
+-- USER table
 CREATE TABLE User (
-    user_id INT PRIMARY KEY AUTO_INCREMENT,
-    name VARCHAR(100),
-    email VARCHAR(100) UNIQUE,
-    password VARCHAR(100) # not sure how secure this is
+    user_id VARCHAR(255) PRIMARY KEY,
+    user_name VARCHAR(100) NOT NULL,
+    email VARCHAR(100) UNIQUE NOT NULL
 );
 
+-- SECTORS table
+CREATE TABLE Sectors (
+    sector_id INT PRIMARY KEY,
+    aerospace_defense BOOLEAN DEFAULT FALSE NOT NULL,
+    automobiles BOOLEAN DEFAULT FALSE NOT NULL,
+    banks BOOLEAN DEFAULT FALSE NOT NULL,
+    biotechnology BOOLEAN DEFAULT FALSE NOT NULL,
+    chemicals BOOLEAN DEFAULT FALSE NOT NULL,
+    communication_services BOOLEAN DEFAULT FALSE NOT NULL,
+    construction_engineering BOOLEAN DEFAULT FALSE NOT NULL,
+    construction_materials BOOLEAN DEFAULT FALSE NOT NULL,
+    consumer_discretionary BOOLEAN DEFAULT FALSE NOT NULL,
+    consumer_services BOOLEAN DEFAULT FALSE NOT NULL,
+    consumer_staples BOOLEAN DEFAULT FALSE NOT NULL,
+    electric_utilities BOOLEAN DEFAULT FALSE NOT NULL,
+    energy BOOLEAN DEFAULT FALSE NOT NULL,
+    entertainment BOOLEAN DEFAULT FALSE NOT NULL,
+    financials BOOLEAN DEFAULT FALSE NOT NULL,
+    food_beverage BOOLEAN DEFAULT FALSE NOT NULL,
+    gas_utilities BOOLEAN DEFAULT FALSE NOT NULL,
+    hardware BOOLEAN DEFAULT FALSE NOT NULL,
+    healthcare BOOLEAN DEFAULT FALSE NOT NULL,
+    healthcare_equipment_services BOOLEAN DEFAULT FALSE NOT NULL,
+    household_products BOOLEAN DEFAULT FALSE NOT NULL,
+    industrials BOOLEAN DEFAULT FALSE NOT NULL,
+    information_technology BOOLEAN DEFAULT FALSE NOT NULL,
+    insurance BOOLEAN DEFAULT FALSE NOT NULL,
+    machinery BOOLEAN DEFAULT FALSE NOT NULL,
+    materials BOOLEAN DEFAULT FALSE NOT NULL,
+    media BOOLEAN DEFAULT FALSE NOT NULL,
+    metals_mining BOOLEAN DEFAULT FALSE NOT NULL,
+    oil_gas BOOLEAN DEFAULT FALSE NOT NULL,
+    pharmaceuticals BOOLEAN DEFAULT FALSE NOT NULL,
+    real_estate BOOLEAN DEFAULT FALSE NOT NULL,
+    reits BOOLEAN DEFAULT FALSE NOT NULL,
+    renewable_energy BOOLEAN DEFAULT FALSE NOT NULL,
+    retail BOOLEAN DEFAULT FALSE NOT NULL,
+    semiconductors BOOLEAN DEFAULT FALSE NOT NULL,
+    software BOOLEAN DEFAULT FALSE NOT NULL,
+    telecommunication_services BOOLEAN DEFAULT FALSE NOT NULL,
+    utilities BOOLEAN DEFAULT FALSE NOT NULL,
+    water_utilities BOOLEAN DEFAULT FALSE NOT NULL
+);
 
-# STOCK
+-- STOCK table
 CREATE TABLE Stock (
     ticker_symbol VARCHAR(10) PRIMARY KEY,
-    sector ENUM(
-        'Aerospace & Defense',
-        'Automobiles',
-        'Banks',
-        'Biotechnology',
-        'Chemicals',
-        'Communication Services',
-        'Construction & Engineering',
-        'Construction Materials',
-        'Consumer Discretionary',
-        'Consumer Services',
-        'Consumer Staples',
-        'Electric Utilities',
-        'Energy',
-        'Entertainment',
-        'Financials',
-        'Food & Beverage',
-        'Gas Utilities',
-        'Hardware',
-        'Healthcare',
-        'Healthcare Equipment & Services',
-        'Household Products',
-        'Industrials',
-        'Information Technology',
-        'Insurance',
-        'Machinery',
-        'Materials',
-        'Media',
-        'Metals & Mining',
-        'Oil & Gas',
-        'Pharmaceuticals',
-        'Real Estate',
-        'Real Estate Investment Trusts (REITs)',
-        'Renewable Energy',
-        'Retail',
-        'Semiconductors',
-        'Software',
-        'Telecommunication Services',
-        'Utilities',
-        'Water Utilities'
-    )
+    sector INT,
+    FOREIGN KEY (sector) REFERENCES Sectors(sector_id)
+        ON UPDATE CASCADE ON DELETE SET NULL
 );
 
+-- STOCK PRICE table
 CREATE TABLE StockPrice (
     ticker_symbol VARCHAR(10),
-    price DECIMAL(10, 2),
-    time_posted TIMESTAMP,
+    price DECIMAL(10, 2) NOT NULL CHECK (price >= 0),
+    time_posted TIMESTAMP NOT NULL,
     PRIMARY KEY (ticker_symbol, time_posted),
     FOREIGN KEY (ticker_symbol) REFERENCES Stock(ticker_symbol)
+        ON UPDATE CASCADE ON DELETE CASCADE
 );
 
+-- MARKET ORDER table
 CREATE TABLE MarketOrder (
     order_id INT PRIMARY KEY AUTO_INCREMENT,
-    user_id INT,
+    user_id VARCHAR(255) NOT NULL,
     ticker_symbol VARCHAR(10),
-    price_purchased DECIMAL(10, 2),
-    quantity INT,
-    purchase_date DATETIME,
-    order_type ENUM('BUY', 'SELL'),
-    FOREIGN KEY (user_id) REFERENCES User(user_id),
+    price_purchased DECIMAL(10, 2) NOT NULL CHECK (price_purchased >= 0),
+    quantity INT NOT NULL CHECK (quantity > 0),
+    purchase_date DATETIME NOT NULL,
+    order_type ENUM('BUY', 'SELL') NOT NULL,
+    FOREIGN KEY (user_id) REFERENCES User(user_id)
+        ON UPDATE CASCADE ON DELETE CASCADE,
     FOREIGN KEY (ticker_symbol) REFERENCES Stock(ticker_symbol)
+        ON UPDATE CASCADE ON DELETE SET NULL
 );
 
+-- PORTFOLIO table
 CREATE TABLE Portfolio (
     portfolio_id INT PRIMARY KEY AUTO_INCREMENT,
-    user_id INT,
-    ticker_symbol VARCHAR(10),
-    quantity INT,
-    total_value DECIMAL(10, 2),
-    FOREIGN KEY (user_id) REFERENCES User(user_id),
-    FOREIGN KEY (ticker_symbol) REFERENCES Stock(ticker_symbol)
-);
-
-
-# BALANCE
-CREATE TABLE UserBalance (
-    user_id INT PRIMARY KEY,
-    balance_usd DECIMAL(10, 2),
+    user_id VARCHAR(255) NOT NULL,
+    ticker_symbol VARCHAR(10) NOT NULL,
+    quantity INT NOT NULL CHECK (quantity >= 0),
+    total_value DECIMAL(10, 2) NOT NULL CHECK (total_value >= 0),
+    sector INT,
     FOREIGN KEY (user_id) REFERENCES User(user_id)
+        ON UPDATE CASCADE ON DELETE CASCADE,
+    FOREIGN KEY (ticker_symbol) REFERENCES Stock(ticker_symbol)
+        ON UPDATE CASCADE ON DELETE CASCADE,
+    FOREIGN KEY (sector) REFERENCES Sectors(sector_id)
+        ON UPDATE CASCADE ON DELETE SET NULL
 );
 
+-- USER BALANCE table
+CREATE TABLE UserBalance (
+    user_id VARCHAR(255) PRIMARY KEY,
+    balance_usd DECIMAL(10, 2) NOT NULL CHECK (balance_usd >= 0),
+    FOREIGN KEY (user_id) REFERENCES User(user_id)
+        ON UPDATE CASCADE ON DELETE CASCADE
+);
+
+-- FUNDS DEPOSIT table
 CREATE TABLE FundsDeposit (
     deposit_id INT PRIMARY KEY AUTO_INCREMENT,
-    user_id INT,
-    amount DECIMAL(10, 2),
-    time_initiated TIMESTAMP,
-    cleared BOOLEAN,
+    user_id VARCHAR(255) NOT NULL,
+    amount DECIMAL(10, 2) NOT NULL CHECK (amount > 0),
+    time_initiated TIMESTAMP NOT NULL,
+    cleared BOOLEAN DEFAULT FALSE NOT NULL,
     FOREIGN KEY (user_id) REFERENCES User(user_id)
+        ON UPDATE CASCADE ON DELETE CASCADE
 );
 
+-- FUNDS WITHDRAW table
 CREATE TABLE FundsWithdraw (
     withdraw_id INT PRIMARY KEY AUTO_INCREMENT,
-    user_id INT,
-    amount DECIMAL(10, 2),
-    time_initiated TIMESTAMP,
-    cleared BOOLEAN,
+    user_id VARCHAR(255) NOT NULL,
+    amount DECIMAL(10, 2) NOT NULL CHECK (amount > 0),
+    time_initiated TIMESTAMP NOT NULL,
+    cleared BOOLEAN DEFAULT FALSE NOT NULL,
     FOREIGN KEY (user_id) REFERENCES User(user_id)
+        ON UPDATE CASCADE ON DELETE CASCADE
 );
 
-
-# NEWS
+-- WATCHLIST table
 CREATE TABLE Watchlist (
-    user_id INT,
-    ticker_symbol VARCHAR(10),
-    PRIMARY KEY(user_id, ticker_symbol),
-    FOREIGN KEY (user_id) REFERENCES User(user_id),
+    user_id VARCHAR(255) NOT NULL,
+    ticker_symbol VARCHAR(10) NOT NULL,
+    PRIMARY KEY (user_id, ticker_symbol),
+    FOREIGN KEY (user_id) REFERENCES User(user_id)
+        ON UPDATE CASCADE ON DELETE CASCADE,
     FOREIGN KEY (ticker_symbol) REFERENCES Stock(ticker_symbol)
+        ON UPDATE CASCADE ON DELETE CASCADE
 );
 
-CREATE TABLE NewsSource (
-    news_post_id INT PRIMARY KEY AUTO_INCREMENT,
-    ticker_symbol VARCHAR(10),
-    content TEXT,
-    time_posted TIMESTAMP,
-    FOREIGN KEY (ticker_symbol) REFERENCES Stock(ticker_symbol)
-);
-
-
-# exactly 10 tables, lets go
-
-# TODO
-# Add NOT NULL where applicable
-# Add constrains
-# Add ON UPDATE ON DELETE
+-- AN: I think its better to handle newfeed by querying
+-- we still have 10 entities
+-- CREATE TABLE NewsSource (
+--     news_post_id INT PRIMARY KEY AUTO_INCREMENT,
+--     ticker_symbol VARCHAR(10),
+--     content TEXT,
+--     time_posted TIMESTAMP,
+--     FOREIGN KEY (ticker_symbol) REFERENCES Stock(ticker_symbol)
+-- );
