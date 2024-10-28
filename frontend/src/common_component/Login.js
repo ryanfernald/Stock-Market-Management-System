@@ -1,12 +1,14 @@
 import React, { useState } from 'react';
 import { auth } from '../firbaseconfig.js';
 import { signInWithEmailAndPassword, GoogleAuthProvider, signInWithPopup } from 'firebase/auth';
+import { useNavigate } from 'react-router-dom'; 
 
+import './styling/Login.css';
 function Login() {
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
+  const navigate = useNavigate(); // Navigation hook
 
-  // Email/Password login handler
   const handleLogin = async () => {
     try {
       await signInWithEmailAndPassword(auth, email, password);
@@ -17,7 +19,6 @@ function Login() {
     }
   };
 
-  // Google login handler
   const handleGoogleLogin = async () => {
     const provider = new GoogleAuthProvider();
     try {
@@ -30,30 +31,36 @@ function Login() {
     }
   };
 
-  return (
-    <div>
-      <h2>Login</h2>
-      {/* Email/Password login */}
-      <input
-        type="email"
-        placeholder="Email"
-        value={email}
-        onChange={(e) => setEmail(e.target.value)}
-      />
-      <input
-        type="password"
-        placeholder="Password"
-        value={password}
-        onChange={(e) => setPassword(e.target.value)}
-      />
-      <button onClick={handleLogin}>Login</button>
+  const handleSignUp = () => {
+    navigate('/signup'); // Navigate to the sign-up page
+  };
 
-      {/* Google login */}
-      <p>or</p>
-      <button onClick={handleGoogleLogin}>
-        <img src="https://img.icons8.com/color/16/000000/google-logo.png" alt="Google icon" />
-        Log in with Google
-      </button>
+  return (
+    <div className="login-container">
+      <div className="login-box">
+        <h2>Login</h2>
+        <input
+          type="email"
+          placeholder="Email"
+          value={email}
+          onChange={(e) => setEmail(e.target.value)}
+        />
+        <input
+          type="password"
+          placeholder="Password"
+          value={password}
+          onChange={(e) => setPassword(e.target.value)}
+        />
+        <button onClick={handleLogin}>Login</button>
+        <button onClick={handleGoogleLogin}>
+          <img src="https://img.icons8.com/color/16/000000/google-logo.png" alt="Google icon" />
+          Log in with Google
+        </button>
+        
+        {/* New Sign Up Section */}
+        <p className="signup-text">Don't have an account?</p>
+        <button className="signup-button" onClick={handleSignUp}>Sign Up</button>
+      </div>
     </div>
   );
 }
