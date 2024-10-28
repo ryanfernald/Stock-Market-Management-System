@@ -1,82 +1,48 @@
-/* SignUp.css */
-
-/* Container Styling */
-.Signup-container {
-  background-color: #f7f9fc;
-  min-height: 100vh;
+/* Keep the navbar at the top and center only the main content */
+.main-content {
   display: flex;
+  justify-content: center;
   align-items: center;
-  justify-content: center;
-  padding: 20px;
+  min-height: 80vh; /* Adjusted height for centering */
 }
 
-/* Signup form container */
-.signup-form-container {
-  background-color: white;
-  padding: 40px;
-  border-radius: 8px;
-  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
-}
-
-/* Form Label */
-.form-label {
-  font-weight: 600;
-  color: #34495e;
-  display: block;
-  margin-bottom: 10px;
-  font-size: 16px;
-}
-
-/* Input Fields */
-.form-control {
-  width: 90%;
-  border-radius: 4px;
-  border: 1px solid #d1d8e0;
-  font-size: 14px;
-  transition: border 0.3s ease;
-  padding: 12px 15px;
-  margin-bottom: 20px;
-}
-
-.form-control:focus {
-  border: 1px solid #3498db;
-  outline: none;
-  box-shadow: 0 0 5px rgba(52, 152, 219, 0.5);
-}
-
-/* Error Styling */
-.invalid-feedback {
-  color: #e74c3c;
-  font-size: 14px;
-  margin-top: -10px;
-}
-
-/* Required Asterisk */
-.required-asterisk {
-  color: #e74c3c;
-}
-
-/* Submit Button */
-.signup-btn {
-  background-color: #3498db;
-  color: white;
-  border: none;
-  padding: 15px;
-  font-size: 18px;
-  font-weight: bold;
+/* Style the signup box */
+.signup-box {
+  background-color: #fff;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  max-width: 400px;
   width: 100%;
-  border-radius: 4px;
-  cursor: pointer;
-  transition: background-color 0.3s ease;
+  text-align: center;
+  margin-top: 20px; /* Slight gap from the navbar */
 }
 
-.signup-btn:hover {
-  background-color: #2980b9;
-}
-
-/* Animation container */
-.animation-container {
-  display: flex;
-  justify-content: center;
+/* Adjust the animation size */
+.signup-animation {
+  width: 120px; /* Smaller animation size */
+  height: 120px;
   margin-bottom: 20px;
+}
+
+/* Form styling */
+.form-group {
+  margin-bottom: 15px;
+}
+
+.signup-button,
+.google-button {
+  width: 100%;
+  padding: 10px;
+  margin-top: 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.or-divider {
+  margin: 20px 0;
+}
+
+.login-link {
+  margin-top: 20px;
 }
