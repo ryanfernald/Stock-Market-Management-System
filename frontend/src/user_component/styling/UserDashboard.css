@@ -2,19 +2,28 @@ body {
    margin: 0;
    font-family: 'Roboto', sans-serif;
    background-color: #eef2f5;
+   margin: 0;
+   font-family: 'Roboto', sans-serif;
+   background-color: #eef2f5;
 }
 
 .dashboard {
-   padding: 70px;
+   padding: 80px;
    display: grid;
    grid-template-rows: auto 1fr;
    gap: 20px;
 }
 
+
 .dashboard-header {
    display: flex;
    justify-content: space-between;
+   justify-content: space-between;
    align-items: center;
+   background-color: #003349;
+   color: white;
+   padding: 10px 20px;
+   border-radius: 8px;
    background-color: #003349;
    color: white;
    padding: 10px 20px;
@@ -23,13 +32,18 @@ body {
 
 .account-selector {
    background: white;
-   color: #095f84;
+   color: #003349;
    border: none;
    border-radius: 5px;
    padding: 5px 10px;
    font-size: 1rem;
 }
 
+.dashboard-content {
+   display: grid;
+   grid-template-columns: 1fr 1fr;
+   gap: 20px;
+}
 .dashboard-content {
    display: grid;
    grid-template-columns: 1fr 1fr;
@@ -46,42 +60,57 @@ body {
    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
    transition: transform 0.2s ease;
 }
+.summary-card,
+.action-card,
+.transaction-card,
+.activity-card {
+   background: #fff;
+   border-radius: 8px;
+   padding: 20px;
+   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+   transition: transform 0.2s ease;
+}
 
 .summary-card h3,
 .action-card h3,
 .transaction-card h3,
 .activity-card h3 {
    margin: 0 0 10px 0;
-   color: #095f84;
+   color: #003349;
 }
 
 .summary-card p {
    font-size: 2rem;
-   color: #095f84;
+   color: #003349;
 }
 
 button {
-   background: #095f84;
+   background: #003349;
    color: #fff;
    border: none;
    padding: 10px 15px;
    border-radius: 5px;
    cursor: pointer;
    transition: background 0.3s ease;
+   transition: background 0.3s ease;
 }
 
 button:hover {
-   background: #005d73;
+   background: #a8b5be;
 }
 
 .action-buttons {
    display: flex;
-   gap: 10px;
+   gap: 15px;
 }
 
 .activity-card .activity-chart div {
    background: #d1f4ff;
    color: #555;
+   padding: 8px;
+   border-radius: 4px;
+   margin: 5px 0;
+   transition: background 0.3s ease;
    padding: 8px;
    border-radius: 4px;
    margin: 5px 0;
@@ -92,6 +121,7 @@ button:hover {
    background: #b3eeff;
    transform: scale(1.02);
 }
+
 
 @media (max-width: 768px) {
    .dashboard-content {

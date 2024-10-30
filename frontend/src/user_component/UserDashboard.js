@@ -4,6 +4,7 @@ import "./styling/UserDashboard.css";
 import React, { useState, useEffect } from "react";
 import UserPaymentOption from "./UserPaymentOption";
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from "recharts";
+import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from "recharts";
 
 const UserDashboard = () => {
    const [accountBalance, setAccountBalance] = useState(0);
@@ -40,16 +41,20 @@ const UserDashboard = () => {
          <UserNavbar />
          <div className="dashboard">
             <div className="dashboard-header">
-               <h3>Hello, Dear User</h3>
-               <select onChange={handleAccountTypeChange} value={selectedAccountType} className="account-selector">
-                  {accountTypes.map((type) => (
-                     <option key={type} value={type}>
-                        {type.charAt(0).toUpperCase() + type.slice(1)}
-                     </option>
-                  ))}
-               </select>
+               <h3>user_name Welcome Back!</h3>
+
             </div>
+
             <div className="dashboard-content">
+               <div className="action-card">
+                  <h3>Quick Actions</h3>
+                  <div className="action-buttons">
+                     <UserPaymentOption title="Buy" action={() => (window.location.href = "/userpayment")} />
+                     <UserPaymentOption title="Sell" />
+                     <UserPaymentOption title="Deposit" />
+                     <UserPaymentOption title="Withdraw" />
+                  </div>
+               </div>
                <div className="summary-card">
                   <h3>Balance Available</h3>
                   <p>{loading ? "Loading..." : `$${accountBalance}`}</p>
@@ -57,18 +62,10 @@ const UserDashboard = () => {
                      View Details
                   </button>
                </div>
-               <div className="action-card">
-                  <h3>Quick Actions</h3>
-                  <div className="action-buttons">
-                     <UserPaymentOption title="Pay" action={() => (window.location.href = "/userpayment")} />
-                     <UserPaymentOption title="Transfer" />
-                     <UserPaymentOption title="Deposit" />
-                     <UserPaymentOption title="Withdraw" />
-                  </div>
-               </div>
+
                <div className="activity-card">
-                  <h3>Monthly Activity</h3>
-                  <ResponsiveContainer width="100%" height={300}>
+                  <h3>Monthly Report</h3>
+                  <ResponsiveContainer width="95%" height={300}>
                      <LineChart data={activityData}>
                         <CartesianGrid strokeDasharray="3 3" />
                         <XAxis dataKey="month" />
@@ -83,6 +80,14 @@ const UserDashboard = () => {
                   <UserTransaction id="001" amount="100" />
                   <UserTransaction id="002" amount="-230" />
                   <button onClick={() => (window.location.href = "/usertransactions")}>Details</button>
+               </div>
+
+
+            </div>
+            <div>
+               <div className="activity-card">
+                  <h3>Watch List</h3>
+
                </div>
 
             </div>
