@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { auth } from '../firbaseconfig.js';
 import { signInWithEmailAndPassword, GoogleAuthProvider, signInWithPopup } from 'firebase/auth';
-import { useNavigate } from 'react-router-dom'; 
+import { useNavigate } from 'react-router-dom';
 
 import './styling/Login.css';
 function Login() {
@@ -56,7 +56,7 @@ function Login() {
           <img src="https://img.icons8.com/color/16/000000/google-logo.png" alt="Google icon" />
           Log in with Google
         </button>
-        
+
         {/* New Sign Up Section */}
         <p className="signup-text">Don't have an account?</p>
         <button className="signup-button" onClick={handleSignUp}>Sign Up</button>

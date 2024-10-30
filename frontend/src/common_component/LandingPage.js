@@ -114,9 +114,9 @@ const LandingPage = () => {
                     <ResponsiveContainer width="100%" height={600}>
                         <LineChart data={filteredData}>
                             <CartesianGrid strokeDasharray="3 3" />
-                            <XAxis 
-                                dataKey="date" 
-                                tickFormatter={formatTick} 
+                            <XAxis
+                                dataKey="date"
+                                tickFormatter={formatTick}
                             />
                             <YAxis domain={['dataMin', 'auto']} />
                             <Tooltip />

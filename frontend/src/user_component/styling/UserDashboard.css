@@ -1,248 +1,130 @@
-@import url("https://fonts.google.com/share?selection.family=Hammersmith+One");
-
 body {
-   margin: 0px;
+   margin: 0;
+   font-family: 'Roboto', sans-serif;
+   background-color: #eef2f5;
+   margin: 0;
+   font-family: 'Roboto', sans-serif;
+   background-color: #eef2f5;
 }
 
-.title {
-   color: #555;
-   margin: 0px;
-   padding: 12px;
+.dashboard {
+   padding: 80px;
+   display: grid;
+   grid-template-rows: auto 1fr;
+   gap: 20px;
 }
 
-.title-bright {
-   color: #ffffff;
-   margin: 0px;
-   padding: 12px;
-}
 
-.text {
-   color: #555;
-   margin: 0px;
-}
-
-.text-bright {
-   color: #ffffff;
-   margin: 0px;
-}
-
-.userdashboard-container {
-   font-family: "Hammersmith One";
-   min-height: calc(100vh - 20px - 60px);
-   width: calc(100vw - 20px);
-   background-color: #f7f9fc;
-   padding: 10px;
-}
-
-.welcome-container {
-   height: 30px;
-   background: linear-gradient(45deg, #003349 0%, #002e42 100%);
-   box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
-   border-radius: 10px;
-   padding: 10px;
+.dashboard-header {
    display: flex;
+   justify-content: space-between;
+   justify-content: space-between;
    align-items: center;
-   margin-bottom: 10px;
+   background-color: #003349;
+   color: white;
+   padding: 10px 20px;
+   border-radius: 8px;
+   background-color: #003349;
+   color: white;
+   padding: 10px 20px;
+   border-radius: 8px;
 }
 
 .account-selector {
-   font-family: "Hammersmith One";
-   font-size: 14px;
-   color: #ffffff;
-   background-color: #003349;
-   border: 2px solid #1e508d;
-   border-radius: 10px;
-   padding: 2px 8px 2px 8px;
-   margin-left: auto;
-   margin-right: 12px;
-   transition: 0.3s;
+   background: white;
+   color: #003349;
+   border: none;
+   border-radius: 5px;
+   padding: 5px 10px;
+   font-size: 1rem;
 }
 
-.account-selector:hover {
-   color: #555;
-   background: linear-gradient(45deg, #d1f4ff 0%, #e8faff 100%);
-   border: 2px solid #d1f4ff;
+.dashboard-content {
+   display: grid;
+   grid-template-columns: 1fr 1fr;
+   gap: 20px;
+}
+.dashboard-content {
+   display: grid;
+   grid-template-columns: 1fr 1fr;
+   gap: 20px;
+}
+
+.summary-card,
+.action-card,
+.transaction-card,
+.activity-card {
+   background: #fff;
+   border-radius: 8px;
+   padding: 20px;
+   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+   transition: transform 0.2s ease;
+}
+.summary-card,
+.action-card,
+.transaction-card,
+.activity-card {
+   background: #fff;
+   border-radius: 8px;
+   padding: 20px;
+   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+   transition: transform 0.2s ease;
+}
+
+.summary-card h3,
+.action-card h3,
+.transaction-card h3,
+.activity-card h3 {
+   margin: 0 0 10px 0;
+   color: #003349;
+}
+
+.summary-card p {
+   font-size: 2rem;
+   color: #003349;
+}
+
+button {
+   background: #003349;
+   color: #fff;
+   border: none;
+   padding: 10px 15px;
+   border-radius: 5px;
    cursor: pointer;
+   transition: background 0.3s ease;
+   transition: background 0.3s ease;
 }
 
-.details-container {
-   min-height: calc(100vh - 20px - 60px - 60px);
-   width: 100%;
+button:hover {
+   background: #a8b5be;
+}
+
+.action-buttons {
    display: flex;
+   gap: 15px;
 }
 
-.details-left-container {
-   height: calc(100vh - 20px - 60px - 60px - 20px);
-   width: 100%;
-   margin-right: 30px;
-}
-
-.details-right-container {
-   height: calc(100vh - 20px - 60px - 60px - 20px);
-   width: 320px;
-}
-
-.account-balance-container {
-   height: 200px;
-   width: 100%;
-   background: linear-gradient(45deg, #1e508d 0%, #b2edff 100%);
-   box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
-   border-radius: 10px;
-   padding: 10px;
-   margin-bottom: 10px;
-}
-
-.account-balance-details-container {
-   height: calc(100% - 48px);
-   width: 100%;
-   display: flex;
-}
-
-.account-balance-title {
-   font-size: 100px;
-   color: #ffffff;
-   margin: 0px;
-   padding: 12px;
-}
-
-.account-balance-statement-button {
-   font-family: "Hammersmith One";
-   font-size: 14px;
+.activity-card .activity-chart div {
+   background: #d1f4ff;
    color: #555;
-   width: 250px;
-   background: linear-gradient(45deg, #ffffff 0%, #ffffff 90%, #f7f9fc 100%);
-   border: 2px solid #ffffff;
-   border-radius: 10px;
-   text-align: center;
    padding: 8px;
-   margin: auto 0px 0px auto;
-   transition: 0.3s;
+   border-radius: 4px;
+   margin: 5px 0;
+   transition: background 0.3s ease;
+   padding: 8px;
+   border-radius: 4px;
+   margin: 5px 0;
+   transition: background 0.3s ease;
 }
 
-.account-balance-statement-button:hover {
-   color: #555;
-   background: linear-gradient(45deg, #d1f4ff 0%, #e8faff 100%);
-   border: 2px solid #d1f4ff;
-   cursor: pointer;
+.activity-card .activity-chart div:hover {
+   background: #b3eeff;
+   transform: scale(1.02);
 }
 
-.account-details-container {
-   height: calc(100% - 230px);
-   width: 100%;
-   background: linear-gradient(45deg, #ffffff 0%, #ffffff 90%, #f7f9fc 100%);
-   box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
-   border-radius: 10px;
-   padding: 10px;
-}
 
-.account-details-text {
-   color: #555;
-   margin: 0px;
-   padding: 0px 12px 0px 12px;
-}
-
-.account-details-details-container {
-   height: calc(100% - 48px);
-   display: flex;
-}
-
-.account-details-left-container {
-   height: 100%;
-   width: 100%;
-}
-
-.account-holder-details-container {
-   height: calc(100% - 214px);
-   background-color: #f9fbfc;
-   border: 2px solid #ebeff0;
-   border-radius: 10px;
-   margin-bottom: 10px;
-   margin-right: 10px;
-}
-
-.account-payment-details-container {
-   height: 200px;
-   background-color: #f9fbfc;
-   border: 2px solid #ebeff0;
-   border-radius: 10px;
-   margin-right: 10px;
-}
-
-.payments-container {
-   height: calc(100% - 58px);
-   display: flex;
-   padding: 0px 10px 0px 10px;
-}
-
-.payments-container div:not(:last-child) {
-   margin-right: 10px;
-}
-
-.account-details-right-container {
-   height: 100%;
-   width: 130px;
-   background-color: #f9fbfc;
-   border: 2px solid #ebeff0;
-   border-radius: 10px;
-}
-
-.monthly-report-chart {
-   height: calc(100% - 82px);
-   border-radius: 10px;
-   margin: 0px 10px;
-   transition: 0.3s;
-}
-
-.monthly-report-chart:hover {
-   transform: scale(1.03);
-   box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
-}
-
-.monthly-report-chart div {
-   color: #555;
-   display: flex;
-   justify-content: center;
-   align-items: center;
-}
-
-.monthly-report-chart div:first-child {
-   border-radius: 10px 10px 0px 0px;
-}
-
-.monthly-report-chart div:not(:first-child):not(:last-child) {
-   border-radius: 0px;
-}
-
-.monthly-report-chart div:last-child {
-   border-radius: 0px 0px 10px 10px;
-}
-
-.recent-transactions-container {
-   min-height: 100%;
-   width: 300px;
-   background: linear-gradient(45deg, #ffffff 0%, #ffffff 90%, #f7f9fc 100%);
-   box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
-   border-radius: 10px;
-   padding: 10px;
-}
-
-.view-all-button {
-   font-family: "Hammersmith One";
-   font-size: 14px;
-   color: #ffffff;
-   width: calc(100% - 24px);
-   background: linear-gradient(45deg, #003349 0%, #002e42 100%);
-   border: 2px solid #018fcc;
-   border-radius: 10px;
-   text-align: center;
-   padding: 4px;
-   margin: 0px 12px 0px 12px;
-   transition: 0.3s;
-}
-
-.view-all-button:hover {
-   color: #555;
-   background: linear-gradient(45deg, #d1f4ff 0%, #e8faff 100%);
-   border: 2px solid #d1f4ff;
-   cursor: pointer;
+@media (max-width: 768px) {
+   .dashboard-content {
+      grid-template-columns: 1fr;
+   }
 }

@@ -19,11 +19,15 @@ const UserNavbar = () => {
             <Link to="/dashboard">Dashboard</Link>
          </div>
          <div className="user-navbar-option">
-            <Link to="/help">Help</Link>
+            <Link to="/news-loged-in">News</Link>
          </div>
          <div className="user-navbar-option">
             <Link to="/settings">Settings</Link>
          </div>
+         <div className="user-navbar-option">
+            <Link to="/help">Help</Link>
+         </div>
+
          <div className="user-navbar-option">
             <Link to="/">Logout</Link>
          </div>
