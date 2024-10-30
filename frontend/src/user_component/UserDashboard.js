@@ -4,7 +4,7 @@ import "./styling/UserDashboard.css";
 import React, { useState, useEffect } from "react";
 import UserPaymentOption from "./UserPaymentOption";
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from "recharts";
-import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from "recharts";
+
 
 const UserDashboard = () => {
    const [accountBalance, setAccountBalance] = useState(0);
