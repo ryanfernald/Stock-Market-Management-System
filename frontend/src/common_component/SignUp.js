@@ -74,7 +74,7 @@ const SignUp = () => {
       };
 
       // Fetch call to the backend API
-      const response = await fetch(process.env.REACT_APP_SQL_USR, requestOptions);
+      const response = await fetch(process.env.REACT_APP_API_BASE_URL+"/api/insertUser", requestOptions);
 
       if (!response.ok) {
         const data = await response.json();
