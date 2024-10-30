@@ -237,7 +237,7 @@ const SignUp = () => {
       await insertUserIntoDatabase(user.uid, email, role);
 
       // Navigate to the user dashboard on success
-      navigate('/userdashboard');
+      navigate('/dashboard');
     } catch (error) {
       setError(error.message);
     }
@@ -254,7 +254,7 @@ const SignUp = () => {
       await insertUserIntoDatabase(user.uid, user.email, 'EndUser');  // default role for Google users
 
       // Navigate to the user dashboard on success
-      navigate('/userdashboard');
+      navigate('/dashboard');
     } catch (error) {
       setError(error.message);
     }

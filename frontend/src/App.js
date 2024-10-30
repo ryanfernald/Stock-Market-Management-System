@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 
 import React from 'react';
@@ -11,6 +11,7 @@ import AboutUs from './common_component/AboutUs';
 import Contact from './common_component/Contact';
 import News from './common_component/News';
 import Dahsbaord from './user_component/UserDashboard';
+import NewsLogedIn from './user_component/NewsLogedIn';
 
 function App() {
   return (
@@ -28,6 +29,7 @@ function App() {
 
           {/* Need to be secured with login function*/}
           <Route path='/dashboard' element={<Dahsbaord />} />
+          <Route path='/news-loged-in' element={<NewsLogedIn />} />
         </Routes>
       </Router>
     </div>
