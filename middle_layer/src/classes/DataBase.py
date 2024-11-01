@@ -226,3 +226,8 @@ class DataBase:
         self.connection.commit()
 
 
+######### FUNCTIONS FOR FRONT END WISH LIST #########
+
+'''When a user owns a stock, '''
+
+######################################################
