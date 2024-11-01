@@ -23,11 +23,11 @@ CREATE TABLE Stock (
 CREATE TABLE StockPrice (
     ticker_symbol VARCHAR(10),
     price DECIMAL(10, 2) NOT NULL CHECK (price >= 0),
-    time_posted TIMESTAMP NOT NULL,
+    time_posted TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
     PRIMARY KEY (ticker_symbol, time_posted),
     FOREIGN KEY (ticker_symbol) REFERENCES Stock(ticker_symbol)
-        ON UPDATE CASCADE ON DELETE CASCADE
-);
+        ON UPDATE CASCADE ON DELETE CASCADE);
+
 
 -- MARKET ORDER table
 CREATE TABLE MarketOrder (
@@ -89,7 +89,7 @@ CREATE TABLE Watchlist (
 CREATE TABLE SupportedStocks (
     ticker_symbol VARCHAR(10) PRIMARY KEY
 );
--- 11 entities up to this point
+-- 10 entities up to this point
 
 
 
