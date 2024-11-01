@@ -26,7 +26,8 @@ CREATE TABLE StockPrice (
     time_posted TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
     PRIMARY KEY (ticker_symbol, time_posted),
     FOREIGN KEY (ticker_symbol) REFERENCES Stock(ticker_symbol)
-        ON UPDATE CASCADE ON DELETE CASCADE);
+        ON UPDATE CASCADE ON DELETE CASCADE
+);
 
 
 -- MARKET ORDER table
