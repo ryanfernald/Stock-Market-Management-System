@@ -1,4 +1,7 @@
 import mysql.connector
+from mysql.connector import Error
+import json
+from datetime import datetime
 
 class DataBase:
     def __init__(self, host, user, password, database):
@@ -10,6 +13,8 @@ class DataBase:
         )
         self.cursor = self.connection.cursor()
 
+# Transaction History (tested)
+    # tested, json
     def get_user_transaction_history(self, user_id):
         transaction_query = """
             SELECT order_id, ticker_symbol, order_type, quantity, price_purchased, purchase_date
@@ -27,13 +32,15 @@ class DataBase:
                 "ticker_symbol": row[1],
                 "order_type": row[2],
                 "quantity": row[3],
-                "price_purchased": row[4],
-                "purchase_date": row[5]
+                "price_purchased": float(row[4]),
+                "purchase_date": row[5].strftime("%Y-%m-%dT%H:%M:%SZ")
             }
             for row in transactions
         ]
-        return transaction_history
+        return json.dumps(transaction_history)
 
+# Portfolio (tested)
+    # tested, json
     def get_user_portfolio(self, user_id):
         portfolio_query = """
             SELECT ticker_symbol, order_type, quantity, price_purchased
@@ -47,33 +54,201 @@ class DataBase:
         portfolio = {}
         for ticker_symbol, order_type, quantity, price_purchased in transactions:
             if ticker_symbol not in portfolio:
-                portfolio[ticker_symbol] = {"quantity": 0, "total_value": 0}
+                portfolio[ticker_symbol] = {"quantity_available": 0, "total_purchased": 0, "total_sold": 0}
 
             if order_type == 'BUY':
-                portfolio[ticker_symbol]["quantity"] += quantity
-                portfolio[ticker_symbol]["total_value"] += price_purchased * quantity
+                portfolio[ticker_symbol]["quantity_available"] += quantity
+                portfolio[ticker_symbol]["total_purchased"] += price_purchased * quantity
             elif order_type == 'SELL':
-                portfolio[ticker_symbol]["quantity"] -= quantity
-                portfolio[ticker_symbol]["total_value"] -= price_purchased * quantity
+                portfolio[ticker_symbol]["quantity_available"] -= quantity
+                portfolio[ticker_symbol]["total_sold"] += price_purchased * quantity
 
-        assets = sorted(
-            [
-                {
-                    "ticker_symbol": ticker,
-                    "quantity": data["quantity"],
-                    "total_value": float(data["total_value"])
-                }
-                for ticker, data in portfolio.items() if data["quantity"] > 0
-            ],
-            key=lambda x: x["ticker_symbol"]
-        )
-        return assets
+        assets = []
+        for ticker, data in portfolio.items():
+            if data["quantity_available"] > 0:
+                most_recent_price_data = self.get_most_recent_stock_price(ticker)
+                if most_recent_price_data:
+                    # Parse the JSON string to a dictionary
+                    most_recent_price_data = json.loads(most_recent_price_data)
+                    current_price = most_recent_price_data["price"]
+                    total_current_value = current_price * data["quantity_available"]
+                    current_profit = (float(data["total_sold"]) + float(total_current_value)) - float(data["total_purchased"])
+                    current_profit_percent = f"{(((float(data['total_sold']) + float(total_current_value)) / float(data['total_purchased']) - 1) * 100):.2f}"
+                    assets.append({
+                        "ticker_symbol": ticker,
+                        "quantity": data["quantity_available"],
+                        "total_current_value": float(total_current_value),
+                        "total_purchased": float(data["total_purchased"]),
+                        "total_sold": float(data["total_sold"]),
+                        "current_profit": current_profit,
+                        "current_profit_percent": current_profit_percent,
+                        "current_price": float(current_price)
+                    })
+        if assets:
+            return json.dumps(sorted(assets, key=lambda x: x["ticker_symbol"]))
+        else:
+            return json.dumps(None)
 
+    # tested, number
     def get_user_portfolio_value(self, user_id):
-        assets = self.get_user_portfolio(user_id)
-        total_portfolio_value = sum(asset["total_value"] for asset in assets)
-        return total_portfolio_value
+        assets_json = self.get_user_portfolio(user_id)
+        assets = json.loads(assets_json)
+        if assets:
+            total_portfolio_value = sum(asset["total_current_value"] for asset in assets)
+            return total_portfolio_value
+        return 0
 
+# Stock Manipulation (tested)
+    # tested
+    def buy_stock(self, user_id, ticker, quantity):
+        user_balance = json.loads(self.get_user_balance(user_id))["net_balance"]
+        price_query = """
+            SELECT price
+            FROM StockPrice
+            WHERE ticker_symbol = %s
+            ORDER BY time_posted DESC
+            LIMIT 1
+        """
+        self.cursor.execute(price_query, (ticker,))
+        stock_price = self.cursor.fetchone()[0]
+        total_cost = stock_price * quantity
+
+        if user_balance < total_cost:
+            raise ValueError("Insufficient balance to complete this purchase.")
+
+        update_balance_query = """
+            UPDATE UserBalance
+            SET balance_usd = balance_usd - %s
+            WHERE user_id = %s
+        """
+        self.cursor.execute(update_balance_query, (total_cost, user_id))
+
+        insert_order_query = """
+            INSERT INTO MarketOrder (user_id, ticker_symbol, price_purchased, quantity, purchase_date, order_type)
+            VALUES (%s, %s, %s, %s, NOW(), 'BUY')
+        """
+        self.cursor.execute(insert_order_query, (user_id, ticker, stock_price, quantity))
+
+        self.connection.commit()
+
+    # tested
+    def sell_stock(self, user_id, ticker, quantity):
+        portfolio = json.loads(self.get_user_portfolio(user_id))
+        portfolio_entry = next((entry for entry in portfolio if entry['ticker_symbol'] == ticker), None)
+
+        if not portfolio_entry or portfolio_entry['quantity'] < quantity:
+            raise ValueError("Insufficient shares to complete this sale.")
+
+        price_query = """
+            SELECT price
+            FROM StockPrice
+            WHERE ticker_symbol = %s
+            ORDER BY time_posted DESC
+            LIMIT 1
+        """
+        self.cursor.execute(price_query, (ticker,))
+        stock_price = self.cursor.fetchone()[0]
+        total_sale_amount = stock_price * quantity
+
+        update_balance_query = """
+            UPDATE UserBalance
+            SET balance_usd = balance_usd + %s
+            WHERE user_id = %s
+        """
+        self.cursor.execute(update_balance_query, (total_sale_amount, user_id))
+
+        insert_order_query = """
+            INSERT INTO MarketOrder (user_id, ticker_symbol, price_purchased, quantity, purchase_date, order_type)
+            VALUES (%s, %s, %s, %s, NOW(), 'SELL')
+        """
+        self.cursor.execute(insert_order_query, (user_id, ticker, stock_price, quantity))
+
+        self.connection.commit()
+
+# Stock Price (tested)
+    # tested
+    def add_stock_price(self, ticker_symbol, price):
+        query = """
+               INSERT INTO StockPrice (ticker_symbol, price)
+               VALUES (%s, %s)
+                       """
+        self.cursor.execute(query, (ticker_symbol, price))
+        self.connection.commit()
+
+    # tested, json
+    def get_most_recent_stock_price(self, ticker):
+        query = """
+            SELECT price, time_posted
+            FROM StockPrice
+            WHERE ticker_symbol = %s
+            ORDER BY time_posted DESC
+            LIMIT 1
+        """
+        self.cursor.execute(query, (ticker,))
+        result = self.cursor.fetchone()
+        if result:
+            price, time_posted = result
+            response = {
+                "price": float(price),
+                "time_posted": time_posted.strftime("%Y-%m-%dT%H:%M:%SZ")
+            }
+            return json.dumps(response)
+        else:
+            return json.dumps(None)
+
+# User Balance (tested)
+    # tested
+    def add_funds(self, user_id, amount):
+        if amount <= 0:
+            raise ValueError("Amount must be greater than zero.")
+
+        # Insert a new entry into the FundsDeposit table
+        insert_deposit_query = """
+            INSERT INTO FundsDeposit (user_id, amount, time_initiated, cleared)
+            VALUES (%s, %s, NOW(), TRUE)
+        """
+        self.cursor.execute(insert_deposit_query, (user_id, amount))
+
+        # Update the UserBalance table to add the amount
+        update_balance_query = """
+            UPDATE UserBalance
+            SET balance_usd = balance_usd + %s
+            WHERE user_id = %s
+        """
+        self.cursor.execute(update_balance_query, (amount, user_id))
+
+        # Commit the transaction to save changes
+        self.connection.commit()
+
+    # tested
+    def withdraw_funds(self, user_id, amount):
+        if amount <= 0:
+            raise ValueError("Amount must be greater than zero.")
+
+        # Check if the user has enough balance to withdraw
+        user_balance = json.loads(self.get_user_balance(user_id))["net_balance"]
+        if user_balance < amount:
+            raise ValueError("Insufficient balance to complete this withdrawal.")
+
+        # Insert a new entry into the FundsWithdraw table
+        insert_withdraw_query = """
+            INSERT INTO FundsWithdraw (user_id, amount, time_initiated, cleared)
+            VALUES (%s, %s, NOW(), TRUE)
+        """
+        self.cursor.execute(insert_withdraw_query, (user_id, amount))
+
+        # Update the UserBalance table to subtract the amount
+        update_balance_query = """
+            UPDATE UserBalance
+            SET balance_usd = balance_usd - %s
+            WHERE user_id = %s
+        """
+        self.cursor.execute(update_balance_query, (amount, user_id))
+
+        # Commit the transaction to save changes
+        self.connection.commit()
+
+    # tested, json
     def get_user_balance(self, user_id):
         deposit_query = """
             SELECT COALESCE(SUM(amount), 0) 
@@ -107,124 +282,50 @@ class DataBase:
         net_market_orders = self.cursor.fetchone()[0]
         net_balance = total_deposit - total_withdraw + net_market_orders
 
-        return net_balance
+        balance_data = {
+            "total_deposit": float(total_deposit),
+            "total_withdraw": float(total_withdraw),
+            "net_market_orders": float(net_market_orders),
+            "net_balance": float(net_balance)
+        }
 
-    # works
-    def buy_stock(self, user_id, ticker, quantity):
-        user_balance = self.get_user_balance(user_id)
-        price_query = """
-            SELECT price
-            FROM StockPrice
-            WHERE ticker_symbol = %s
-            ORDER BY time_posted DESC
-            LIMIT 1
-        """
-        self.cursor.execute(price_query, (ticker,))
-        stock_price = self.cursor.fetchone()[0]
-        total_cost = stock_price * quantity
+        return json.dumps(balance_data)
 
-        if user_balance < total_cost:
-            raise ValueError("Insufficient balance to complete this purchase.")
-
-        update_balance_query = """
-            UPDATE UserBalance
-            SET balance_usd = balance_usd - %s
-            WHERE user_id = %s
-        """
-        self.cursor.execute(update_balance_query, (total_cost, user_id))
-
-        insert_order_query = """
-            INSERT INTO MarketOrder (user_id, ticker_symbol, price_purchased, quantity, purchase_date, order_type)
-            VALUES (%s, %s, %s, %s, NOW(), 'BUY')
-        """
-        self.cursor.execute(insert_order_query, (user_id, ticker, stock_price, quantity))
-
-        self.connection.commit()
-
-    def sell_stock(self, user_id, ticker, quantity):
-        portfolio = self.get_user_portfolio(user_id)
-        portfolio_entry = next((entry for entry in portfolio if entry['ticker_symbol'] == ticker), None)
-
-        if not portfolio_entry or portfolio_entry['quantity'] < quantity:
-            raise ValueError("Insufficient shares to complete this sale.")
-
-        price_query = """
-            SELECT price
-            FROM StockPrice
-            WHERE ticker_symbol = %s
-            ORDER BY time_posted DESC
-            LIMIT 1
-        """
-        self.cursor.execute(price_query, (ticker,))
-        stock_price = self.cursor.fetchone()[0]
-        total_sale_amount = stock_price * quantity
-
-        update_balance_query = """
-            UPDATE UserBalance
-            SET balance_usd = balance_usd + %s
-            WHERE user_id = %s
-        """
-        self.cursor.execute(update_balance_query, (total_sale_amount, user_id))
-
-        insert_order_query = """
-            INSERT INTO MarketOrder (user_id, ticker_symbol, price_purchased, quantity, purchase_date, order_type)
-            VALUES (%s, %s, %s, %s, NOW(), 'SELL')
-        """
-        self.cursor.execute(insert_order_query, (user_id, ticker, stock_price, quantity))
-
-        self.connection.commit()
-
+# User Manipulation (tested)
     # tested
-    def add_funds(self, user_id, amount):
-        if amount <= 0:
-            raise ValueError("Amount must be greater than zero.")
-
-        # Insert a new entry into the FundsDeposit table
-        insert_deposit_query = """
-            INSERT INTO FundsDeposit (user_id, amount, time_initiated, cleared)
-            VALUES (%s, %s, NOW(), TRUE)
-        """
-        self.cursor.execute(insert_deposit_query, (user_id, amount))
-
-        # Update the UserBalance table to add the amount
-        update_balance_query = """
-            UPDATE UserBalance
-            SET balance_usd = balance_usd + %s
-            WHERE user_id = %s
-        """
-        self.cursor.execute(update_balance_query, (amount, user_id))
-
-        # Commit the transaction to save changes
+    def add_user(self, user_id, first_name, last_name, email):
+        query = """
+                INSERT INTO User (user_id, first_name, last_name, email)
+                VALUES (%s, %s, %s, %s)
+            """
+        self.cursor.execute(query, (user_id, first_name, last_name, email))
         self.connection.commit()
 
-    # tested
-    def withdraw_funds(self, user_id, amount):
-        if amount <= 0:
-            raise ValueError("Amount must be greater than zero.")
-
-        # Check if the user has enough balance to withdraw
-        user_balance = self.get_user_balance(user_id)
-        if user_balance < amount:
-            raise ValueError("Insufficient balance to complete this withdrawal.")
-
-        # Insert a new entry into the FundsWithdraw table
-        insert_withdraw_query = """
-            INSERT INTO FundsWithdraw (user_id, amount, time_initiated, cleared)
-            VALUES (%s, %s, NOW(), TRUE)
-        """
-        self.cursor.execute(insert_withdraw_query, (user_id, amount))
-
-        # Update the UserBalance table to subtract the amount
-        update_balance_query = """
-            UPDATE UserBalance
-            SET balance_usd = balance_usd - %s
+    # tested, json
+    def get_user_data(self, user_id):
+        query = """
+            SELECT user_id, first_name, last_name, email
+            FROM User
             WHERE user_id = %s
         """
-        self.cursor.execute(update_balance_query, (amount, user_id))
+        self.cursor.execute(query, (user_id,))
+        result = self.cursor.fetchone()
+        if result:
+            user_id, first_name, last_name, email = result
+            response = {
+                "user_id": user_id,
+                "first_name": first_name,
+                "last_name": last_name,
+                "email": email
+            }
+            return json.dumps(response)
+        else:
+            return json.dumps(None)
 
-        # Commit the transaction to save changes
-        self.connection.commit()
 
+# TODO
+# x make sure all are json
+# x make sure no error handling happens, errors passed to front
 
 ######### FUNCTIONS FOR FRONT END WISH LIST #########
 
