@@ -48,7 +48,7 @@ def test_buying_stock(user_id, ticker, quantity):
         print(e)
 
 # test_point
-test_buying_stock('user1', "AAPL", 10)
+# test_buying_stock('user1', "AAPL", 10)
 
 # works
 def test_selling_stock(user_id, ticker, quantity):
@@ -117,3 +117,5 @@ def test_insert_user(user_id, first_name, last_name, email):
 
 # test_insert_user('user4', 'maxim', 'dokukin', 'mda@sjsu')
 
+
+# print(db.get_list_of_supported_stocks())

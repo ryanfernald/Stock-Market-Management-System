@@ -165,6 +165,17 @@ class DataBase:
 
         self.connection.commit()
 
+    # Retrieves a list of all supported stock ticker symbols from the Stock table.
+    # Returns a JSON string containing a list of ticker symbols.
+    def get_list_of_supported_stocks(self):
+        query = """
+            SELECT ticker_symbol
+            FROM Stock
+        """
+        self.cursor.execute(query)
+        stocks = [row[0] for row in self.cursor.fetchall()]  # Extract ticker symbols into a list
+        return json.dumps(stocks)
+
 # Stock Price (tested)
     # Adds a new stock price to the StockPrice table.
     # Returns None but inserts price information for a stock ticker.
@@ -285,7 +296,7 @@ class DataBase:
         }
         return json.dumps(balance_data)
 
-    # User Manipulation (tested)
+# User Manipulation (tested)
     # Adds a new user to the User table.
     # Returns None but inserts user data into the database.
     def add_user(self, user_id, first_name, last_name, email):
