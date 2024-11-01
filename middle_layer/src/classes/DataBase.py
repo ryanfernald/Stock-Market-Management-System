@@ -1,7 +1,5 @@
 import mysql.connector
-from mysql.connector import Error
 import json
-from datetime import datetime
 
 class DataBase:
     def __init__(self, host, user, password, database):
@@ -14,7 +12,8 @@ class DataBase:
         self.cursor = self.connection.cursor()
 
 # Transaction History (tested)
-    # tested, json
+    # Retrieves transaction history for a user in JSON format.
+    # Returns JSON string of a list of transactions with each transaction's details.
     def get_user_transaction_history(self, user_id):
         transaction_query = """
             SELECT order_id, ticker_symbol, order_type, quantity, price_purchased, purchase_date
@@ -22,7 +21,6 @@ class DataBase:
             WHERE user_id = %s
             ORDER BY purchase_date ASC
         """
-
         self.cursor.execute(transaction_query, (user_id,))
         transactions = self.cursor.fetchall()
 
@@ -40,14 +38,14 @@ class DataBase:
         return json.dumps(transaction_history)
 
 # Portfolio (tested)
-    # tested, json
+    # Retrieves user's stock portfolio, including quantities, value, and profit.
+    # Returns JSON string of a list of assets with financial details.
     def get_user_portfolio(self, user_id):
         portfolio_query = """
             SELECT ticker_symbol, order_type, quantity, price_purchased
             FROM MarketOrder
             WHERE user_id = %s
         """
-
         self.cursor.execute(portfolio_query, (user_id,))
         transactions = self.cursor.fetchall()
 
@@ -68,7 +66,6 @@ class DataBase:
             if data["quantity_available"] > 0:
                 most_recent_price_data = self.get_most_recent_stock_price(ticker)
                 if most_recent_price_data:
-                    # Parse the JSON string to a dictionary
                     most_recent_price_data = json.loads(most_recent_price_data)
                     current_price = most_recent_price_data["price"]
                     total_current_value = current_price * data["quantity_available"]
@@ -89,7 +86,8 @@ class DataBase:
         else:
             return json.dumps(None)
 
-    # tested, number
+    # Calculates the total current value of the user's portfolio.
+    # Returns a float representing the total value.
     def get_user_portfolio_value(self, user_id):
         assets_json = self.get_user_portfolio(user_id)
         assets = json.loads(assets_json)
@@ -99,7 +97,8 @@ class DataBase:
         return 0
 
 # Stock Manipulation (tested)
-    # tested
+    # Buys a specified quantity of stock for a user if funds are sufficient.
+    # Returns None, but updates user's balance and adds a new buy order in the database.
     def buy_stock(self, user_id, ticker, quantity):
         user_balance = json.loads(self.get_user_balance(user_id))["net_balance"]
         price_query = """
@@ -131,7 +130,8 @@ class DataBase:
 
         self.connection.commit()
 
-    # tested
+    # Sells a specified quantity of stock for a user if holdings are sufficient.
+    # Returns None, but updates user's balance and adds a new sell order in the database.
     def sell_stock(self, user_id, ticker, quantity):
         portfolio = json.loads(self.get_user_portfolio(user_id))
         portfolio_entry = next((entry for entry in portfolio if entry['ticker_symbol'] == ticker), None)
@@ -166,7 +166,8 @@ class DataBase:
         self.connection.commit()
 
 # Stock Price (tested)
-    # tested
+    # Adds a new stock price to the StockPrice table.
+    # Returns None but inserts price information for a stock ticker.
     def add_stock_price(self, ticker_symbol, price):
         query = """
                INSERT INTO StockPrice (ticker_symbol, price)
@@ -175,7 +176,8 @@ class DataBase:
         self.cursor.execute(query, (ticker_symbol, price))
         self.connection.commit()
 
-    # tested, json
+    # Retrieves the most recent stock price for a ticker in JSON format.
+    # Returns JSON string with price and time of last update.
     def get_most_recent_stock_price(self, ticker):
         query = """
             SELECT price, time_posted
@@ -197,19 +199,18 @@ class DataBase:
             return json.dumps(None)
 
 # User Balance (tested)
-    # tested
+    # Adds funds to the user's account balance and logs the deposit.
+    # Returns None, but updates user's balance and records deposit in the database.
     def add_funds(self, user_id, amount):
         if amount <= 0:
             raise ValueError("Amount must be greater than zero.")
 
-        # Insert a new entry into the FundsDeposit table
         insert_deposit_query = """
             INSERT INTO FundsDeposit (user_id, amount, time_initiated, cleared)
             VALUES (%s, %s, NOW(), TRUE)
         """
         self.cursor.execute(insert_deposit_query, (user_id, amount))
 
-        # Update the UserBalance table to add the amount
         update_balance_query = """
             UPDATE UserBalance
             SET balance_usd = balance_usd + %s
@@ -217,27 +218,24 @@ class DataBase:
         """
         self.cursor.execute(update_balance_query, (amount, user_id))
 
-        # Commit the transaction to save changes
         self.connection.commit()
 
-    # tested
+    # Withdraws funds from user's account if balance is sufficient.
+    # Returns None, but updates user's balance and logs withdrawal in the database.
     def withdraw_funds(self, user_id, amount):
         if amount <= 0:
             raise ValueError("Amount must be greater than zero.")
 
-        # Check if the user has enough balance to withdraw
         user_balance = json.loads(self.get_user_balance(user_id))["net_balance"]
         if user_balance < amount:
             raise ValueError("Insufficient balance to complete this withdrawal.")
 
-        # Insert a new entry into the FundsWithdraw table
         insert_withdraw_query = """
             INSERT INTO FundsWithdraw (user_id, amount, time_initiated, cleared)
             VALUES (%s, %s, NOW(), TRUE)
         """
         self.cursor.execute(insert_withdraw_query, (user_id, amount))
 
-        # Update the UserBalance table to subtract the amount
         update_balance_query = """
             UPDATE UserBalance
             SET balance_usd = balance_usd - %s
@@ -245,23 +243,21 @@ class DataBase:
         """
         self.cursor.execute(update_balance_query, (amount, user_id))
 
-        # Commit the transaction to save changes
         self.connection.commit()
 
-    # tested, json
+    # Retrieves user's balance, deposits, withdrawals, and market orders in JSON format.
+    # Returns JSON string with total deposits, withdrawals, net market orders, and net balance.
     def get_user_balance(self, user_id):
         deposit_query = """
             SELECT COALESCE(SUM(amount), 0) 
             FROM FundsDeposit 
             WHERE user_id = %s AND cleared = TRUE
         """
-
         withdraw_query = """
             SELECT COALESCE(SUM(amount), 0) 
             FROM FundsWithdraw 
             WHERE user_id = %s AND cleared = TRUE
         """
-
         market_order_query = """
             SELECT COALESCE(SUM(
                 CASE 
@@ -273,7 +269,6 @@ class DataBase:
             FROM MarketOrder 
             WHERE user_id = %s
         """
-
         self.cursor.execute(deposit_query, (user_id,))
         total_deposit = self.cursor.fetchone()[0]
         self.cursor.execute(withdraw_query, (user_id,))
@@ -288,11 +283,11 @@ class DataBase:
             "net_market_orders": float(net_market_orders),
             "net_balance": float(net_balance)
         }
-
         return json.dumps(balance_data)
 
-# User Manipulation (tested)
-    # tested
+    # User Manipulation (tested)
+    # Adds a new user to the User table.
+    # Returns None but inserts user data into the database.
     def add_user(self, user_id, first_name, last_name, email):
         query = """
                 INSERT INTO User (user_id, first_name, last_name, email)
@@ -301,7 +296,8 @@ class DataBase:
         self.cursor.execute(query, (user_id, first_name, last_name, email))
         self.connection.commit()
 
-    # tested, json
+    # Retrieves user data by user_id in JSON format.
+    # Returns JSON string with user's basic details or None if the user does not exist.
     def get_user_data(self, user_id):
         query = """
             SELECT user_id, first_name, last_name, email
