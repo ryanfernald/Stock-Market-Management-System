@@ -59,70 +59,72 @@ const LandingPage = () => {
     }, []);
 
     return (
-        <div className="landing-page">
-            <Navbar />
-            <h1>Welcome to Mock the Stock</h1>
-            <div className="content">
-                {/* News Sidebar */}
-                <div className="news-sidebar">
-                    <h2>Today's Headlines</h2>
-                    <hr className="headline-separator" />
-                    {news.map((article, index) => (
-                        <div key={index} className="news-item">
-                            <h3>
-                                <a href={article.url} target="_blank" rel="noopener noreferrer">
-                                    {article.title}
-                                </a>
-                            </h3>
-                            {article.urlToImage && (
-                                <a href={article.url} target="_blank" rel="noopener noreferrer">
-                                    <img src={article.urlToImage} alt="news preview" />
-                                </a>
-                            )}
-                            <hr className="news-separator" />
-                        </div>
-                    ))}
-                </div>
-
-                {/* Chart Section */}
-                <div className="chart-section">
-                    <h2>{selectedChart}</h2>
-
-                    {/* Chart Selection Buttons and Date Range Dropdown */}
-                    <div className="chart-controls">
-                        <div className="chart-buttons">
-                            <button onClick={() => setSelectedChart('DOW')}>DOW</button>
-                            <button onClick={() => setSelectedChart('NASDAQ')}>NASDAQ</button>
-                            <button onClick={() => setSelectedChart('S&P500')}>S&P500</button>
-                            <button onClick={() => setSelectedChart('APPL')}>Apple</button>
-                        </div>
-
-                        <select
-                            className="date-range-selector"
-                            value={dateRange}
-                            onChange={(e) => setDateRange(e.target.value)}
-                        >
-                            <option value="15days">Last 15 Days</option>
-                            <option value="1month">Last 1 Month</option>
-                            <option value="6months">Last 6 Months</option>
-                            <option value="1year">Last 1 Year</option>
-                            <option value="all">All Time</option>
-                        </select>
+        <div>
+        <Navbar />
+            <div className="landing-page">
+                <h1>Welcome to Mock the Stock</h1>
+                <div className="content">
+                    {/* News Sidebar */}
+                    <div className="news-sidebar">
+                        <h2>Today's Headlines</h2>
+                        <hr className="headline-separator" />
+                        {news.map((article, index) => (
+                            <div key={index} className="news-item">
+                                <h3>
+                                    <a href={article.url} target="_blank" rel="noopener noreferrer">
+                                        {article.title}
+                                    </a>
+                                </h3>
+                                {article.urlToImage && (
+                                    <a href={article.url} target="_blank" rel="noopener noreferrer">
+                                        <img src={article.urlToImage} alt="news preview" />
+                                    </a>
+                                )}
+                                <hr className="news-separator" />
+                            </div>
+                        ))}
                     </div>
 
-                    {/* Responsive Chart Container */}
-                    <ResponsiveContainer width="100%" height={600}>
-                        <LineChart data={filteredData}>
-                            <CartesianGrid strokeDasharray="3 3" />
-                            <XAxis
-                                dataKey="date"
-                                tickFormatter={formatTick}
-                            />
-                            <YAxis domain={['dataMin', 'auto']} />
-                            <Tooltip />
-                            <Line type="natural" dataKey="Close" stroke="#8884d8" strokeWidth={1} />
-                        </LineChart>
-                    </ResponsiveContainer>
+                    {/* Chart Section */}
+                    <div className="chart-section">
+                        <h2>{selectedChart}</h2>
+
+                        {/* Chart Selection Buttons and Date Range Dropdown */}
+                        <div className="chart-controls">
+                            <div className="chart-buttons">
+                                <button onClick={() => setSelectedChart('DOW')}>DOW</button>
+                                <button onClick={() => setSelectedChart('NASDAQ')}>NASDAQ</button>
+                                <button onClick={() => setSelectedChart('S&P500')}>S&P500</button>
+                                <button onClick={() => setSelectedChart('APPL')}>Apple</button>
+                            </div>
+
+                            <select
+                                className="date-range-selector"
+                                value={dateRange}
+                                onChange={(e) => setDateRange(e.target.value)}
+                            >
+                                <option value="15days">Last 15 Days</option>
+                                <option value="1month">Last 1 Month</option>
+                                <option value="6months">Last 6 Months</option>
+                                <option value="1year">Last 1 Year</option>
+                                <option value="all">All Time</option>
+                            </select>
+                        </div>
+
+                        {/* Responsive Chart Container */}
+                        <ResponsiveContainer width="100%" height={600}>
+                            <LineChart data={filteredData}>
+                                <CartesianGrid strokeDasharray="3 3" />
+                                <XAxis
+                                    dataKey="date"
+                                    tickFormatter={formatTick}
+                                />
+                                <YAxis domain={['dataMin', 'auto']} />
+                                <Tooltip />
+                                <Line type="natural" dataKey="Close" stroke="#8884d8" strokeWidth={1} />
+                            </LineChart>
+                        </ResponsiveContainer>
+                    </div>
                 </div>
             </div>
         </div>
