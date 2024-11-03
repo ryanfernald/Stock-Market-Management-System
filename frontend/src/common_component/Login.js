@@ -14,6 +14,7 @@ function Login() {
     try {
       await signInWithEmailAndPassword(auth, email, password);
       alert('User logged in successfully');
+      navigate('/dashboard');
     } catch (error) {
       console.error("Error logging in:", error);
       alert(error.message);
@@ -26,6 +27,7 @@ function Login() {
       const result = await signInWithPopup(auth, provider);
       const user = result.user;
       alert(`Logged in as ${user.email}`);
+      navigate('/dashboard');
     } catch (error) {
       console.error("Error logging in with Google:", error);
       alert(error.message);
