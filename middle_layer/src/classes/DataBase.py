@@ -10,7 +10,18 @@ class DataBase:
             database=database
         )
         self.cursor = self.connection.cursor()
-
+    #add user to the User table
+    def insert_user(self, user_id, email, first_name, last_name):
+        query = """
+            INSERT INTO User (user_id, first_name, last_name, email)
+            VALUES (%s, %s, %s, %s)
+        """
+        try:
+            self.cursor.execute(query, (user_id, first_name, last_name, email))
+            self.connection.commit()
+        except mysql.connector.Error as err:
+            # Handle the error or log it as needed
+            raise Exception(f"Database insertion error: {err}")
 # Transaction History (tested)
     # Retrieves transaction history for a user in JSON format.
     # Returns JSON string of a list of transactions with each transaction's details.
