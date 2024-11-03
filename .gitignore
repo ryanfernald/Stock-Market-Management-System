@@ -5,3 +5,9 @@ venv
 middle_layer/.idea
 
 .env
+
+
+flask/router/__pycache__/*
+
+__pycache__/
+*.py[cod]
