@@ -1,5 +1,7 @@
 from flask import Flask, request, jsonify
 from flask_cors import CORS
+from database import get_db
+from sqlalchemy.sql import text
 
 # import the example "blueprint" from the router folder to include the route in the main application
 from router.example_router import example
@@ -33,6 +35,22 @@ def test():
 #######################
 ##### END OF DEMO #####
 #######################
+
+@app.route('/')
+def testdb():
+    try:
+        # Use the `next` function to get a session from the `get_db` generator
+        with next(get_db()) as db:
+            # Execute a query to fetch all table names in the current database
+            result = db.execute(text("SELECT table_name FROM information_schema.tables WHERE table_schema='public'")).fetchall()
+            # Extract table names from the result
+            tables = [row[0] for row in result]
+            return jsonify({"status": "success", "tables": tables}), 200 # return all the tables in the db
+    except Exception as e:
+        # If there is an error, return it as a response
+        return jsonify({"status": "error", "error": str(e)}), 500
+
+
 
 
 app.register_blueprint(example, url_prefix='/api') 
