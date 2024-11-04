@@ -86,7 +86,7 @@ const UserDashboard = () => {
             </div>
             <div>
                <div className="activity-card">
-                  <h3>Watch List</h3>
+                  <h3>Holdings</h3>
 
                </div>
 

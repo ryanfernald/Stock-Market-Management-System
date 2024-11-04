@@ -16,6 +16,10 @@ const SignUp = () => {
   const [error, setError] = useState('');
   const navigate = useNavigate();
 
+  const handleLogin = () => {
+    navigate('/login');
+  };
+
   // Sign-up handler function
   const handleSignUp = async (e) => {
     e.preventDefault();
@@ -25,6 +29,7 @@ const SignUp = () => {
       setError("Passwords do not match");
       return;
     }
+    
 
     try {
       // Firebase authentication (create user)
@@ -147,12 +152,12 @@ const SignUp = () => {
 
             <button type="submit" className="signup-button">Sign Up</button>
           </form>
-          <p className="or-divider">or</p>
           <button onClick={handleGoogleSignIn} className="google-button">
             <img src="https://img.icons8.com/color/16/000000/google-logo.png" alt="Google icon" />
             Sign up with Google
           </button>
-          <p className="login-link">Already have an account? <a href="/login">Log in</a></p>
+          <p> Already have an account? </p>
+          <button className="login-link" onClick={handleLogin}> Login </button>
         </div>
       </div>
     </div>

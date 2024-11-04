@@ -4,7 +4,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  min-height: 100vh;
+  min-height: 53vh;
   background-color: #e9eef4; /* Light background for contrast */
 }
 
@@ -12,8 +12,8 @@
   background-color: #1c3a5a; /* Navy blue for the box */
   padding: 2rem;
   border-radius: 10px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-  max-width: 400px;
+  box-shadow: 0 4px 8px;
+  max-width: 420px;
   width: 100%;
   text-align: center;
 }
@@ -74,7 +74,7 @@
   width: 100%;
   padding: 0.7rem;
   margin-top: 0.5rem;
-  background-color: #4c8bf5; 
+  background-color: #4f7db6; 
   color: #f0f4f8;
   border: none;
   border-radius: 8px;
@@ -84,5 +84,5 @@
 }
 
 .signup-button:hover {
-  background-color: #3a6fb0; 
+  background-color: #4b95c4; 
 }
