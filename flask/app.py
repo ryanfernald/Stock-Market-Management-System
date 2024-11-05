@@ -2,7 +2,7 @@ from flask import Flask, request, jsonify
 from flask_cors import CORS
 from database import get_db
 from sqlalchemy.sql import text
-
+from router.user_rout import user_bp
 # import the example "blueprint" from the router folder to include the route in the main application
 from router.example_router import example
 
@@ -35,7 +35,8 @@ def test():
 #######################
 ##### END OF DEMO #####
 #######################
-
+# Register user Blueprint
+app.register_blueprint(user_bp)
 @app.route('/')
 def testdb():
     try:
@@ -49,8 +50,6 @@ def testdb():
     except Exception as e:
         # If there is an error, return it as a response
         return jsonify({"status": "error", "error": str(e)}), 500
-
-
 
 
 app.register_blueprint(example, url_prefix='/api') 
