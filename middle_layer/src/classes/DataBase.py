@@ -2,7 +2,7 @@ import mysql.connector
 import json
 
 class DataBase:
-    def __init__(self, host, user, password, database, port):
+    def __init__(self, host, user, password, database, port=3306):
         self.connection = mysql.connector.connect(
             host=host,
             user=user,
