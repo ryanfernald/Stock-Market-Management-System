@@ -2,12 +2,13 @@ import mysql.connector
 import json
 
 class DataBase:
-    def __init__(self, host, user, password, database):
+    def __init__(self, host, user, password, database, port):
         self.connection = mysql.connector.connect(
             host=host,
             user=user,
             password=password,
-            database=database
+            database=database,
+            port=port
         )
         self.cursor = self.connection.cursor()
     #add user to the User table
