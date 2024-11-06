@@ -6,6 +6,7 @@ from router.user_rout import user_bp
 # import the example "blueprint" from the router folder to include the route in the main application
 from router.example_router import example
 
+from middle_layer.src.classes.DataBase import DataBase
 
 
 
@@ -39,6 +40,16 @@ def test():
 app.register_blueprint(user_bp)
 @app.route('/')
 def testdb():
+    # sample usage
+    # db = DataBase(
+    #     host='localhost',
+    #     user='root',
+    #     password='data_warehouse',
+    #     database='stonks_market'
+    # )
+    # db.add_user("user_id", "first_name", "last_name", "email")
+    # db.close()
+
     try:
         # Use the `next` function to get a session from the `get_db` generator
         with next(get_db()) as db:
