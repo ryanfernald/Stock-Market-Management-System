@@ -8,6 +8,17 @@ user_bp = Blueprint('user', __name__)
 
 @user_bp.route('/api/insertUser', methods=['POST'])
 def insert_user():
+
+    # # sample usage
+    # db = DataBase(
+    #     host='localhost',
+    #     user='root',
+    #     password='data_warehouse',
+    #     database='stonks_market'
+    # )
+    # db.add_user("user_id", "first_name", "last_name", "email")
+    # db.close()
+
     data = request.json
     db: Session = next(get_db())  # Create a session
 
