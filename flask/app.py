@@ -8,7 +8,8 @@ from router.stock_manipulation_router import stock_manipulation
 from router.stock_price_router import stock_price
 from router.transaction_history_router import transaction_history
 from router.user_balance_router import user_balance
-from router.user_manipulation_router import user_manipulation
+from router.user_manipulation_router import user_manipulationfrom middle_layer.src.classes.DataBase import DataBase
+
 
 
 app = Flask(__name__)
