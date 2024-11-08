@@ -2,7 +2,6 @@ from flask import Flask, jsonify
 from flask_cors import CORS
 
 
-from db import DB
 from router.portfolio_router import portfolio
 from router.stock_manipulation_router import stock_manipulation
 from router.stock_price_router import stock_price
@@ -11,11 +10,10 @@ from router.user_balance_router import user_balance
 from router.user_manipulation_router import user_manipulation
 
 
-from router.user_rout import user_bp
 # import the example "blueprint" from the router folder to include the route in the main application
 from router.example_router import example
 
-from middle_layer.src.classes.DataBase import DataBase
+from classes.DataBase import DataBase
 
 
 
@@ -24,6 +22,10 @@ app = Flask(__name__)
 CORS(app)
 
 
+
+# db = Database(
+#     
+# )
 
 
 
