@@ -2,9 +2,6 @@ body {
    margin: 0;
    font-family: 'Roboto', sans-serif;
    background-color: #eef2f5;
-   margin: 0;
-   font-family: 'Roboto', sans-serif;
-   background-color: #eef2f5;
 }
 
 .dashboard {
@@ -14,16 +11,10 @@ body {
    gap: 20px;
 }
 
-
 .dashboard-header {
    display: flex;
    justify-content: space-between;
-   justify-content: space-between;
    align-items: center;
-   background-color: #003349;
-   color: white;
-   padding: 10px 20px;
-   border-radius: 8px;
    background-color: #003349;
    color: white;
    padding: 10px 20px;
@@ -44,22 +35,7 @@ body {
    grid-template-columns: 1fr 1fr;
    gap: 20px;
 }
-.dashboard-content {
-   display: grid;
-   grid-template-columns: 1fr 1fr;
-   gap: 20px;
-}
 
-.summary-card,
-.action-card,
-.transaction-card,
-.activity-card {
-   background: #fff;
-   border-radius: 8px;
-   padding: 20px;
-   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-   transition: transform 0.2s ease;
-}
 .summary-card,
 .action-card,
 .transaction-card,
@@ -92,7 +68,6 @@ button {
    border-radius: 5px;
    cursor: pointer;
    transition: background 0.3s ease;
-   transition: background 0.3s ease;
 }
 
 button:hover {
@@ -111,10 +86,6 @@ button:hover {
    border-radius: 4px;
    margin: 5px 0;
    transition: background 0.3s ease;
-   padding: 8px;
-   border-radius: 4px;
-   margin: 5px 0;
-   transition: background 0.3s ease;
 }
 
 .activity-card .activity-chart div:hover {
@@ -122,9 +93,87 @@ button:hover {
    transform: scale(1.02);
 }
 
-
 @media (max-width: 768px) {
    .dashboard-content {
       grid-template-columns: 1fr;
    }
+}
+
+/* Full-width holdings card */
+.activity-card.holdings {
+   width: 94%;
+   margin: 2px 0;
+}
+
+/* Table styling */
+.activity-card.holdings table {
+   width: 100%;
+   border-collapse: collapse;
+   font-size: 16px;
+}
+
+.activity-card.holdings th, 
+.activity-card.holdings td {
+   padding: 10px;
+   text-align: left;
+   border-bottom: 1px solid #ddd;
+}
+
+.activity-card.holdings th {
+   background-color: #f5f5f5;
+   font-weight: bold;
+}
+
+.activity-card.holdings tr:hover {
+   background-color: #f9f9f9;
+}
+
+/* Green and red text for positive and negative values */
+.text-positive {
+   color: green;
+}
+
+.text-negative {
+   color: red;
+}
+
+/* Padding for chart in expanded row */
+.expanded-chart-container {
+   padding: 20px;
+   background: #fafafa; /* This can also be applied directly in the expanded chart styles if preferred */
+}
+
+/* Smooth transition for collapsible rows */
+.collapsible-row {
+   overflow: hidden;
+   transition: max-height 0.5s ease-in-out, padding 0.5s ease-in-out;
+   max-height: 0;
+   padding: 0;
+   background: #fafafa; /* Background color for the chart container */
+}
+
+.collapsible-row.expanded {
+   max-height: 350px; /* Set to a height slightly larger than the chart */
+   padding: 20px 0; /* Add padding when expanded */
+}
+
+.expanded-chart-container {
+   padding: 20px; /* Adjust padding as needed */
+   background: #fafafa; /* Background for visibility */
+}
+
+.watch-list-table {
+   width: 100%;
+   border-collapse: collapse;
+}
+
+.watch-list-table th,
+.watch-list-table td {
+   padding: 12px;
+   text-align: left;
+   border-bottom: 1px solid #ddd;
+}
+
+.watch-list-table tr:hover {
+   background-color: #f1f1f1;
 }

@@ -1,0 +1,28 @@
+[
+    {
+      "Stock": "PLTR",
+      "Company": "Palantir",
+      "Price": "51.13"
+    },
+    {
+      "Stock": "NVDA",
+      "Company": "Nvidia",
+      "Price": "139.91"
+    },
+    {
+      "Stock": "TSLA",
+      "Company": "Tesla",
+      "Price": "251.44"
+    },
+    {
+      "Stock": "PLUG",
+      "Company": "Plug Power Inc.",
+      "Price": "2.52"
+    },
+    {
+      "Stock": "SMCI",
+      "Company": "Super Micro Computer Inc.",
+      "Price": "27.70"
+    }
+  ]
+  

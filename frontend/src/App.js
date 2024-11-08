@@ -11,7 +11,7 @@ import AboutUs from './common_component/AboutUs';
 import Contact from './common_component/Contact';
 import News from './common_component/News';
 import UserDashboard from './user_component/UserDashboard';
-import NewsLogedIn from './user_component/NewsLogedIn';
+import NewsLoggedIn from './user_component/NewsLoggedIn';
 
 function App() {
   return (
@@ -29,7 +29,7 @@ function App() {
 
           {/* Need to be secured with login function*/}
           <Route path='/dashboard' element={<UserDashboard />} />
-          <Route path='/news-loged-in' element={<NewsLogedIn />} />
+          <Route path='/news-logged-in' element={<NewsLoggedIn />} />
         </Routes>
       </Router>
     </div>

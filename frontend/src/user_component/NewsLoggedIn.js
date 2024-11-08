@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react';
-
 import './styling/News.css';
 import UserNavbar from './UserNavBar';
 
@@ -13,9 +12,11 @@ const categories = [
     { name: 'Technology', value: 'technology' }
 ];
 
-const NewsLogedIn = () => {
+const NewsLoggedIn = () => {
     const [selectedCategory, setSelectedCategory] = useState('business'); // Default to Business
     const [articles, setArticles] = useState([]);
+    const [currentArticle, setCurrentArticle] = useState(null);
+    const [searchTerm, setSearchTerm] = useState('');
 
     useEffect(() => {
         fetchNews(selectedCategory);
@@ -43,19 +44,25 @@ const NewsLogedIn = () => {
     };
 
 
-    // Update the search functionality
+    // Load saved search query from sessionStorage on initial load
+    useEffect(() => {
+        const savedQuery = sessionStorage.getItem("newsSearchQuery");
+        if (savedQuery) {
+        setSearchTerm(savedQuery);  // Set search input to saved query
+        fetchNews(selectedCategory, savedQuery);  // Automatically search with the saved query
+        sessionStorage.removeItem("newsSearchQuery");  // Clear after loading
+        }
+    }, [selectedCategory]);
+
+    // Update search term on input change
+    const handleSearchInputChange = (event) => {
+        setSearchTerm(event.target.value);
+    };
+
     const handleSearch = (event) => {
         event.preventDefault();
-        const searchTerm = document.querySelector('.search-input').value;
-        fetchNews(selectedCategory, searchTerm);  // Pass the query to fetchNews
+        fetchNews(selectedCategory, searchTerm);
     };
-
-    const [currentArticle, setCurrentArticle] = useState(null);  // State to hold selected article
-
-    const handleArticleClick = (article) => {
-        setCurrentArticle(article);  // Set the clicked article to be displayed
-    };
-
 
     return (
         <div>
@@ -89,7 +96,7 @@ const NewsLogedIn = () => {
                             <button className="search-button" type="submit">Search</button>
                             <ul className="news-list">
                                 {articles.map((article, index) => (
-                                    <li key={index} onClick={() => handleArticleClick(article)}>
+                                    <li key={index} onClick={() => setCurrentArticle(article)}>
                                         {article.title}
                                     </li>
                                 ))}
@@ -125,5 +132,5 @@ const NewsLogedIn = () => {
     )
 }
 
-export default NewsLogedIn;
+export default NewsLoggedIn;
 
