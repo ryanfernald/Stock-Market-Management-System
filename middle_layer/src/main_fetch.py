@@ -4,87 +4,107 @@ import yfinance as yf
 import pandas as pd
 import requests
 import io
+import mysql.connector
+from mysql.connector import Error
 
 # load environment variables from .env file
 load_dotenv()
 
-# access the API key from environment variables
+# access the API key and DB connection variables from environment variables
 FINNHUB_API_KEY = os.getenv('FINNHUB_API_KEY')
+DB_HOST = os.getenv('DB_HOST')
+DB_USER = os.getenv('DB_USER')
+DB_PASSWORD = os.getenv('DB_PASSWORD')
+DB_NAME = os.getenv('DB_NAME')
 
-# check if the API key is loaded
-if FINNHUB_API_KEY is None:
-    raise ValueError("API key for Finnhub not found. Please set FINNHUB_API_KEY in your .env file.")
+# connect to MySQL database
+try:
+    connection = mysql.connector.connect(
+        host=DB_HOST,
+        user=DB_USER,
+        password=DB_PASSWORD,
+        database=DB_NAME
+    )
+    cursor = connection.cursor()
+    print("Successfully connected to the database")
+except Error as e:
+    print(f"Error connecting to the database: {e}")
 
-# get S&P 500 company list
+# function to check and insert sector if it doesn't exist
+def get_or_create_sector(sector_name):
+    cursor.execute("SELECT sector_id FROM Sector WHERE sector_name = %s", (sector_name,))
+    result = cursor.fetchone()
+    if result:
+        return result[0]  # sector_id exists
+    else:
+        # get the current maximum sector_id and add 1 for the new entry
+        cursor.execute("SELECT COALESCE(MAX(sector_id), 0) + 1 FROM Sector")
+        new_sector_id = cursor.fetchone()[0]
+        cursor.execute("INSERT INTO Sector (sector_id, sector_name) VALUES (%s, %s)", (new_sector_id, sector_name))
+        connection.commit()
+        return new_sector_id  # return new sector_id
+
+# function to insert or replace stock data (symbol and sector)
+def insert_or_replace_stock(ticker_symbol, sector_id):
+    cursor.execute(
+        "REPLACE INTO Stock (ticker_symbol, sector_id) VALUES (%s, %s)", 
+        (ticker_symbol, sector_id)
+    )
+    connection.commit()
+
+# function to insert or update stock price
+def insert_or_update_stock_price(ticker_symbol, price):
+    cursor.execute(
+        "INSERT INTO StockPrice (ticker_symbol, price) VALUES (%s, %s) "
+        "ON DUPLICATE KEY UPDATE price = VALUES(price), time_posted = CURRENT_TIMESTAMP",
+        (ticker_symbol, price)
+    )
+    connection.commit()
+
+# fetch S&P 500 company list from Wikipedia
 url = 'https://en.wikipedia.org/wiki/List_of_S%26P_500_companies'
-
-# use requests to fetch webpage
 response = requests.get(url)
-
-# wrap response text in a StringIO object
 html_content = io.StringIO(response.text)
+sp500_df = pd.read_html(html_content)[0]
 
-# use pandas to read the tables from the webpage
-sp500_table = pd.read_html(html_content)
-
-# the first table is the one we want (S&P 500 company list)
-sp500_df = sp500_table[0]
-
-#extract relevant columns (Ticker symbol and Sector)
+# extract relevant columns and format tickers
 sp500_tickers = sp500_df[['Symbol', 'GICS Sector']].copy()
+sp500_tickers['Symbol'] = sp500_tickers['Symbol'].apply(lambda x: x.replace('.', '-'))
 
-# function to handle tickers with periods
-def format_ticker(ticker):
-    return ticker.replace('.', '-')
-
-# backup function to fetch stock price from Finnhub
-def backup_fetch(ticker):
-    try:
-        url = f'https://finnhub.io/api/v1/quote?symbol={ticker}&token={FINNHUB_API_KEY}'
-        response = requests.get(url)
-        data = response.json()
-
-        # check if data is present
-        if "c" in data:  # "c" is the current price in Finnhub response
-            return round(data["c"], 2)
-        else:
-            print(f"No data found for {ticker} on Finnhub.")
-            return None
-    except Exception as e:
-        print(f"Finnhub error for {ticker}: {e}")
-        return None
-
-# function to fetch stock data using Yahoo Finance with Finnhub as a backup
+# function to fetch stock data from Yahoo Finance with Finnhub as a backup
 def fetch_stock_data(ticker):
-    # try Yahoo Finance first
     try:
-        formatted_ticker = format_ticker(ticker)
-        stock = yf.Ticker(formatted_ticker)
+        stock = yf.Ticker(ticker)
         hist = stock.history(period="1d")
-        
         if not hist.empty:
-            price = round(hist['Close'].iloc[0], 2)
-            return price
-        else:
-            print(f"No data from Yahoo Finance for {ticker}, trying Finnhub...")
+            return round(hist['Close'].iloc[0], 2)
     except Exception as e:
         print(f"Yahoo Finance error for {ticker}: {e}")
 
     # fallback to Finnhub if Yahoo Finance fails
-    return backup_fetch(ticker)
+    try:
+        url = f'https://finnhub.io/api/v1/quote?symbol={ticker}&token={FINNHUB_API_KEY}'
+        response = requests.get(url)
+        data = response.json()
+        return round(data["c"], 2) if "c" in data else None
+    except Exception as e:
+        print(f"Finnhub error for {ticker}: {e}")
+    return None
 
-# loop over each ticker in the S&P 500 and fetch the price
-stock_data_list = []
+# insert each stock's sector, symbol, and latest price into the database
+for _, row in sp500_tickers.iterrows():
+    ticker_symbol = row['Symbol']
+    sector_name = row['GICS Sector']
+    
+    sector_id = get_or_create_sector(sector_name)
+    insert_or_replace_stock(ticker_symbol, sector_id)
+    
+    price = fetch_stock_data(ticker_symbol)
+    if price is not None:
+        insert_or_update_stock_price(ticker_symbol, price)
 
-for index, row in sp500_tickers.iterrows():
-    ticker = row['Symbol']
-    sector = row['GICS Sector']
-    price = fetch_stock_data(ticker)
-    stock_data_list.append((ticker, price, sector))
-
-# convert the result to a DataFrame and print it
-stock_data_df = pd.DataFrame(stock_data_list, columns=['Ticker', 'Price', 'Sector'])
-print(stock_data_df.to_string(index=False))
-
-# could also save the result to a CSV file
-# stock_data_df.to_csv('sp500_stock_data.csv', index=False)
+# close the database connection
+if connection.is_connected():
+    cursor.close()
+    connection.close()
+    print("Database connection closed")
