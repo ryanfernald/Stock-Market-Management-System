@@ -8,7 +8,7 @@ from router.stock_manipulation_router import stock_manipulation
 from router.stock_price_router import stock_price
 from router.transaction_history_router import transaction_history
 from router.user_balance_router import user_balance
-from router.user_manipulation_router import user_manipulationfrom middle_layer.src.classes.DataBase import DataBase
+from router.user_manipulation_router import user_manipulation
 
 
 from router.user_rout import user_bp
@@ -27,38 +27,27 @@ CORS(app)
 
 
 
-
 @app.route('/test_db_connection', methods=['GET'])
-    try:
-        # Connect to the database
-        connection = db.connection
-        cursor = connection.cursor()
-
+def testdb():
+    # Connect to the database
+    connection = db.connection
+    cursor = connection.cursor()
         # Query to fetch all table names
-        cursor.execute("""
-            SELECT table_name 
-            FROM information_schema.tables
-            WHERE table_schema = 'public'
-        """)
-
-        # Fetch all table names
-        tables = cursor.fetchall()
-        table_names = [table[0] for table in tables]
-
-        # Close cursor
-        cursor.close()
-
-        # Return the table names as a JSON response
-        return jsonify({
-            "status": "success",
-            "tables": table_names
-        }), 200
-    except Exception as e:
-        # Handle any errors
-        return jsonify({
-            "status": "error",
-            "message": str(e)
-        }), 500
+    cursor.execute("""
+        SELECT table_name 
+        FROM information_schema.tables
+        WHERE table_schema = 'public'
+    """)
+    # Fetch all table names
+    tables = cursor.fetchall()
+    table_names = [table[0] for table in tables]
+    # Close cursor
+    cursor.close()
+    # Return the table names as a JSON response
+    return jsonify({
+        "status": "success",
+        "tables": table_names
+    }), 200
 
 
 app.register_blueprint(example, url_prefix='/api') 
