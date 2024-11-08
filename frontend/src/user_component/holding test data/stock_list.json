@@ -1,0 +1,21 @@
+[
+    {
+      "Stock": "APPL",
+      "Quantity Shares": 100,
+      "Purchase Price": 150.00,
+      "Current Price": 175.50
+    },
+    {
+      "Stock": "MSFT",
+      "Quantity Shares": 50,
+      "Purchase Price": 250.00,
+      "Current Price": 270.25
+    },
+    {
+      "Stock": "GOOG",
+      "Quantity Shares": 75,
+      "Purchase Price": 120.00,
+      "Current Price": 115.75
+    }
+  ]
+  
