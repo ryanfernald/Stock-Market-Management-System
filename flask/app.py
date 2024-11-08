@@ -47,9 +47,14 @@ def test_db_connection():
             "tables": table_names
         }), 200
     except Exception as e:
-        # If there is an error, return it as a response
-        return jsonify({"status": "error", "error": str(e)}), 500
+        # Handle any errors
+        return jsonify({
+            "status": "error",
+            "message": str(e)
+        }), 500
 
+
+app.register_blueprint(example, url_prefix='/api') 
 
 app.register_blueprint(portfolio, url_prefix='/portfolio') 
 app.register_blueprint(stock_manipulation, url_prefix='/stock_m') 
