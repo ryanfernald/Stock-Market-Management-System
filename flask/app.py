@@ -11,6 +11,13 @@ from router.user_balance_router import user_balance
 from router.user_manipulation_router import user_manipulationfrom middle_layer.src.classes.DataBase import DataBase
 
 
+from router.user_rout import user_bp
+# import the example "blueprint" from the router folder to include the route in the main application
+from router.example_router import example
+
+from middle_layer.src.classes.DataBase import DataBase
+
+
 
 app = Flask(__name__)
 # allow universal requests
@@ -20,8 +27,8 @@ CORS(app)
 
 
 
+
 @app.route('/test_db_connection', methods=['GET'])
-def test_db_connection():
     try:
         # Connect to the database
         connection = db.connection
@@ -62,6 +69,7 @@ app.register_blueprint(stock_price, url_prefix='/stock_p')
 app.register_blueprint(transaction_history, url_prefix='/transaction_h') 
 app.register_blueprint(user_balance, url_prefix='/user_b') 
 app.register_blueprint(user_manipulation, url_prefix='/user_m') 
+
 
 
 if __name__ == '__main__':
