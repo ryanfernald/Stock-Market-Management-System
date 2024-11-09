@@ -42,7 +42,7 @@ app.register_blueprint(stock_price, url_prefix='/stock_p')
 app.register_blueprint(transaction_history, url_prefix='/transaction_h') 
 app.register_blueprint(user_balance, url_prefix='/user_b') 
 app.register_blueprint(user_manipulation, url_prefix='/user_m') 
-app.register_blueprint(user_bp, url_prefix='/api/insertUser')
+app.register_blueprint(user_bp)
 
 
 if __name__ == '__main__':
