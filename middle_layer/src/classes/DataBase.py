@@ -1,17 +1,39 @@
 import json
 from flask import jsonify
 import psycopg2
+import mysql
+import mysql.connector
 
 class DataBase:
-    def __init__(self, host, user, password, database, port):
-        self.connection = psycopg2.connect(
-            host=host,
-            user=user,
-            password=password,
-            database=database,
-            port=port
-        )
-        self.cursor = self.connection.cursor()
+    #this help us switch between mysql and postgress easily
+    def __init__(self, host, user, password, database, port=3306, db='mysql'):
+        try:
+            if db == 'mysql':
+                self.connection = mysql.connector.connect(
+                    host=host,
+                    user=user,
+                    password=password,
+                    database=database,
+                    port=port
+                )
+            elif db == 'postgres':
+                self.connection = psycopg2.connect(
+                    host=host,
+                    user=user,
+                    password=password,
+                    database=database,
+                    port=port
+                )
+                self.connection.autocommit = True  # Optional: Automatically commit changes
+            else:
+                raise ValueError("Unsupported database type. Use 'mysql' or 'postgres'.")
+
+            self.cursor = self.connection.cursor()
+
+        except Exception as e:
+            print(f"Error connecting to the database: {e}")
+            self.connection = None
+            self.cursor = None
 
 # Test Connection
     def test_connection(self):
