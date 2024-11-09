@@ -12,7 +12,7 @@ import Contact from './common_component/Contact';
 import News from './common_component/News';
 import UserDashboard from './user_component/UserDashboard';
 import NewsLoggedIn from './user_component/NewsLoggedIn';
-
+import ServiceRequest from './user_component/ServiceRequest.js'
 function App() {
   return (
     <div>
@@ -30,6 +30,7 @@ function App() {
           {/* Need to be secured with login function*/}
           <Route path='/dashboard' element={<UserDashboard />} />
           <Route path='/news-logged-in' element={<NewsLoggedIn />} />
+          <Route path='/service-request' element={<ServiceRequest />} />
         </Routes>
       </Router>
     </div>
