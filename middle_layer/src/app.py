@@ -16,12 +16,13 @@ from router.example_router import example
 from classes.DataBase import DataBase
 
 
-
 app = Flask(__name__)
 # allow universal requests
 CORS(app)
 
-
+db = DataBase(
+# insert data here
+)
 
 
 
