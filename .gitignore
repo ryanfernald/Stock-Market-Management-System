@@ -2,7 +2,9 @@
 node_modules
 .env
 venv
+.venv
 middle_layer/.idea
+private
 
 .env
 
