@@ -1,4 +1,5 @@
 import json
+from flask import jsonify
 import psycopg2
 
 class DataBase:
@@ -11,6 +12,20 @@ class DataBase:
             port=port
         )
         self.cursor = self.connection.cursor()
+
+# Test Connection
+    def test_connection(self):
+        self.cursor.execute("""
+             SELECT table_name 
+             FROM information_schema.tables
+             WHERE table_schema = 'public'
+         """)
+        tables = self.cursor.fetchall()
+        table_names = [table[0] for table in tables]
+        return jsonify({
+            "status": "success",
+            "tables": table_names
+        })
 
 # Transaction History (tested)
     # Retrieves transaction history for a user in JSON format.
@@ -36,7 +51,7 @@ class DataBase:
             }
             for row in transactions
         ]
-        return json.dumps(transaction_history)
+        return jsonify(transaction_history)
 
 # Portfolio (tested)
     # Retrieves user's stock portfolio, including quantities, value, and profit.
@@ -83,9 +98,9 @@ class DataBase:
                         "current_price": float(current_price)
                     })
         if assets:
-            return json.dumps(sorted(assets, key=lambda x: x["ticker_symbol"]))
+            return jsonify(sorted(assets, key=lambda x: x["ticker_symbol"]))
         else:
-            return json.dumps(None)
+            return jsonify(None)
 
     # Calculates the total current value of the user's portfolio.
     # Returns a float representing the total value.
@@ -175,7 +190,7 @@ class DataBase:
         """
         self.cursor.execute(query)
         stocks = [row[0] for row in self.cursor.fetchall()]  # Extract ticker symbols into a list
-        return json.dumps(stocks)
+        return jsonify(stocks)
 
 # Stock Price (tested)
     # Adds a new stock price to the StockPrice table.
@@ -206,9 +221,9 @@ class DataBase:
                 "price": float(price),
                 "time_posted": time_posted.strftime("%Y-%m-%dT%H:%M:%SZ")
             }
-            return json.dumps(response)
+            return jsonify(response)
         else:
-            return json.dumps(None)
+            return jsonify(None)
 
 # User Balance (tested)
     # Adds funds to the user's account balance and logs the deposit.
@@ -295,7 +310,7 @@ class DataBase:
             "net_market_orders": float(net_market_orders),
             "net_balance": float(net_balance)
         }
-        return json.dumps(balance_data)
+        return jsonify(balance_data)
 
 # User Manipulation (tested)
     # Adds a new user to the User table.
@@ -326,9 +341,9 @@ class DataBase:
                 "last_name": last_name,
                 "email": email
             }
-            return json.dumps(response)
+            return jsonify(response)
         else:
-            return json.dumps(None)
+            return jsonify(None)
 
 
 # TODO
