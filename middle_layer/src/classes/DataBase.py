@@ -48,7 +48,16 @@ class DataBase:
             "status": "success",
             "tables": table_names
         })
-
+# get courser
+    def get_courser(self):
+        return self.cursor
+ # Close the connection
+    def close(self):
+        if self.cursor:
+            self.cursor.close()
+        if self.connection:
+            self.connection.close()
+            print("Database connection closed")
 # Transaction History (tested)
     # Retrieves transaction history for a user in JSON format.
     # Returns JSON string of a list of transactions with each transaction's details.

@@ -6,26 +6,19 @@ import requests
 import io
 import mysql.connector
 from mysql.connector import Error
+from tqdm import tqdm  # For progress tracking
+from db_config import db
 
 # load environment variables from .env file
 load_dotenv()
 
 # access the API key and DB connection variables from environment variables
 FINNHUB_API_KEY = os.getenv('FINNHUB_API_KEY')
-DB_HOST = os.getenv('DB_HOST')
-DB_USER = os.getenv('DB_USER')
-DB_PASSWORD = os.getenv('DB_PASSWORD')
-DB_NAME = os.getenv('DB_NAME')
 
 # connect to MySQL database
 try:
-    connection = mysql.connector.connect(
-        host=DB_HOST,
-        user=DB_USER,
-        password=DB_PASSWORD,
-        database=DB_NAME
-    )
-    cursor = connection.cursor()
+    connection = db  
+    cursor = db.get_courser()  
     print("Successfully connected to the database")
 except Error as e:
     print(f"Error connecting to the database: {e}")
@@ -41,7 +34,7 @@ def get_or_create_sector(sector_name):
         cursor.execute("SELECT COALESCE(MAX(sector_id), 0) + 1 FROM Sector")
         new_sector_id = cursor.fetchone()[0]
         cursor.execute("INSERT INTO Sector (sector_id, sector_name) VALUES (%s, %s)", (new_sector_id, sector_name))
-        connection.commit()
+        db.connection.commit()  # Use db.connection.commit()
         return new_sector_id  # return new sector_id
 
 # function to insert or replace stock data (symbol and sector)
@@ -50,16 +43,16 @@ def insert_or_replace_stock(ticker_symbol, sector_id):
         "REPLACE INTO Stock (ticker_symbol, sector_id) VALUES (%s, %s)", 
         (ticker_symbol, sector_id)
     )
-    connection.commit()
+    db.connection.commit()  
 
 # function to insert or update stock price
 def insert_or_update_stock_price(ticker_symbol, price):
     cursor.execute(
         "INSERT INTO StockPrice (ticker_symbol, price) VALUES (%s, %s) "
         "ON DUPLICATE KEY UPDATE price = VALUES(price), time_posted = CURRENT_TIMESTAMP",
-        (ticker_symbol, price)
+        (ticker_symbol, float(price))
     )
-    connection.commit()
+    db.connection.commit()  
 
 # fetch S&P 500 company list from Wikipedia
 url = 'https://en.wikipedia.org/wiki/List_of_S%26P_500_companies'
@@ -91,8 +84,8 @@ def fetch_stock_data(ticker):
         print(f"Finnhub error for {ticker}: {e}")
     return None
 
-# insert each stock's sector, symbol, and latest price into the database
-for _, row in sp500_tickers.iterrows():
+# Insert each stock's sector, symbol, and latest price into the database, with progress tracking
+for _, row in tqdm(sp500_tickers.iterrows(), total=len(sp500_tickers), desc="Processing S&P 500 stocks"):
     ticker_symbol = row['Symbol']
     sector_name = row['GICS Sector']
     
@@ -104,7 +97,7 @@ for _, row in sp500_tickers.iterrows():
         insert_or_update_stock_price(ticker_symbol, price)
 
 # close the database connection
-if connection.is_connected():
+if connection.connection.is_connected():
     cursor.close()
-    connection.close()
+    db.close()  
     print("Database connection closed")

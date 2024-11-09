@@ -68,7 +68,7 @@ CREATE TABLE Watchlist (
     FOREIGN KEY (user_id) REFERENCES User(user_id) ON UPDATE CASCADE ON DELETE CASCADE,
     FOREIGN KEY (ticker_symbol) REFERENCES Stock(ticker_symbol) ON UPDATE CASCADE ON DELETE CASCADE
 );
-# List of supported stocks
+-- List of supported stocks
 CREATE TABLE SupportedStocks (ticker_symbol VARCHAR(10) PRIMARY KEY);
 -- 10 entities up to this point
 -- AN: I think its better to handle newfeed by querying
