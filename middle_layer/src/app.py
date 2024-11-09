@@ -21,32 +21,17 @@ app = Flask(__name__)
 CORS(app)
 
 db = DataBase(
-# insert data here
+    host="",
+    user="postgres",
+    password="",
+    database="postgres",
+    port=5432
 )
-
-
 
 @app.route('/test_db_connection', methods=['GET'])
 def testdb():
-    # Connect to the database
-    connection = db.connection
-    cursor = connection.cursor()
-        # Query to fetch all table names
-    cursor.execute("""
-        SELECT table_name 
-        FROM information_schema.tables
-        WHERE table_schema = 'public'
-    """)
-    # Fetch all table names
-    tables = cursor.fetchall()
-    table_names = [table[0] for table in tables]
-    # Close cursor
-    cursor.close()
-    # Return the table names as a JSON response
-    return jsonify({
-        "status": "success",
-        "tables": table_names
-    }), 200
+    response = db.test_connection()
+    return response, 200
 
 
 app.register_blueprint(example, url_prefix='/api') 
