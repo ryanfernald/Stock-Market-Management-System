@@ -27,7 +27,9 @@ const UserNavbar = () => {
          <div className="user-navbar-option">
             <Link to="/help">Help</Link>
          </div>
-
+         <div className="user-navbar-option">
+            <Link to="/service-request">Service Request</Link>
+         </div>
          <div className="user-navbar-option">
             <Link to="/">Logout</Link>
          </div>
