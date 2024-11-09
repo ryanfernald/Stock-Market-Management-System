@@ -23,10 +23,6 @@ CORS(app)
 
 
 
-# db = Database(
-#     
-# )
-
 
 
 @app.route('/test_db_connection', methods=['GET'])

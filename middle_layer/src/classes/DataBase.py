@@ -1,9 +1,10 @@
 import mysql.connector
 import json
+import psycopg2
 
 class DataBase:
-    def __init__(self, host, user, password, database, port=3306):
-        self.connection = mysql.connector.connect(
+    def __init__(self, host, user, password, database, port):
+        self.connection = psycopg2.connect(
             host=host,
             user=user,
             password=password,
