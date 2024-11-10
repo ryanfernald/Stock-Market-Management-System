@@ -47,24 +47,20 @@ const AdminDashboard = () => {
   return (
     <div className="admin-dashboard">
       <AdminNavbar /> {/* Navbar at the top */}
-      
-      <div className="dashboard-header">
-        <div className="dashboard-title">Admin Dashboard</div>
         
-        {/* Search Bar and Dropdown */}
-        <div className="search-bar">
-          <input
-            type="text"
-            placeholder="Search..."
-            value={searchQuery}
-            onChange={handleSearchInputChange}
-          />
-          <select value={searchOption} onChange={handleOptionChange}>
-            <option value="user">User</option>
-            <option value="table">Table</option>
-          </select>
-          <button onClick={handleSearchSubmit}>Search</button>
-        </div>
+      {/* Search Bar and Dropdown */}
+      <div className="admin-search-bar">
+        <input
+          type="text"
+          placeholder="Search..."
+          value={searchQuery}
+          onChange={handleSearchInputChange}
+        />
+        <select value={searchOption} onChange={handleOptionChange}>
+          <option value="user">User</option>
+          <option value="table">Table</option>
+        </select>
+        <button onClick={handleSearchSubmit}>Search</button>
       </div>
 
       <div className="dashboard-content">

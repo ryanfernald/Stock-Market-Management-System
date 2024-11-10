@@ -1,6 +1,6 @@
 import icon from "../assets/icon.png";
 import { Link } from "react-router-dom";
-import "../user_component/styling/UserNavBar.css";
+import "./styling/admin_nav.css";
 
 const AdminNavbar = () => {
    return (
@@ -15,6 +15,7 @@ const AdminNavbar = () => {
          <div className="admin-navbar-center">
          </div>
 
+         
          <div className="admin-navbar-option">
             <Link to="/DB-Table Manip">Insert/Delete Tables</Link>
          </div>
