@@ -2,10 +2,13 @@ import React, { useEffect, useState } from 'react';
 import { database } from '../firbaseconfig.js';
 import { ref, onValue } from "firebase/database";
 import DatabaseMonitor from './DatabaseMonitor'; // Import DatabaseMonitor
+import AdminNavbar from './admin_nav.js'; // Import Admin Navbar
 import './styling/AdminDashboard.css'; // Import the new CSS file
 
 const AdminDashboard = () => {
   const [serviceRequests, setServiceRequests] = useState([]);
+  const [searchOption, setSearchOption] = useState("user"); // Dropdown option
+  const [searchQuery, setSearchQuery] = useState(""); // Search bar input
 
   useEffect(() => {
     const serviceRef = ref(database, '/ServeReq/');
@@ -18,34 +21,53 @@ const AdminDashboard = () => {
     });
   }, []);
 
-  // Placeholder functions for each button action
-  const handleInsertDelete = () => {
-    console.log("Insert/Delete action");
-    // Insert/Delete logic here
+  // Handle dropdown selection change
+  const handleOptionChange = (e) => {
+    setSearchOption(e.target.value);
   };
 
-  const handleCustomQuery = () => {
-    console.log("Send Custom Query action");
-    // Custom query logic here
+  // Handle search input change
+  const handleSearchInputChange = (e) => {
+    setSearchQuery(e.target.value);
   };
 
-  const handleViewTableContent = () => {
-    console.log("View Table Content action");
-    // View table content logic here
+  // Submit search
+  const handleSearchSubmit = () => {
+    if (searchOption === "user") {
+      // Send request to backend to look up user-related information
+      console.log("User search query:", searchQuery);
+      // Add user search backend request here
+    } else if (searchOption === "table") {
+      // Send request to backend to look up table-related information
+      console.log("Table search query:", searchQuery);
+      // Add table search backend request here
+    }
   };
 
   return (
     <div className="admin-dashboard">
-      <div className="dashboard-title">Admin Dashboard</div>
+      <AdminNavbar /> {/* Navbar at the top */}
+      
+      <div className="dashboard-header">
+        <div className="dashboard-title">Admin Dashboard</div>
+        
+        {/* Search Bar and Dropdown */}
+        <div className="search-bar">
+          <input
+            type="text"
+            placeholder="Search..."
+            value={searchQuery}
+            onChange={handleSearchInputChange}
+          />
+          <select value={searchOption} onChange={handleOptionChange}>
+            <option value="user">User</option>
+            <option value="table">Table</option>
+          </select>
+          <button onClick={handleSearchSubmit}>Search</button>
+        </div>
+      </div>
 
       <div className="dashboard-content">
-        {/* Side Panel with Buttons */}
-        <div className="side-panel">
-          <button onClick={handleInsertDelete}>Insert/Delete from Table</button>
-          <button onClick={handleCustomQuery}>Send Custom Query</button>
-          <button onClick={handleViewTableContent}>View Table Content</button>
-        </div>
-
         {/* Left Side - Service Requests */}
         <div className="left-side">
           <div className="service-requests">
