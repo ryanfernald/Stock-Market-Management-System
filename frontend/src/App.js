@@ -13,6 +13,11 @@ import News from './common_component/News';
 import UserDashboard from './user_component/UserDashboard';
 import NewsLoggedIn from './user_component/NewsLoggedIn';
 import ServiceRequest from './user_component/ServiceRequest.js'
+<<<<<<< HEAD
+=======
+import DatabaseMonitor from './admin_coponent/DatabaseMonitor.js';
+import AdminDashboard from './admin_coponent/AdminDashboard.js';
+>>>>>>> main
 function App() {
   return (
     <div>
@@ -31,6 +36,12 @@ function App() {
           <Route path='/dashboard' element={<UserDashboard />} />
           <Route path='/news-logged-in' element={<NewsLoggedIn />} />
           <Route path='/service-request' element={<ServiceRequest />} />
+<<<<<<< HEAD
+=======
+          <Route path='/AdminDashboard' element={<AdminDashboard />} />
+          <Route path='/DatabaseMonitor' element={<DatabaseMonitor />} />
+
+>>>>>>> main
         </Routes>
       </Router>
     </div>

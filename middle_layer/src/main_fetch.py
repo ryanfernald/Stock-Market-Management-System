@@ -6,6 +6,8 @@ import requests
 import io
 import mysql.connector
 from mysql.connector import Error
+from tqdm import tqdm  # For progress tracking
+from db_config import db
 
 # load environment variables from .env file
 load_dotenv()
@@ -91,8 +93,8 @@ def fetch_stock_data(ticker):
         print(f"Finnhub error for {ticker}: {e}")
     return None
 
-# insert each stock's sector, symbol, and latest price into the database
-for _, row in sp500_tickers.iterrows():
+# Insert each stock's sector, symbol, and latest price into the database, with progress tracking
+for _, row in tqdm(sp500_tickers.iterrows(), total=len(sp500_tickers), desc="Processing S&P 500 stocks"):
     ticker_symbol = row['Symbol']
     sector_name = row['GICS Sector']
     
@@ -104,7 +106,7 @@ for _, row in sp500_tickers.iterrows():
         insert_or_update_stock_price(ticker_symbol, price)
 
 # close the database connection
-if connection.is_connected():
+if connection.connection.is_connected():
     cursor.close()
-    connection.close()
+    db.close()  
     print("Database connection closed")
