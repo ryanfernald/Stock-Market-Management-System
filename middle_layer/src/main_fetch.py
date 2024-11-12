@@ -14,7 +14,29 @@ load_dotenv()
 START_DATE = datetime.strptime("2020-01-01", "%Y-%m-%d").date()
 END_DATE = (datetime.today() - timedelta(days=1)).date()
 FINNHUB_API_KEY = os.getenv('FINNHUB_API_KEY')
+
 if not FINNHUB_API_KEY: raise ValueError("API key for Finnhub not found.")
+  
+  
+DB_HOST = os.getenv('DB_HOST')
+DB_USER = os.getenv('DB_USER')
+DB_PASSWORD = os.getenv('DB_PASSWORD')
+DB_NAME = os.getenv('DB_NAME')
+
+# connect to MySQL database
+try:
+    connection = mysql.connector.connect(
+        host=DB_HOST,
+        user=DB_USER,
+        password=DB_PASSWORD,
+        database=DB_NAME
+    )
+    cursor = connection.cursor()
+    print("Successfully connected to the database")
+except Error as e:
+    print(f"Error connecting to the database: {e}")
+    
+
 cursor = db.get_courser()
 
 # define Pacific Time Zone
@@ -34,6 +56,23 @@ def clear_stockprice_table():
 def get_or_create_sector(sector_name):
     cursor.execute("SELECT sector_id FROM Sector WHERE sector_name = %s", (sector_name,))
     result = cursor.fetchone()
+    if result:
+        return result[0]  # sector_id exists
+    else:
+        # get the current maximum sector_id and add 1 for the new entry
+        cursor.execute("SELECT COALESCE(MAX(sector_id), 0) + 1 FROM Sector")
+        new_sector_id = cursor.fetchone()[0]
+        cursor.execute("INSERT INTO Sector (sector_id, sector_name) VALUES (%s, %s)", (new_sector_id, sector_name))
+        connection.commit()
+        return new_sector_id  # return new sector_id
+
+# function to insert or replace stock data (symbol and sector)
+def insert_or_replace_stock(ticker_symbol, sector_id):
+    cursor.execute(
+        "REPLACE INTO Stock (ticker_symbol, sector_id) VALUES (%s, %s)", 
+        (ticker_symbol, sector_id)
+    )
+    connection.commit()
     if result: return result[0]
     cursor.execute("INSERT INTO Sector (sector_id, sector_name) VALUES (COALESCE((SELECT MAX(sector_id) + 1 FROM Sector), 1), %s)", (sector_name,))
     db.connection.commit()
@@ -47,6 +86,11 @@ def insert_stock(ticker_symbol, sector_id):
 # insert stock price data
 def insert_stock_price(ticker_symbol, price, timestamp):
     cursor.execute(
+        "INSERT INTO StockPrice (ticker_symbol, price) VALUES (%s, %s) "
+        "ON DUPLICATE KEY UPDATE price = VALUES(price), time_posted = CURRENT_TIMESTAMP",
+        (ticker_symbol, price)
+    )
+    connection.commit()
         "INSERT INTO StockPrice (ticker_symbol, price, time_posted) VALUES (%s, %s, %s)",
         (ticker_symbol, float(price), timestamp)
     )

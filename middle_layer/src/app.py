@@ -17,24 +17,25 @@ from classes.DataBase import DataBase
 import os
 
 app = Flask(__name__)
-# allow universal requests
-CORS(app)
+CORS(app) # allow universal requests
 
-# db = DataBase(
-#     host=os.getenv("DATABASE_HOST"),
-#     user=os.getenv("DATABASE_USER"),
-#     password=os.getenv("DATABASE_USER"),
-#     database=os.getenv("DATABASE_NAME"),
-#     port=os.getenv("DATABASE_PORT")
-# )
+db = DataBase(
+    host=os.getenv("DATABASE_HOST"),
+    user=os.getenv("DATABASE_USER"),
+    password=os.getenv("DATABASE_USER"),
+    database=os.getenv("DATABASE_NAME"),
+    port=os.getenv("DATABASE_PORT")
+)
 
 @app.route('/test_db_connection', methods=['GET'])
 def testdb():
     response = db.test_connection()
     return response, 200
+    response = db.test_connection()
+    return response, 200
 
 
-app.register_blueprint(example, url_prefix='/api') 
+
 
 app.register_blueprint(portfolio, url_prefix='/portfolio') 
 app.register_blueprint(stock_manipulation, url_prefix='/stock_m') 
@@ -42,7 +43,7 @@ app.register_blueprint(stock_price, url_prefix='/stock_p')
 app.register_blueprint(transaction_history, url_prefix='/transaction_h') 
 app.register_blueprint(user_balance, url_prefix='/user_b') 
 app.register_blueprint(user_manipulation, url_prefix='/user_m') 
-app.register_blueprint(user_bp)
+
 app.register_blueprint(perfomance_bp)
 
 
