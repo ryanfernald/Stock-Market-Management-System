@@ -1,0 +1,110 @@
+/* UserBuy.css */
+.user-buy-container {
+    display: flex;
+    background-color: white;
+    color: #384369;
+    padding: 80px 20px 20px; /* Added top padding to avoid overlap with navbar */
+    gap: 20px;
+}
+
+.left-panel {
+    width:45%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.stock-search-bar {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #384369;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+
+.stock-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.stock-table th, .stock-table td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+    cursor: pointer;
+}
+
+.stock-table th {
+    background-color: #384369;
+    color: white;
+}
+
+.stock-table tr:hover {
+    background-color: #f1f1f1;
+}
+
+.right-panel {
+    width: 55%;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.cash-balance {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.stock-info h2 {
+    color: #384369;
+}
+
+.quantity-input {
+    width: 20%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #384369;
+    border-radius: 5px;
+    margin: 10px 0;
+}
+
+.transaction-summary {
+    font-size: 16px;
+}
+
+.purchase-button {
+    background-color: #384369;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+    padding: 12px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.purchase-button:hover {
+    background-color: #547dad;
+}
+
+/* Style for invalid input when Total Cost exceeds Cash Balance */
+.quantity-input.invalid {
+    border: 1px solid red;
+    color: red;
+}
+
+/* Style for positive values (green) - can be reused for other elements if needed */
+.positive {
+    color: green;
+}
+
+/* Style for negative values (red) */
+.negative {
+    color: red;
+}

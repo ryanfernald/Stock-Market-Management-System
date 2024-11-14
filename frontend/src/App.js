@@ -15,6 +15,8 @@ import NewsLoggedIn from './user_component/NewsLoggedIn';
 import ServiceRequest from './user_component/ServiceRequest.js'
 import DatabaseMonitor from './admin_coponent/DatabaseMonitor.js';
 import AdminDashboard from './admin_coponent/AdminDashboard.js';
+import UserBuy from './user_component/UserBuy.js';
+import UserSell from './user_component/UserSell.js';
 function App() {
   return (
     <div>
@@ -35,6 +37,8 @@ function App() {
           <Route path='/service-request' element={<ServiceRequest />} />
           <Route path='/AdminDashboard' element={<AdminDashboard />} />
           <Route path='/DatabaseMonitor' element={<DatabaseMonitor />} />
+          <Route path='/userbuy' element={<UserBuy />} />
+          <Route path='/usersell' element={<UserSell />} />
 
         </Routes>
       </Router>
