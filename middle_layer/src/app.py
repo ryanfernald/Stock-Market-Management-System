@@ -13,6 +13,9 @@ from router.performance_router import perfomance_bp
 # import the example "blueprint" from the router folder to include the route in the main application
 from router.example_router import example
 from router.admin_connections_router import admin_connection_bp
+# import the example "blueprint" from the router folder to include the route in the main application
+from router.example_router import example
+from router.admin_connections_router import admin_connection_bp
 
 from classes.DataBase import DataBase
 import os
