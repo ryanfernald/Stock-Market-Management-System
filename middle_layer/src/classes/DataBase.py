@@ -376,7 +376,20 @@ class DataBase:
         else:
             return jsonify(None)
 
-
+    def admin_insertion(self, TableName, Values):
+        placeholders = ', '.join(['%s'] * len(Values))
+        query = f"INSERT INTO {TableName} VALUES ({placeholders})"
+        
+        try:
+            # Execute the query with the provided values
+            self.cursor.execute(query, Values)
+            self.connection.commit()
+            print(f"Inserted {Values} into {TableName}")
+        except mysql.connector.Error as error:
+            print(f"Error: {error}")
+        finally:
+            self.cursor.close()
+            self.connection.close()
 # TODO
 # x make sure all are json
 # x make sure no error handling happens, errors passed to front
