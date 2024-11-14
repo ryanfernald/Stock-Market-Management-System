@@ -1,3 +1,4 @@
+import React, { useState } from 'react';
 import icon from "../assets/icon.png"
 import { Link } from 'react-router-dom';
 import "./styling/Navbar.css"

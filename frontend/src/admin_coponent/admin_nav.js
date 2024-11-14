@@ -1,3 +1,4 @@
+import React, { useState } from 'react';
 import icon from "../assets/icon.png";
 import { Link } from "react-router-dom";
 import "./styling/admin_nav.css";
@@ -17,7 +18,7 @@ const AdminNavbar = () => {
 
          
          <div className="admin-navbar-option">
-            <Link to="/DB-Table Manip">Insert/Delete Tables</Link>
+            <Link to="/TableManip">Insert/Delete Tables</Link>
          </div>
          <div className="admin-navbar-option">
             <Link to="/querie">Send Queries</Link>

@@ -1,7 +1,6 @@
 from flask import Flask, jsonify
 from flask_cors import CORS
 from db_config import db
-
 from router.portfolio_router import portfolio
 from router.stock_manipulation_router import stock_manipulation
 from router.stock_price_router import stock_price
@@ -12,6 +11,7 @@ from router.user_manipulation_router import user_manipulation
 from router.performance_router import perfomance_bp
 # import the example "blueprint" from the router folder to include the route in the main application
 from router.example_router import example
+from router.admin_connections_router import admin_connection_bp
 
 from classes.DataBase import DataBase
 import os
@@ -19,13 +19,14 @@ import os
 app = Flask(__name__)
 CORS(app) # allow universal requests
 
-db = DataBase(
-    host=os.getenv("DATABASE_HOST"),
-    user=os.getenv("DATABASE_USER"),
-    password=os.getenv("DATABASE_USER"),
-    database=os.getenv("DATABASE_NAME"),
-    port=os.getenv("DATABASE_PORT")
-)
+#this over-write the dbconfig
+# db = DataBase(
+#     host=os.getenv("DATABASE_HOST"),
+#     user=os.getenv("DATABASE_USER"),
+#     password=os.getenv("DATABASE_USER"),
+#     database=os.getenv("DATABASE_NAME"),
+#     port=os.getenv("DATABASE_PORT")
+# )
 
 @app.route('/test_db_connection', methods=['GET'])
 def testdb():
@@ -43,7 +44,7 @@ app.register_blueprint(stock_price, url_prefix='/stock_p')
 app.register_blueprint(transaction_history, url_prefix='/transaction_h') 
 app.register_blueprint(user_balance, url_prefix='/user_b') 
 app.register_blueprint(user_manipulation, url_prefix='/user_m') 
-
+app.register_blueprint(admin_connection_bp, url_prefix='/Admin')
 app.register_blueprint(perfomance_bp)
 
 
