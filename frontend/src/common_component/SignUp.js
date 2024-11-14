@@ -79,7 +79,7 @@ const SignUp = () => {
       };
 
       // Fetch call to the backend API
-      const response = await fetch(process.env.REACT_APP_API_BASE_URL+"/api/insertUser", requestOptions);
+      const response = await fetch(process.env.REACT_APP_API_BASE_URL+"/user_m/insertUser", requestOptions);
 
       if (!response.ok) {
         const data = await response.json();
