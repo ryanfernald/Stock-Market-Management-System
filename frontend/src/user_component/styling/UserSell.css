@@ -1,0 +1,92 @@
+/* UserSell.css */
+.user-sell-container {
+    display: flex;
+    background-color: white;
+    color: #384369;
+    padding: 80px 20px 20px;
+    gap: 20px;
+}
+
+.left-panel {
+    width: 45%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.holdings-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.holdings-table th, .holdings-table td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+    cursor: pointer;
+}
+
+.holdings-table th {
+    background-color: #384369;
+    color: white;
+}
+
+.holdings-table tr:hover {
+    background-color: #f1f1f1;
+}
+
+.right-panel {
+    width: 55%;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.stock-info h2 {
+    color: #384369;
+}
+
+.quantity-input {
+    width: 20%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #384369;
+    border-radius: 5px;
+    margin: 10px 0;
+}
+
+.sell-button {
+    background-color: #384369;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+    padding: 12px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.sell-button:hover {
+    background-color: #164478;
+}
+
+/* Style for invalid input */
+.quantity-input.invalid {
+    border: 1px solid red;
+    color: red;
+}
+
+/* Style for positive values (green) */
+.holdings-table .positive {
+    color: green;
+}
+
+/* Style for negative values (red) */
+.holdings-table .negative {
+    color: red;
+}

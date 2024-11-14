@@ -20,7 +20,7 @@ const UserNavbar = () => {
             <Link to="/dashboard">Dashboard</Link>
          </div>
          <div className="user-navbar-option">
-            <Link to="/news-loged-in">News</Link>
+            <Link to="/news-logged-in">News</Link>
          </div>
          <div className="user-navbar-option">
             <Link to="/settings">Settings</Link>
