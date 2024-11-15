@@ -16,23 +16,15 @@ import watchList from "./holding test data/watch_list.json";
 const UserDashboard = () => {
    const [accountBalance, setAccountBalance] = useState(0);
    const [loading, setLoading] = useState(true);
-   const [selectedAccountType, setSelectedAccountType] = useState("checking");
-   const [accountTypes, setAccountTypes] = useState([]);
+
    const [expandedRow, setExpandedRow] = useState(null);
    const navigate = useNavigate(); // Use useNavigate instead of useHistory
 
-   const handleAccountTypeChange = (event) => {
-      setSelectedAccountType(event.target.value);
-   };
 
    const handleRowClick = (company) => {
       sessionStorage.setItem("newsSearchQuery", company);  // Save the company name as the query
       navigate("/news-logged-in");  // Navigate to the News page
    };
-
-   useEffect(() => {
-      // Fetch account types and balance logic
-   }, [selectedAccountType]);
 
    // Hard-coded data for line chart
    const activityData = [
@@ -97,7 +89,7 @@ const UserDashboard = () => {
                   </div>
                </div>
                <div className="summary-card">
-                  <h3>Balance Available</h3>
+                  <h3>Balance Details</h3>
                   <p>{loading ? "Loading..." : `$${accountBalance}`}</p>
                   <button onClick={() => (window.location.href = "/userstatement")}>View Details</button>
                </div>
