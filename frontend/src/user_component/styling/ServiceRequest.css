@@ -1,26 +1,14 @@
-<<<<<<< HEAD
-/* Centering container */
-=======
->>>>>>> main
+
 .service-request-page {
   display: flex;
   align-items: center;
   justify-content: center;
-<<<<<<< HEAD
-  min-height: 100vh; /* Full viewport height */
-  background-color: #f0f2f5; /* Optional background color */
-}
-
-/* Form styling */
-form {
-=======
   min-height: 100vh;
   background-color: #f0f2f5;
 }
 
 /* Prefix form styling with .service-request */
 .service-request-page form {
->>>>>>> main
   max-width: 500px;
   width: 100%;
   padding: 2rem;
@@ -29,38 +17,23 @@ form {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
-<<<<<<< HEAD
-form div {
-  margin-bottom: 1.5rem;
-}
-
-label {
-=======
 .service-request-page label {
->>>>>>> main
   display: block;
   font-weight: bold;
   margin-bottom: 0.5rem;
   color: #333;
 }
 
-<<<<<<< HEAD
-input[type="text"],
-input[type="date"],
-textarea {
-=======
 /* Input and textarea fields specifically for service-request */
 .service-request-page input[type="text"],
 .service-request-page input[type="date"],
 .service-request-page textarea {
->>>>>>> main
   width: 100%;
   padding: 0.75rem;
   border: 1px solid #ddd;
   border-radius: 4px;
   font-size: 1rem;
   color: #333;
-<<<<<<< HEAD
   box-sizing: border-box;
 }
 
@@ -77,12 +50,11 @@ textarea:focus {
 }
 
 button[type="submit"] {
-=======
 }
 
 /* Button styling scoped to .service-request */
 .service-request-page button[type="submit"] {
->>>>>>> main
+
   width: 100%;
   padding: 0.75rem;
   font-size: 1rem;
@@ -95,7 +67,6 @@ button[type="submit"] {
   transition: background-color 0.3s;
 }
 
-<<<<<<< HEAD
 button[type="submit"]:hover {
   background-color: #4a90d9;
 }
@@ -108,8 +79,6 @@ button[type="submit"]:focus {
   outline: none;
   box-shadow: 0 0 0 2px rgba(91, 155, 213, 0.5);
 }
-=======
 .service-request-page button[type="submit"]:hover {
   background-color: #4a90d9;
 }
->>>>>>> main
