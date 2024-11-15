@@ -7,8 +7,8 @@ admin_connection_bp = Blueprint('admin_router', __name__)
 def exetcute():
     try:
         data = request.get_json()
-        table_name = data.get("tableName")
-        insert_data = data.get("data")
+        table_name = data["tableName"]
+        insert_data = data["data"]
 
         if not table_name or not insert_data:
             return jsonify({"error": "Table name or data is missing"}), 400
