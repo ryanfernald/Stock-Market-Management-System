@@ -21,8 +21,15 @@ from classes.DataBase import DataBase
 import os
 
 app = Flask(__name__)
-CORS(app) # allow universal requests
-
+CORS(app, resources={r"/*": {"origins": "http://localhost:3000"}})
+CORS(portfolio, resources={r"/*": {"origins": "http://localhost:3000"}})
+CORS(stock_manipulation, resources={r"/*": {"origins": "http://localhost:3000"}})
+CORS(stock_price, resources={r"/*": {"origins": "http://localhost:3000"}})
+CORS(transaction_history, resources={r"/*": {"origins": "http://localhost:3000"}})
+CORS(user_balance, resources={r"/*": {"origins": "http://localhost:3000"}})
+CORS(user_manipulation, resources={r"/*": {"origins": "http://localhost:3000"}})
+CORS(admin_connection_bp, resources={r"/*": {"origins": "http://localhost:3000"}})
+CORS(perfomance_bp, resources={r"/*": {"origins": "http://localhost:3000"}})
 #this over-write the dbconfig
 # db = DataBase(
 #     host=os.getenv("DATABASE_HOST"),
@@ -38,8 +45,6 @@ def testdb():
     return response, 200
 
 
-
-
 app.register_blueprint(portfolio, url_prefix='/portfolio') 
 app.register_blueprint(stock_manipulation, url_prefix='/stock_m') 
 app.register_blueprint(stock_price, url_prefix='/stock_p') 
@@ -48,6 +53,8 @@ app.register_blueprint(user_balance, url_prefix='/user_b')
 app.register_blueprint(user_manipulation, url_prefix='/user_m') 
 app.register_blueprint(admin_connection_bp, url_prefix='/Admin')
 app.register_blueprint(perfomance_bp)
+
+
 
 
 if __name__ == '__main__':

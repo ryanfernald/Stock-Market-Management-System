@@ -29,12 +29,18 @@ const SignUp = () => {
       setError("Passwords do not match");
       return;
     }
-    
+
 
     try {
       // Firebase authentication (create user)
       const userCredential = await createUserWithEmailAndPassword(auth, email, password);
       const user = userCredential.user;
+
+
+      localStorage.setItem('uid', user.uid);
+      localStorage.setItem('email', email);
+
+
 
       // Insert user into SQL database
       await insertUserIntoDatabase(user.uid, email, firstName, lastName);
@@ -53,6 +59,9 @@ const SignUp = () => {
       const userCredential = await signInWithPopup(auth, provider);
       const user = userCredential.user;
 
+      localStorage.setItem('uid', user.uid);
+      localStorage.setItem('email', user.email);
+
       // Insert Google user into SQL database
       await insertUserIntoDatabase(user.uid, user.email, 'First', 'Last'); // default names for Google sign-in
 
@@ -66,30 +75,26 @@ const SignUp = () => {
   // Function to call the backend API for inserting user into SQL database
   const insertUserIntoDatabase = async (uid, email, firstName, lastName) => {
     try {
-      // Setup the request options
       const requestOptions = {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
-          user_id: uid,  // Firebase UID
+          user_id: uid,
           email: email,
           first_name: firstName,
           last_name: lastName,
         }),
       };
 
-      // Fetch call to the backend API
-      const response = await fetch(process.env.REACT_APP_API_BASE_URL+"/user_m/insertUser", requestOptions);
+      const response = await fetch('/user_m/insertUser', requestOptions);
 
       if (!response.ok) {
         const data = await response.json();
         throw new Error(data.detail || 'Error inserting user into database');
       }
-
     } catch (error) {
-      // Handle any errors that occur during the API request
-      setError('Failed to sync with the database: ' + error.message);
-      throw error;  // Re-throw error so the UI shows the message
+      console.error('Error inserting user:', error);
+      throw error;
     }
   };
 

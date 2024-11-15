@@ -18,7 +18,7 @@ const UserDashboard = () => {
    const [loading, setLoading] = useState(true);
    const [selectedAccountType, setSelectedAccountType] = useState("checking");
    const [accountTypes, setAccountTypes] = useState([]);
-   const [expandedRow, setExpandedRow] = useState(null); 
+   const [expandedRow, setExpandedRow] = useState(null);
    const navigate = useNavigate(); // Use useNavigate instead of useHistory
 
    const handleAccountTypeChange = (event) => {
@@ -29,7 +29,7 @@ const UserDashboard = () => {
       sessionStorage.setItem("newsSearchQuery", company);  // Save the company name as the query
       navigate("/news-logged-in");  // Navigate to the News page
    };
-   
+
    useEffect(() => {
       // Fetch account types and balance logic
    }, [selectedAccountType]);
@@ -71,7 +71,7 @@ const UserDashboard = () => {
 
    const formatTick = (dateString) => {
       return format(new Date(dateString), 'yyyy-MM');
-  };
+   };
 
    // Toggle row expansion for Holdings table
    const toggleRow = (index) => {
@@ -157,7 +157,7 @@ const UserDashboard = () => {
                                        <ResponsiveContainer width="100%" height={300}>
                                           <LineChart data={historyDataMap[row.Stock]} margin={{ top: 5, right: 30, left: 20, bottom: 5 }}>
                                              <CartesianGrid strokeDasharray="3 3" />
-                                             <XAxis dataKey="date" tickFormatter={formatTick} />               
+                                             <XAxis dataKey="date" tickFormatter={formatTick} />
                                              <YAxis dataKey="Price" domain={[(dataMin) => Math.floor(dataMin * 0.99), 'auto']} />
                                              <Tooltip />
                                              <Line type="monotone" dataKey="Price" stroke="#8884d8" />
@@ -196,7 +196,7 @@ const UserDashboard = () => {
                         ))}
                      </tbody>
                   </table>
-               </div>  
+               </div>
 
             </div>
          </div>
