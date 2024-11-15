@@ -6,13 +6,12 @@ CREATE TABLE User (
     email VARCHAR(100) UNIQUE NOT NULL
 );
 CREATE TABLE Sector(
-    sector_id INT PRIMARY KEY,
-    sector_name VARCHAR(50) NOT NULL
+    sector_name VARCHAR(50) PRIMARY KEY NOT NULL
 );
 CREATE TABLE Stock (
     ticker_symbol VARCHAR(10) PRIMARY KEY,
     sector_id INT,
-    FOREIGN KEY (sector_id) REFERENCES Sector(sector_id) ON UPDATE CASCADE ON DELETE
+    FOREIGN KEY (sector_id) REFERENCES Sector(sector_name) ON UPDATE CASCADE ON DELETE
     SET NULL
 );
 -- STOCK PRICE table
@@ -68,38 +67,15 @@ CREATE TABLE Watchlist (
     FOREIGN KEY (user_id) REFERENCES User(user_id) ON UPDATE CASCADE ON DELETE CASCADE,
     FOREIGN KEY (ticker_symbol) REFERENCES Stock(ticker_symbol) ON UPDATE CASCADE ON DELETE CASCADE
 );
--- List of supported stocks
-CREATE TABLE SupportedStocks (ticker_symbol VARCHAR(10) PRIMARY KEY);
--- 10 entities up to this point
--- AN: I think its better to handle newfeed by querying
--- we still have 10 entities
--- CREATE TABLE NewsSource (
---     news_post_id INT PRIMARY KEY AUTO_INCREMENT,
---     ticker_symbol VARCHAR(10),
---     content TEXT,
---     time_posted TIMESTAMP,
---     FOREIGN KEY (ticker_symbol) REFERENCES Stock(ticker_symbol)
--- );
--- NF Media Table
--- Links NewsFeed and Media
--- News Feed table
--- Stores newsfeed information
--- Media Table
--- Stores media files related to newsfeed posts
--- Activity Wall table
--- Logs user activities, such as shared newsfeed or posted purchase orders.
-CREATE TABLE DashBoard (
-    dashboard_id INT PRIMARY KEY AUTO_INCREMENT,
-    user_id VARCHAR(255) NOT NULL,
-    activity_type ENUM('NEWSFEED_SHARE', 'PURCHASE_ORDER') NOT NULL,
-    FOREIGN KEY (user_id) REFERENCES User(user_id) ON UPDATE CASCADE ON DELETE CASCADE
+
+# users saves news article
+CREATE TABLE SavedNews(
+    user_id
+    news_id
 );
--- POActivity Table
--- Associates DashBoard entries with PurchaseOrder
-CREATE TABLE PurchaseOrderActivity (
-    dashboard_id INT,
-    order_id INT,
-    PRIMARY KEY (dashboard_id, order_id),
-    FOREIGN KEY (dashboard_id) REFERENCES DashBoard(dashboard_id) ON UPDATE CASCADE ON DELETE CASCADE,
-    FOREIGN KEY (order_id) REFERENCES MarketOrder(order_id) ON UPDATE CASCADE ON DELETE CASCADE
+
+# news articles saved here
+CREATE TABLE News(
+    news_id
+    news_content
 );
