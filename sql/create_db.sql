@@ -1,20 +1,25 @@
 use YHFinance;
+
 CREATE TABLE User (
     user_id VARCHAR(255) PRIMARY KEY,
     first_name VARCHAR(100) NOT NULL,
     last_name VARCHAR(100) NOT NULL,
     email VARCHAR(100) UNIQUE NOT NULL
 );
+
+-- This table categorizes stocks into different market sectors.
 CREATE TABLE Sector(
     sector_name VARCHAR(50) PRIMARY KEY NOT NULL
 );
+
+-- This table contains information about stocks available on the platform.
 CREATE TABLE Stock (
     ticker_symbol VARCHAR(10) PRIMARY KEY,
     sector_id INT,
-    FOREIGN KEY (sector_id) REFERENCES Sector(sector_name) ON UPDATE CASCADE ON DELETE
-    SET NULL
+    FOREIGN KEY (sector_id) REFERENCES Sector(sector_name) ON UPDATE CASCADE ON DELETE SET NULL
 );
--- STOCK PRICE table
+
+-- Tracks historical prices of each stock, recorded with timestamps.
 CREATE TABLE StockPrice (
     ticker_symbol VARCHAR(10),
     price DECIMAL(10, 2) NOT NULL CHECK (price >= 0),
@@ -22,7 +27,8 @@ CREATE TABLE StockPrice (
     PRIMARY KEY (ticker_symbol, time_posted),
     FOREIGN KEY (ticker_symbol) REFERENCES Stock(ticker_symbol) ON UPDATE CASCADE ON DELETE CASCADE
 );
--- MARKET ORDER table
+
+-- Records all stock transactions (buy/sell) initiated by users.
 CREATE TABLE MarketOrder (
     order_id INT PRIMARY KEY AUTO_INCREMENT,
     user_id VARCHAR(255) NOT NULL,
@@ -32,16 +38,17 @@ CREATE TABLE MarketOrder (
     purchase_date DATETIME NOT NULL,
     order_type ENUM('BUY', 'SELL') NOT NULL,
     FOREIGN KEY (user_id) REFERENCES User(user_id) ON UPDATE CASCADE ON DELETE CASCADE,
-    FOREIGN KEY (ticker_symbol) REFERENCES Stock(ticker_symbol) ON UPDATE CASCADE ON DELETE
-    SET NULL
+    FOREIGN KEY (ticker_symbol) REFERENCES Stock(ticker_symbol) ON UPDATE CASCADE ON DELETE SET NULL
 );
--- USER BALANCE table
+
+-- Maintains the USD balance for each user on the platform.
 CREATE TABLE UserBalance (
     user_id VARCHAR(255) PRIMARY KEY,
     balance_usd DECIMAL(10, 2) NOT NULL CHECK (balance_usd >= 0),
     FOREIGN KEY (user_id) REFERENCES User(user_id) ON UPDATE CASCADE ON DELETE CASCADE
 );
--- FUNDS DEPOSIT table
+
+-- Tracks deposits made by users into their accounts.
 CREATE TABLE FundsDeposit (
     deposit_id INT PRIMARY KEY AUTO_INCREMENT,
     user_id VARCHAR(255) NOT NULL,
@@ -50,7 +57,8 @@ CREATE TABLE FundsDeposit (
     cleared BOOLEAN DEFAULT FALSE NOT NULL,
     FOREIGN KEY (user_id) REFERENCES User(user_id) ON UPDATE CASCADE ON DELETE CASCADE
 );
--- FUNDS WITHDRAW table
+
+-- Records withdrawal requests made by users.
 CREATE TABLE FundsWithdraw (
     withdraw_id INT PRIMARY KEY AUTO_INCREMENT,
     user_id VARCHAR(255) NOT NULL,
@@ -59,7 +67,8 @@ CREATE TABLE FundsWithdraw (
     cleared BOOLEAN DEFAULT FALSE NOT NULL,
     FOREIGN KEY (user_id) REFERENCES User(user_id) ON UPDATE CASCADE ON DELETE CASCADE
 );
--- WATCHLIST table
+
+-- Allows users to save stocks they are interested in tracking.
 CREATE TABLE Watchlist (
     user_id VARCHAR(255) NOT NULL,
     ticker_symbol VARCHAR(10) NOT NULL,
@@ -68,14 +77,18 @@ CREATE TABLE Watchlist (
     FOREIGN KEY (ticker_symbol) REFERENCES Stock(ticker_symbol) ON UPDATE CASCADE ON DELETE CASCADE
 );
 
-# users saves news article
-CREATE TABLE SavedNews(
-    user_id
-    news_id
+-- Stores news articles that users can save for later reference.
+CREATE TABLE News (
+    news_id INT PRIMARY KEY AUTO_INCREMENT,
+    news_content TEXT NOT NULL,
+    date_posted TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP
 );
 
-# news articles saved here
-CREATE TABLE News(
-    news_id
-    news_content
+-- Links users to the news articles they have saved.
+CREATE TABLE SavedNews (
+    user_id VARCHAR(255) NOT NULL,
+    news_id INT NOT NULL,
+    PRIMARY KEY (user_id, news_id),
+    FOREIGN KEY (user_id) REFERENCES User(user_id) ON UPDATE CASCADE ON DELETE CASCADE,
+    FOREIGN KEY (news_id) REFERENCES News(news_id) ON UPDATE CASCADE ON DELETE CASCADE
 );
