@@ -38,9 +38,11 @@ function App() {
           <Route path='/service-request' element={<ServiceRequest />} />
           <Route path='/AdminDashboard' element={<AdminDashboard />} />
           <Route path='/DatabaseMonitor' element={<DatabaseMonitor />} />
+          <Route path='/TableManip' element={<AdminInsert />} />
           <Route path='/userbuy' element={<UserBuy />} />
           <Route path='/usersell' element={<UserSell />} />
-          <Route path='/TableManip' element={<AdminInsert />} />
+
+
         </Routes>
       </Router>
     </div>
