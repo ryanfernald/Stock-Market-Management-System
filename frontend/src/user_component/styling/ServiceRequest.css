@@ -1,3 +1,4 @@
+
 .service-request-page {
   display: flex;
   align-items: center;
@@ -33,6 +34,22 @@
   border-radius: 4px;
   font-size: 1rem;
   color: #333;
+  box-sizing: border-box;
+}
+
+.textarea {
+  height: 100px;
+  resize: vertical;
+}
+
+input[type="text"]:focus,
+input[type="date"]:focus,
+textarea:focus {
+  border-color: #5b9bd5;
+  outline: none;
+}
+
+.button[type="submit"] {
 }
 
 /* Button styling scoped to .service-request */
@@ -47,6 +64,19 @@
   border-radius: 4px;
   cursor: pointer;
   transition: background-color 0.3s;
+}
+
+button[type="submit"]:hover {
+  background-color: #4a90d9;
+}
+
+button[type="submit"]:active {
+  background-color: #417cbf;
+}
+
+button[type="submit"]:focus {
+  outline: none;
+  box-shadow: 0 0 0 2px rgba(91, 155, 213, 0.5);
 }
 
 .service-request-page button[type="submit"]:hover {

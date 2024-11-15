@@ -7,8 +7,12 @@ from router.stock_price_router import stock_price
 from router.transaction_history_router import transaction_history
 from router.user_balance_router import user_balance
 from router.user_manipulation_router import user_manipulation
-#from router.user_rout import user_bp
+
 from router.performance_router import perfomance_bp
+
+# import the example "blueprint" from the router folder to include the route in the main application
+from router.example_router import example
+from router.admin_connections_router import admin_connection_bp
 # import the example "blueprint" from the router folder to include the route in the main application
 from router.example_router import example
 from router.admin_connections_router import admin_connection_bp
@@ -30,8 +34,6 @@ CORS(app) # allow universal requests
 
 @app.route('/test_db_connection', methods=['GET'])
 def testdb():
-    response = db.test_connection()
-    return response, 200
     response = db.test_connection()
     return response, 200
 
