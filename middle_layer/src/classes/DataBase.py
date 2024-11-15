@@ -379,7 +379,6 @@ class DataBase:
     def admin_insertion(self, TableName, Values):
         placeholders = ', '.join(['%s'] * len(Values))
         query = f"INSERT INTO {TableName} VALUES ({placeholders})"
-        
         try:
             # Execute the query with the provided values
             self.cursor.execute(query, Values)

@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import AdminNavbar from './admin_nav.js'; // Import Admin Navbar
 import axios from 'axios';
 
 const AdminInsert = () => {
@@ -33,16 +34,28 @@ const AdminInsert = () => {
                 data: formData
             };
             
-            await axios.post(`http://localhost:5000/Admin/insertion`, payload);
+            await axios.post(
+                'http://localhost:5000/Admin/insertion',
+                payload,
+                {
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    withCredentials: true  // If you’re handling cookies or other credentials
+                }
+            );
+            
             alert(`Data inserted into ${selectedTable} successfully!`);
         } catch (error) {
-            console.error("Error inserting data:", error);
+            console.error("Error inserting data:", error.response ? error.response.data : error.message);
             alert("Failed to insert data.");
         }
     };
 
+
     return (
         <div>
+            <AdminNavbar />
             <h2>Admin Insert Data</h2>
             <form onSubmit={handleSubmit}>
                 <label>
