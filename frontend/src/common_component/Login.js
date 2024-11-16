@@ -27,6 +27,8 @@ function Login() {
     try {
       const result = await signInWithPopup(auth, provider);
       const user = result.user;
+      localStorage.setItem('uid', user.uid);
+      localStorage.setItem('email', user.email);
       alert(`Logged in as ${user.email}`);
       navigate('/dashboard');
     } catch (error) {
