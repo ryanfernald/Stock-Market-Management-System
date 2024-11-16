@@ -84,8 +84,8 @@ const UserDashboard = () => {
                   <div className="action-buttons">
                      <UserPaymentOption title="Buy" action={() => (window.location.href = "/userbuy")} />
                      <UserPaymentOption title="Sell" action={() => (window.location.href = "/usersell")} />
-                     <UserPaymentOption title="Deposit" />
-                     <UserPaymentOption title="Withdraw" />
+                     <UserPaymentOption title="Deposit" action={() => (window.location.href = "/usermovemoney?tab=deposit")} />
+                     <UserPaymentOption title="Withdraw" action={() => (window.location.href = "/usermovemoney?tab=withdraw")} />
                   </div>
                </div>
                <div className="summary-card">
