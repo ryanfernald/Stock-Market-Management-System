@@ -2,21 +2,22 @@ use YHFinance;
 
 CREATE TABLE User (
     user_id VARCHAR(255) PRIMARY KEY,
+    email VARCHAR(100) UNIQUE NOT NULL,
     first_name VARCHAR(100) NOT NULL,
-    last_name VARCHAR(100) NOT NULL,
-    email VARCHAR(100) UNIQUE NOT NULL
+    last_name VARCHAR(100) NOT NULL
 );
 
 -- This table categorizes stocks into different market sectors.
 CREATE TABLE Sector(
-    sector_name VARCHAR(50) PRIMARY KEY NOT NULL
+    sector_id INT PRIMARY KEY,
+    sector_name VARCHAR(50) NOT NULL
 );
 
 -- This table contains information about stocks available on the platform.
 CREATE TABLE Stock (
     ticker_symbol VARCHAR(10) PRIMARY KEY,
     sector_id INT,
-    FOREIGN KEY (sector_id) REFERENCES Sector(sector_name) ON UPDATE CASCADE ON DELETE SET NULL
+    FOREIGN KEY (sector_id) REFERENCES Sector(sector_id) ON UPDATE CASCADE ON DELETE SET NULL
 );
 
 -- Tracks historical prices of each stock, recorded with timestamps.
