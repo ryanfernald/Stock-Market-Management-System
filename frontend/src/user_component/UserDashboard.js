@@ -31,8 +31,32 @@ const UserDashboard = () => {
    };
 
    useEffect(() => {
-      // Fetch account types and balance logic
-   }, [selectedAccountType]);
+      const fetchUserBalance = async () => {
+         const userId = localStorage.getItem("uid"); // Retrieve user_id from local storage
+         if (!userId) {
+            console.error("User ID not found in local storage.");
+            return;
+         }
+
+         try {
+            const response = await fetch(`http://127.0.0.1:5000/user_b/balance/${userId}`);
+            if (!response.ok) {
+               throw new Error(`Error fetching balance: ${response.statusText}`);
+            }
+            const balance = await response.json();
+
+            console.log(balance);
+
+
+            setLoading(false);
+         } catch (error) {
+            console.error("Failed to fetch user balance:", error);
+            setLoading(false);
+         }
+      };
+
+      fetchUserBalance();
+   }, []);
 
    // Hard-coded data for line chart
    const activityData = [
