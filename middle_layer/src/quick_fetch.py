@@ -1,86 +1,54 @@
-## This script is only for "quickly" fetching and inserting/replacing the latest stock price data for the current day
-## If you want to fill in past data as well, run main_fetch
-
 from dotenv import load_dotenv
 import os
 import yfinance as yf
 import requests
-from datetime import datetime
+from datetime import datetime, time, timedelta
 import pytz
 from tqdm import tqdm
 from db_config import db
 
 # load environment variables
 load_dotenv()
-FINNHUB_API_KEY = os.getenv('FINNHUB_API_KEY')
-if not FINNHUB_API_KEY: raise ValueError("API key for Finnhub not found.")
-cursor = db.get_courser()
+FINNHUB_API_KEY = os.getenv("FINNHUB_API_KEY")
+if not FINNHUB_API_KEY:
+    raise ValueError("API key for Finnhub not found.")
 
 # define Pacific Time Zone
 pacific = pytz.timezone("America/Los_Angeles")
 
-# function to check if today's entry exists in the table (based on date only, ignoring time)
-def today_entry_exists(ticker_symbol):
-    today = datetime.now(pacific).date()
-    cursor.execute(
-        "SELECT 1 FROM StockPrice WHERE ticker_symbol = %s AND DATE(time_posted) = %s",
-        (ticker_symbol, today)
-    )
-    return cursor.fetchone() is not None
-
-# function to insert or update today's price
-def insert_or_update_today_price(ticker_symbol, price):
-    current_timestamp = datetime.now(pacific)
-    if today_entry_exists(ticker_symbol):
-        # update the existing entry for today
-        cursor.execute(
-            "UPDATE StockPrice SET price = %s, time_posted = %s WHERE ticker_symbol = %s AND DATE(time_posted) = %s",
-            (float(price), current_timestamp, ticker_symbol, current_timestamp.date())
-        )
-    else:
-        # insert a new entry for today
-        cursor.execute(
-            "INSERT INTO StockPrice (ticker_symbol, price, time_posted) VALUES (%s, %s, %s)",
-            (ticker_symbol, float(price), current_timestamp)
-        )
-    db.connection.commit()
-
-# fetch and insert or update the current price with Yahoo Finance, fallback to Finnhub
-def fetch_and_insert_or_update_current_price(ticker_symbol):
+# function to fetch the last available closing price and insert it if not already in the database
+def fetch_and_insert_latest_closing_price(ticker_symbol):
     try:
+        # Fetch data for the last 5 days to ensure the most recent closing price is included
         stock = yf.Ticker(ticker_symbol)
-        current_data = stock.history(period="1d")
-        if not current_data.empty:
-            current_price = round(current_data['Close'].iloc[0], 2)
-            insert_or_update_today_price(ticker_symbol, current_price)
+        hist = stock.history(period="5d")  # Fetch last 5 days of data
+
+        if not hist.empty:
+            # Get the last available closing price
+            last_close_date = hist.index[-1].date()
+            last_close_price = round(hist["Close"].iloc[-1], 2)
+            
+            # Set market close time (1:00 PM PST) as the timestamp
+            market_close_time = datetime.combine(last_close_date, time(13, 0), tzinfo=pacific)
+
+            # Insert only if the price for this date does not already exist
+            if not db.check_today_entry_exists(ticker_symbol, last_close_date):
+                db.insert_or_update_price(ticker_symbol, last_close_price, market_close_time)
         else:
-            raise Exception("No data from Yahoo Finance")
+            print(f"No data available from Yahoo Finance for {ticker_symbol}.")
 
     except Exception as e:
-        print(f"Yahoo Finance error for {ticker_symbol}: {e}")
-        fetch_and_insert_current_price_finnhub(ticker_symbol)
-
-# fallback to fetch and insert or update the current price from Finnhub
-def fetch_and_insert_current_price_finnhub(ticker_symbol):
-    url = f'https://finnhub.io/api/v1/quote?symbol={ticker_symbol}&token={FINNHUB_API_KEY}'
-    try:
-        data = requests.get(url).json()
-        if "c" in data:
-            current_price = round(data["c"], 2)
-            insert_or_update_today_price(ticker_symbol, current_price)
-    except Exception as e:
-        print(f"Finnhub error for {ticker_symbol}: {e}")
+        print(f"Error fetching data for {ticker_symbol}: {e}")
 
 # fetch S&P 500 company list from the existing database
-cursor.execute("SELECT ticker_symbol FROM Stock")
-sp500_tickers = cursor.fetchall()
+sp500_tickers = db.fetch_sp500_tickers()
 
-# process each stock to fetch only the current price, with a progress bar
-for (ticker_symbol,) in tqdm(sp500_tickers, desc="Processing current prices for S&P 500 stocks"):
-    fetch_and_insert_or_update_current_price(ticker_symbol)
+# ensure the full result set is fetched to avoid unread results
+sp500_tickers = list(sp500_tickers)  # Fully fetch all results into memory
+
+# process each stock to fetch the last available closing price, with a progress bar
+for (ticker_symbol,) in tqdm(sp500_tickers, desc="Processing S&P 500 stocks for latest prices"):
+    fetch_and_insert_latest_closing_price(ticker_symbol)
 
 # close the database connection
-if db.connection.is_connected():
-    cursor.close()
-    db.connection.close()
-    print("Database connection closed")
+db.close()
