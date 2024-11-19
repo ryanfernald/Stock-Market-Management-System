@@ -1,0 +1,81 @@
+/* Base container for the page, with top padding to move below the navbar */
+.move-money-container {
+    max-width: 600px;
+    margin: auto;
+    padding: 80px 20px 20px; /* Adds 60px padding at the top to move content down */
+    color: #fff;
+    font-family: Arial, sans-serif;
+}
+
+/* Transaction buttons */
+.transaction-buttons {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.tab-button {
+    width: 48%;
+    padding: 15px;
+    font-size: 1.2em;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #96a3b1;
+    color: #fff;
+    transition: background-color 0.3s ease;
+}
+
+.tab-button.active {
+    background-color: #27496d;
+}
+
+.tab-button:hover {
+    background-color: #3b5998;
+}
+
+/* Transaction content */
+.transaction-content {
+    background-color: #12263f;
+    border-radius: 8px;
+    padding: 20px;
+    text-align: center;
+}
+
+h2 {
+    color: #9cc3d5;
+    margin-bottom: 10px;
+}
+
+.amount-input {
+    width: 80%;
+    padding: 12px;
+    font-size: 1em;
+    margin: 10px 0;
+    border-radius: 5px;
+    border: 1px solid #27496d;
+}
+
+.commit-button {
+    width: 100%;
+    padding: 15px;
+    font-size: 1.1em;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #27496d;
+    color: #fff;
+    margin-top: 10px;
+    transition: background-color 0.3s ease;
+}
+
+.commit-button:hover {
+    background-color: #3b5998;
+}
+
+/* Updated balance */
+.updated-balance {
+    color: #fff;
+    margin-top: 15px;
+    font-size: 18px;
+}

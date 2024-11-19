@@ -19,7 +19,6 @@ def withdraw_funds(user_id, amount):
         return jsonify({"status": "success", "message": "Funds withdrawn successfully"}), 200
     except ValueError as e:
         return jsonify({"status": "error", "message": str(e)}), 400
-
 @user_balance.route('/balance/<user_id>', methods=['GET'])
 def get_user_balance(user_id):
     return db.get_user_balance(user_id)
