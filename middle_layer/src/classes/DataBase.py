@@ -334,7 +334,6 @@ class DataBase:
         self.cursor.execute(market_order_query, (user_id,))
         net_market_orders = self.cursor.fetchone()[0]
         net_balance = total_deposit - total_withdraw + net_market_orders
-
         balance_data = {
             "total_deposit": float(total_deposit),
             "total_withdraw": float(total_withdraw),
