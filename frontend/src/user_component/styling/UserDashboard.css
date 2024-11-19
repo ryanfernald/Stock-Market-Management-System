@@ -1,8 +1,16 @@
-body {
+.body {
    margin: 0;
    font-family: 'Roboto', sans-serif;
    background-color: #eef2f5;
 }
+
+#balance-details p {
+   font-size: 16px !important; /* Use !important to ensure it takes priority */
+   font-weight: 200;
+   margin: 5px 0; 
+   color: #333; 
+}
+
 
 .dashboard {
    padding: 80px;

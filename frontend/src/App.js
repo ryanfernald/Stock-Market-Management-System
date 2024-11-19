@@ -18,7 +18,7 @@ import AdminDashboard from './admin_coponent/AdminDashboard.js';
 import UserBuy from './user_component/UserBuy.js';
 import UserSell from './user_component/UserSell.js';
 import AdminInsert from './admin_coponent/AdminTableManip.js';
-import UserMoveMoney from './user_component/UserMoveMoney.js';
+// import UserMoveMoney from './user_component/UserMoveMoney.js';
 function App() {
   return (
     <div>
@@ -42,7 +42,6 @@ function App() {
           <Route path='/TableManip' element={<AdminInsert />} />
           <Route path='/userbuy' element={<UserBuy />} />
           <Route path='/usersell' element={<UserSell />} />
-          <Route path='/usermovemoney' element={<UserMoveMoney />} />
 
 
         </Routes>
