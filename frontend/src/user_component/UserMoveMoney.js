@@ -44,22 +44,17 @@ const UserMoveMoney = () => {
     }, []);
 
     // Handle deposit or withdraw
-    const handleAction = (type) => {
-        if (!amount || parseFloat(amount) <= 0) {
-            alert("Please enter a valid amount.");
+    const handleDeposit = () => {
+        if (tab !== "deposit") {
+            console.error("Deposit action attempted on wrong tab.");
             return;
         }
-
-        if (type === "withdraw" && parseFloat(amount) > balance.net_balance) {
-            alert("Insufficient balance for this withdrawal.");
+        if (amount <= 0) {
+            alert("Please enter a valid deposit amount.");
             return;
-        }
-
-        if (type === "withdraw") {
-            setTab("withdraw");
         }
     
-        fetch(`http://127.0.0.1:5000/user_b/${type}_funds/${userId}/${amount}`, {
+        fetch(`http://127.0.0.1:5000/user_b/add_funds/${userId}/${amount}`, {
             method: "POST",
             headers: { "Content-Type": "application/json" },
         })
@@ -71,7 +66,7 @@ const UserMoveMoney = () => {
             })
             .then((data) => {
                 if (data.status === "success") {
-                    alert(data.message);
+                    alert(`Successfully deposited $${parseFloat(amount).toFixed(2)}!`);
                     // Fetch updated balance from the server
                     return fetch(`http://127.0.0.1:5000/user_b/balance/${userId}`);
                 } else {
@@ -85,60 +80,63 @@ const UserMoveMoney = () => {
                 return response.json();
             })
             .then((updatedBalanceData) => {
-                console.log("Updated balance data:", updatedBalanceData);
-                if (updatedBalanceData.balance !== undefined) {
-                    setBalance(updatedBalanceData);
-                } else {
-                    console.error("Invalid updated balance format:", updatedBalanceData);
-                }
+                setBalance(updatedBalanceData);
                 setAmount("");
             })
-            .catch((error) => console.error("Error:", error));
+            .catch((error) => {
+                console.error("Error during deposit:", error);
+                alert("An error occurred during deposit. Please try again.");
+            });
     };
-
-    // New function to handle withdrawals
-const handleWithdraw = () => {
-    if (!amount || parseFloat(amount) <= 0) {
-        alert("Please enter a valid withdrawal amount.");
-        return;
-    }
-
-    fetch(`http://127.0.0.1:5000/user_b/withdraw_funds/${userId}/${amount}`, {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-    })
-        .then((response) => {
-            if (!response.ok) {
-                throw new Error(`HTTP error! status: ${response.status}`);
-            }
-            return response.json();
+    
+    const handleWithdraw = () => {
+        if (tab !== "withdraw") {
+            console.error("Withdraw action attempted on wrong tab.");
+            return;
+        }
+        if (amount <= 0) {
+            alert("Please enter a valid withdrawal amount.");
+            return;
+        }
+        if (amount > balance.net_balance) {
+            alert("Insufficient balance for this withdrawal.");
+            return;
+        }
+    
+        fetch(`http://127.0.0.1:5000/user_b/withdraw_funds/${userId}/${amount}`, {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
         })
-        .then((data) => {
-            if (data.status === "success") {
-                alert(data.message);
-                // Fetch the updated balance
-                return fetch(`http://127.0.0.1:5000/user_b/balance/${userId}`);
-            } else {
-                throw new Error(data.message || "An error occurred.");
-            }
-        })
-        .then((response) => {
-            if (!response.ok) {
-                throw new Error(`HTTP error! status: ${response.status}`);
-            }
-            return response.json();
-        })
-        .then((updatedBalanceData) => {
-            console.log("Updated balance data after withdrawal:", updatedBalanceData);
-            if (updatedBalanceData.net_balance !== undefined) {
+            .then((response) => {
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                return response.json();
+            })
+            .then((data) => {
+                if (data.status === "success") {
+                    alert(`Successfully withdrew $${parseFloat(amount).toFixed(2)}!`);
+                    // Fetch updated balance from the server
+                    return fetch(`http://127.0.0.1:5000/user_b/balance/${userId}`);
+                } else {
+                    throw new Error(data.message || "An error occurred.");
+                }
+            })
+            .then((response) => {
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                return response.json();
+            })
+            .then((updatedBalanceData) => {
                 setBalance(updatedBalanceData);
-            } else {
-                console.error("Invalid updated balance format:", updatedBalanceData);
-            }
-            setAmount("");
-        })
-        .catch((error) => console.error("Error during withdrawal:", error));
-};
+                setAmount("");
+            })
+            .catch((error) => {
+                console.error("Error during withdrawal:", error);
+                alert("An error occurred during withdrawal. Please try again.");
+            });
+    };
 
     // Determine tab to display
     useEffect(() => {
@@ -151,25 +149,25 @@ const handleWithdraw = () => {
     return (
         <>
             <UserNavbar />
-            <div className="user-move-money">
-                <div className="tabs">
+            <div className="move-money-container">
+                <div className="transaction-buttons">
                     <button
-                        className={`tab ${tab === "deposit" ? "active" : ""}`}
+                        className={`tab-button ${tab === "deposit" ? "active" : ""}`}
                         onClick={() => setTab("deposit")}
                     >
                         Deposit
                     </button>
                     <button
-                        className={`tab ${tab === "withdraw" ? "active" : ""}`}
+                        className={`tab-button ${tab === "withdraw" ? "active" : ""}`}
                         onClick={() => setTab("withdraw")}
                     >
                         Withdraw
                     </button>
                 </div>
-                <div className="tab-content">
+                <div className="transaction-content">
                     {tab === "deposit" ? (
                         <>
-                            <div id="balance-details">
+                            <div className="updated-balance">
                                 <p>Net Balance: ${balance.net_balance.toFixed(2)}</p>
                                 <p>Total Deposits: ${balance.total_deposit.toFixed(2)}</p>
                                 <p>Total Withdrawals: ${balance.total_withdraw.toFixed(2)}</p>
@@ -177,15 +175,16 @@ const handleWithdraw = () => {
                             </div>
                             <input
                                 type="number"
+                                className="amount-input"
                                 placeholder="Enter deposit amount"
                                 value={amount}
                                 onChange={(e) => setAmount(e.target.value)}
                             />
-                            <button onClick={() => handleAction("add")}>Deposit</button>
+                            <button className="commit-button" onClick={handleDeposit}>Deposit</button>
                         </>
                     ) : (
                         <>
-                            <div id="balance-details">
+                            <div className="updated-balance">
                                 <p>Net Balance: ${balance.net_balance.toFixed(2)}</p>
                                 <p>Total Deposits: ${balance.total_deposit.toFixed(2)}</p>
                                 <p>Total Withdrawals: ${balance.total_withdraw.toFixed(2)}</p>
@@ -193,11 +192,12 @@ const handleWithdraw = () => {
                             </div>
                             <input
                                 type="number"
+                                className="amount-input"
                                 placeholder="Enter withdrawal amount"
                                 value={amount}
                                 onChange={(e) => setAmount(e.target.value)}
                             />
-                            <button onClick={handleWithdraw}>Withdraw</button>
+                            <button className="commit-button" onClick={handleWithdraw}>Withdraw</button>
                         </>
                     )}
                 </div>
