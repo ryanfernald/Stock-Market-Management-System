@@ -2,9 +2,9 @@ use YHFinance;
 
 CREATE TABLE User (
     user_id VARCHAR(255) PRIMARY KEY,
+    email VARCHAR(100) UNIQUE NOT NULL,
     first_name VARCHAR(100) NOT NULL,
-    last_name VARCHAR(100) NOT NULL,
-    email VARCHAR(100) UNIQUE NOT NULL
+    last_name VARCHAR(100) NOT NULL
 );
 
 -- This table categorizes stocks into different market sectors.

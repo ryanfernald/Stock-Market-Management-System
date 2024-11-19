@@ -376,20 +376,84 @@ class DataBase:
         else:
             return jsonify(None)
 
-    def admin_insertion(self, TableName, Values):
-        placeholders = ', '.join(['%s'] * len(Values))
-        query = f"INSERT INTO {TableName} VALUES ({placeholders})"
-        
+    def admin_insertion(self, TableName, data):
+        columns = ', '.join(data.keys())
+        values = ', '.join(f"'{v}'" for v in data.values())
+        query = f"INSERT INTO {TableName} ({columns}) VALUES ({values})"
         try:
             # Execute the query with the provided values
-            self.cursor.execute(query, Values)
+            self.cursor.execute(query,data)
             self.connection.commit()
-            print(f"Inserted {Values} into {TableName}")
+            print(f"Inserted {data} into {TableName}")
         except mysql.connector.Error as error:
             print(f"Error: {error}")
         finally:
             self.cursor.close()
             self.connection.close()
+
+
+    ## Functions for fetching
+    
+    # Check if today's entry exists for a specific ticker
+    def check_today_entry_exists(self, ticker_symbol, date):
+        query = "SELECT 1 FROM StockPrice WHERE ticker_symbol = %s AND DATE(time_posted) = %s"
+        self.cursor.execute(query, (ticker_symbol, date))
+        result = self.cursor.fetchone()
+        return result is not None
+
+    # Insert or update stock price for a ticker and timestamp
+    def insert_or_update_price(self, ticker_symbol, price, timestamp):
+        query = """
+            INSERT INTO StockPrice (ticker_symbol, price, time_posted)
+            VALUES (%s, %s, %s)
+            ON DUPLICATE KEY UPDATE
+                price = VALUES(price),
+                time_posted = VALUES(time_posted)
+        """
+        self.cursor.execute(query, (ticker_symbol, price, timestamp))
+        self.connection.commit()
+
+    # Clear all data from a specified table
+    def clear_table(self, table_name):
+        query = f"TRUNCATE TABLE {table_name}"
+        self.cursor.execute(query)
+        self.connection.commit()
+
+    # Insert or replace stock data for a ticker and sector
+    def insert_or_replace_stock(self, ticker_symbol, sector_name):
+        sector_id = self.get_or_create_sector(sector_name)
+        query = """
+            REPLACE INTO Stock (ticker_symbol, sector_id)
+            VALUES (%s, %s)
+        """
+        self.cursor.execute(query, (ticker_symbol, sector_id))
+        self.connection.commit()
+
+    # Fetch or create a sector ID for a sector name
+    def get_or_create_sector(self, sector_name):
+        # Check if the sector already exists
+        self.cursor.execute("SELECT sector_id FROM Sector WHERE sector_name = %s", (sector_name,))
+        result = self.cursor.fetchone()
+        if result:
+            return result[0]  # Return the existing sector_id
+
+        # Create a new sector if it does not exist
+        self.cursor.execute("SELECT COALESCE(MAX(sector_id), 0) + 1 FROM Sector")
+        new_sector_id = self.cursor.fetchone()[0]
+        self.cursor.execute(
+            "INSERT INTO Sector (sector_id, sector_name) VALUES (%s, %s)",
+            (new_sector_id, sector_name)
+        )
+        self.connection.commit()
+        return new_sector_id  # Return the new sector_id
+
+    # Fetch all ticker symbols from the Stock table
+    def fetch_sp500_tickers(self):
+        query = "SELECT ticker_symbol FROM Stock"
+        self.cursor.execute(query)
+        result = self.cursor.fetchall()
+        return list(result)
+
 # TODO
 # x make sure all are json
 # x make sure no error handling happens, errors passed to front

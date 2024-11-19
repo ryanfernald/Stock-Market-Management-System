@@ -16,14 +16,10 @@ import watchList from "./holding test data/watch_list.json";
 const UserDashboard = () => {
    const [accountBalance, setAccountBalance] = useState(0);
    const [loading, setLoading] = useState(true);
-   const [selectedAccountType, setSelectedAccountType] = useState("checking");
-   const [accountTypes, setAccountTypes] = useState([]);
+
    const [expandedRow, setExpandedRow] = useState(null);
    const navigate = useNavigate(); // Use useNavigate instead of useHistory
 
-   const handleAccountTypeChange = (event) => {
-      setSelectedAccountType(event.target.value);
-   };
 
    const handleRowClick = (company) => {
       sessionStorage.setItem("newsSearchQuery", company);  // Save the company name as the query
@@ -31,8 +27,32 @@ const UserDashboard = () => {
    };
 
    useEffect(() => {
-      // Fetch account types and balance logic
-   }, [selectedAccountType]);
+      const fetchUserBalance = async () => {
+         const userId = localStorage.getItem("uid"); // Retrieve user_id from local storage
+         if (!userId) {
+            console.error("User ID not found in local storage.");
+            return;
+         }
+
+         try {
+            const response = await fetch(`http://127.0.0.1:5000/user_b/balance/${userId}`);
+            if (!response.ok) {
+               throw new Error(`Error fetching balance: ${response.statusText}`);
+            }
+            const balance = await response.json();
+
+            console.log(balance);
+
+
+            setLoading(false);
+         } catch (error) {
+            console.error("Failed to fetch user balance:", error);
+            setLoading(false);
+         }
+      };
+
+      fetchUserBalance();
+   }, []);
 
    // Hard-coded data for line chart
    const activityData = [
@@ -92,12 +112,12 @@ const UserDashboard = () => {
                   <div className="action-buttons">
                      <UserPaymentOption title="Buy" action={() => (window.location.href = "/userbuy")} />
                      <UserPaymentOption title="Sell" action={() => (window.location.href = "/usersell")} />
-                     <UserPaymentOption title="Deposit" />
-                     <UserPaymentOption title="Withdraw" />
+                     <UserPaymentOption title="Deposit" action={() => (window.location.href = "/usermovemoney?tab=deposit")} />
+                     <UserPaymentOption title="Withdraw" action={() => (window.location.href = "/usermovemoney?tab=withdraw")} />
                   </div>
                </div>
                <div className="summary-card">
-                  <h3>Balance Available</h3>
+                  <h3>Balance Details</h3>
                   <p>{loading ? "Loading..." : `$${accountBalance}`}</p>
                   <button onClick={() => (window.location.href = "/userstatement")}>View Details</button>
                </div>
