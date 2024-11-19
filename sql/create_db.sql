@@ -82,7 +82,7 @@ CREATE TABLE Watchlist (
 CREATE TABLE News (
     news_id INT PRIMARY KEY AUTO_INCREMENT,
     news_content TEXT NOT NULL,
-    date_posted TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP
+    time_posted TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP
 );
 
 -- Links users to the news articles they have saved.
