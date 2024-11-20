@@ -5,6 +5,7 @@ import UserTransaction from "./UserTransaction";
 import UserPaymentOption from "./UserPaymentOption";
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from "recharts";
 import { format } from "date-fns";
+
 import appleHistory from "./holding test data/appl_history.json";
 import msftHistory from "./holding test data/msft_history.json";
 import googHistory from "./holding test data/goog_history.json";

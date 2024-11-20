@@ -284,9 +284,9 @@ class DataBase:
         if amount <= 0:
             raise ValueError("Amount must be greater than zero.")
 
-        user_balance = json.loads(self.get_user_balance(user_id))["net_balance"]
-        if user_balance < amount:
-            raise ValueError("Insufficient balance to complete this withdrawal.")
+        # user_balance = json.loads(self.get_user_balance(user_id))["net_balance"]
+        # if user_balance < amount:
+        #     raise ValueError("Insufficient balance to complete this withdrawal.")
 
         insert_withdraw_query = """
             INSERT INTO FundsWithdraw (user_id, amount, time_initiated, cleared)

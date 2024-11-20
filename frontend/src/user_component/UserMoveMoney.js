@@ -94,16 +94,20 @@ const UserMoveMoney = () => {
             console.error("Withdraw action attempted on wrong tab.");
             return;
         }
-        if (amount <= 0) {
+    
+        // Validate the input amount
+        const withdrawalAmount = parseFloat(amount);
+        if (isNaN(withdrawalAmount) || withdrawalAmount <= 0) {
             alert("Please enter a valid withdrawal amount.");
             return;
         }
-        if (amount > balance.net_balance) {
+    
+        if (withdrawalAmount > balance?.net_balance) {
             alert("Insufficient balance for this withdrawal.");
             return;
         }
     
-        fetch(`http://127.0.0.1:5000/user_b/withdraw_funds/${userId}/${amount}`, {
+        fetch(`http://127.0.0.1:5000/user_b/withdraw_funds/${userId}/${withdrawalAmount}`, {
             method: "POST",
             headers: { "Content-Type": "application/json" },
         })
@@ -115,7 +119,7 @@ const UserMoveMoney = () => {
             })
             .then((data) => {
                 if (data.status === "success") {
-                    alert(`Successfully withdrew $${parseFloat(amount).toFixed(2)}!`);
+                    alert(`Successfully withdrew $${withdrawalAmount.toFixed(2)}!`);
                     // Fetch updated balance from the server
                     return fetch(`http://127.0.0.1:5000/user_b/balance/${userId}`);
                 } else {
@@ -129,8 +133,8 @@ const UserMoveMoney = () => {
                 return response.json();
             })
             .then((updatedBalanceData) => {
-                setBalance(updatedBalanceData);
-                setAmount("");
+                setBalance(updatedBalanceData); // Update the balance state
+                setAmount(""); // Reset the amount input
             })
             .catch((error) => {
                 console.error("Error during withdrawal:", error);
