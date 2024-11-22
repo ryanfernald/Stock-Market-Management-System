@@ -5,9 +5,16 @@
   align-items: center;
   justify-content: center;
   min-height: 53vh;
-  background-color: #e9eef4; /* Light background for contrast */
+  
+  margin-top: 80px;
 }
-
+/* Keyframes for fade-in animation */
+@keyframes fadeIn {
+  to {
+    opacity: 1; /* Fully visible */
+    transform: translateY(0); /* Reset position */
+  }
+}
 .login-box {
   background-color: #1c3a5a; /* Navy blue for the box */
   padding: 2rem;
@@ -16,7 +23,11 @@
   max-width: 420px;
   width: 100%;
   text-align: center;
+  opacity: 0; /* Start invisible */
+  transform: translateY(20px); /* Optional: slight downward movement */
+  animation: fadeIn 0.8s ease-in-out forwards; /* Fade in with upward motion */
 }
+
 
 .login-box h2 {
   color: #f0f4f8; /* Light color for header text */

@@ -26,10 +26,7 @@ const UserNavbar = () => {
             <Link to="/settings">Settings</Link>
          </div>
          <div className="user-navbar-option">
-            <Link to="/help">Help</Link>
-         </div>
-         <div className="user-navbar-option">
-            <Link to="/service-request">Service Request</Link>
+            <Link to="/service-request">Help</Link>
          </div>
          <div className="user-navbar-option">
             <Link to="/">Logout</Link>

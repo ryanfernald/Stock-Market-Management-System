@@ -100,7 +100,7 @@ const UserDashboard = () => {
          <UserNavbar />
          <div className="dashboard">
             <div className="dashboard-header">
-               <h3>Welcome Back!</h3>
+               <h3>Welcome Back! {localStorage.getItem("email")}</h3>
             </div>
 
             <div className="dashboard-content">
@@ -111,10 +111,7 @@ const UserDashboard = () => {
                      <p>Loading...</p>
                   ) : (
                      <div id="balance-details">
-                        <p>Net Balance: ${balanceDetails.net_balance.toFixed(2)}</p>
-                        <p>Total Deposits: ${balanceDetails.total_deposit.toFixed(2)}</p>
-                        <p>Total Withdrawals: ${balanceDetails.total_withdraw.toFixed(2)}</p>
-                        <p>Net Market Orders: ${balanceDetails.net_market_orders.toFixed(2)}</p>
+                        <p>${balanceDetails.net_balance.toFixed(2)}</p>
                      </div>
                   )}
                   <button onClick={() => (window.location.href = "/userstatement")}>View Details</button>

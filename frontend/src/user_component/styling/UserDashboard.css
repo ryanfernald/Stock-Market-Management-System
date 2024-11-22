@@ -3,13 +3,72 @@
    font-family: 'Roboto', sans-serif;
    background-color: #eef2f5;
 }
+/* Keyframes for scale-up fade-in animation */
+@keyframes scaleFadeIn {
+   0% {
+      opacity: 0;
+      transform: scale(0.9);
+   }
+   100% {
+      opacity: 1;
+      transform: scale(1);
+   }
+}
+
+/* Keyframes for bounce effect on click */
+@keyframes buttonBounce {
+   0% {
+      transform: scale(1);
+   }
+   50% {
+      transform: scale(1.1);
+   }
+   100% {
+      transform: scale(1);
+   }
+}
+
+/* Keyframes for row expansion */
+@keyframes expandRow {
+   0% {
+      max-height: 0;
+      opacity: 0;
+   }
+   100% {
+      max-height: 350px;
+      opacity: 1;
+   }
+}
+
+/* Keyframes for left-to-right slide */
+@keyframes slideInFromLeft {
+   0% {
+      transform: translateX(-100%);
+      opacity: 0;
+   }
+   100% {
+      transform: translateX(0%);
+      opacity: 1;
+   }
+}
 
 #balance-details p {
-   font-size: 16px !important; /* Use !important to ensure it takes priority */
-   font-weight: 200;
-   margin: 5px 0; 
-   color: #333; 
+   font-size: 40px;
+   font-weight: 550;
+   font-family: 'Roboto', sans-serif;
+   opacity: 0;
+   animation: fadeIn 3.5s ease forwards;
 }
+
+@keyframes fadeIn {
+   0% {
+      opacity: 0;
+   }
+   100% {
+      opacity: 1;
+   }
+}
+
 
 
 .dashboard {
@@ -17,6 +76,7 @@
    display: grid;
    grid-template-rows: auto 1fr;
    gap: 20px;
+   animation: scaleFadeIn 0.8s ease-out;
 }
 
 .dashboard-header {
@@ -26,7 +86,8 @@
    background-color: #003349;
    color: white;
    padding: 10px 20px;
-   border-radius: 8px;
+   border-radius: 10px;
+   height: 35px;
 }
 
 .account-selector {
@@ -43,6 +104,16 @@
    grid-template-columns: 1fr 1fr;
    gap: 20px;
 }
+@keyframes slideInFromRight {
+   0% {
+      transform: translateX(100%);
+      opacity: 0;
+   }
+   100% {
+      transform: translateX(0);
+      opacity: 1;
+   }
+}
 
 .summary-card,
 .action-card,
@@ -53,6 +124,9 @@
    padding: 20px;
    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
    transition: transform 0.2s ease;
+   animation: scaleFadeIn 0.6s ease-out;
+   animation-delay: 0.2s;
+   animation-fill-mode: both; /* Ensure animations persist in their final state */
 }
 
 .summary-card h3,
@@ -75,11 +149,16 @@ button {
    padding: 10px 15px;
    border-radius: 5px;
    cursor: pointer;
-   transition: background 0.3s ease;
+   transition: background 0.3s ease, transform 0.2s ease;
 }
 
 button:hover {
    background: #a8b5be;
+   transform: scale(1.05);
+}
+
+button:active {
+   animation: buttonBounce 0.3s ease;
 }
 
 .action-buttons {
@@ -88,18 +167,15 @@ button:hover {
 }
 
 .activity-card .activity-chart div {
-   background: #d1f4ff;
-   color: #555;
-   padding: 8px;
-   border-radius: 4px;
-   margin: 5px 0;
-   transition: background 0.3s ease;
+   animation: scaleFadeIn 0.6s ease-in;
+   transition: transform 0.3s ease;
 }
 
 .activity-card .activity-chart div:hover {
    background: #b3eeff;
-   transform: scale(1.02);
+   transform: scale(1.05);
 }
+
 
 @media (max-width: 768px) {
    .dashboard-content {
@@ -151,19 +227,20 @@ button:hover {
    background: #fafafa; /* This can also be applied directly in the expanded chart styles if preferred */
 }
 
-/* Smooth transition for collapsible rows */
 .collapsible-row {
    overflow: hidden;
-   transition: max-height 0.5s ease-in-out, padding 0.5s ease-in-out;
    max-height: 0;
-   padding: 0;
-   background: #fafafa; /* Background color for the chart container */
+   transition: max-height 0.5s ease-in-out, padding 0.5s ease-in-out, opacity 0.5s ease-in-out;
+   opacity: 0;
 }
 
 .collapsible-row.expanded {
-   max-height: 350px; /* Set to a height slightly larger than the chart */
-   padding: 20px 0; /* Add padding when expanded */
+   max-height: 350px;
+   padding: 20px 0;
+   opacity: 1;
+   animation: expandRow 0.5s ease-out;
 }
+
 
 .expanded-chart-container {
    padding: 20px; /* Adjust padding as needed */
@@ -180,8 +257,10 @@ button:hover {
    padding: 12px;
    text-align: left;
    border-bottom: 1px solid #ddd;
+    transition: background-color 0.3s ease, transform 0.2s ease;
 }
 
 .watch-list-table tr:hover {
    background-color: #f1f1f1;
+   transform: scale(1.01);
 }
