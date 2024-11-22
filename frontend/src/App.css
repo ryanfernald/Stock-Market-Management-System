@@ -1,6 +1,25 @@
   .App {
   text-align: center;
 }
+@import url("https://fonts.googleapis.com/css2?family=Hammersmith+One&display=swap");
+
+:root {
+   --font-family: "Hammersmith One", sans-serif;
+   font-family: var(--font-family);
+}
+
+body {
+   font-family: var(--font-family);
+   background-color: #f7f9fc;
+}
+
+select {
+   font-family: var(--font-family);
+}
+
+option {
+   font-family: var(--font-family);
+}
 
 .App-logo {
   height: 40vmin;
