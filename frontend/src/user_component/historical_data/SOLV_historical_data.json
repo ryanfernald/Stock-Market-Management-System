@@ -1,0 +1,842 @@
+[
+    {
+        "ticker_symbol": "SOLV",
+        "price": 69.1,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 66.9,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 63.89,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 67.0,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 70.06,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 67.01,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 65.52,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 63.89,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 63.17,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 62.75,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 61.69,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 61.95,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 61.75,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 64.03,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 62.2,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 62.07,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 63.5,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 63.54,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 61.83,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 64.43,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 65.91,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 65.01,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 65.15,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 65.14,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 64.65,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 64.69,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 65.56,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 66.43,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 64.83,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 63.74,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 63.14,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 65.1,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 62.44,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 61.56,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 62.38,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 62.03,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 61.22,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 61.89,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 59.93,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 60.45,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 59.86,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 59.72,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 58.35,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 59.34,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 57.05,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 55.61,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 55.73,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 55.05,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 56.41,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 56.71,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 56.54,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 56.16,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 54.13,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 54.56,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 54.63,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 53.32,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 53.8,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 52.35,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 51.3,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 51.25,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 50.75,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 51.33,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 52.88,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 51.45,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 51.6,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 50.85,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 49.9,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 49.64,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 48.02,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 48.18,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 49.36,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 49.0,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 48.22,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 50.04,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 53.0,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 54.98,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 54.6,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 54.13,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 56.64,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 58.09,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 57.55,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 57.63,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 57.34,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 58.95,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 58.88,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 58.06,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 57.31,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 56.14,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 57.45,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 55.9,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 58.66,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 60.59,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 57.71,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 58.22,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 57.78,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 58.84,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 59.4,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 59.45,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 59.45,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 59.66,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 59.77,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 61.4,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 60.18,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 60.55,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 60.05,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 62.92,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 64.11,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 63.83,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 65.11,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 65.6,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 66.2,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 67.03,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 68.35,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 69.41,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 68.65,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 70.0,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 71.79,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 72.33,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 72.13,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 72.34,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 69.95,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 70.12,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 70.04,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 69.22,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 68.1,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 67.57,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 69.72,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 67.3,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 67.63,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 67.26,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 67.74,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 66.29,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 67.13,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 69.18,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 68.1,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 68.14,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 69.39,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 69.72,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 71.42,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 72.41,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 73.68,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 73.1,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 72.61,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 72.5,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 73.2,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 73.19,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 73.36,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 73.35,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 73.57,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 72.58,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 72.46,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 72.17,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 73.16,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 74.14,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 75.07,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 72.43,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 71.53,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 70.7,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 70.04,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 67.9,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 67.48,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 67.12,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 67.05,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 68.39,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 69.63,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 70.81,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 71.61,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 71.49,
+        "time_posted": "2024-11-26"
+    }
+]

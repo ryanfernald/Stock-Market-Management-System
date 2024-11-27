@@ -1,0 +1,1267 @@
+[
+    {
+        "ticker_symbol": "IEX",
+        "price": 196.06,
+        "time_posted": "2023-11-27"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 194.1,
+        "time_posted": "2023-11-28"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 195.77,
+        "time_posted": "2023-11-29"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 199.1,
+        "time_posted": "2023-11-30"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 200.45,
+        "time_posted": "2023-12-01"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 201.59,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 199.02,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 201.98,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 202.97,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 202.22,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 205.23,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 204.91,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 206.17,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 212.19,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 208.65,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 209.22,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 210.71,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 209.45,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 211.38,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 211.64,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 212.04,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 213.03,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 214.29,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 214.34,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 212.3,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 209.57,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 208.48,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 208.48,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 208.13,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 207.3,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 206.94,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 206.55,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 204.89,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 203.76,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 203.04,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 203.33,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 205.02,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 205.42,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 207.18,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 203.69,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 205.75,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 207.11,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 210.08,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 211.59,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 209.44,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 218.03,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 218.57,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 216.09,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 216.76,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 220.25,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 223.63,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 225.98,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 224.76,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 222.08,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 224.81,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 225.46,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 225.25,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 228.1,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 231.15,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 232.84,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 234.74,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 233.76,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 233.75,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 234.37,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 233.6,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 237.14,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 235.3,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 233.05,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 234.78,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 236.4,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 236.26,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 236.73,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 238.41,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 238.46,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 239.0,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 237.63,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 238.22,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 237.69,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 238.54,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 243.47,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 241.49,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 239.61,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 239.73,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 242.7,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 241.64,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 238.52,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 237.24,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 236.96,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 234.48,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 237.05,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 236.56,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 239.23,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 234.09,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 233.95,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 230.4,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 228.24,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 227.02,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 224.62,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 223.9,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 224.83,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 227.65,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 230.01,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 222.45,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 221.1,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 218.51,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 221.7,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 218.31,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 219.22,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 218.48,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 218.27,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 219.98,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 219.59,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 219.91,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 220.57,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 223.96,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 223.22,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 222.47,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 222.01,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 220.75,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 220.84,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 218.32,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 215.67,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 216.53,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 214.1,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 213.71,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 209.83,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 205.92,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 203.83,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 207.24,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 204.73,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 204.72,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 206.15,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 202.04,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 200.44,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 201.55,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 202.51,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 204.41,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 201.56,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 196.9,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 198.95,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 201.0,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 201.81,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 201.34,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 203.13,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 198.65,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 197.79,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 198.81,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 199.85,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 194.58,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 195.1,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 193.83,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 193.39,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 194.33,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 193.93,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 197.11,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 202.12,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 203.78,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 206.01,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 210.11,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 209.8,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 205.52,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 202.3,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 204.54,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 203.23,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 198.05,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 202.41,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 205.78,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 205.54,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 207.38,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 207.79,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 195.64,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 193.48,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 191.57,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 191.48,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 189.93,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 194.21,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 193.7,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 190.67,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 193.93,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 192.67,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 194.59,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 195.93,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 198.52,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 198.36,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 200.76,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 198.81,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 203.23,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 203.28,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 202.92,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 202.51,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 204.5,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 205.8,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 202.22,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 199.73,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 196.12,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 194.49,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 196.52,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 196.9,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 196.48,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 197.45,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 199.12,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 202.01,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 204.01,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 204.92,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 209.8,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 208.04,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 209.3,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 211.78,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 208.35,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 212.7,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 214.27,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 213.79,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 211.83,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 210.62,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 210.15,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 210.4,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 207.89,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 207.72,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 207.05,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 207.76,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 211.49,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 213.31,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 211.72,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 210.6,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 209.88,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 210.53,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 209.29,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 207.89,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 204.86,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 203.48,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 202.82,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 204.84,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 203.88,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 218.64,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 214.64,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 216.05,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 219.0,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 224.71,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 234.9,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 228.9,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 228.51,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 229.34,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 227.97,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 231.0,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 229.39,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 227.83,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 226.66,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 223.61,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 223.11,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 227.45,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 232.5,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 236.06,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "IEX",
+        "price": 232.02,
+        "time_posted": "2024-11-26"
+    }
+]

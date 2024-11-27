@@ -1,0 +1,1267 @@
+[
+    {
+        "ticker_symbol": "WY",
+        "price": 30.7,
+        "time_posted": "2023-11-27"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 30.63,
+        "time_posted": "2023-11-28"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 30.78,
+        "time_posted": "2023-11-29"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 30.63,
+        "time_posted": "2023-11-30"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 31.01,
+        "time_posted": "2023-12-01"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 30.85,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 30.57,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 30.52,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 30.18,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 30.16,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 30.36,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 29.95,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 31.26,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 33.16,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 32.57,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 32.77,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 33.65,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 33.31,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 33.32,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 33.57,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 33.83,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 33.96,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 34.29,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 33.97,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 33.99,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 33.27,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 32.81,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 32.9,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 33.26,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 32.96,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 33.05,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 33.07,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 32.85,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 32.31,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 31.72,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 31.84,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 32.09,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 32.67,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 32.52,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 32.36,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 32.55,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 32.34,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 32.23,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 32.33,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 32.01,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 32.68,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 32.14,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 31.62,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 32.05,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 32.1,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 32.25,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 32.51,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 32.76,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 32.08,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 32.27,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 32.79,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 32.36,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 32.43,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 32.53,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 33.05,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 32.75,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 32.16,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 32.28,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 33.58,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 33.73,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 34.25,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 34.69,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 33.79,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 33.9,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 33.91,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 34.38,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 34.61,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 34.01,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 34.1,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 33.81,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 33.88,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 33.7,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 34.07,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 34.84,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 35.06,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 35.14,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 35.02,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 34.98,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 35.45,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 35.43,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 35.09,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 34.96,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 34.48,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 34.18,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 34.13,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 33.96,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 34.57,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 33.15,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 33.2,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 32.8,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 32.26,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 31.55,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 31.1,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 30.93,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 31.05,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 31.05,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 31.29,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 31.12,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 31.04,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 30.64,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 30.77,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 29.77,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 29.8,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 30.6,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 30.68,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 30.67,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 30.44,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 30.32,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 30.72,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 30.56,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 30.8,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 30.78,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 30.94,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 30.7,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 30.76,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 30.5,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 30.7,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 30.29,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 29.71,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 29.8,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 29.37,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 28.97,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 29.33,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 29.83,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 29.52,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 29.28,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 29.26,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 29.56,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 29.17,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 29.18,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 28.95,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 29.02,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 28.83,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 28.81,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 28.96,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 28.68,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 28.45,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 28.83,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 28.85,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 28.09,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 27.78,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 28.03,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 28.2,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 27.38,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 27.3,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 26.87,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 27.27,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 27.41,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 27.39,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 27.4,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 28.77,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 29.09,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 28.85,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 29.53,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 30.29,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 30.11,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 29.94,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 30.4,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 30.06,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 29.67,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 30.11,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 31.39,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 31.06,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 31.55,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 31.55,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 31.71,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 31.53,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 30.93,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 31.43,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 30.95,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 30.9,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 30.48,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 29.94,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 30.13,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 29.82,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 29.89,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 29.71,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 29.98,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 29.91,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 30.21,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 30.06,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 31.15,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 30.88,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 30.4,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 30.44,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 30.29,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 30.49,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 30.28,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 30.15,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 30.17,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 30.35,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 30.27,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 30.89,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 30.86,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 31.41,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 32.45,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 32.51,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 33.25,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 33.1,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 33.59,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 33.24,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 33.55,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 33.78,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 32.97,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 33.16,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 33.75,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 33.86,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 33.7,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 33.62,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 32.93,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 32.88,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 32.85,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 33.11,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 33.06,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 32.63,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 33.03,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 32.59,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 33.05,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 33.45,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 32.8,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 33.06,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 32.29,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 31.65,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 31.85,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 32.13,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 31.8,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 31.95,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 30.88,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 31.72,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 31.16,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 31.18,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 31.71,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 31.87,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 31.42,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 31.74,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 31.89,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 31.35,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 30.68,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 30.89,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 30.86,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 30.93,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 31.02,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 30.68,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 30.67,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 30.6,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 31.24,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 32.23,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "WY",
+        "price": 31.91,
+        "time_posted": "2024-11-26"
+    }
+]

@@ -1,0 +1,1267 @@
+[
+    {
+        "ticker_symbol": "HD",
+        "price": 303.05,
+        "time_posted": "2023-11-27"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 305.41,
+        "time_posted": "2023-11-28"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 305.18,
+        "time_posted": "2023-11-29"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 307.61,
+        "time_posted": "2023-11-30"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 313.62,
+        "time_posted": "2023-12-01"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 317.94,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 317.43,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 319.99,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 320.05,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 320.34,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 325.11,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 326.95,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 336.96,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 345.21,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 347.36,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 344.23,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 345.46,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 342.12,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 342.42,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 342.05,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 342.75,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 341.99,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 340.84,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 340.05,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 338.6,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 331.91,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 332.24,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 336.5,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 341.4,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 339.69,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 350.1,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 349.84,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 349.03,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 351.7,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 349.02,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 351.18,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 355.61,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 350.0,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 344.2,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 340.75,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 344.38,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 348.63,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 349.02,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 350.4,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 346.34,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 353.31,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 350.53,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 348.47,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 349.56,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 355.88,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 356.89,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 356.33,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 358.59,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 350.88,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 351.51,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 354.3,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 355.55,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 355.77,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 357.3,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 364.37,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 364.98,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 364.63,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 368.51,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 370.52,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 373.47,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 377.23,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 373.23,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 371.35,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 372.57,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 371.69,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 368.53,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 366.73,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 369.71,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 374.1,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 370.43,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 368.42,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 367.11,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 374.52,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 379.45,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 390.1,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 385.25,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 378.56,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 375.03,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 380.91,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 378.65,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 363.28,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 358.32,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 355.26,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 353.07,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 353.25,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 357.38,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 356.76,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 346.04,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 342.89,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 338.45,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 333.57,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 330.51,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 328.54,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 328.6,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 331.03,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 331.77,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 334.63,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 328.71,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 327.7,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 330.77,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 332.46,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 329.91,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 327.69,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 331.2,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 338.43,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 337.87,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 336.3,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 334.46,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 342.96,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 341.96,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 336.56,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 336.11,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 344.17,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 338.31,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 339.77,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 333.46,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 331.81,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 326.33,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 322.67,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 320.91,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 324.46,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 321.71,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 327.19,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 332.85,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 326.03,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 326.28,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 328.27,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 329.1,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 325.06,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 330.55,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 333.69,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 342.06,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 345.78,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 344.75,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 347.39,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 351.73,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 351.31,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 353.65,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 348.76,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 336.28,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 339.76,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 339.43,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 342.16,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 334.16,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 332.95,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 331.63,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 332.56,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 337.55,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 335.05,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 342.1,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 351.65,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 357.6,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 356.3,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 366.89,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 369.64,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 363.87,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 361.17,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 361.06,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 357.45,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 348.2,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 351.16,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 357.34,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 359.49,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 361.49,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 365.94,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 356.42,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 353.28,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 347.9,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 351.77,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 340.33,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 346.24,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 346.54,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 343.72,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 347.96,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 353.51,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 357.9,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 359.87,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 360.88,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 365.05,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 368.22,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 363.15,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 373.32,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 371.85,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 370.93,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 370.44,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 367.06,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 368.5,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 364.74,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 364.67,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 361.85,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 360.05,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 365.52,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 370.87,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 370.49,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 374.43,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 379.99,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 382.01,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 383.24,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 384.01,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 390.34,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 389.86,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 391.96,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 400.66,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 396.93,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 396.7,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 399.53,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 405.2,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 409.05,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 411.26,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 411.58,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 408.36,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 408.06,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 414.18,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 416.07,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 409.96,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 411.9,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 415.42,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 415.58,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 418.61,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 415.6,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 415.0,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 406.4,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 401.85,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 399.64,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 402.68,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 398.91,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 402.89,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 395.07,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 392.52,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 393.75,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 392.59,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 395.57,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 400.09,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 388.37,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 399.44,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 405.9,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 408.29,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 403.08,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 410.19,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 405.72,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 408.18,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 410.44,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 406.8,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 400.0,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 410.45,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 420.0,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 428.67,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "HD",
+        "price": 429.52,
+        "time_posted": "2024-11-26"
+    }
+]

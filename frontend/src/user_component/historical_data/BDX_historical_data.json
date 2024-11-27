@@ -1,0 +1,1267 @@
+[
+    {
+        "ticker_symbol": "BDX",
+        "price": 235.03,
+        "time_posted": "2023-11-27"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 233.48,
+        "time_posted": "2023-11-28"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 231.91,
+        "time_posted": "2023-11-29"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 232.39,
+        "time_posted": "2023-11-30"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 234.43,
+        "time_posted": "2023-12-01"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 233.76,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 229.85,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 229.71,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 230.73,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 229.51,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 230.59,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 233.83,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 237.58,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 235.64,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 234.16,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 234.86,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 237.73,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 236.94,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 240.21,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 240.08,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 240.38,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 239.59,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 240.11,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 240.9,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 242.47,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 237.58,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 239.99,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 239.18,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 244.75,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 234.98,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 235.55,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 232.19,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 233.43,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 232.18,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 231.48,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 232.18,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 233.06,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 233.06,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 235.44,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 231.75,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 233.73,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 233.81,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 234.99,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 233.37,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 235.94,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 239.44,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 234.34,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 232.25,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 235.81,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 236.6,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 237.82,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 240.82,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 240.45,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 236.2,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 235.74,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 237.08,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 237.87,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 237.77,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 242.37,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 240.69,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 243.24,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 238.82,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 238.34,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 236.28,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 232.72,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 232.48,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 232.82,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 230.65,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 232.77,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 235.72,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 237.98,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 237.58,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 235.91,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 236.89,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 235.27,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 234.81,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 235.81,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 238.31,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 235.96,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 239.68,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 244.28,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 239.73,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 239.94,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 244.55,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 245.47,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 242.09,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 239.09,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 241.64,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 241.1,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 244.2,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 239.78,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 243.84,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 239.06,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 238.68,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 233.29,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 232.84,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 229.16,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 230.35,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 231.28,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 232.24,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 232.01,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 232.48,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 231.96,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 228.63,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 229.69,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 231.57,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 232.72,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 231.85,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 238.42,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 232.8,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 234.68,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 235.25,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 231.71,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 233.12,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 233.78,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 235.05,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 233.12,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 235.39,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 234.72,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 234.41,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 235.23,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 232.98,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 232.57,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 228.5,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 226.96,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 224.98,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 223.27,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 224.96,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 230.11,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 236.93,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 236.59,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 234.41,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 238.25,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 238.7,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 238.53,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 233.98,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 233.03,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 231.02,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 232.78,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 231.8,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 232.78,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 237.43,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 237.32,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 234.95,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 232.92,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 230.67,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 230.0,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 232.76,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 228.33,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 228.3,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 227.91,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 226.83,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 224.62,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 220.57,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 222.96,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 224.02,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 228.17,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 225.16,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 229.76,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 233.09,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 230.79,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 229.8,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 230.15,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 233.37,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 236.37,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 231.83,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 236.33,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 236.87,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 240.75,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 240.08,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 235.05,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 240.88,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 234.82,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 234.55,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 231.67,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 233.43,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 234.94,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 233.17,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 235.32,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 233.12,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 233.06,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 235.37,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 234.94,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 233.78,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 233.89,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 234.34,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 235.41,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 235.31,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 237.0,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 237.92,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 239.99,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 241.42,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 241.19,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 235.38,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 232.3,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 231.72,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 237.22,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 235.69,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 233.69,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 235.5,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 234.18,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 234.04,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 231.27,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 231.59,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 234.63,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 233.5,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 234.73,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 236.95,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 235.2,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 237.27,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 241.51,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 241.1,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 241.67,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 239.76,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 237.36,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 238.22,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 237.46,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 237.17,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 238.21,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 235.54,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 236.5,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 240.02,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 241.82,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 240.24,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 240.33,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 243.75,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 240.52,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 239.71,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 240.52,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 238.62,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 238.13,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 238.91,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 237.51,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 236.61,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 233.59,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 235.24,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 234.33,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 237.3,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 240.06,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 227.11,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 231.64,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 234.61,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 231.27,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 231.22,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 227.17,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 225.15,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 224.1,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 222.64,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 222.39,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 225.45,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 224.0,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 225.48,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "BDX",
+        "price": 224.25,
+        "time_posted": "2024-11-26"
+    }
+]

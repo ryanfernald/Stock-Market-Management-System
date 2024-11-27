@@ -1,0 +1,1267 @@
+[
+    {
+        "ticker_symbol": "CAH",
+        "price": 104.62,
+        "time_posted": "2023-11-27"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 104.14,
+        "time_posted": "2023-11-28"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 103.3,
+        "time_posted": "2023-11-29"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 105.04,
+        "time_posted": "2023-11-30"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 105.12,
+        "time_posted": "2023-12-01"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 105.41,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 105.1,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 103.85,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 104.36,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 104.8,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 104.93,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 105.88,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 105.99,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 100.74,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 98.58,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 99.2,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 99.22,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 97.23,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 99.31,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 99.4,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 99.21,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 99.04,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 98.37,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 99.38,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 101.17,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 103.25,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 104.07,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 104.23,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 103.69,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 101.91,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 102.72,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 104.24,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 104.3,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 104.88,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 103.97,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 104.89,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 103.99,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 103.85,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 103.06,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 102.89,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 104.22,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 104.21,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 104.78,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 105.55,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 107.65,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 103.62,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 102.0,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 102.17,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 102.6,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 104.18,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 101.28,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 103.47,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 102.16,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 102.89,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 102.09,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 103.46,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 102.98,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 103.88,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 104.09,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 105.64,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 106.56,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 108.71,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 108.06,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 110.08,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 110.4,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 111.77,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 111.05,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 111.33,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 109.06,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 112.07,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 113.54,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 113.85,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 113.99,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 109.51,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 108.38,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 109.05,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 108.61,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 111.26,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 110.31,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 110.94,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 109.44,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 109.44,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 110.03,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 110.95,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 110.81,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 110.97,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 110.17,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 109.85,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 109.05,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 108.85,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 108.41,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 107.02,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 106.89,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 105.39,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 104.08,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 105.99,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 106.13,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 105.49,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 104.97,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 107.14,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 101.83,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 102.37,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 102.54,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 102.8,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 102.21,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 101.91,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 102.04,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 101.18,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 101.98,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 97.95,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 97.63,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 98.75,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 96.49,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 97.11,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 98.56,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 97.09,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 96.48,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 96.17,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 97.74,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 98.12,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 97.5,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 95.08,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 95.39,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 95.12,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 95.45,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 93.83,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 95.21,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 96.76,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 98.31,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 98.54,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 97.37,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 97.01,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 97.84,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 97.55,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 97.88,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 98.05,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 98.04,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 99.63,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 99.23,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 99.97,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 103.08,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 103.36,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 103.61,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 103.88,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 102.13,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 100.12,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 98.65,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 97.37,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 97.31,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 96.1,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 95.26,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 95.45,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 96.44,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 95.57,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 95.15,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 94.03,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 93.67,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 93.31,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 94.97,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 95.53,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 94.86,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 94.59,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 94.98,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 95.4,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 96.27,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 96.47,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 97.9,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 97.73,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 99.8,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 100.37,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 102.92,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 101.13,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 97.91,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 99.06,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 99.25,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 98.47,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 100.21,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 100.2,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 102.11,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 105.87,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 107.42,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 109.35,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 109.29,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 108.38,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 109.15,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 109.92,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 108.94,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 109.11,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 109.58,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 110.53,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 111.69,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 112.2,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 114.14,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 113.39,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 111.26,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 111.26,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 112.28,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 113.85,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 112.83,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 111.88,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 112.65,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 112.76,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 110.81,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 110.9,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 110.25,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 111.33,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 111.33,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 109.69,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 108.32,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 108.73,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 109.29,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 110.01,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 110.33,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 110.21,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 110.35,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 111.98,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 111.76,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 112.62,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 114.54,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 113.84,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 112.51,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 111.92,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 111.98,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 112.55,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 111.93,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 112.41,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 112.32,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 112.23,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 111.92,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 112.16,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 110.89,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 110.87,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 110.06,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 107.89,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 108.52,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 116.13,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 111.9,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 113.18,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 115.58,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 118.22,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 120.56,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 121.64,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 123.51,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 125.33,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 121.29,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 118.78,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 120.03,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 118.33,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 120.34,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 123.42,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 121.84,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 121.77,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "CAH",
+        "price": 122.44,
+        "time_posted": "2024-11-26"
+    }
+]

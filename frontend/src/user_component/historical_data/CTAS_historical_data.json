@@ -1,0 +1,1267 @@
+[
+    {
+        "ticker_symbol": "CTAS",
+        "price": 136.77,
+        "time_posted": "2023-11-27"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 136.67,
+        "time_posted": "2023-11-28"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 135.37,
+        "time_posted": "2023-11-29"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 136.4,
+        "time_posted": "2023-11-30"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 137.63,
+        "time_posted": "2023-12-01"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 136.84,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 135.86,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 135.83,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 136.52,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 136.42,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 137.96,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 139.18,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 141.74,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 138.91,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 137.75,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 138.23,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 138.13,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 136.5,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 145.45,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 146.75,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 148.52,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 149.46,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 148.19,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 148.58,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 145.93,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 143.06,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 143.58,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 142.32,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 144.01,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 144.11,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 144.72,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 145.03,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 146.2,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 145.11,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 145.19,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 146.11,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 147.69,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 148.3,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 148.83,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 147.42,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 147.56,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 147.38,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 148.42,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 150.1,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 149.05,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 152.25,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 152.68,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 151.78,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 152.34,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 153.26,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 152.16,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 152.42,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 151.3,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 149.39,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 151.39,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 153.45,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 151.88,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 151.87,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 152.87,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 154.95,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 156.43,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 156.64,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 155.21,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 155.85,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 155.32,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 155.26,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 155.48,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 154.53,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 154.63,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 155.27,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 154.52,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 154.3,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 154.85,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 154.01,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 155.59,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 155.02,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 154.42,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 155.09,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 156.9,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 158.67,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 157.99,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 157.07,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 156.51,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 169.42,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 169.76,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 168.16,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 166.97,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 167.74,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 164.2,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 166.46,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 167.39,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 167.46,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 165.79,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 165.83,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 165.16,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 164.25,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 164.7,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 165.18,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 163.68,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 163.4,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 164.32,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 164.64,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 164.1,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 164.38,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 164.62,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 164.52,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 162.67,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 163.97,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 163.65,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 166.55,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 169.43,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 171.18,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 170.63,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 172.04,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 173.03,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 170.52,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 171.27,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 172.44,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 172.18,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 172.37,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 173.7,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 174.32,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 174.77,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 173.35,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 170.05,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 166.94,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 165.24,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 166.67,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 168.84,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 167.99,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 169.97,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 170.8,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 169.88,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 169.89,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 170.39,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 171.08,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 172.46,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 172.33,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 173.26,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 176.18,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 177.07,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 175.95,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 176.45,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 177.07,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 178.05,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 176.19,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 177.23,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 174.39,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 172.86,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 175.41,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 174.99,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 177.25,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 177.08,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 177.14,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 178.25,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 178.28,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 179.75,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 178.03,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 180.67,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 179.25,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 189.01,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 188.91,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 192.27,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 188.28,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 187.79,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 187.99,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 189.62,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 190.48,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 190.81,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 190.25,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 189.75,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 188.46,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 184.25,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 185.63,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 184.34,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 186.89,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 188.19,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 189.18,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 189.05,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 190.06,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 191.59,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 190.87,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 192.9,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 193.32,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 195.39,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 195.81,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 196.77,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 198.06,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 199.54,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 199.09,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 199.45,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 200.92,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 199.49,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 200.83,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 199.37,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 195.12,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 200.82,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 203.74,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 204.59,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 205.65,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 207.4,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 204.58,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 203.4,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 201.02,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 203.37,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 203.79,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 203.62,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 204.48,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 206.84,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 206.64,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 201.99,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 205.51,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 203.49,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 204.93,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 204.18,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 204.54,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 204.1,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 206.65,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 208.76,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 205.76,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 207.68,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 211.12,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 210.32,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 212.55,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 213.44,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 213.64,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 211.17,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 211.16,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 209.33,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 208.75,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 207.04,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 208.22,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 208.76,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 207.48,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 205.44,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 205.25,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 207.19,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 208.61,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 216.63,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 219.13,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 225.31,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 223.71,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 224.33,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 223.22,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 216.66,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 215.2,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 216.2,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 217.97,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 218.75,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 221.49,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 221.76,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 223.9,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "CTAS",
+        "price": 226.47,
+        "time_posted": "2024-11-26"
+    }
+]

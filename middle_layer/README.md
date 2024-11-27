@@ -1,5 +1,3 @@
-dependencies for main_fetch:  
-pip install yfinance  
-pip install yfinance pandas requests lxml  
-pip install python-dotenv  
+to run fetching scripts/functions:  
+pip install -r requirements.txt
 go to https://finnhub.io get an api key, then slap it in your .env

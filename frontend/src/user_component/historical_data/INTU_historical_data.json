@@ -1,0 +1,1267 @@
+[
+    {
+        "ticker_symbol": "INTU",
+        "price": 557.89,
+        "time_posted": "2023-11-27"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 561.71,
+        "time_posted": "2023-11-28"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 573.8,
+        "time_posted": "2023-11-29"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 568.06,
+        "time_posted": "2023-11-30"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 570.91,
+        "time_posted": "2023-12-01"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 567.08,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 568.38,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 562.87,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 568.09,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 570.49,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 583.17,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 590.65,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 606.59,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 597.61,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 604.89,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 614.76,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 617.77,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 612.05,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 617.3,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 620.36,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 621.14,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 625.38,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 624.29,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 621.32,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 600.17,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 587.63,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 583.33,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 585.52,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 594.82,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 602.49,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 605.99,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 606.0,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 609.08,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 601.15,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 597.17,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 608.64,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 619.41,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 627.81,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 632.99,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 633.35,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 638.64,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 638.51,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 649.98,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 644.84,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 628.52,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 630.05,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 636.74,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 637.75,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 632.48,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 640.31,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 650.17,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 655.23,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 654.07,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 635.45,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 654.21,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 661.33,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 652.83,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 643.04,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 635.43,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 655.0,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 656.88,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 660.89,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 666.38,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 656.23,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 659.94,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 663.56,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 665.44,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 636.89,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 647.39,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 646.45,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 648.83,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 647.98,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 659.69,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 652.16,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 647.15,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 622.74,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 627.59,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 631.73,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 636.81,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 648.39,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 640.88,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 636.25,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 637.2,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 645.86,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 647.11,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 637.0,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 623.8,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 620.23,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 618.52,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 632.91,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 642.41,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 642.12,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 626.44,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 625.79,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 619.21,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 610.25,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 609.62,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 611.34,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 606.52,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 603.32,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 607.91,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 628.95,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 633.55,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 624.48,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 634.61,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 636.44,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 623.71,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 613.32,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 612.16,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 627.35,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 632.7,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 639.19,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 630.5,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 624.95,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 630.38,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 625.27,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 633.48,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 653.13,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 651.37,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 659.16,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 668.1,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 665.78,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 668.22,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 660.24,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 605.14,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 598.19,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 596.45,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 561.25,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 574.68,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 565.49,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 570.31,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 572.52,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 570.9,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 572.15,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 565.51,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 564.97,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 590.41,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 592.8,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 593.88,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 600.68,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 607.82,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 614.2,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 630.22,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 621.97,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 628.54,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 635.53,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 649.45,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 655.2,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 648.78,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 654.22,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 657.88,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 666.71,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 657.57,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 648.43,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 631.78,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 628.36,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 640.88,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 657.08,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 665.04,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 657.81,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 636.4,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 635.49,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 643.44,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 636.03,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 619.2,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 625.27,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 632.3,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 635.3,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 634.74,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 646.27,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 636.75,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 622.88,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 601.96,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 611.27,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 608.43,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 625.07,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 629.15,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 626.36,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 644.75,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 635.67,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 651.05,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 652.44,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 662.19,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 666.16,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 669.37,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 664.18,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 618.81,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 616.09,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 625.27,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 616.01,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 621.76,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 629.21,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 623.76,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 622.06,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 620.44,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 614.09,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 625.94,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 632.56,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 642.84,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 645.29,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 654.21,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 645.17,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 643.74,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 632.01,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 653.15,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 643.91,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 640.9,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 637.13,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 633.68,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 635.76,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 617.99,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 619.96,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 605.27,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 606.26,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 602.8,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 609.65,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 601.42,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 612.34,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 620.57,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 619.3,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 616.68,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 617.16,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 617.89,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 609.39,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 609.23,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 613.29,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 613.93,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 609.59,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 602.01,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 603.98,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 609.27,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 612.09,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 623.7,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 621.11,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 610.3,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 621.74,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 619.01,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 618.83,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 648.39,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 674.15,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 684.22,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 697.35,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 699.47,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 706.25,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 700.76,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 687.87,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 678.81,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 644.17,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 650.6,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 678.7,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 640.12,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 634.62,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "INTU",
+        "price": 638.83,
+        "time_posted": "2024-11-26"
+    }
+]

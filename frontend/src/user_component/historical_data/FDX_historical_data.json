@@ -1,0 +1,1267 @@
+[
+    {
+        "ticker_symbol": "FDX",
+        "price": 248.55,
+        "time_posted": "2023-11-27"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 248.36,
+        "time_posted": "2023-11-28"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 248.87,
+        "time_posted": "2023-11-29"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 253.68,
+        "time_posted": "2023-11-30"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 259.16,
+        "time_posted": "2023-12-01"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 260.31,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 260.78,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 261.89,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 262.3,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 268.05,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 267.24,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 268.84,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 269.65,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 275.19,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 276.99,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 277.61,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 275.72,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 242.49,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 243.58,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 244.24,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 248.14,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 247.11,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 249.71,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 249.11,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 248.39,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 243.86,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 241.54,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 243.04,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 244.79,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 243.47,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 246.98,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 247.02,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 244.77,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 241.3,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 239.57,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 240.34,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 242.76,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 246.86,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 247.02,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 245.92,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 249.26,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 247.71,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 244.24,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 240.05,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 237.6,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 238.25,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 238.66,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 234.67,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 237.63,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 238.43,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 238.06,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 238.91,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 240.71,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 232.78,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 233.21,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 232.91,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 233.96,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 235.88,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 237.72,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 240.43,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 239.74,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 237.44,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 237.71,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 240.64,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 245.17,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 242.83,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 243.0,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 244.92,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 244.61,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 246.42,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 245.13,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 250.1,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 251.6,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 252.59,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 252.9,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 250.68,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 250.57,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 253.98,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 257.31,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 262.12,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 281.39,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 279.66,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 286.02,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 284.92,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 286.76,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 277.25,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 272.46,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 275.62,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 272.68,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 270.71,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 272.73,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 273.53,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 267.52,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 269.38,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 265.04,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 264.0,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 262.21,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 260.36,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 260.66,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 264.24,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 267.37,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 268.95,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 263.33,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 262.79,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 263.1,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 263.12,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 259.09,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 258.05,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 259.33,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 257.97,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 257.61,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 256.8,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 255.36,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 259.36,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 263.0,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 264.14,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 256.37,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 256.65,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 256.12,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 254.6,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 252.09,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 249.73,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 249.48,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 246.72,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 245.04,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 245.49,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 242.59,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 247.01,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 251.35,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 246.06,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 243.42,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 245.5,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 247.69,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 245.18,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 251.11,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 249.83,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 246.04,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 246.04,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 243.89,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 247.49,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 245.54,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 249.92,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 251.05,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 255.26,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 255.13,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 294.75,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 294.03,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 298.38,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 297.22,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 296.77,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 292.28,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 292.57,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 294.09,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 291.3,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 291.84,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 298.08,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 297.56,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 303.53,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 311.99,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 308.92,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 305.13,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 304.82,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 305.93,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 299.33,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 296.83,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 297.13,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 298.68,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 297.77,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 299.41,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 300.78,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 296.38,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 290.87,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 281.71,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 284.34,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 276.77,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 277.26,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 276.06,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 277.79,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 281.72,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 281.95,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 282.79,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 284.01,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 287.01,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 287.03,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 290.1,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 292.85,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 295.73,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 295.79,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 293.46,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 294.69,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 294.81,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 297.31,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 292.05,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 291.41,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 283.92,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 281.66,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 283.3,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 283.85,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 284.86,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 286.0,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 286.38,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 292.63,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 297.34,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 298.17,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 300.39,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 254.64,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 258.79,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 267.13,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 263.77,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 266.33,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 267.55,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 273.68,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 269.56,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 266.93,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 262.08,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 260.84,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 260.5,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 261.4,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 264.64,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 264.27,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 264.36,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 267.45,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 265.92,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 271.8,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 274.26,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 274.4,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 268.81,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 269.79,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 268.05,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 272.87,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 272.12,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 275.45,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 275.04,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 274.08,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 273.85,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 274.35,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 271.18,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 275.42,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 280.06,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 283.21,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 286.28,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 289.79,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 287.27,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 291.89,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 292.29,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 294.46,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 295.21,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 293.06,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 288.03,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 295.16,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 299.97,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 305.15,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "FDX",
+        "price": 302.98,
+        "time_posted": "2024-11-26"
+    }
+]

@@ -1,0 +1,1267 @@
+[
+    {
+        "ticker_symbol": "AMP",
+        "price": 344.74,
+        "time_posted": "2023-11-27"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 340.87,
+        "time_posted": "2023-11-28"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 343.64,
+        "time_posted": "2023-11-29"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 348.73,
+        "time_posted": "2023-11-30"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 351.47,
+        "time_posted": "2023-12-01"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 348.95,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 347.79,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 345.4,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 347.96,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 352.74,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 360.49,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 365.22,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 366.75,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 374.84,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 372.74,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 371.03,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 376.46,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 367.74,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 370.94,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 370.96,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 373.13,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 374.89,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 375.99,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 374.69,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 373.9,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 375.39,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 373.91,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 376.93,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 379.24,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 370.82,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 372.88,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 373.15,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 371.31,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 368.42,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 367.03,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 369.81,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 376.51,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 381.87,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 382.55,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 384.19,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 386.09,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 386.11,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 387.79,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 388.23,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 381.6,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 380.8,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 385.4,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 384.79,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 382.8,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 386.07,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 390.84,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 392.93,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 393.35,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 385.95,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 387.4,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 393.81,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 393.78,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 392.77,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 391.36,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 399.25,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 403.0,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 403.8,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 404.58,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 406.49,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 403.24,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 406.44,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 408.21,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 408.42,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 411.27,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 408.61,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 407.84,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 407.53,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 408.81,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 412.54,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 409.76,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 415.25,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 420.07,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 424.65,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 426.77,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 431.32,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 425.81,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 427.15,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 426.86,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 431.57,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 434.01,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 430.43,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 428.82,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 431.81,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 424.55,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 430.41,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 431.36,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 425.25,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 421.67,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 418.21,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 409.52,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 407.02,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 406.69,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 407.61,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 408.46,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 412.79,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 417.12,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 403.57,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 408.68,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 406.75,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 405.86,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 412.14,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 407.63,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 409.26,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 412.27,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 416.19,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 422.16,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 422.07,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 423.14,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 427.2,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 430.7,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 429.1,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 432.46,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 436.5,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 433.11,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 431.26,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 430.25,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 431.22,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 435.11,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 431.29,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 438.07,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 432.11,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 425.16,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 427.68,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 433.74,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 428.2,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 421.76,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 424.83,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 422.71,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 423.82,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 425.65,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 419.24,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 425.49,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 424.1,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 421.07,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 429.7,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 434.19,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 439.31,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 437.98,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 437.45,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 435.25,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 431.02,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 427.51,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 424.38,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 423.28,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 431.01,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 431.14,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 429.3,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 424.25,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 430.44,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 437.7,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 436.92,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 443.33,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 442.87,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 426.23,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 418.78,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 415.24,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 408.18,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 417.24,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 418.62,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 421.46,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 438.76,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 436.65,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 429.21,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 429.03,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 427.24,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 415.61,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 399.96,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 390.39,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 394.42,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 391.58,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 399.36,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 403.81,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 403.36,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 407.07,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 418.64,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 422.83,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 430.13,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 434.07,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 432.76,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 432.34,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 432.43,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 438.4,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 440.1,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 438.05,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 438.2,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 441.68,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 448.13,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 440.67,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 441.62,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 438.27,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 428.91,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 435.08,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 432.79,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 434.5,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 434.11,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 439.1,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 443.84,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 450.91,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 450.01,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 462.39,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 459.27,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 460.72,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 462.03,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 461.74,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 466.15,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 467.25,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 468.44,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 471.76,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 478.94,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 478.14,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 485.52,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 479.15,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 482.33,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 491.8,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 489.94,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 501.03,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 502.88,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 509.74,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 516.06,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 519.89,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 521.63,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 521.11,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 518.04,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 518.95,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 502.74,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 503.01,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 511.9,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 514.8,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 512.54,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 508.81,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 505.7,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 506.59,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 513.95,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 567.43,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 547.61,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 551.99,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 564.0,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 561.31,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 559.89,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 561.54,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 562.44,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 565.04,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 562.56,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 561.4,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 570.21,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 572.07,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 570.21,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "AMP",
+        "price": 574.01,
+        "time_posted": "2024-11-26"
+    }
+]

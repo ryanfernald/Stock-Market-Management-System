@@ -1,0 +1,1267 @@
+[
+    {
+        "ticker_symbol": "UNH",
+        "price": 535.44,
+        "time_posted": "2023-11-27"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 532.42,
+        "time_posted": "2023-11-28"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 526.96,
+        "time_posted": "2023-11-29"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 544.68,
+        "time_posted": "2023-11-30"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 540.79,
+        "time_posted": "2023-12-01"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 541.9,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 543.86,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 543.13,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 541.89,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 543.37,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 537.35,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 539.37,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 542.62,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 528.02,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 524.94,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 520.42,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 517.94,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 509.93,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 513.83,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 514.25,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 513.98,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 516.71,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 518.79,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 520.34,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 533.06,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 535.72,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 539.07,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 531.13,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 530.28,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 532.1,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 531.38,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 533.4,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 515.44,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 513.11,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 518.83,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 510.33,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 497.7,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 507.02,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 509.52,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 507.26,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 487.66,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 497.34,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 498.67,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 497.75,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 505.78,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 501.24,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 504.29,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 497.11,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 504.73,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 513.34,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 514.04,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 512.19,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 511.62,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 510.83,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 510.92,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 514.82,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 515.48,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 515.0,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 515.89,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 520.37,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 521.1,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 519.21,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 507.44,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 492.48,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 487.85,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 483.83,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 476.26,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 467.64,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 467.1,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 473.21,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 472.88,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 485.36,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 485.56,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 484.22,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 485.21,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 487.02,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 483.28,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 489.5,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 490.4,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 487.88,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 486.28,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 482.12,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 488.5,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 489.28,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 490.87,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 485.91,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 454.59,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 456.18,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 451.85,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 452.21,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 452.47,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 456.16,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 446.57,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 438.3,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 435.8,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 442.18,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 465.26,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 475.28,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 489.36,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 497.25,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 487.43,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 482.42,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 483.53,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 490.04,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 491.51,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 485.24,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 479.95,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 480.36,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 489.15,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 488.64,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 490.55,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 497.08,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 499.31,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 503.1,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 508.84,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 507.78,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 509.9,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 513.54,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 517.23,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 520.57,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 513.23,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 519.5,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 517.31,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 512.83,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 504.24,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 499.78,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 480.97,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 477.92,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 491.53,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 493.59,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 501.58,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 499.22,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 498.03,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 486.89,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 491.17,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 492.38,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 489.25,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 493.45,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 493.27,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 487.5,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 479.35,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 482.81,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 480.88,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 488.25,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 482.79,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 482.33,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 484.72,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 507.46,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 492.9,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 496.48,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 488.16,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 486.29,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 487.61,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 490.37,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 499.16,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 502.58,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 509.72,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 513.55,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 546.93,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 571.25,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 562.35,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 563.33,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 556.56,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 552.74,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 557.77,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 557.7,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 567.71,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 564.75,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 574.29,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 574.12,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 570.75,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 587.75,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 567.95,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 566.34,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 564.08,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 564.24,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 556.79,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 563.29,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 572.21,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 577.62,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 577.56,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 575.64,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 576.73,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 578.6,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 576.03,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 576.68,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 582.44,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 585.06,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 585.27,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 586.46,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 589.48,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 588.11,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 596.56,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 602.05,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 593.39,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 594.77,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 592.0,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 596.91,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 587.67,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 586.34,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 592.22,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 589.14,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 577.96,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 580.65,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 577.07,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 575.0,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 573.41,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 575.19,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 576.31,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 574.81,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 581.85,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 584.68,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 583.3,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 592.31,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 592.75,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 591.2,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 583.56,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 581.58,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 591.22,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 597.7,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 598.05,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 605.4,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 556.29,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 571.34,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 566.03,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 569.61,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 571.47,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 569.86,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 564.64,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 560.81,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 564.56,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 565.24,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 562.13,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 562.96,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 564.5,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 567.56,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 557.77,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 567.03,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 596.69,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 605.45,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 615.81,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 625.25,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 614.67,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 605.87,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 593.15,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 592.23,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 589.65,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 577.0,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 600.5,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 597.49,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 590.87,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 605.83,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "UNH",
+        "price": 606.79,
+        "time_posted": "2024-11-26"
+    }
+]

@@ -1,0 +1,1267 @@
+[
+    {
+        "ticker_symbol": "INTC",
+        "price": 43.5,
+        "time_posted": "2023-11-27"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 43.65,
+        "time_posted": "2023-11-28"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 44.35,
+        "time_posted": "2023-11-29"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 44.11,
+        "time_posted": "2023-11-30"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 43.16,
+        "time_posted": "2023-12-01"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 41.79,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 41.37,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 40.72,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 41.59,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 42.14,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 43.95,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 43.46,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 43.98,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 44.58,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 45.55,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 45.09,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 46.04,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 45.16,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 46.46,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 47.37,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 49.83,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 50.09,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 49.72,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 49.59,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 47.17,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 46.43,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 46.25,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 46.27,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 47.81,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 47.41,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 46.84,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 47.01,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 46.5,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 46.44,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 45.45,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 46.12,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 47.51,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 47.58,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 48.24,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 48.44,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 48.9,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 43.07,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 43.26,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 42.35,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 42.51,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 42.79,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 42.04,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 42.2,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 42.3,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 42.34,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 42.06,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 42.86,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 43.58,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 42.71,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 43.73,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 43.6,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 43.06,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 44.06,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 43.02,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 42.54,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 42.55,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 42.55,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 42.29,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 41.56,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 42.61,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 43.37,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 45.14,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 42.71,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 44.05,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 45.67,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 43.55,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 44.4,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 44.77,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 42.78,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 42.31,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 42.2,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 42.27,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 41.62,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 41.76,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 41.98,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 42.13,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 41.4,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 41.56,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 43.32,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 43.71,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 44.06,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 43.49,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 39.91,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 39.32,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 38.31,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 37.59,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 37.93,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 36.82,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 37.24,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 35.32,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 35.94,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 35.89,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 35.31,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 34.68,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 33.85,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 34.05,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 33.93,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 34.14,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 34.75,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 31.55,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 31.04,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 30.16,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 30.06,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 30.2,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 30.58,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 30.77,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 30.49,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 29.81,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 29.9,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 29.66,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 30.32,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 30.85,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 31.07,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 31.83,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 31.63,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 31.9,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 31.54,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 31.22,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 29.89,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 30.53,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 30.86,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 29.94,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 30.0,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 30.66,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 30.1,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 29.84,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 30.59,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 30.23,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 30.55,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 30.72,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 30.73,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 30.57,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 30.27,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 30.26,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 30.78,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 30.44,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 30.43,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 30.89,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 30.38,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 30.55,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 30.35,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 30.4,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 30.77,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 30.65,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 30.87,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 31.03,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 31.82,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 33.78,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 34.37,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 34.65,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 33.29,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 34.27,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 34.24,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 34.12,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 34.24,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 34.65,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 32.77,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 33.16,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 32.74,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 31.5,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 30.9,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 31.15,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 30.64,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 29.94,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 30.55,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 28.87,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 21.34,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 19.98,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 19.7,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 18.99,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 20.49,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 19.71,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 19.36,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 20.47,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 19.92,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 20.69,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 20.87,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 21.52,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 20.99,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 21.41,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 20.1,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 20.54,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 20.13,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 20.07,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 19.61,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 20.13,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 22.04,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 20.1,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 19.43,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 19.4,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 18.89,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 19.07,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 18.98,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 19.64,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 19.36,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 19.66,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 20.91,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 21.47,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 20.77,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 21.14,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 21.84,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 22.56,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 22.81,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 23.54,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 23.92,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 23.91,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 23.46,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 22.69,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 22.39,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 22.26,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 22.59,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 22.38,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 23.32,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 23.46,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 23.22,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 23.56,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 23.44,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 22.66,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 22.31,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 22.44,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 22.77,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 22.84,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 22.4,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 21.98,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 22.34,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 22.68,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 22.92,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 22.9,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 22.3,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 21.52,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 23.2,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 22.52,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 23.32,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 25.05,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 26.23,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 26.2,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 25.05,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 24.16,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 24.92,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 25.03,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 24.35,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 24.84,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 24.2,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 24.01,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 24.44,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 24.5,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 24.87,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "INTC",
+        "price": 24.05,
+        "time_posted": "2024-11-26"
+    }
+]

@@ -1,0 +1,1267 @@
+[
+    {
+        "ticker_symbol": "SBAC",
+        "price": 233.15,
+        "time_posted": "2023-11-27"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 237.76,
+        "time_posted": "2023-11-28"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 240.73,
+        "time_posted": "2023-11-29"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 242.46,
+        "time_posted": "2023-11-30"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 246.01,
+        "time_posted": "2023-12-01"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 244.37,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 245.83,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 246.91,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 246.55,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 239.73,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 237.95,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 235.21,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 243.54,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 246.26,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 243.96,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 242.04,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 244.25,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 241.81,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 247.22,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 246.85,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 247.99,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 249.58,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 249.62,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 249.07,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 250.34,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 243.79,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 245.34,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 242.1,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 243.89,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 241.11,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 238.45,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 234.99,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 235.53,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 233.67,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 228.67,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 228.35,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 226.67,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 229.53,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 228.97,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 223.14,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 228.31,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 223.76,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 223.42,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 219.04,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 219.78,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 226.71,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 220.62,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 213.64,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 214.62,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 213.05,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 212.26,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 213.49,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 211.72,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 205.09,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 205.26,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 208.11,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 203.03,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 203.27,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 203.7,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 207.35,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 209.08,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 204.0,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 196.31,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 201.42,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 205.42,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 204.5,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 208.19,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 212.56,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 213.02,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 214.16,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 219.63,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 219.67,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 216.36,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 216.76,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 213.14,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 212.5,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 210.31,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 212.11,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 212.74,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 212.05,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 212.49,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 215.36,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 211.25,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 215.06,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 213.7,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 210.96,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 210.0,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 211.67,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 210.83,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 210.45,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 210.06,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 215.58,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 201.55,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 202.2,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 199.05,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 197.1,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 192.36,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 193.51,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 193.24,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 193.35,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 194.08,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 195.56,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 196.25,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 195.19,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 193.52,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 199.1,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 183.55,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 186.5,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 191.19,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 190.42,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 189.93,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 193.29,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 194.49,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 195.74,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 194.78,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 195.29,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 196.35,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 199.56,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 200.06,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 196.62,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 195.67,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 195.63,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 192.04,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 187.1,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 186.41,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 185.62,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 184.71,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 191.47,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 194.92,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 195.0,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 196.86,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 195.13,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 193.62,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 191.66,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 191.43,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 190.63,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 194.54,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 195.25,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 194.21,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 189.48,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 189.48,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 189.08,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 192.89,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 195.41,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 190.95,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 191.84,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 195.19,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 194.55,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 188.08,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 187.31,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 190.46,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 189.13,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 192.23,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 193.78,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 193.45,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 207.99,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 210.93,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 208.38,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 211.16,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 212.31,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 209.36,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 207.13,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 206.95,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 205.48,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 203.61,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 209.18,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 212.79,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 215.87,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 215.99,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 217.58,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 225.13,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 227.68,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 219.13,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 218.35,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 213.06,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 214.95,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 211.01,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 214.25,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 216.61,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 215.92,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 212.85,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 216.22,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 216.36,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 217.53,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 217.34,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 217.39,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 226.26,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 226.52,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 227.49,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 226.65,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 225.52,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 225.64,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 229.77,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 232.17,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 232.32,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 237.44,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 238.75,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 241.44,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 240.76,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 238.77,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 241.86,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 243.99,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 243.9,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 238.83,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 237.22,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 238.4,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 239.45,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 240.89,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 238.26,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 235.2,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 237.57,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 239.62,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 241.55,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 240.88,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 238.83,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 234.31,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 236.64,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 237.55,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 234.41,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 232.18,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 232.46,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 238.74,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 248.19,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 247.63,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 246.09,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 246.36,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 242.38,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 240.38,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 242.6,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 244.97,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 240.71,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 238.86,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 230.71,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 230.84,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 228.44,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 224.58,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 227.74,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 227.34,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 217.77,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 220.59,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 222.92,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 219.2,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 218.62,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 217.53,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 218.47,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 221.09,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 221.61,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 219.47,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 218.94,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 219.43,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 220.66,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 225.98,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "SBAC",
+        "price": 226.59,
+        "time_posted": "2024-11-26"
+    }
+]

@@ -1,0 +1,1267 @@
+[
+    {
+        "ticker_symbol": "GD",
+        "price": 241.48,
+        "time_posted": "2023-11-27"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 240.36,
+        "time_posted": "2023-11-28"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 239.98,
+        "time_posted": "2023-11-29"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 242.08,
+        "time_posted": "2023-11-30"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 244.74,
+        "time_posted": "2023-12-01"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 247.21,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 245.92,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 246.96,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 246.51,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 247.29,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 247.42,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 248.18,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 250.78,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 246.18,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 247.55,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 247.86,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 248.86,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 244.62,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 247.43,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 249.07,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 251.13,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 252.33,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 253.03,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 254.53,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 253.48,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 251.46,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 251.11,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 248.87,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 248.79,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 246.26,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 246.27,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 244.99,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 249.76,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 245.68,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 245.02,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 247.28,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 245.7,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 246.11,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 245.73,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 257.37,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 261.98,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 261.2,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 260.91,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 264.75,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 261.12,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 262.97,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 261.4,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 261.64,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 263.78,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 265.16,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 265.07,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 266.19,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 265.5,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 263.32,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 265.17,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 266.06,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 265.5,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 265.0,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 267.93,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 268.35,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 269.75,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 269.03,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 269.7,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 270.3,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 269.26,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 267.98,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 270.7,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 269.6,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 269.7,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 269.04,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 268.33,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 269.28,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 270.64,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 271.34,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 271.38,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 271.19,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 273.55,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 275.61,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 278.42,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 277.23,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 277.05,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 274.91,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 274.28,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 277.78,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 278.36,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 287.29,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 286.3,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 287.43,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 288.94,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 290.87,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 288.85,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 284.62,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 285.8,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 284.69,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 285.06,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 281.97,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 282.52,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 281.68,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 282.49,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 285.8,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 288.47,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 289.86,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 278.37,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 282.12,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 281.63,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 284.98,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 284.29,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 283.73,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 284.56,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 285.33,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 288.54,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 290.51,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 289.88,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 293.08,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 293.55,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 290.67,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 291.19,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 291.72,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 292.86,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 296.1,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 297.3,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 294.16,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 295.1,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 293.63,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 296.7,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 294.44,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 290.62,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 293.19,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 296.85,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 295.35,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 294.42,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 296.53,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 295.36,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 296.22,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 291.8,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 289.79,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 291.47,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 289.67,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 288.93,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 290.96,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 295.09,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 296.71,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 295.34,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 295.62,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 292.4,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 291.66,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 289.65,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 287.31,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 285.06,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 283.02,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 282.1,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 280.33,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 279.12,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 278.17,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 280.56,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 282.79,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 282.53,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 284.05,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 290.19,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 290.59,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 291.86,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 286.84,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 289.81,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 293.05,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 283.3,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 289.58,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 289.01,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 288.1,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 291.6,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 297.28,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 292.04,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 290.99,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 284.53,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 284.01,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 285.79,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 289.41,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 291.58,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 289.8,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 290.8,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 292.32,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 294.53,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 295.17,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 294.18,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 294.38,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 292.66,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 292.04,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 290.05,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 289.6,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 288.81,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 295.22,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 296.4,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 297.92,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 293.51,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 292.94,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 295.86,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 291.38,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 300.11,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 300.95,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 298.15,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 299.23,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 303.34,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 306.07,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 302.39,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 300.93,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 303.27,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 305.4,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 306.61,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 303.21,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 300.24,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 299.05,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 298.69,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 300.75,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 303.87,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 302.46,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 298.17,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 299.22,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 295.86,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 295.48,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 297.26,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 294.63,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 299.44,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 301.86,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 300.21,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 304.87,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 308.23,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 308.48,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 308.08,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 305.99,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 304.4,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 301.27,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 302.52,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 303.92,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 301.75,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 301.37,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 291.61,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 292.99,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 293.6,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 296.65,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 308.46,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 306.0,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 309.47,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 313.91,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 312.05,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 314.03,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 292.42,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 287.99,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 286.0,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 280.96,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 280.05,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 279.93,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 281.81,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 281.35,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "GD",
+        "price": 282.02,
+        "time_posted": "2024-11-26"
+    }
+]

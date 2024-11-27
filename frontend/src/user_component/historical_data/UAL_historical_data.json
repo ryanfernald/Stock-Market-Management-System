@@ -1,0 +1,1267 @@
+[
+    {
+        "ticker_symbol": "UAL",
+        "price": 39.21,
+        "time_posted": "2023-11-27"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 38.96,
+        "time_posted": "2023-11-28"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 39.25,
+        "time_posted": "2023-11-29"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 39.4,
+        "time_posted": "2023-11-30"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 40.24,
+        "time_posted": "2023-12-01"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 40.52,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 39.59,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 40.93,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 41.26,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 40.97,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 40.56,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 41.1,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 41.58,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 43.59,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 43.58,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 42.33,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 42.42,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 41.18,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 42.58,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 42.55,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 42.08,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 41.73,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 41.97,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 41.26,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 40.72,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 39.53,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 40.47,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 41.76,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 42.92,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 43.54,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 44.26,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 44.51,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 39.78,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 38.93,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 37.88,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 39.77,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 38.82,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 38.45,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 40.49,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 40.84,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 42.96,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 42.55,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 42.09,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 41.66,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 41.38,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 41.5,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 41.37,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 40.01,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 41.23,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 41.28,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 41.62,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 42.33,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 43.02,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 41.62,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 42.83,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 42.83,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 41.99,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 43.46,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 44.05,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 45.26,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 45.51,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 44.97,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 44.9,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 44.76,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 45.49,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 44.84,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 44.14,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 43.74,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 44.07,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 44.12,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 43.3,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 42.89,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 42.17,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 43.04,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 42.85,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 43.62,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 43.55,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 43.91,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 45.98,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 46.63,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 46.47,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 44.89,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 45.42,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 47.24,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 47.88,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 47.35,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 45.65,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 44.62,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 43.22,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 43.19,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 43.31,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 43.44,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 42.37,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 43.04,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 41.8,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 41.04,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 41.5,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 48.74,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 51.42,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 51.38,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 53.94,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 54.03,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 52.67,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 53.51,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 52.84,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 52.97,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 51.46,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 50.67,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 51.68,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 51.65,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 53.97,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 52.69,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 53.02,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 52.63,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 52.72,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 54.4,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 55.09,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 54.96,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 54.78,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 54.97,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 54.62,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 53.03,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 52.42,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 51.76,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 51.73,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 50.64,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 51.83,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 51.34,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 52.99,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 52.72,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 52.34,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 52.91,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 53.3,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 53.0,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 53.03,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 52.05,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 52.93,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 52.07,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 49.69,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 50.36,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 49.58,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 48.9,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 48.18,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 49.18,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 48.52,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 48.07,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 48.2,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 48.66,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 48.33,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 48.2,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 48.51,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 47.0,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 46.82,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 47.2,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 47.15,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 45.64,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 44.72,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 44.32,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 47.07,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 46.94,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 46.39,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 47.93,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 48.19,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 48.22,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 46.02,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 46.72,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 47.37,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 46.76,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 46.61,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 45.42,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 42.38,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 40.19,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 37.88,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 38.8,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 38.76,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 41.18,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 41.46,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 40.42,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 40.92,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 40.24,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 42.66,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 42.07,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 42.35,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 41.76,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 41.99,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 41.44,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 43.32,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 42.78,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 42.14,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 41.33,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 42.64,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 44.04,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 43.87,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 44.17,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 45.12,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 46.01,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 48.75,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 48.42,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 48.47,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 49.65,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 50.22,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 51.34,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 52.64,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 52.96,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 52.59,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 52.17,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 52.36,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 53.63,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 54.11,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 58.85,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 57.99,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 57.06,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 56.13,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 55.74,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 55.62,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 59.22,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 59.18,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 60.01,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 59.43,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 60.26,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 61.8,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 63.53,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 64.05,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 72.02,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 73.33,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 74.15,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 74.0,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 74.49,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 73.45,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 74.51,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 74.64,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 76.09,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 76.93,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 80.42,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 78.26,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 80.46,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 77.25,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 80.03,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 87.58,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 85.43,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 87.51,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 89.43,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 89.13,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 89.78,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 91.16,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 91.17,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 90.38,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 94.26,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 94.63,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 94.4,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 95.24,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 96.83,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "UAL",
+        "price": 96.51,
+        "time_posted": "2024-11-26"
+    }
+]

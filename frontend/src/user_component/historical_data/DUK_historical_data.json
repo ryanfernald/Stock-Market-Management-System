@@ -1,0 +1,1267 @@
+[
+    {
+        "ticker_symbol": "DUK",
+        "price": 87.36,
+        "time_posted": "2023-11-27"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 87.55,
+        "time_posted": "2023-11-28"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 87.15,
+        "time_posted": "2023-11-29"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 88.66,
+        "time_posted": "2023-11-30"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 89.01,
+        "time_posted": "2023-12-01"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 89.09,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 88.84,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 90.25,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 90.75,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 90.69,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 91.62,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 91.59,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 94.23,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 94.45,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 92.84,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 93.36,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 93.01,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 91.93,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 92.58,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 93.06,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 92.94,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 92.52,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 93.12,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 93.23,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 93.97,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 94.9,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 94.63,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 94.67,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 95.49,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 95.2,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 95.39,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 93.34,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 94.6,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 94.18,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 93.03,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 92.1,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 91.81,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 91.33,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 91.86,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 90.83,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 91.97,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 92.11,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 92.01,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 91.78,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 92.07,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 93.95,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 92.45,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 91.51,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 91.33,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 91.75,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 89.02,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 88.09,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 89.02,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 88.02,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 87.76,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 89.74,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 89.28,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 89.34,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 90.36,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 89.52,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 90.1,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 88.08,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 88.28,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 88.17,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 89.23,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 88.29,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 89.8,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 90.06,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 91.41,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 91.8,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 92.25,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 93.13,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 92.32,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 92.79,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 92.36,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 92.03,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 92.25,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 92.45,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 92.71,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 92.27,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 91.93,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 92.15,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 91.02,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 93.37,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 93.97,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 93.35,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 93.81,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 93.25,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 93.4,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 93.19,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 93.58,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 94.56,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 92.71,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 92.59,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 92.21,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 91.46,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 90.24,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 91.82,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 93.21,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 95.46,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 95.34,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 95.42,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 96.16,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 96.22,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 94.94,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 95.93,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 95.48,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 96.95,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 96.5,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 97.42,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 97.58,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 99.36,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 99.48,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 100.1,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 99.76,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 99.98,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 99.41,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 100.42,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 100.93,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 101.96,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 101.73,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 102.44,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 101.52,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 99.9,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 100.27,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 99.3,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 98.55,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 99.42,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 101.64,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 101.49,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 102.66,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 101.28,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 100.95,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 100.71,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 100.61,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 100.46,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 99.44,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 99.38,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 100.46,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 98.93,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 98.17,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 98.24,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 97.98,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 99.62,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 98.34,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 98.09,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 98.72,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 98.37,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 97.5,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 97.95,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 97.98,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 98.69,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 98.77,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 99.06,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 100.92,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 102.52,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 103.43,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 103.36,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 104.55,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 105.52,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 104.92,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 104.93,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 105.54,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 105.13,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 106.58,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 105.56,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 106.02,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 106.66,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 107.86,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 107.24,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 110.51,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 111.8,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 108.95,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 110.82,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 111.4,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 110.34,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 110.58,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 111.26,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 111.61,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 111.35,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 111.01,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 111.24,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 111.66,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 111.32,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 111.67,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 111.06,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 111.3,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 111.94,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 110.84,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 111.64,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 111.92,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 112.87,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 114.7,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 115.95,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 115.75,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 115.5,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 116.05,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 115.83,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 115.1,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 114.88,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 116.2,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 116.59,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 115.63,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 114.79,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 114.05,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 115.27,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 116.2,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 114.88,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 115.11,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 114.08,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 114.88,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 114.21,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 115.12,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 115.58,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 114.67,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 112.97,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 109.19,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 109.63,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 110.27,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 112.05,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 113.09,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 114.0,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 116.01,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 118.65,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 119.44,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 119.62,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 118.76,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 118.75,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 119.43,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 117.9,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 116.1,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 115.95,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 113.33,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 112.92,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 114.18,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 111.62,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 111.46,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 113.0,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 112.56,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 110.03,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 112.16,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 111.4,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 110.82,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 110.26,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 109.64,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 112.17,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 113.54,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 113.58,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 113.74,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 114.86,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 114.7,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 115.0,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "DUK",
+        "price": 117.04,
+        "time_posted": "2024-11-26"
+    }
+]

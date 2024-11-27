@@ -3,6 +3,10 @@ from flask import jsonify
 import psycopg2
 import mysql
 import mysql.connector
+import os
+import pandas as pd
+import requests
+from io import StringIO
 
 class DataBase:
     #this help us switch between mysql and postgress easily
@@ -452,6 +456,106 @@ class DataBase:
         self.cursor.execute(query)
         result = self.cursor.fetchall()
         return list(result)
+    
+    # Retrieve all stock price data for every ticker and save it in separate JSON files
+    def get_historical_data(self):
+        try:
+            # Fetch all unique ticker symbols
+            tickers_query = "SELECT DISTINCT ticker_symbol FROM StockPrice"
+            self.cursor.execute(tickers_query)
+            tickers = [row[0] for row in self.cursor.fetchall()]
+
+            for ticker_symbol in tickers:
+                query = """
+                    SELECT ticker_symbol, price, time_posted
+                    FROM StockPrice
+                    WHERE ticker_symbol = %s
+                    ORDER BY time_posted ASC
+                """
+                self.cursor.execute(query, (ticker_symbol,))
+                rows = self.cursor.fetchall()
+
+                # Prepare data for JSON output
+                data = [
+                    {
+                        "ticker_symbol": row[0],
+                        "price": float(row[1]),
+                        "time_posted": row[2].strftime('%Y-%m-%d')
+                    }
+                    for row in rows
+                ]
+
+                # Define the file path relative to the current working directory
+                file_path = os.path.join(
+                    os.getcwd(),
+                    "frontend",
+                    "src",
+                    "user_component",
+                    "historical_data",
+                    f"{ticker_symbol}_historical_data.json"
+                )
+
+                # Save data to a JSON file
+                os.makedirs(os.path.dirname(file_path), exist_ok=True)  # Ensure directory exists
+                with open(file_path, "w") as json_file:
+                    json.dump(data, json_file, indent=4)
+
+        except Exception as e:
+            print(f"Error fetching historical data: {e}")
+    
+    # Generate a JSON file containing stock symbol, name, sector, and latest price.
+    def get_stock_details(self):
+        try:
+            # SQL query to get symbol, sector, and latest price
+            query = """
+                SELECT s.ticker_symbol, sec.sector_name, sp.price
+                FROM Stock s
+                JOIN Sector sec ON s.sector_id = sec.sector_id
+                JOIN (
+                    SELECT ticker_symbol, MAX(time_posted) AS latest_time
+                    FROM StockPrice
+                    GROUP BY ticker_symbol
+                ) latest_price ON s.ticker_symbol = latest_price.ticker_symbol
+                JOIN StockPrice sp ON s.ticker_symbol = sp.ticker_symbol AND sp.time_posted = latest_price.latest_time
+            """
+            self.cursor.execute(query)
+            rows = self.cursor.fetchall()
+
+            # Fetch S&P 500 company names from Wikipedia
+            url = "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies"
+            response = requests.get(url)
+            sp500_df = pd.read_html(StringIO(response.text))[0]
+            company_names = dict(zip(sp500_df['Symbol'], sp500_df['Security']))
+
+            # Prepare data for JSON output
+            data = []
+            for row in rows:
+                ticker_symbol, sector_name, price = row
+                data.append({
+                    "Symbol": ticker_symbol,
+                    "Name": company_names.get(ticker_symbol, "Unknown"),
+                    "Sector": sector_name,
+                    "Price": str(price)
+                })
+
+            # Define file path relative to the current working directory
+            file_path = os.path.join(
+                os.getcwd(),
+                "frontend",
+                "src",
+                "user_component",
+                "stock_details.json"  # Single JSON file for all stocks
+            )
+
+            # Save data to JSON file
+            with open(file_path, "w") as json_file:
+                json.dump(data, json_file, indent=4)
+
+            print(f"JSON saved to {file_path}")
+
+        except Exception as e:
+            print(f"Error generating stock details JSON: {e}")
+
 
 # TODO
 # x make sure all are json

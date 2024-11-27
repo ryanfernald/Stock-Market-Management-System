@@ -1,0 +1,1267 @@
+[
+    {
+        "ticker_symbol": "FANG",
+        "price": 147.45,
+        "time_posted": "2023-11-27"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 147.43,
+        "time_posted": "2023-11-28"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 147.23,
+        "time_posted": "2023-11-29"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 147.83,
+        "time_posted": "2023-11-30"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 147.69,
+        "time_posted": "2023-12-01"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 147.3,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 143.75,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 140.24,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 141.3,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 142.39,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 143.16,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 141.58,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 143.09,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 146.9,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 146.58,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 149.0,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 150.45,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 149.19,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 149.6,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 149.72,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 152.22,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 151.35,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 148.71,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 148.47,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 150.32,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 153.34,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 149.18,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 149.3,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 149.12,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 146.25,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 144.91,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 144.94,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 147.28,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 144.72,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 143.39,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 143.36,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 144.62,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 145.46,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 145.01,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 146.67,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 149.66,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 149.58,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 148.26,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 150.24,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 147.19,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 146.21,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 143.82,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 143.24,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 145.51,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 144.99,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 146.94,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 145.27,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 158.9,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 158.54,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 162.62,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 170.91,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 171.77,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 170.47,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 172.09,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 169.2,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 168.84,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 169.56,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 170.36,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 172.1,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 174.74,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 177.28,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 174.16,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 175.3,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 176.39,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 177.98,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 178.44,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 179.62,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 179.64,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 182.6,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 184.49,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 184.92,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 185.04,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 187.53,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 187.8,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 189.26,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 189.55,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 191.39,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 189.11,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 191.33,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 192.93,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 194.18,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 195.07,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 197.85,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 195.73,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 198.92,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 201.11,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 200.1,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 200.78,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 202.75,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 200.88,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 199.92,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 198.56,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 195.83,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 194.32,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 195.43,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 197.22,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 198.97,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 199.81,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 201.62,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 202.27,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 200.42,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 195.81,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 190.83,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 192.4,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 196.17,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 198.79,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 198.29,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 197.85,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 198.33,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 196.84,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 195.46,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 194.72,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 193.44,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 191.32,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 194.35,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 194.51,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 193.26,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 189.11,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 188.74,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 190.21,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 194.44,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 191.75,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 194.03,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 195.91,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 187.51,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 186.04,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 186.01,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 187.83,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 187.1,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 190.71,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 190.42,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 190.4,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 187.15,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 182.85,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 184.41,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 185.7,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 189.49,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 187.67,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 194.7,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 194.56,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 193.65,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 195.85,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 196.83,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 200.29,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 201.46,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 203.46,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 200.11,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 199.94,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 199.2,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 198.99,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 203.69,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 200.74,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 207.39,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 205.55,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 207.4,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 206.5,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 202.02,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 201.24,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 195.03,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 195.49,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 196.45,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 197.39,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 194.94,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 194.75,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 198.91,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 194.89,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 185.89,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 182.07,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 186.51,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 188.17,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 194.17,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 196.42,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 197.91,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 192.85,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 193.15,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 195.61,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 193.86,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 194.87,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 188.81,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 190.18,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 190.78,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 194.26,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 196.31,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 193.75,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 193.61,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 195.82,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 194.15,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 186.55,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 183.37,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 183.1,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 178.84,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 178.32,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 170.64,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 167.67,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 170.02,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 171.57,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 173.95,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 178.88,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 177.24,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 180.73,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 180.11,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 184.34,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 184.51,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 179.64,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 168.03,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 169.79,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 171.55,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 176.64,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 180.39,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 187.37,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 193.65,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 198.51,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 192.81,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 192.79,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 193.1,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 194.0,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 189.76,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 178.88,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 181.56,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 183.05,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 183.08,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 181.51,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 183.12,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 180.23,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 180.02,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 183.47,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 177.31,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 174.77,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 175.78,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 175.9,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 174.94,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 178.87,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 174.76,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 182.71,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 180.69,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 180.98,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 178.25,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 179.02,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 181.34,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 182.42,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 176.6,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 181.9,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 180.12,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 181.46,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 182.7,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 185.29,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 179.55,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "FANG",
+        "price": 175.97,
+        "time_posted": "2024-11-26"
+    }
+]

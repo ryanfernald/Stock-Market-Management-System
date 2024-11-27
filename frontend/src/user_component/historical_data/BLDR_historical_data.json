@@ -1,0 +1,1267 @@
+[
+    {
+        "ticker_symbol": "BLDR",
+        "price": 136.56,
+        "time_posted": "2023-11-27"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 133.07,
+        "time_posted": "2023-11-28"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 134.89,
+        "time_posted": "2023-11-29"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 134.11,
+        "time_posted": "2023-11-30"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 139.28,
+        "time_posted": "2023-12-01"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 136.86,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 143.26,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 145.24,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 146.57,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 147.7,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 148.96,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 149.59,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 154.87,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 168.37,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 162.51,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 160.12,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 164.68,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 161.44,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 164.62,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 167.24,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 168.64,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 170.56,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 168.66,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 166.94,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 165.38,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 159.31,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 157.29,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 159.78,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 163.88,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 165.35,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 167.3,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 167.21,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 167.39,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 165.91,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 164.62,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 165.68,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 172.51,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 178.02,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 167.67,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 165.32,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 169.8,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 169.52,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 176.5,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 176.41,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 173.73,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 179.02,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 180.75,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 178.18,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 177.95,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 180.91,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 185.25,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 185.33,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 187.12,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 182.18,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 186.73,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 186.92,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 183.79,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 182.9,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 183.66,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 188.37,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 188.67,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 190.44,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 193.16,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 193.27,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 195.18,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 199.98,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 200.84,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 198.3,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 200.26,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 204.13,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 199.84,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 192.7,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 199.66,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 201.14,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 195.42,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 195.49,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 195.3,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 199.54,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 206.61,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 211.12,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 210.54,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 208.78,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 207.04,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 209.68,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 208.55,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 205.41,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 199.75,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 202.77,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 200.75,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 204.14,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 200.5,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 199.19,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 187.14,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 189.33,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 189.53,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 184.55,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 182.09,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 179.31,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 182.28,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 177.03,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 178.21,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 187.24,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 186.69,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 185.26,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 187.66,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 187.46,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 182.82,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 184.39,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 188.74,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 195.81,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 200.88,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 162.62,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 163.46,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 169.26,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 166.96,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 167.37,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 169.71,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 171.94,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 165.39,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 167.05,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 169.23,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 167.94,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 165.97,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 166.36,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 171.1,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 162.69,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 155.97,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 160.16,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 160.79,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 152.12,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 146.52,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 149.97,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 145.64,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 146.28,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 146.95,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 143.48,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 151.15,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 151.15,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 149.55,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 149.93,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 149.44,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 144.74,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 143.19,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 142.22,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 136.51,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 136.74,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 137.86,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 138.41,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 133.99,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 134.74,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 134.38,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 132.6,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 134.49,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 134.3,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 136.72,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 146.89,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 152.73,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 153.17,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 165.44,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 158.88,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 158.94,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 158.0,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 160.86,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 163.88,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 154.12,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 158.73,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 167.49,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 168.09,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 167.63,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 167.37,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 159.5,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 152.15,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 149.65,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 155.73,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 152.86,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 153.15,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 155.51,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 153.3,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 160.9,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 160.6,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 164.65,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 161.13,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 163.31,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 164.15,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 168.25,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 167.55,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 182.21,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 176.41,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 174.62,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 172.9,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 172.16,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 174.0,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 168.65,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 168.88,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 167.55,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 168.51,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 166.16,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 170.96,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 169.99,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 175.72,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 183.3,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 187.65,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 193.89,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 194.52,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 201.83,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 197.74,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 195.81,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 193.01,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 191.91,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 190.07,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 194.25,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 193.86,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 194.84,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 195.22,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 195.86,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 192.28,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 192.18,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 193.14,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 194.4,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 191.75,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 193.0,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 196.71,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 195.72,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 198.25,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 195.37,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 194.97,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 184.84,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 180.65,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 179.22,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 181.66,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 180.8,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 184.8,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 171.6,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 172.88,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 171.4,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 172.02,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 172.43,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 180.99,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 176.78,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 179.19,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 178.35,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 183.59,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 178.65,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 179.88,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 181.2,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 176.28,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 178.3,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 178.81,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 174.83,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 175.91,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 178.52,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 189.03,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "BLDR",
+        "price": 185.92,
+        "time_posted": "2024-11-26"
+    }
+]

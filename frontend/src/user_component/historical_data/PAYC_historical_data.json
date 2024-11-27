@@ -1,0 +1,1267 @@
+[
+    {
+        "ticker_symbol": "PAYC",
+        "price": 174.68,
+        "time_posted": "2023-11-27"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 176.81,
+        "time_posted": "2023-11-28"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 179.82,
+        "time_posted": "2023-11-29"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 180.19,
+        "time_posted": "2023-11-30"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 184.24,
+        "time_posted": "2023-12-01"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 184.69,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 180.64,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 184.01,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 183.76,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 185.06,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 187.7,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 187.9,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 196.54,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 202.06,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 201.13,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 201.97,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 206.29,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 202.38,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 204.93,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 203.93,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 204.65,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 204.02,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 205.88,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 205.04,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 202.94,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 192.87,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 194.91,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 195.55,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 202.49,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 201.37,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 200.36,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 198.67,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 195.97,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 193.16,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 190.63,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 194.05,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 192.02,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 193.63,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 195.65,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 191.85,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 191.22,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 192.24,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 194.33,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 193.93,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 188.7,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 191.16,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 193.41,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 192.66,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 196.06,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 197.42,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 194.16,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 188.46,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 190.15,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 185.45,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 187.72,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 192.8,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 189.27,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 188.51,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 180.54,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 180.24,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 183.17,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 178.62,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 181.62,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 182.11,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 180.91,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 183.63,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 176.97,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 172.84,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 174.81,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 180.58,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 180.12,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 183.38,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 185.71,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 187.11,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 188.65,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 188.55,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 190.45,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 188.43,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 190.18,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 192.36,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 191.3,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 190.1,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 189.44,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 196.02,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 197.8,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 197.08,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 196.47,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 197.6,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 196.55,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 197.09,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 200.64,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 206.56,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 202.08,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 203.28,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 196.8,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 191.56,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 189.0,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 185.73,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 183.75,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 182.14,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 185.58,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 186.95,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 186.77,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 185.45,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 187.74,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 192.02,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 186.84,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 185.11,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 165.71,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 170.25,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 173.38,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 175.4,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 171.24,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 172.53,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 172.34,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 173.02,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 173.45,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 176.37,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 179.97,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 181.17,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 179.2,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 178.58,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 179.57,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 173.38,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 170.01,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 166.14,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 162.95,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 158.33,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 144.75,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 144.58,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 146.05,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 143.75,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 144.68,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 144.76,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 145.73,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 142.83,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 143.59,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 140.44,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 142.22,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 142.33,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 140.91,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 145.11,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 146.82,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 144.43,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 140.98,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 140.45,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 141.22,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 142.48,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 141.74,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 141.61,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 142.55,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 141.4,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 139.8,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 139.61,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 139.73,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 143.91,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 147.85,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 155.5,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 160.4,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 160.05,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 154.18,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 157.48,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 159.36,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 164.77,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 157.96,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 162.25,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 163.39,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 163.59,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 164.82,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 166.14,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 166.72,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 163.67,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 157.45,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 157.78,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 152.14,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 158.67,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 157.42,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 153.11,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 156.04,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 154.56,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 159.06,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 159.37,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 158.28,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 157.93,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 160.17,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 159.51,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 162.59,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 164.34,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 162.83,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 162.77,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 163.28,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 162.51,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 161.03,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 159.74,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 155.97,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 154.66,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 163.55,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 167.35,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 168.23,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 167.28,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 169.1,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 168.81,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 168.76,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 170.66,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 172.65,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 169.96,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 172.3,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 173.44,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 167.57,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 167.19,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 167.53,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 166.3,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 166.04,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 166.46,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 166.29,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 167.7,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 163.34,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 159.68,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 163.33,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 163.71,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 162.24,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 164.41,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 164.66,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 163.3,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 164.98,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 165.62,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 167.55,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 166.13,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 164.12,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 164.91,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 164.36,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 167.08,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 167.27,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 171.97,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 208.69,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 210.31,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 211.12,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 218.18,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 230.71,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 226.82,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 228.38,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 227.33,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 228.52,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 227.43,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 224.3,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 219.52,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 218.54,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 216.57,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 219.42,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 226.65,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 229.95,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 234.63,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "PAYC",
+        "price": 236.24,
+        "time_posted": "2024-11-26"
+    }
+]
