@@ -3,7 +3,7 @@ import UserNavbar from "./UserNavBar";
 import { useNavigate } from "react-router-dom";
 import "./styling/UserBuy.css";
 
-import stockData from "./holding test data/snp500.json";
+import stockData from "./historical_data/snp500.json";
 
 const UserBuy = () => {
     const navigate = useNavigate();

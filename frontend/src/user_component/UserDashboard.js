@@ -6,11 +6,11 @@ import UserPaymentOption from "./UserPaymentOption";
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from "recharts";
 import { format } from "date-fns";
 
-import appleHistory from "./holding test data/appl_history.json";
-import msftHistory from "./holding test data/msft_history.json";
-import googHistory from "./holding test data/goog_history.json";
-import stockList from "./holding test data/stock_list.json";
-import watchList from "./holding test data/watch_list.json";
+import appleHistory from "./historical_data/appl_history.json";
+import msftHistory from "./historical_data/msft_history.json";
+import googHistory from "./historical_data/goog_history.json";
+import stockList from "./historical_data/stock_list.json";
+import watchList from "./historical_data/watch_list.json";
 
 import "./styling/UserDashboard.css";
 
