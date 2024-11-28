@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import { Table, TableBody, TableCell, TableContainer, TableHead, TableRow, Paper, Toolbar, MenuItem, Select, FormControl, InputLabel, Typography } from '@mui/material';
-
+import AdminNavbar from './admin_nav'
 const LogTable = () => {
   const [logs, setLogs] = useState([]);  // State for log data
   const [operation, setOperation] = useState('');  // State for filtering by operation
@@ -29,6 +29,7 @@ const LogTable = () => {
 
   return (
     <div style={{ padding: '20px' }}>
+      <AdminNavbar />
       <Typography variant="h6" gutterBottom>
         Logs
       </Typography>

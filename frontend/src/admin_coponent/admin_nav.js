@@ -16,12 +16,14 @@ const AdminNavbar = () => {
          <div className="admin-navbar-center">
          </div>
 
-         
+         <div className="admin-navbar-option">
+            <Link to="/AdminDashboard">Admin Dashboard</Link>
+         </div>
          <div className="admin-navbar-option">
             <Link to="/TableManip">Insert/Delete Tables</Link>
          </div>
          <div className="admin-navbar-option">
-            <Link to="'/DBLogs'">DPLogs</Link>
+            <Link to="/DBLogs">DPLogs</Link>
          </div>
          
       </div>
