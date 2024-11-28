@@ -93,3 +93,239 @@ CREATE TABLE SavedNews (
     FOREIGN KEY (user_id) REFERENCES User(user_id) ON UPDATE CASCADE ON DELETE CASCADE,
     FOREIGN KEY (news_id) REFERENCES News(news_id) ON UPDATE CASCADE ON DELETE CASCADE
 );
+
+-- Create the Log table to check all the insertion deletion and updates by db admin
+CREATE TABLE Log (
+    log_id INT AUTO_INCREMENT PRIMARY KEY, 
+    table_name VARCHAR(100) NOT NULL,
+    operation ENUM('INSERT', 'UPDATE', 'DELETE') NOT NULL, 
+    affected_row_id VARCHAR(255) NOT NULL,
+    operation_time TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    user_id VARCHAR(255),
+    details TEXT,       -- Additional details about the operation
+    op_status ENUM('SUCCESS', 'FAILURE') DEFAULT 'SUCCESS' -- Whether the operation succeeded or failed
+);
+
+-- Create triggers for logging operations
+-- in this section these triggers logs activities into log table for these tables
+--      {user, market order, stocks, stocks prices} -> insertion,deletion and update, and wether it faild or succed 
+--      these logs is going to show up in the admin console
+
+-- Trigger for User table
+DELIMITER //
+
+CREATE TRIGGER after_user_insert
+AFTER INSERT ON User
+FOR EACH ROW
+BEGIN
+    DECLARE EXIT HANDLER FOR SQLEXCEPTION
+    BEGIN
+        INSERT INTO Log (table_name, operation, affected_row_id, details, op_status)
+        VALUES ('User', 'INSERT', NEW.user_id, 'Trigger failed.', 'FAILURE');
+
+    END;
+
+    INSERT INTO Log (table_name, operation, affected_row_id, details, op_status)
+    VALUES ('User', 'INSERT', NEW.user_id, CONCAT('Email: ', NEW.email), 'SUCCESS');
+END;
+//
+
+CREATE TRIGGER after_user_update
+AFTER UPDATE ON User
+FOR EACH ROW
+BEGIN
+    DECLARE EXIT HANDLER FOR SQLEXCEPTION
+    BEGIN
+        INSERT INTO Log (table_name, operation, affected_row_id, details, op_status)
+        VALUES ('User', 'UPDATE', NEW.user_id, 'Trigger failed.', 'FAILURE');
+
+    END;
+
+    INSERT INTO Log (table_name, operation, affected_row_id, details, op_status)
+    VALUES ('User', 'UPDATE', NEW.user_id, CONCAT('Updated email to: ', NEW.email), 'SUCCESS');
+END;
+//
+
+CREATE TRIGGER after_user_delete
+AFTER DELETE ON User
+FOR EACH ROW
+BEGIN
+    DECLARE EXIT HANDLER FOR SQLEXCEPTION
+    BEGIN
+        INSERT INTO Log (table_name, operation, affected_row_id, details, op_status)
+        VALUES ('User', 'DELETE', OLD.user_id, 'Trigger failed.', 'FAILURE');
+
+    END;
+
+    INSERT INTO Log (table_name, operation, affected_row_id, details, op_status)
+    VALUES ('User', 'DELETE', OLD.user_id, CONCAT('Deleted email: ', OLD.email), 'SUCCESS');
+END;
+//
+
+
+-- Triggers for MarketOrder table
+CREATE TRIGGER after_market_order_insert
+AFTER INSERT ON MarketOrder
+FOR EACH ROW
+BEGIN
+    DECLARE EXIT HANDLER FOR SQLEXCEPTION
+    BEGIN
+        INSERT INTO Log (table_name, operation, affected_row_id, details, op_status)
+        VALUES ('MarketOrder', 'INSERT', NEW.order_id, 'Trigger failed.', 'FAILURE');
+    END;
+
+    INSERT INTO Log (table_name, operation, affected_row_id, details, op_status)
+    VALUES ('MarketOrder', 'INSERT', NEW.order_id, CONCAT('Order Type: ', NEW.order_type, ', Quantity: ', NEW.quantity), 'SUCCESS');
+END;
+//
+
+CREATE TRIGGER after_market_order_update
+AFTER UPDATE ON MarketOrder
+FOR EACH ROW
+BEGIN
+    DECLARE EXIT HANDLER FOR SQLEXCEPTION
+    BEGIN
+        INSERT INTO Log (table_name, operation, affected_row_id, details, op_status)
+        VALUES ('MarketOrder', 'UPDATE', NEW.order_id, 'Trigger failed.', 'FAILURE');
+
+    END;
+
+    INSERT INTO Log (table_name, operation, affected_row_id, details, op_status)
+    VALUES ('MarketOrder', 'UPDATE', NEW.order_id, CONCAT('Updated quantity to: ', NEW.quantity), 'SUCCESS');
+END;
+//
+
+CREATE TRIGGER after_market_order_delete
+AFTER DELETE ON MarketOrder
+FOR EACH ROW
+BEGIN
+    DECLARE EXIT HANDLER FOR SQLEXCEPTION
+    BEGIN
+        INSERT INTO Log (table_name, operation, affected_row_id, details, op_status)
+        VALUES ('MarketOrder', 'DELETE', OLD.order_id, 'Trigger failed.', 'FAILURE');
+
+    END;
+
+    INSERT INTO Log (table_name, operation, affected_row_id, details, op_status)
+    VALUES ('MarketOrder', 'DELETE', OLD.order_id, CONCAT('Deleted order type: ', OLD.order_type), 'SUCCESS');
+END;
+//
+
+
+-- Triggers for Stock table
+CREATE TRIGGER after_stock_insert
+AFTER INSERT ON Stock
+FOR EACH ROW
+BEGIN
+    DECLARE EXIT HANDLER FOR SQLEXCEPTION
+    BEGIN
+        INSERT INTO Log (table_name, operation, affected_row_id, details, op_status)
+        VALUES ('Stock', 'INSERT', NEW.ticker_symbol, 'Trigger failed.', 'FAILURE');
+
+    END;
+
+    INSERT INTO Log (table_name, operation, affected_row_id, details, op_status)
+    VALUES ('Stock', 'INSERT', NEW.ticker_symbol, CONCAT('Sector ID: ', NEW.sector_id), 'SUCCESS');
+END;
+//
+
+CREATE TRIGGER after_stock_update
+AFTER UPDATE ON Stock
+FOR EACH ROW
+BEGIN
+    DECLARE EXIT HANDLER FOR SQLEXCEPTION
+    BEGIN
+        INSERT INTO Log (table_name, operation, affected_row_id, details, op_status)
+        VALUES ('Stock', 'UPDATE', NEW.ticker_symbol, 'Trigger failed.', 'FAILURE');
+
+    END;
+
+    INSERT INTO Log (table_name, operation, affected_row_id, details, op_status)
+    VALUES ('Stock', 'UPDATE', NEW.ticker_symbol, CONCAT('Updated sector to: ', NEW.sector_id), 'SUCCESS');
+END;
+//
+
+CREATE TRIGGER after_stock_delete
+AFTER DELETE ON Stock
+FOR EACH ROW
+BEGIN
+    DECLARE EXIT HANDLER FOR SQLEXCEPTION
+    BEGIN
+        INSERT INTO Log (table_name, operation, affected_row_id, details, op_status)
+        VALUES ('Stock', 'DELETE', OLD.ticker_symbol, 'Trigger failed.', 'FAILURE');
+
+    END;
+
+    INSERT INTO Log (table_name, operation, affected_row_id, details, op_status)
+    VALUES ('Stock', 'DELETE', OLD.ticker_symbol, CONCAT('Deleted ticker symbol: ', OLD.ticker_symbol), 'SUCCESS');
+END;
+//
+
+-- Trigger for StockPrice table
+CREATE TRIGGER after_stockprice_insert
+AFTER INSERT ON StockPrice
+FOR EACH ROW
+BEGIN
+    DECLARE EXIT HANDLER FOR SQLEXCEPTION
+    BEGIN
+        INSERT INTO Log (table_name, operation, affected_row_id, details, op_status)
+        VALUES ('StockPrice', 'INSERT', CONCAT(NEW.ticker_symbol, '-', NEW.time_posted), 'Trigger failed.', 'FAILURE');
+
+    END;
+
+    INSERT INTO Log (table_name, operation, affected_row_id, details, op_status)
+    VALUES (
+        'StockPrice',
+        'INSERT',
+        CONCAT(NEW.ticker_symbol, '-', NEW.time_posted),
+        CONCAT('Price: ', NEW.price, ', Time: ', NEW.time_posted),
+        'SUCCESS'
+    );
+END;
+//
+
+CREATE TRIGGER after_stockprice_update
+AFTER UPDATE ON StockPrice
+FOR EACH ROW
+BEGIN
+    DECLARE EXIT HANDLER FOR SQLEXCEPTION
+    BEGIN
+        INSERT INTO Log (table_name, operation, affected_row_id, details, op_status)
+        VALUES ('StockPrice', 'UPDATE', CONCAT(NEW.ticker_symbol, '-', NEW.time_posted), 'Trigger failed.', 'FAILURE');
+
+    END;
+
+    INSERT INTO Log (table_name, operation, affected_row_id, details, op_status)
+    VALUES (
+        'StockPrice',
+        'UPDATE',
+        CONCAT(NEW.ticker_symbol, '-', NEW.time_posted),
+        CONCAT('Updated price to: ', NEW.price, ', Updated time to: ', NEW.time_posted),
+        'SUCCESS'
+    );
+END;
+//
+
+CREATE TRIGGER after_stockprice_delete
+AFTER DELETE ON StockPrice
+FOR EACH ROW
+BEGIN
+    DECLARE EXIT HANDLER FOR SQLEXCEPTION
+    BEGIN
+        INSERT INTO Log (table_name, operation, affected_row_id, details, op_status)
+        VALUES ('StockPrice', 'DELETE', CONCAT(OLD.ticker_symbol, '-', OLD.time_posted), 'Trigger failed.', 'FAILURE');
+
+    END;
+
+    INSERT INTO Log (table_name, operation, affected_row_id, details, op_status)
+    VALUES (
+        'StockPrice',
+        'DELETE',
+        CONCAT(OLD.ticker_symbol, '-', OLD.time_posted),
+        CONCAT('Deleted price: ', OLD.price, ', Time: ', OLD.time_posted),
+        'SUCCESS'
+    );
+END;
+//
+
+DELIMITER ;

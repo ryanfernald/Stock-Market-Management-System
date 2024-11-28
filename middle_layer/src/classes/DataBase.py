@@ -393,8 +393,14 @@ class DataBase:
         finally:
             self.cursor.close()
             self.connection.close()
-
-
+    #function for acessing logs
+    def admin_fetch_log(self):
+        quary = """
+                SELECT *
+                FROM Log
+                """
+        self.cursor.execute(quary)
+        
     ## Functions for fetching
     
     # Check if today's entry exists for a specific ticker

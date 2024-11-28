@@ -19,6 +19,7 @@ import UserBuy from './user_component/UserBuy.js';
 import UserSell from './user_component/UserSell.js';
 import AdminInsert from './admin_coponent/AdminTableManip.js';
 import UserMoveMoney from './user_component/UserMoveMoney.js';
+import LogTable from './admin_coponent/logsMonitor.js'
 function App() {
   return (
     <div>
@@ -43,6 +44,7 @@ function App() {
           <Route path='/userbuy' element={<UserBuy />} />
           <Route path='/usersell' element={<UserSell />} />
           <Route path='/usermovemoney' element={<UserMoveMoney />} />
+          <Route path='/DBLogs' element={<LogTable />} />
 
         </Routes>
       </Router>
