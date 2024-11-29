@@ -328,4 +328,99 @@ BEGIN
 END;
 //
 
+-- Trigger for found deposit
+CREATE TRIGGER after_funds_deposit_insert
+AFTER INSERT ON FundsDeposit
+FOR EACH ROW
+BEGIN
+    DECLARE EXIT HANDLER FOR SQLEXCEPTION
+    BEGIN
+        INSERT INTO Log (table_name, operation, affected_row_id, details, op_status)
+        VALUES ('FundsDeposit', 'INSERT', NEW.deposit_id, 'Trigger failed.', 'FAILURE');
+    END;
+
+    INSERT INTO Log (table_name, operation, affected_row_id, details, op_status)
+    VALUES ('FundsDeposit', 'INSERT', NEW.deposit_id, CONCAT('Amount: ', NEW.amount, ', User ID: ', NEW.user_id), 'SUCCESS');
+END;
+//
+
+CREATE TRIGGER after_funds_deposit_update
+AFTER UPDATE ON FundsDeposit
+FOR EACH ROW
+BEGIN
+    DECLARE EXIT HANDLER FOR SQLEXCEPTION
+    BEGIN
+        INSERT INTO Log (table_name, operation, affected_row_id, details, op_status)
+        VALUES ('FundsDeposit', 'UPDATE', NEW.deposit_id, 'Trigger failed.', 'FAILURE');
+    END;
+
+    INSERT INTO Log (table_name, operation, affected_row_id, details, op_status)
+    VALUES ('FundsDeposit', 'UPDATE', NEW.deposit_id, CONCAT('Updated cleared status: ', NEW.cleared), 'SUCCESS');
+END;
+//
+
+CREATE TRIGGER after_funds_deposit_delete
+AFTER DELETE ON FundsDeposit
+FOR EACH ROW
+BEGIN
+    DECLARE EXIT HANDLER FOR SQLEXCEPTION
+    BEGIN
+        INSERT INTO Log (table_name, operation, affected_row_id, details, op_status)
+        VALUES ('FundsDeposit', 'DELETE', OLD.deposit_id, 'Trigger failed.', 'FAILURE');
+    END;
+
+    INSERT INTO Log (table_name, operation, affected_row_id, details, op_status)
+    VALUES ('FundsDeposit', 'DELETE', OLD.deposit_id, CONCAT('Deleted deposit of amount: ', OLD.amount), 'SUCCESS');
+END;
+//
+
+-- Triger for funds withdrawal
+CREATE TRIGGER after_funds_withdraw_insert
+AFTER INSERT ON FundsWithdraw
+FOR EACH ROW
+BEGIN
+    DECLARE EXIT HANDLER FOR SQLEXCEPTION
+    BEGIN
+        INSERT INTO Log (table_name, operation, affected_row_id, details, op_status)
+        VALUES ('FundsWithdraw', 'INSERT', NEW.withdraw_id, 'Trigger failed.', 'FAILURE');
+    END;
+
+    INSERT INTO Log (table_name, operation, affected_row_id, details, op_status)
+    VALUES ('FundsWithdraw', 'INSERT', NEW.withdraw_id, 
+        CONCAT('Amount: ', NEW.amount, ', User ID: ', NEW.user_id), 'SUCCESS');
+END;
+//
+
+CREATE TRIGGER after_funds_withdraw_update
+AFTER UPDATE ON FundsWithdraw
+FOR EACH ROW
+BEGIN
+    DECLARE EXIT HANDLER FOR SQLEXCEPTION
+    BEGIN
+        INSERT INTO Log (table_name, operation, affected_row_id, details, op_status)
+        VALUES ('FundsWithdraw', 'UPDATE', NEW.withdraw_id, 'Trigger failed.', 'FAILURE');
+    END;
+
+    INSERT INTO Log (table_name, operation, affected_row_id, details, op_status)
+    VALUES ('FundsWithdraw', 'UPDATE', NEW.withdraw_id, 
+        CONCAT('Updated withdrawal status to: ', NEW.amount), 'SUCCESS');
+END;
+//
+
+CREATE TRIGGER after_funds_withdraw_delete
+AFTER DELETE ON FundsWithdraw
+FOR EACH ROW
+BEGIN
+    DECLARE EXIT HANDLER FOR SQLEXCEPTION
+    BEGIN
+        INSERT INTO Log (table_name, operation, affected_row_id, details, op_status)
+        VALUES ('FundsWithdraw', 'DELETE', OLD.withdraw_id, 'Trigger failed.', 'FAILURE');
+    END;
+
+    INSERT INTO Log (table_name, operation, affected_row_id, details, op_status)
+    VALUES ('FundsWithdraw', 'DELETE', OLD.withdraw_id, 
+        CONCAT('Deleted withdrawal of amount: ', OLD.amount, ' for User ID: ', OLD.user_id), 'SUCCESS');
+END;
+//
+
 DELIMITER ;

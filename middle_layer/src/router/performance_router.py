@@ -12,8 +12,11 @@ perfomance_bp = Blueprint('performance', __name__)
 def get_performance_metrics():
     try:
         # Connect to MySQL
-        connection = db  # Ensure db is a MySQLConnection object
-        cursor = connection.get_courser()  # Get a new cursor with dictionary format
+        if not db.connection.is_connected():
+                print("Reconnecting to the database...")
+                db.connection.reconnect()
+                db.cursor = db.connection.cursor()
+        #cursor = db.get_courser()  # Get a new cursor with dictionary format
         
         # Query for table size
         query = """
@@ -28,8 +31,8 @@ def get_performance_metrics():
                 (data_length + index_length) DESC
             LIMIT 10;
         """
-        cursor.execute(query,(os.getenv('DATABASE_NAME'),))
-        results = cursor.fetchall()
+        db.cursor.execute(query,(os.getenv('DATABASE_NAME'),))
+        results = db.cursor.fetchall()
         
         return jsonify(results)
     except Error as e:

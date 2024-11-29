@@ -9,6 +9,7 @@ const AdminInsert = () => {
     // Define table options and fields for each table
     const tableOptions = {
         'User': ['user_id', 'first_name', 'last_name', 'email'],
+        'Stock' : ['ticker_symbol', 'sector_id'],
         'MarketOrder': ['order_id', 'user_id', 'ticker_symbol', 'price_purchased', 'quantity', 'purchase_date', 'order_type'],
         'FundsDeposit': ['deposit_id', 'user_id', 'amount', 'time_initiated', 'cleared'],
         'FundsWithdraw': ['withdraw_id', 'user_id', 'amount', 'time_initiated', 'cleared'],

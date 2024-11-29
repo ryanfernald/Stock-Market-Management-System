@@ -13,3 +13,5 @@ flask/router/__pycache__/*
 
 __pycache__/
 *.py[cod]
+frontend/src/firebase-adminsdk.json
+frontend/src/firbaseconfig.js

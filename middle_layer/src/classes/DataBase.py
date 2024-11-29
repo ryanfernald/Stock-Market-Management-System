@@ -380,6 +380,10 @@ class DataBase:
             return jsonify(None)
 
     def admin_insertion(self, TableName, data):
+        if not self.connection.is_connected():
+                print("Reconnecting to the database...")
+                self.connection.reconnect()
+                self.cursor = self.connection.cursor()
         columns = ', '.join(data.keys())
         values = ', '.join(f"'{v}'" for v in data.values())
         query = f"INSERT INTO {TableName} ({columns}) VALUES ({values})"
@@ -395,11 +399,24 @@ class DataBase:
             self.connection.close()
     #function for acessing logs
     def admin_fetch_log(self):
-        quary = """
-                SELECT *
-                FROM Log
-                """
-        self.cursor.execute(quary)
+        try:
+            # Check if the connection or cursor is closed and reinitialize if needed
+            if not self.connection.is_connected():
+                print("Reconnecting to the database...")
+                self.connection.reconnect()
+                self.cursor = self.connection.cursor()
+
+            # Execute the query
+            self.cursor.execute("SELECT * FROM Log ORDER BY operation_time DESC")
+            logs = self.cursor.fetchall()
+
+            # Return the logs directly as raw data
+            return logs
+
+        except Exception as e:
+            print(f"Error fetching logs: {e}")
+            return []
+
         
     ## Functions for fetching
     
@@ -412,15 +429,19 @@ class DataBase:
 
     # Insert or update stock price for a ticker and timestamp
     def insert_or_update_price(self, ticker_symbol, price, timestamp):
-        query = """
-            INSERT INTO StockPrice (ticker_symbol, price, time_posted)
-            VALUES (%s, %s, %s)
-            ON DUPLICATE KEY UPDATE
-                price = VALUES(price),
-                time_posted = VALUES(time_posted)
-        """
-        self.cursor.execute(query, (ticker_symbol, price, timestamp))
-        self.connection.commit()
+        try:
+            query = """
+                INSERT INTO StockPrice (ticker_symbol, price, time_posted)
+                VALUES (%s, %s, %s)
+                ON DUPLICATE KEY UPDATE
+                    price = VALUES(price),
+                    time_posted = VALUES(time_posted)
+            """
+            self.cursor.execute(query, (ticker_symbol, price, timestamp))
+            self.connection.commit()
+            print(f"Price for {ticker_symbol} updated in the database.")
+        except Exception as e:
+            print(f"Error inserting/updating price for {ticker_symbol}: {e}")
 
     # Clear all data from a specified table
     def clear_table(self, table_name):
