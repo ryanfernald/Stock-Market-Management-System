@@ -78,3 +78,120 @@
     background-color: #f1f1f1;
     font-weight: bold;
 }
+
+/* Modal Styling */
+.ticket-modal {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 500px; /* Adjust width for a neat modal */
+    max-width: 90%; /* Ensure it fits smaller screens */
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25); /* Subtle shadow for focus */
+    padding: 25px;
+    z-index: 1000;
+    font-family: Arial, sans-serif;
+    text-align: center; /* Center-align content inside the modal */
+}
+
+/* Modal Header */
+.ticket-modal h2 {
+    font-size: 1.5rem;
+    color: #333;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 10px;
+}
+
+/* Modal Content */
+.ticket-modal p {
+    font-size: 0.95rem;
+    color: #555;
+    margin: 10px 0;
+}
+
+/* Text Area Styling */
+.ticket-modal textarea {
+    width: 100%;
+    min-height: 100px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    padding: 10px;
+    font-size: 0.95rem;
+    background-color: #f9f9f9;
+    color: #333;
+    resize: none;
+}
+
+/* Drop-Down Styling */
+.ticket-modal select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 1rem;
+    color: #333;
+    background-color: #fff;
+    margin-top: 10px;
+}
+
+/* Close Button */
+.ticket-modal button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+    margin-top: 20px;
+    transition: background-color 0.3s ease;
+}
+
+.ticket-modal button:hover {
+    background-color: #0056b3;
+}
+
+/* Modal Overlay */
+.ReactModal__Overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5); /* Dimmed background */
+    z-index: 999;
+}
+
+/* Box for Content Like a Text Block */
+.ticket-modal .content-box {
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    padding: 15px;
+    background-color: #f9f9f9;
+    font-family: monospace; /* Monospace for code-like appearance */
+    font-size: 0.9rem;
+    color: #444;
+    overflow-x: auto; /* Handle overflow for long text */
+    text-align: left; /* Align text inside the box */
+    margin-top: 15px;
+}
+
+/* Responsive Design */
+@media (max-width: 600px) {
+    .ticket-modal {
+        width: 90%;
+        padding: 20px;
+    }
+
+    .ticket-modal h2 {
+        font-size: 1.2rem;
+    }
+
+    .ticket-modal button {
+        padding: 8px 15px;
+        font-size: 0.9rem;
+    }
+}

@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import AdminNavbar from './admin_nav.js'; // Import Admin Navbar
+import './styling/AdminTableManip.css'
 // import axios from 'axios';
 
 const AdminInsert = () => {

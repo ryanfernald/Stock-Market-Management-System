@@ -23,7 +23,7 @@ const AdminNavbar = () => {
             <Link to="/TableManip">Insert/Delete Tables</Link>
          </div>
          <div className="admin-navbar-option">
-            <Link to="/DBLogs">DPLogs</Link>
+            <Link to="/DBLogs">DBLogs</Link>
          </div>
          
       </div>

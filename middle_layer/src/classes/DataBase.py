@@ -397,6 +397,47 @@ class DataBase:
         finally:
             self.cursor.close()
             self.connection.close()
+    # admin table fetch
+    def admin_table_fetch(self, TableName):
+        if not self.connection.is_connected():
+                print("Reconnecting to the database...")
+                self.connection.reconnect()
+                self.cursor = self.connection.cursor()
+        query = f"""
+                    SELECT *
+                    FROM {TableName}
+                """
+        try:
+            # Execute the query with the provided values
+            self.cursor.execute(query)
+            logs = self.cursor.fetchall()
+            #Returns the log
+            return logs
+        except Exception as e:
+            print(f"Error fetching tables data: {e}")
+            return []
+    # admin table row deletion
+    def admin_table_row_deletion(self, TableName, data_name, data_value):
+        if not self.connection.is_connected():
+                print("Reconnecting to the database...")
+                self.connection.reconnect()
+                self.cursor = self.connection.cursor()
+        query = f"""
+                    DELETE FROM {TableName}
+                    WHERE {data_name} = {data_value}
+                """
+        try:
+            # Execute the query with the provided values
+            self.cursor.execute(query)
+            self.connection.commit()
+            print(f"Deleted {data_name} with value of {data_value} from the table {TableName}")
+            self.connection.close()
+            response = f"Deleted {data_name} with value of {data_value} from the table {TableName}"
+            return response
+            #Returns the log
+        except Exception as e:
+            print(f"Error daleting from the tables {TableName}: {e}")
+            return None
     #function for acessing logs
     def admin_fetch_log(self):
         try:

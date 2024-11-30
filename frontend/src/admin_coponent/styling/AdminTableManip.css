@@ -1,0 +1,106 @@
+/* Admin Insert Container */
+.admin-insert-container {
+    max-width: 600px;
+    margin: 50px auto; /* Centered on the page */
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    background-color: #ffffff;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow for a clean look */
+    font-family: Arial, sans-serif;
+}
+
+/* Header */
+.admin-insert-container h2 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+    font-size: 1.5rem;
+}
+
+/* Form Layout */
+.admin-insert-container form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+/* Table Dropdown */
+.admin-insert-container label {
+    font-weight: bold;
+    color: #555;
+}
+
+.admin-insert-container select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1rem;
+    color: #333;
+    background-color: #f9f9f9;
+}
+
+/* Table Fields */
+.admin-insert-container .form-field {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.admin-insert-container .form-field label {
+    font-size: 0.95rem;
+    color: #555;
+    font-weight: bold;
+}
+
+.admin-insert-container .form-field input {
+    padding: 8px;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+/* Button */
+.admin-insert-container button {
+    align-self: center;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.admin-insert-container button:hover {
+    background-color: #0056b3;
+}
+
+/* Center Everything */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    background-color: #f5f5f5;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .admin-insert-container {
+        max-width: 90%;
+        padding: 15px;
+    }
+
+    .admin-insert-container h2 {
+        font-size: 1.3rem;
+    }
+
+    .admin-insert-container button {
+        width: 100%;
+    }
+}
