@@ -5,19 +5,22 @@ body {
     margin: 0;
     font-family: 'Open Sans', sans-serif;
     background-color: #f4f4f9;
+
 }
 
 .news-container {
     width: 100%;
     padding: 20px;
     background-color: #ffffff;
+
 }
 
 .news-header {
     text-align: center;
     font-family: 'Montserrat', sans-serif;
     font-size: 3rem;
-    color: #1c3a5a; /* Navy blue */
+    color: #1c3a5a;
+    /* Navy blue */
     margin-bottom: 20px;
 }
 
@@ -25,39 +28,43 @@ body {
     margin: 20px 0;
     border: 0;
     height: 2px;
-    background: #1c3a5a; /* Navy blue */
+    background: #1c3a5a;
+    /* Navy blue */
 }
 
 .news-content {
     display: flex;
     max-width: 1200px;
     margin: 0 auto;
-    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1); /* Light shadow for modern effect */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+    /* Light shadow for modern effect */
     border-radius: 8px;
     overflow: hidden;
 }
 
 .news-sidebar {
     flex: 1;
-    background-color: #1c3a5a; /* Navy blue */
+    background-color: #1c3a5a;
+    /* Navy blue */
     padding: 20px;
     color: #ffffff;
     min-height: 600px;
 }
 
 .news-sidebar input[type="text"] {
-  /* Remove width: 100% to let flexbox control width */
-  padding: 10px;
-  border-radius: 8px;
-  border: none;
-  margin-bottom: 20px;
-  font-size: 1rem;
+    /* Remove width: 100% to let flexbox control width */
+    padding: 10px;
+    border-radius: 8px;
+    border: none;
+    margin-bottom: 20px;
+    font-size: 1rem;
 }
 
 .news-sidebar button {
     width: 100%;
     padding: 12px;
-    background-color: #f4f4f9; /* Light grey for contrast */
+    background-color: #f4f4f9;
+    /* Light grey for contrast */
     color: #1c3a5a;
     font-size: 1rem;
     font-family: 'Montserrat', sans-serif;
@@ -79,7 +86,8 @@ body {
 .news-list li {
     cursor: pointer;
     padding: 15px;
-    border-bottom: 1px solid #3e5674; /* Lighter navy */
+    border-bottom: 1px solid #3e5674;
+    /* Lighter navy */
     font-size: 1rem;
 }
 
@@ -125,53 +133,66 @@ body {
 }
 
 .news-preview a:hover {
-    background-color: #3e5674; /* Lighter navy */
+    background-color: #3e5674;
+    /* Lighter navy */
 }
 
 /* Styling for search form to align input and button */
 
 .search-form {
-  display: block; /* Change to block to stack elements */
-  width: 100%;
+    display: block;
+    /* Change to block to stack elements */
+    width: 100%;
 }
 
-.search-input, .search-button {
-  display: block;
-  width: 94%; /* Make both the search bar and button the same width */
-  padding: 10px;
-  font-size: 1rem;
-  border: none;
-  margin-bottom: 10px;
+.search-input,
+.search-button {
+    display: block;
+    width: 94%;
+    /* Make both the search bar and button the same width */
+    padding: 10px;
+    font-size: 1rem;
+    border: none;
+    margin-bottom: 10px;
 }
 
 .search-input {
-  border-radius: 8px; /* Rounded corners */
+    border-radius: 8px;
+    /* Rounded corners */
 }
 
 .search-button {
-  background-color: #f4f4f9; /* Light grey */
-  color: #1c3a5a; /* Navy blue */
-  border-radius: 8px; /* Keep the same border-radius */
-  cursor: pointer;
-  transition: background 0.3s ease;
+    background-color: #f4f4f9;
+    /* Light grey */
+    color: #1c3a5a;
+    /* Navy blue */
+    border-radius: 8px;
+    /* Keep the same border-radius */
+    cursor: pointer;
+    transition: background 0.3s ease;
 }
 
 .search-button:hover {
-  background-color: #dcdde1; /* Slightly darker grey on hover */
-}search-button {
-  padding: 10px 20px;
-  background-color: #f4f4f9; /* Light grey for contrast */
-  color: #1c3a5a;
-  font-size: 1rem;
-  font-family: 'Montserrat', sans-serif;
-  border: none;
-  border-radius: 0 8px 8px 0; /* Rounded corners only on the right side */
-  cursor: pointer;
-  transition: background 0.3s ease;
+    background-color: #dcdde1;
+    /* Slightly darker grey on hover */
+}
+
+search-button {
+    padding: 10px 20px;
+    background-color: #f4f4f9;
+    /* Light grey for contrast */
+    color: #1c3a5a;
+    font-size: 1rem;
+    font-family: 'Montserrat', sans-serif;
+    border: none;
+    border-radius: 0 8px 8px 0;
+    /* Rounded corners only on the right side */
+    cursor: pointer;
+    transition: background 0.3s ease;
 }
 
 .search-button:hover {
-  background-color: #dcdde1;
+    background-color: #dcdde1;
 }
 
 .category-navbar {
@@ -182,7 +203,8 @@ body {
 
 .category-button {
     padding: 10px 20px;
-    background-color: #1c3a5a; /* Navy blue */
+    background-color: #1c3a5a;
+    /* Navy blue */
     color: #ffffff;
     border: none;
     border-radius: 8px;
@@ -194,9 +216,11 @@ body {
 }
 
 .category-button:hover {
-    background-color: #277a79; /* Lighter navy */
+    background-color: #277a79;
+    /* Lighter navy */
 }
 
 .category-button.active {
-    background-color: #6682a3; /* Lighter navy when active */
+    background-color: #6682a3;
+    /* Lighter navy when active */
 }
