@@ -394,9 +394,9 @@ class DataBase:
             print(f"Inserted {data} into {TableName}")
         except mysql.connector.Error as error:
             print(f"Error: {error}")
-        finally:
-            self.cursor.close()
-            self.connection.close()
+        # finally:
+        #     self.cursor.close()
+        #     self.connection.close()
     # admin table fetch
     def admin_table_fetch(self, TableName):
         if not self.connection.is_connected():
@@ -416,6 +416,31 @@ class DataBase:
         except Exception as e:
             print(f"Error fetching tables data: {e}")
             return []
+    # admin fetch tables
+    def admin_table_fetch_manip(self, TableName):
+        if not self.connection.is_connected():
+            print("Reconnecting to the database...")
+            self.connection.reconnect()
+            self.cursor = self.connection.cursor()
+
+        query = f"SELECT * FROM {TableName}"
+
+        try:
+            # Execute the query
+            self.cursor.execute(query)
+            rows = self.cursor.fetchall()
+
+            # Fetch column names
+            column_names = [desc[0] for desc in self.cursor.description]
+
+            # Convert rows to list of dictionaries
+            data = [dict(zip(column_names, row)) for row in rows]
+
+            return data
+        except Exception as e:
+            print(f"Error fetching data from table {TableName}: {e}")
+            return []
+    
     # admin table row deletion
     def admin_table_row_deletion(self, TableName, data_name, data_value):
         if not self.connection.is_connected():
@@ -431,7 +456,7 @@ class DataBase:
             self.cursor.execute(query)
             self.connection.commit()
             print(f"Deleted {data_name} with value of {data_value} from the table {TableName}")
-            self.connection.close()
+            # self.connection.close()
             response = f"Deleted {data_name} with value of {data_value} from the table {TableName}"
             return response
             #Returns the log

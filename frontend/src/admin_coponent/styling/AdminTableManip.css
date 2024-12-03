@@ -1,106 +1,156 @@
-/* Admin Insert Container */
-.admin-insert-container {
-    max-width: 600px;
-    margin: 50px auto; /* Centered on the page */
+/* Root Container */
+.admin-container {
+    max-width: 90%;
+    margin: 20px auto;
     padding: 20px;
-    border: 1px solid #ddd;
-    border-radius: 10px;
     background-color: #ffffff;
-    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow for a clean look */
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
     font-family: Arial, sans-serif;
 }
 
-/* Header */
-.admin-insert-container h2 {
+/* Page Title */
+.admin-container h2 {
     text-align: center;
+    font-size: 1.8rem;
     color: #333;
     margin-bottom: 20px;
-    font-size: 1.5rem;
 }
 
-/* Form Layout */
-.admin-insert-container form {
+/* Toolbar Styles */
+.admin-container .toolbar {
     display: flex;
-    flex-direction: column;
-    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    gap: 15px;
+    margin-bottom: 20px;
 }
 
-/* Table Dropdown */
-.admin-insert-container label {
-    font-weight: bold;
-    color: #555;
+.admin-container .toolbar select {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-size: 1rem;
+    background-color: #f9f9f9;
+    width: 200px;
 }
 
-.admin-insert-container select {
-    width: 100%;
+/* Tabs Styles */
+.admin-container .tabs {
+    display: flex;
+    gap: 10px;
+}
+
+.admin-container .tabs button {
+    padding: 8px 16px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+    background-color: #e9ecef;
+    transition: background-color 0.3s ease;
+}
+
+.admin-container .tabs button.active {
+    background-color: #007bff;
+    color: #fff;
+}
+
+.admin-container .tabs button:hover:not(.active) {
+    background-color: #ddd;
+}
+
+/* Insert Form Styles */
+.admin-container .insert-form {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.admin-container .insert-form input {
     padding: 10px;
     border: 1px solid #ccc;
     border-radius: 5px;
     font-size: 1rem;
-    color: #333;
     background-color: #f9f9f9;
+    width: calc(50% - 10px);
+    min-width: 180px;
 }
 
-/* Table Fields */
-.admin-insert-container .form-field {
-    display: flex;
-    flex-direction: column;
-    gap: 5px;
-}
-
-.admin-insert-container .form-field label {
-    font-size: 0.95rem;
-    color: #555;
-    font-weight: bold;
-}
-
-.admin-insert-container .form-field input {
-    padding: 8px;
-    font-size: 1rem;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    background-color: #f9f9f9;
-}
-
-/* Button */
-.admin-insert-container button {
-    align-self: center;
-    background-color: #007bff;
-    color: #fff;
+.admin-container .insert-form button {
+    background-color: #28a745;
+    color: white;
     border: none;
     border-radius: 5px;
     padding: 10px 20px;
-    font-size: 1rem;
     cursor: pointer;
     transition: background-color 0.3s ease;
 }
 
-.admin-insert-container button:hover {
-    background-color: #0056b3;
+.admin-container .insert-form button:hover {
+    background-color: #218838;
 }
 
-/* Center Everything */
-body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;
-    margin: 0;
-    background-color: #f5f5f5;
+/* Table Container */
+.admin-container .table-container {
+    overflow-x: auto;
+    margin-top: 20px;
+}
+
+.admin-container table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: left;
+}
+
+.admin-container th,
+.admin-container td {
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+.admin-container th {
+    background-color: #007bff;
+    color: white;
+    font-weight: bold;
+}
+
+.admin-container tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.admin-container tr:hover {
+    background-color: #e9ecef;
+}
+
+.admin-container .delete-button {
+    background-color: #dc3545;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.admin-container .delete-button:hover {
+    background-color: #c82333;
 }
 
 /* Responsive Design */
 @media (max-width: 768px) {
-    .admin-insert-container {
-        max-width: 90%;
+    .admin-container {
         padding: 15px;
     }
 
-    .admin-insert-container h2 {
-        font-size: 1.3rem;
+    .admin-container .insert-form input {
+        width: 100%;
     }
 
-    .admin-insert-container button {
+    .admin-container .insert-form button {
         width: 100%;
     }
 }

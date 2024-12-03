@@ -16,7 +16,7 @@ from router.admin_connections_router import admin_connection_bp
 # import the example "blueprint" from the router folder to include the route in the main application
 from router.example_router import example
 from router.admin_connections_router import admin_connection_bp
-
+from router.AdminFetch_route import admin_fetch_bp
 from classes.DataBase import DataBase
 import os
 
@@ -54,7 +54,7 @@ app.register_blueprint(user_manipulation, url_prefix='/user_m')
 app.register_blueprint(admin_connection_bp, url_prefix='/Admin')
 app.register_blueprint(perfomance_bp)
 app.register_blueprint(logs_bp)
-
+app.register_blueprint(admin_fetch_bp)
 
 
 
