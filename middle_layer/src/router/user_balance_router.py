@@ -21,4 +21,6 @@ def withdraw_funds(user_id, amount):
         return jsonify({"status": "error", "message": str(e)}), 400
 @user_balance.route('/balance/<user_id>', methods=['GET'])
 def get_user_balance(user_id):
-    return db.get_user_balance(user_id)
+    result = db.get_user_balance(user_id)
+
+    return result
