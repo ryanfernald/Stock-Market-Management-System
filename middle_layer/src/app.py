@@ -20,31 +20,11 @@ from router.AdminFetch_route import admin_fetch_bp
 from classes.DataBase import DataBase
 import os
 
+
 app = Flask(__name__)
 CORS(app, resources={r"/*": {"origins": "http://localhost:3000"}})
-CORS(portfolio, resources={r"/*": {"origins": "http://localhost:3000"}})
-CORS(stock_manipulation, resources={r"/*": {"origins": "http://localhost:3000"}})
-CORS(stock_price, resources={r"/*": {"origins": "http://localhost:3000"}})
-CORS(transaction_history, resources={r"/*": {"origins": "http://localhost:3000"}})
-CORS(user_balance, resources={r"/*": {"origins": "http://localhost:3000"}})
-CORS(user_manipulation, resources={r"/*": {"origins": "http://localhost:3000"}})
-CORS(admin_connection_bp, resources={r"/*": {"origins": "http://localhost:3000"}})
-CORS(perfomance_bp, resources={r"/*": {"origins": "http://localhost:3000"}})
-#this over-write the dbconfig
-# db = DataBase(
-#     host=os.getenv("DATABASE_HOST"),
-#     user=os.getenv("DATABASE_USER"),
-#     password=os.getenv("DATABASE_USER"),
-#     database=os.getenv("DATABASE_NAME"),
-#     port=os.getenv("DATABASE_PORT")
-# )
 
-@app.route('/test_db_connection', methods=['GET'])
-def testdb():
-    response = db.test_connection()
-    return response, 200
-
-
+# Register your blueprints here
 app.register_blueprint(portfolio, url_prefix='/portfolio') 
 app.register_blueprint(stock_manipulation, url_prefix='/stock_m') 
 app.register_blueprint(stock_price, url_prefix='/stock_p') 
@@ -55,8 +35,6 @@ app.register_blueprint(admin_connection_bp, url_prefix='/Admin')
 app.register_blueprint(perfomance_bp)
 app.register_blueprint(logs_bp)
 app.register_blueprint(admin_fetch_bp)
-
-
 
 if __name__ == '__main__':
     app.run(debug=True)

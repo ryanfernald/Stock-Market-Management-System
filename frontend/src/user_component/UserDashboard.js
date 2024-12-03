@@ -17,13 +17,13 @@ import "./styling/UserDashboard.css";
 const UserDashboard = () => {
    const [expandedRow, setExpandedRow] = useState(null);
    const calculateTotalValue = (quantity, currentPrice) => {
-      return (quantity * currentPrice).toFixed(2);
+      return (quantity * currentPrice);
    };
    const calculatePercentChange = (purchasePrice, currentPrice) => {
-      return (((currentPrice - purchasePrice) / purchasePrice) * 100).toFixed(2);
+      return (((currentPrice - purchasePrice) / purchasePrice) * 100);
    };
    const calculateDollarChange = (purchasePrice, currentPrice) => {
-      return (currentPrice - purchasePrice).toFixed(2);
+      return (currentPrice - purchasePrice);
    };
    // Map each stock symbol to its respective history data
    const historyDataMap = {
@@ -83,6 +83,7 @@ const UserDashboard = () => {
                throw new Error(`Error fetching balance: ${response.statusText}`);
             }
             const balance = await response.json();
+            console.log(balance)
             setBalanceDetails(balance); // Update state with fetched data
             setLoading(false);
          } catch (error) {
@@ -111,7 +112,7 @@ const UserDashboard = () => {
                      <p>Loading...</p>
                   ) : (
                      <div id="balance-details">
-                        <p>${balanceDetails.net_balance.toFixed(2)}</p>
+                        <p>${balanceDetails.net_balance}</p>
                      </div>
                   )}
                   <button onClick={() => (window.location.href = "/userstatement")}>View Details</button>
@@ -170,8 +171,8 @@ const UserDashboard = () => {
                               <tr onClick={() => toggleRow(index)} style={{ cursor: "pointer" }}>
                                  <td>{row.Stock}</td>
                                  <td>{row["Quantity Shares"]}</td>
-                                 <td>${row["Purchase Price"].toFixed(2)}</td>
-                                 <td>${row["Current Price"].toFixed(2)}</td>
+                                 <td>${row["Purchase Price"]}</td>
+                                 <td>${row["Current Price"]}</td>
                                  <td>${calculateTotalValue(row["Quantity Shares"], row["Current Price"])}</td>
                                  <td className={calculatePercentChange(row["Purchase Price"], row["Current Price"]) >= 0 ? "text-positive" : "text-negative"}>
                                     {calculatePercentChange(row["Purchase Price"], row["Current Price"])}%
@@ -219,7 +220,7 @@ const UserDashboard = () => {
                            >
                               <td>{item.Stock}</td>
                               <td>{item.Company}</td>
-                              <td>${parseFloat(item.Price).toFixed(2)}</td>
+                              <td>${parseFloat(item.Price)}</td>
                            </tr>
                         ))}
                      </tbody>
