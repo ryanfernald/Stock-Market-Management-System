@@ -1,0 +1,1267 @@
+[
+    {
+        "ticker_symbol": "CHTR",
+        "price": 396.84,
+        "time_posted": "2023-11-27"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 401.29,
+        "time_posted": "2023-11-28"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 398.9,
+        "time_posted": "2023-11-29"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 400.13,
+        "time_posted": "2023-11-30"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 401.87,
+        "time_posted": "2023-12-01"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 399.14,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 364.4,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 361.98,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 368.66,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 367.55,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 374.63,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 367.06,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 379.35,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 383.91,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 379.93,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 383.89,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 386.36,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 381.22,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 383.51,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 382.09,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 389.5,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 391.54,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 392.39,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 388.68,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 391.51,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 386.67,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 375.75,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 372.2,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 378.87,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 368.61,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 367.0,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 367.62,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 364.9,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 368.34,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 359.24,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 364.55,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 371.1,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 373.15,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 378.64,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 371.39,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 369.07,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 377.07,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 380.83,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 376.98,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 370.71,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 382.34,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 319.21,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 303.65,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 290.28,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 283.67,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 282.6,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 291.15,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 297.91,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 292.65,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 287.28,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 294.14,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 293.0,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 295.13,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 287.3,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 297.0,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 299.42,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 292.64,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 290.0,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 288.34,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 293.93,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 293.16,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 279.06,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 280.85,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 276.33,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 282.0,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 283.78,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 298.25,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 294.7,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 298.4,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 297.0,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 290.65,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 296.18,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 298.58,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 295.3,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 294.61,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 290.6,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 290.6,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 287.89,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 293.51,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 290.63,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 284.15,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 278.02,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 275.69,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 271.23,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 267.49,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 273.05,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 271.46,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 262.85,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 266.53,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 260.5,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 256.9,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 257.57,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 258.03,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 259.91,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 265.21,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 265.08,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 266.31,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 264.7,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 259.1,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 254.61,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 259.76,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 255.94,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 259.7,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 262.0,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 265.93,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 271.47,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 268.0,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 272.78,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 263.93,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 275.55,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 274.65,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 278.13,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 271.77,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 277.54,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 273.02,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 274.84,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 275.11,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 271.09,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 268.41,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 271.46,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 271.42,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 271.35,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 276.11,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 287.12,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 286.22,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 280.6,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 278.1,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 279.36,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 276.83,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 276.07,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 276.83,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 275.06,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 274.17,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 276.26,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 285.95,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 277.62,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 284.0,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 290.35,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 285.85,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 290.8,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 291.59,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 294.11,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 298.96,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 296.02,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 303.5,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 301.25,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 301.79,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 290.56,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 293.91,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 293.95,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 304.14,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 311.04,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 324.59,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 327.42,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 330.3,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 321.63,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 320.31,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 312.97,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 320.04,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 312.66,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 315.23,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 367.62,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 377.36,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 383.07,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 379.72,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 376.97,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 373.16,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 363.5,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 356.78,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 353.94,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 363.94,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 364.41,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 350.76,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 357.0,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 351.22,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 352.01,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 353.31,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 355.06,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 347.32,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 345.19,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 340.32,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 348.73,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 355.37,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 360.77,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 355.8,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 351.53,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 347.54,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 346.42,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 331.64,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 330.78,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 327.43,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 324.84,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 323.39,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 327.42,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 339.03,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 340.17,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 343.37,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 339.35,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 339.64,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 331.34,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 330.4,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 331.62,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 323.36,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 314.49,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 317.01,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 326.22,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 324.08,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 328.95,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 329.24,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 322.39,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 326.32,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 324.57,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 327.3,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 334.02,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 328.78,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 326.05,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 331.8,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 331.94,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 330.22,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 327.53,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 325.61,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 315.41,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 329.82,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 332.22,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 332.02,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 336.0,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 329.67,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 327.27,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 331.3,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 327.61,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 366.49,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 375.83,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 382.38,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 408.02,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 393.04,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 393.71,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 396.04,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 392.0,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 406.22,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 394.25,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 389.57,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 385.02,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 384.84,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 389.12,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 383.84,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 388.27,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 384.47,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "CHTR",
+        "price": 390.29,
+        "time_posted": "2024-11-26"
+    }
+]

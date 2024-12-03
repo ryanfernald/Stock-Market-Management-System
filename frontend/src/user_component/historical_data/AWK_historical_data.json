@@ -1,0 +1,1267 @@
+[
+    {
+        "ticker_symbol": "AWK",
+        "price": 127.84,
+        "time_posted": "2023-11-27"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 127.75,
+        "time_posted": "2023-11-28"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 128.3,
+        "time_posted": "2023-11-29"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 128.9,
+        "time_posted": "2023-11-30"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 130.27,
+        "time_posted": "2023-12-01"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 130.17,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 128.45,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 129.74,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 129.6,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 128.42,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 127.8,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 128.11,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 132.07,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 131.49,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 128.81,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 127.95,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 129.67,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 127.89,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 128.57,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 128.63,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 129.32,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 129.28,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 130.02,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 129.05,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 130.54,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 130.54,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 128.82,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 128.95,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 130.08,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 129.78,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 130.64,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 128.6,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 129.26,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 127.5,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 125.56,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 123.03,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 122.51,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 124.03,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 123.45,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 119.22,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 121.22,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 120.42,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 122.95,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 121.63,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 121.26,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 122.45,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 120.61,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 118.81,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 119.79,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 119.93,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 119.81,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 120.17,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 121.59,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 117.79,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 118.48,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 122.2,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 120.78,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 119.15,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 119.71,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 117.69,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 116.99,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 115.48,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 116.07,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 115.95,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 116.57,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 117.69,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 119.68,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 117.28,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 118.31,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 116.64,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 116.47,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 118.33,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 117.2,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 118.54,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 116.51,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 115.2,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 115.28,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 116.04,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 116.13,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 116.25,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 115.8,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 115.2,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 115.88,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 119.48,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 120.18,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 118.3,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 117.58,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 116.96,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 118.38,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 116.55,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 118.03,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 119.83,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 116.35,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 115.86,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 114.64,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 114.06,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 111.93,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 113.48,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 115.4,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 116.55,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 117.28,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 117.88,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 119.35,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 119.53,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 118.78,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 120.25,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 120.29,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 123.04,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 123.86,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 126.61,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 128.09,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 129.63,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 130.66,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 132.15,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 133.25,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 132.31,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 131.66,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 132.28,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 132.79,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 132.29,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 132.1,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 132.88,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 132.28,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 127.18,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 126.82,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 124.85,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 122.74,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 124.89,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 129.33,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 129.33,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 131.36,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 130.23,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 129.18,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 126.84,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 127.14,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 126.51,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 126.72,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 127.8,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 127.88,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 127.3,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 129.03,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 128.83,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 129.1,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 130.72,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 127.95,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 128.15,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 127.85,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 127.74,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 126.35,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 127.05,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 126.55,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 128.58,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 128.49,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 129.28,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 130.77,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 134.72,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 137.55,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 134.83,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 137.55,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 140.96,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 139.79,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 139.61,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 140.24,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 138.94,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 140.83,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 138.56,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 140.15,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 139.8,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 142.09,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 140.79,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 142.91,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 145.73,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 141.15,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 142.02,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 142.21,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 143.12,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 140.71,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 140.99,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 140.59,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 140.87,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 141.22,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 140.18,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 140.77,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 140.47,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 139.97,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 139.23,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 139.62,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 140.26,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 139.37,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 140.97,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 141.01,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 142.31,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 142.67,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 143.33,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 143.69,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 143.12,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 145.18,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 147.36,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 146.21,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 146.29,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 147.29,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 148.24,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 149.05,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 148.09,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 148.23,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 146.39,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 146.7,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 144.22,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 143.3,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 142.37,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 144.11,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 145.41,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 144.84,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 145.27,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 143.86,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 141.76,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 136.21,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 136.61,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 135.41,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 135.45,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 138.08,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 139.57,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 140.4,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 141.77,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 139.99,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 141.15,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 140.25,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 139.95,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 141.31,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 139.01,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 136.88,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 138.0,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 135.03,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 134.92,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 137.33,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 135.23,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 134.53,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 136.33,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 132.82,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 132.09,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 135.32,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 134.01,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 132.43,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 132.44,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 132.02,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 134.23,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 136.67,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 138.2,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 137.89,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 138.79,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 137.31,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 136.74,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 137.59,
+        "time_posted": "2024-11-26"
+    }
+]

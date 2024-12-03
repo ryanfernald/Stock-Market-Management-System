@@ -1,0 +1,1267 @@
+[
+    {
+        "ticker_symbol": "ALGN",
+        "price": 216.75,
+        "time_posted": "2023-11-27"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 214.14,
+        "time_posted": "2023-11-28"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 216.48,
+        "time_posted": "2023-11-29"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 213.8,
+        "time_posted": "2023-11-30"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 220.45,
+        "time_posted": "2023-12-01"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 219.6,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 215.35,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 216.87,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 216.61,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 221.23,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 218.68,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 217.47,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 231.36,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 257.02,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 255.01,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 261.69,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 268.31,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 262.08,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 274.1,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 271.87,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 274.19,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 275.28,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 276.67,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 274.0,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 268.92,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 256.22,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 261.36,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 264.68,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 273.94,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 277.52,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 276.79,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 276.36,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 271.64,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 267.46,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 259.56,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 264.51,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 266.34,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 271.61,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 266.43,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 257.07,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 262.11,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 264.28,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 270.39,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 264.74,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 267.32,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 273.38,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 273.9,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 275.58,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 288.44,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 284.73,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 295.0,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 296.37,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 302.44,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 292.32,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 302.75,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 309.77,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 308.77,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 313.53,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 304.65,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 316.56,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 316.88,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 310.84,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 313.06,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 302.39,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 302.42,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 300.01,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 308.04,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 299.49,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 303.79,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 310.8,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 312.49,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 308.09,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 310.68,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 320.69,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 316.92,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 314.35,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 316.14,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 317.2,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 329.14,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 321.27,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 319.42,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 319.28,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 319.94,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 327.9,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 327.92,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 319.65,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 312.07,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 310.11,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 314.95,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 317.58,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 320.06,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 330.25,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 327.82,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 324.9,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 314.97,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 304.74,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 305.1,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 300.14,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 301.34,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 298.98,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 300.82,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 311.88,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 313.78,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 310.5,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 309.02,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 304.82,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 282.38,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 284.52,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 286.54,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 287.87,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 287.37,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 286.52,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 273.65,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 280.39,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 271.7,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 272.74,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 278.08,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 280.32,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 273.56,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 271.5,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 267.44,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 264.02,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 261.12,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 252.39,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 255.62,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 253.77,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 252.76,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 256.5,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 257.21,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 254.53,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 248.91,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 256.01,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 257.46,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 255.54,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 255.7,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 253.28,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 266.13,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 271.28,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 256.01,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 245.52,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 242.2,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 242.61,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 242.19,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 237.08,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 235.23,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 243.61,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 243.0,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 241.43,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 238.64,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 239.74,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 243.37,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 243.6,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 248.94,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 247.48,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 249.13,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 256.3,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 242.65,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 240.27,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 247.54,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 250.58,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 250.66,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 251.6,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 249.31,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 250.65,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 244.8,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 226.05,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 220.45,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 223.96,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 231.16,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 231.88,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 228.33,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 213.49,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 207.94,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 206.36,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 204.03,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 214.15,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 214.92,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 213.57,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 219.83,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 220.03,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 235.33,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 240.35,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 240.01,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 233.23,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 235.13,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 228.69,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 233.97,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 231.65,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 236.28,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 230.93,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 235.15,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 237.22,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 226.5,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 222.34,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 226.52,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 221.15,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 221.38,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 227.15,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 225.15,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 228.86,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 243.73,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 249.56,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 253.16,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 253.01,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 257.17,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 252.85,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 253.16,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 249.01,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 242.45,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 249.46,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 254.81,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 254.32,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 245.35,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 238.06,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 236.97,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 241.35,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 234.85,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 234.06,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 233.79,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 229.65,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 222.04,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 221.27,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 219.15,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 216.05,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 216.02,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 219.7,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 216.56,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 210.81,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 207.66,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 216.42,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 219.3,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 215.8,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 212.78,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 210.86,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 205.03,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 208.58,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 210.78,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 212.15,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 224.85,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 222.18,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 220.51,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 225.24,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 219.09,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 215.03,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 221.64,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 223.69,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 229.9,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 222.58,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 223.87,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 228.21,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 225.89,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 240.52,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "ALGN",
+        "price": 227.93,
+        "time_posted": "2024-11-26"
+    }
+]

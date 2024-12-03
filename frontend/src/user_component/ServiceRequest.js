@@ -19,7 +19,9 @@ const ServiceRequest = () => {
         userId: UserId,
         title: title,
         date: date,
-        desc: description
+        desc: description,
+        ticket_status: 'open',
+        notes:""
       });
       alert("Your Request has been submitted! A member of our support staff will reach out to you.");
     } catch (error) {

@@ -1,0 +1,1267 @@
+[
+    {
+        "ticker_symbol": "AIZ",
+        "price": 166.36,
+        "time_posted": "2023-11-27"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 162.04,
+        "time_posted": "2023-11-28"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 161.83,
+        "time_posted": "2023-11-29"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 166.0,
+        "time_posted": "2023-11-30"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 166.28,
+        "time_posted": "2023-12-01"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 169.37,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 169.31,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 167.84,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 165.66,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 165.66,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 166.42,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 168.02,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 167.36,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 162.32,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 161.33,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 163.65,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 165.39,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 162.1,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 163.19,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 163.94,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 164.31,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 164.37,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 166.04,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 166.46,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 167.82,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 167.95,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 167.05,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 166.06,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 164.0,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 162.17,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 161.34,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 164.6,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 162.66,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 162.51,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 164.13,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 164.58,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 165.8,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 166.77,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 167.12,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 167.55,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 169.27,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 168.63,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 167.29,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 168.04,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 165.93,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 167.26,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 165.56,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 167.1,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 167.57,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 173.98,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 173.21,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 173.13,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 170.55,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 169.88,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 170.44,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 171.16,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 172.36,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 173.27,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 172.84,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 176.07,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 176.98,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 177.54,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 180.33,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 180.83,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 180.03,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 179.05,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 176.64,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 177.22,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 178.44,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 177.51,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 177.12,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 176.96,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 179.71,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 180.09,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 178.42,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 179.75,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 177.0,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 177.86,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 179.2,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 178.14,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 178.28,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 180.07,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 181.84,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 185.95,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 186.77,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 185.76,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 185.16,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 183.53,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 177.94,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 178.45,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 179.84,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 177.4,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 176.1,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 172.26,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 172.83,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 171.24,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 169.76,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 168.75,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 169.56,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 172.47,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 173.24,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 174.93,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 175.67,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 172.28,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 171.53,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 173.95,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 173.04,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 173.29,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 173.26,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 174.71,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 179.08,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 177.19,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 175.16,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 177.89,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 175.12,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 174.97,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 175.95,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 174.1,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 174.11,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 174.23,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 170.85,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 170.04,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 168.19,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 165.41,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 167.67,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 167.25,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 167.73,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 169.24,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 172.12,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 171.14,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 170.46,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 171.1,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 171.17,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 171.99,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 171.95,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 168.98,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 168.34,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 167.5,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 164.93,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 167.37,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 167.75,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 168.98,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 168.12,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 168.62,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 165.96,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 164.21,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 166.65,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 165.64,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 166.28,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 165.24,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 163.33,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 160.69,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 160.81,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 161.02,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 164.2,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 165.93,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 167.53,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 170.48,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 169.62,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 171.27,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 171.69,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 169.17,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 168.79,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 171.82,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 169.26,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 168.97,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 172.42,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 172.02,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 175.2,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 174.23,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 173.9,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 172.61,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 168.67,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 169.55,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 169.57,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 169.65,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 176.74,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 177.81,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 183.64,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 185.3,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 183.39,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 186.58,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 188.06,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 189.09,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 189.13,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 189.05,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 192.3,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 192.05,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 193.39,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 193.29,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 194.64,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 195.63,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 196.79,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 197.18,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 194.86,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 192.58,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 193.26,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 191.77,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 189.32,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 191.31,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 192.24,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 192.92,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 195.74,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 193.82,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 194.02,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 194.27,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 198.1,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 197.31,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 196.54,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 199.0,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 199.95,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 198.86,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 199.22,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 199.66,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 196.47,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 197.53,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 186.6,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 189.58,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 190.57,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 190.33,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 191.89,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 192.87,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 194.79,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 196.86,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 198.16,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 197.5,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 194.37,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 193.74,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 193.71,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 194.73,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 191.77,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 194.23,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 193.55,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 195.07,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 191.7,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 191.76,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 191.19,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 193.09,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 206.37,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 205.84,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 209.39,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 210.73,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 212.29,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 213.24,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 215.48,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 218.82,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 221.6,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 219.17,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 220.85,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 225.22,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 226.15,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 227.44,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "AIZ",
+        "price": 228.68,
+        "time_posted": "2024-11-26"
+    }
+]

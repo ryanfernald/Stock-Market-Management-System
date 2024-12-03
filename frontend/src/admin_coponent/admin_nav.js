@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import icon from "../assets/icon.png";
 import { Link } from "react-router-dom";
 import "./styling/admin_nav.css";
@@ -16,15 +16,14 @@ const AdminNavbar = () => {
          <div className="admin-navbar-center">
          </div>
 
-         
+         <div className="admin-navbar-option">
+            <Link to="/AdminDashboard">Admin Dashboard</Link>
+         </div>
          <div className="admin-navbar-option">
             <Link to="/TableManip">Insert/Delete Tables</Link>
          </div>
          <div className="admin-navbar-option">
-            <Link to="/querie">Send Queries</Link>
-         </div>
-         <div className="admin-navbar-option">
-            <Link to="/table-lookup">View Tables</Link>
+            <Link to="/DBLogs">DBLogs</Link>
          </div>
          
       </div>

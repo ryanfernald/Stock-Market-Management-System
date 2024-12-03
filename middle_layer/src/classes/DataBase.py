@@ -3,6 +3,10 @@ from flask import jsonify
 import psycopg2
 import mysql
 import mysql.connector
+import os
+import pandas as pd
+import requests
+from io import StringIO
 
 class DataBase:
     #this help us switch between mysql and postgress easily
@@ -284,9 +288,9 @@ class DataBase:
         if amount <= 0:
             raise ValueError("Amount must be greater than zero.")
 
-        user_balance = json.loads(self.get_user_balance(user_id))["net_balance"]
-        if user_balance < amount:
-            raise ValueError("Insufficient balance to complete this withdrawal.")
+        # user_balance = json.loads(self.get_user_balance(user_id))["net_balance"]
+        # if user_balance < amount:
+        #     raise ValueError("Insufficient balance to complete this withdrawal.")
 
         insert_withdraw_query = """
             INSERT INTO FundsWithdraw (user_id, amount, time_initiated, cleared)
@@ -334,7 +338,6 @@ class DataBase:
         self.cursor.execute(market_order_query, (user_id,))
         net_market_orders = self.cursor.fetchone()[0]
         net_balance = total_deposit - total_withdraw + net_market_orders
-
         balance_data = {
             "total_deposit": float(total_deposit),
             "total_withdraw": float(total_withdraw),
@@ -377,6 +380,10 @@ class DataBase:
             return jsonify(None)
 
     def admin_insertion(self, TableName, data):
+        if not self.connection.is_connected():
+                print("Reconnecting to the database...")
+                self.connection.reconnect()
+                self.cursor = self.connection.cursor()
         columns = ', '.join(data.keys())
         values = ', '.join(f"'{v}'" for v in data.values())
         query = f"INSERT INTO {TableName} ({columns}) VALUES ({values})"
@@ -387,11 +394,96 @@ class DataBase:
             print(f"Inserted {data} into {TableName}")
         except mysql.connector.Error as error:
             print(f"Error: {error}")
-        finally:
-            self.cursor.close()
-            self.connection.close()
+        # finally:
+        #     self.cursor.close()
+        #     self.connection.close()
+    # admin table fetch
+    def admin_table_fetch(self, TableName):
+        if not self.connection.is_connected():
+                print("Reconnecting to the database...")
+                self.connection.reconnect()
+                self.cursor = self.connection.cursor()
+        query = f"""
+                    SELECT *
+                    FROM {TableName}
+                """
+        try:
+            # Execute the query with the provided values
+            self.cursor.execute(query)
+            logs = self.cursor.fetchall()
+            #Returns the log
+            return logs
+        except Exception as e:
+            print(f"Error fetching tables data: {e}")
+            return []
+    # admin fetch tables
+    def admin_table_fetch_manip(self, TableName):
+        if not self.connection.is_connected():
+            print("Reconnecting to the database...")
+            self.connection.reconnect()
+            self.cursor = self.connection.cursor()
 
+        query = f"SELECT * FROM {TableName}"
 
+        try:
+            # Execute the query
+            self.cursor.execute(query)
+            rows = self.cursor.fetchall()
+
+            # Fetch column names
+            column_names = [desc[0] for desc in self.cursor.description]
+
+            # Convert rows to list of dictionaries
+            data = [dict(zip(column_names, row)) for row in rows]
+
+            return data
+        except Exception as e:
+            print(f"Error fetching data from table {TableName}: {e}")
+            return []
+    
+    # admin table row deletion
+    def admin_table_row_deletion(self, TableName, data_name, data_value):
+        if not self.connection.is_connected():
+                print("Reconnecting to the database...")
+                self.connection.reconnect()
+                self.cursor = self.connection.cursor()
+        query = f"""
+                    DELETE FROM {TableName}
+                    WHERE {data_name} = {data_value}
+                """
+        try:
+            # Execute the query with the provided values
+            self.cursor.execute(query)
+            self.connection.commit()
+            print(f"Deleted {data_name} with value of {data_value} from the table {TableName}")
+            # self.connection.close()
+            response = f"Deleted {data_name} with value of {data_value} from the table {TableName}"
+            return response
+            #Returns the log
+        except Exception as e:
+            print(f"Error daleting from the tables {TableName}: {e}")
+            return None
+    #function for acessing logs
+    def admin_fetch_log(self):
+        try:
+            # Check if the connection or cursor is closed and reinitialize if needed
+            if not self.connection.is_connected():
+                print("Reconnecting to the database...")
+                self.connection.reconnect()
+                self.cursor = self.connection.cursor()
+
+            # Execute the query
+            self.cursor.execute("SELECT * FROM Log ORDER BY operation_time DESC")
+            logs = self.cursor.fetchall()
+
+            # Return the logs directly as raw data
+            return logs
+
+        except Exception as e:
+            print(f"Error fetching logs: {e}")
+            return []
+
+        
     ## Functions for fetching
     
     # Check if today's entry exists for a specific ticker
@@ -403,15 +495,19 @@ class DataBase:
 
     # Insert or update stock price for a ticker and timestamp
     def insert_or_update_price(self, ticker_symbol, price, timestamp):
-        query = """
-            INSERT INTO StockPrice (ticker_symbol, price, time_posted)
-            VALUES (%s, %s, %s)
-            ON DUPLICATE KEY UPDATE
-                price = VALUES(price),
-                time_posted = VALUES(time_posted)
-        """
-        self.cursor.execute(query, (ticker_symbol, price, timestamp))
-        self.connection.commit()
+        try:
+            query = """
+                INSERT INTO StockPrice (ticker_symbol, price, time_posted)
+                VALUES (%s, %s, %s)
+                ON DUPLICATE KEY UPDATE
+                    price = VALUES(price),
+                    time_posted = VALUES(time_posted)
+            """
+            self.cursor.execute(query, (ticker_symbol, price, timestamp))
+            self.connection.commit()
+            print(f"Price for {ticker_symbol} updated in the database.")
+        except Exception as e:
+            print(f"Error inserting/updating price for {ticker_symbol}: {e}")
 
     # Clear all data from a specified table
     def clear_table(self, table_name):
@@ -453,6 +549,106 @@ class DataBase:
         self.cursor.execute(query)
         result = self.cursor.fetchall()
         return list(result)
+    
+    # Retrieve all stock price data for every ticker and save it in separate JSON files
+    def get_historical_data(self):
+        try:
+            # Fetch all unique ticker symbols
+            tickers_query = "SELECT DISTINCT ticker_symbol FROM StockPrice"
+            self.cursor.execute(tickers_query)
+            tickers = [row[0] for row in self.cursor.fetchall()]
+
+            for ticker_symbol in tickers:
+                query = """
+                    SELECT ticker_symbol, price, time_posted
+                    FROM StockPrice
+                    WHERE ticker_symbol = %s
+                    ORDER BY time_posted ASC
+                """
+                self.cursor.execute(query, (ticker_symbol,))
+                rows = self.cursor.fetchall()
+
+                # Prepare data for JSON output
+                data = [
+                    {
+                        "ticker_symbol": row[0],
+                        "price": float(row[1]),
+                        "time_posted": row[2].strftime('%Y-%m-%d')
+                    }
+                    for row in rows
+                ]
+
+                # Define the file path relative to the current working directory
+                file_path = os.path.join(
+                    os.getcwd(),
+                    "frontend",
+                    "src",
+                    "user_component",
+                    "historical_data",
+                    f"{ticker_symbol}_historical_data.json"
+                )
+
+                # Save data to a JSON file
+                os.makedirs(os.path.dirname(file_path), exist_ok=True)  # Ensure directory exists
+                with open(file_path, "w") as json_file:
+                    json.dump(data, json_file, indent=4)
+
+        except Exception as e:
+            print(f"Error fetching historical data: {e}")
+    
+    # Generate a JSON file containing stock symbol, name, sector, and latest price.
+    def get_stock_details(self):
+        try:
+            # SQL query to get symbol, sector, and latest price
+            query = """
+                SELECT s.ticker_symbol, sec.sector_name, sp.price
+                FROM Stock s
+                JOIN Sector sec ON s.sector_id = sec.sector_id
+                JOIN (
+                    SELECT ticker_symbol, MAX(time_posted) AS latest_time
+                    FROM StockPrice
+                    GROUP BY ticker_symbol
+                ) latest_price ON s.ticker_symbol = latest_price.ticker_symbol
+                JOIN StockPrice sp ON s.ticker_symbol = sp.ticker_symbol AND sp.time_posted = latest_price.latest_time
+            """
+            self.cursor.execute(query)
+            rows = self.cursor.fetchall()
+
+            # Fetch S&P 500 company names from Wikipedia
+            url = "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies"
+            response = requests.get(url)
+            sp500_df = pd.read_html(StringIO(response.text))[0]
+            company_names = dict(zip(sp500_df['Symbol'], sp500_df['Security']))
+
+            # Prepare data for JSON output
+            data = []
+            for row in rows:
+                ticker_symbol, sector_name, price = row
+                data.append({
+                    "Symbol": ticker_symbol,
+                    "Name": company_names.get(ticker_symbol, "Unknown"),
+                    "Sector": sector_name,
+                    "Price": str(price)
+                })
+
+            # Define file path relative to the current working directory
+            file_path = os.path.join(
+                os.getcwd(),
+                "frontend",
+                "src",
+                "user_component",
+                "stock_details.json"  # Single JSON file for all stocks
+            )
+
+            # Save data to JSON file
+            with open(file_path, "w") as json_file:
+                json.dump(data, json_file, indent=4)
+
+            print(f"JSON saved to {file_path}")
+
+        except Exception as e:
+            print(f"Error generating stock details JSON: {e}")
+
 
 # TODO
 # x make sure all are json

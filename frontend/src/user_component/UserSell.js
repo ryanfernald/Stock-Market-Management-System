@@ -3,7 +3,7 @@ import React, { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom"; 
 import "./styling/UserSell.css";
 
-import stockList from "./holding test data/stock_list.json";
+import stockList from "./historical_data/stock_list.json";
 
 const UserSell = () => {
     const navigate = useNavigate();

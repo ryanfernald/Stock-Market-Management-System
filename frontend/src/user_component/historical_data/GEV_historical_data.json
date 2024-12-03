@@ -1,0 +1,842 @@
+[
+    {
+        "ticker_symbol": "GEV",
+        "price": 142.02,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 140.0,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 137.34,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 126.06,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 122.7,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 129.96,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 132.17,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 138.37,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 136.57,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 134.0,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 131.75,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 130.07,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 134.75,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 137.22,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 135.1,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 136.69,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 147.83,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 146.18,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 148.31,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 153.07,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 159.01,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 153.71,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 151.67,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 153.83,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 166.26,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 169.14,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 167.36,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 164.0,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 166.4,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 167.27,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 161.53,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 165.63,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 167.87,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 166.4,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 162.62,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 160.95,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 163.93,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 163.85,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 161.67,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 177.43,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 178.09,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 177.32,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 175.08,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 175.9,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 170.37,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 163.04,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 163.49,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 160.31,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 162.08,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 166.64,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 168.23,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 177.52,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 176.17,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 170.17,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 168.76,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 179.57,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 177.18,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 175.73,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 178.14,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 181.45,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 180.0,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 176.28,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 171.51,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 167.52,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 169.81,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 172.68,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 176.23,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 174.37,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 172.98,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 179.73,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 176.7,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 180.45,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 177.44,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 182.74,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 165.83,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 161.49,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 163.34,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 166.76,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 170.49,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 162.9,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 160.0,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 173.11,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 172.05,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 162.7,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 178.24,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 174.03,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 164.73,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 162.24,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 164.35,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 166.07,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 177.21,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 179.11,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 176.44,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 179.65,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 184.16,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 188.82,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 184.06,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 185.4,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 184.0,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 184.26,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 186.0,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 183.29,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 182.13,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 185.55,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 184.0,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 191.36,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 201.0,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 192.55,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 199.63,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 198.44,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 198.33,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 201.81,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 202.01,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 209.15,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 215.27,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 225.59,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 229.93,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 237.15,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 235.67,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 244.45,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 245.46,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 251.53,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 255.48,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 255.05,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 251.22,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 249.86,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 254.98,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 256.53,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 252.29,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 254.68,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 265.59,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 262.54,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 264.27,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 266.6,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 264.62,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 266.89,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 269.5,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 266.36,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 274.77,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 272.0,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 272.72,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 276.43,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 276.42,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 279.88,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 297.0,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 293.54,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 289.23,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 298.77,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 297.6,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 301.66,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 301.09,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 295.46,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 315.77,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 336.3,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 336.78,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 341.18,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 349.44,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 323.71,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 333.26,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 326.04,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 329.76,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 325.37,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 340.0,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 342.77,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 339.85,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 349.16,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 328.98,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 338.89,
+        "time_posted": "2024-11-26"
+    }
+]

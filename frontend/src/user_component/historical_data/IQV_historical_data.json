@@ -1,0 +1,1267 @@
+[
+    {
+        "ticker_symbol": "IQV",
+        "price": 210.73,
+        "time_posted": "2023-11-27"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 211.0,
+        "time_posted": "2023-11-28"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 213.81,
+        "time_posted": "2023-11-29"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 214.1,
+        "time_posted": "2023-11-30"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 216.91,
+        "time_posted": "2023-12-01"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 216.27,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 214.31,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 215.59,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 214.99,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 215.28,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 216.31,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 217.43,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 225.95,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 230.55,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 226.72,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 225.97,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 228.86,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 225.0,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 229.33,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 229.38,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 231.03,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 231.92,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 232.73,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 231.38,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 230.39,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 220.01,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 220.08,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 220.52,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 224.06,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 221.75,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 217.13,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 213.95,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 213.85,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 212.7,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 210.91,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 213.19,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 215.39,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 217.75,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 213.53,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 212.88,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 215.5,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 216.09,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 218.02,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 217.08,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 208.23,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 211.3,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 210.75,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 210.71,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 215.41,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 214.34,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 217.0,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 218.2,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 217.88,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 215.27,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 243.47,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 241.47,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 238.6,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 234.76,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 237.28,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 247.33,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 247.26,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 247.48,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 248.84,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 250.31,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 247.16,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 252.45,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 251.56,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 250.2,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 252.97,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 258.59,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 257.18,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 258.58,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 259.1,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 255.65,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 254.26,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 252.71,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 253.87,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 254.16,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 252.72,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 254.56,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 252.41,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 248.88,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 247.74,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 252.57,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 252.89,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 248.87,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 245.51,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 242.98,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 238.53,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 241.45,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 241.5,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 245.33,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 239.41,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 238.02,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 234.23,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 231.16,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 229.14,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 227.25,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 227.17,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 228.09,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 231.34,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 238.62,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 240.84,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 233.98,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 234.88,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 235.48,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 231.77,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 232.94,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 222.14,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 223.37,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 227.04,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 229.14,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 227.88,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 229.2,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 234.08,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 229.04,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 231.14,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 233.69,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 235.0,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 231.18,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 230.09,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 229.38,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 226.03,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 227.09,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 229.6,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 226.71,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 225.0,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 222.45,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 219.09,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 216.47,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 217.18,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 218.9,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 220.49,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 219.23,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 215.83,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 215.51,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 217.46,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 213.96,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 212.75,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 213.32,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 212.83,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 214.19,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 216.25,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 214.09,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 211.42,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 211.18,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 212.75,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 211.44,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 208.49,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 207.47,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 206.81,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 208.1,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 208.94,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 213.05,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 211.98,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 219.44,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 224.17,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 225.89,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 232.97,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 230.29,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 224.85,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 224.57,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 245.23,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 238.79,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 238.75,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 232.29,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 239.67,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 237.25,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 245.57,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 246.23,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 248.36,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 241.78,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 233.65,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 237.26,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 229.62,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 236.07,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 237.47,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 231.46,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 238.44,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 236.21,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 240.91,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 239.63,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 243.11,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 246.94,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 247.0,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 244.96,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 248.93,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 247.86,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 248.6,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 247.55,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 250.79,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 251.55,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 248.81,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 248.84,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 248.14,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 243.07,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 240.87,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 235.2,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 237.3,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 238.4,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 238.7,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 239.38,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 239.98,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 242.67,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 244.62,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 242.12,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 240.73,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 239.57,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 231.71,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 236.23,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 234.79,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 236.97,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 231.37,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 231.76,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 227.4,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 229.84,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 225.36,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 226.72,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 228.79,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 230.25,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 229.26,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 233.22,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 232.98,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 233.06,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 233.89,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 236.69,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 231.19,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 228.3,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 228.31,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 211.71,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 214.63,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 217.54,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 216.34,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 216.04,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 205.82,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 209.16,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 210.19,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 212.87,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 221.25,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 217.68,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 219.23,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 216.99,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 213.57,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 211.51,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 202.94,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 192.68,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 191.04,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 191.33,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 194.38,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 197.6,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 201.82,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 204.02,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "IQV",
+        "price": 201.23,
+        "time_posted": "2024-11-26"
+    }
+]

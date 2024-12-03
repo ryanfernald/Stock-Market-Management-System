@@ -1,0 +1,1267 @@
+[
+    {
+        "ticker_symbol": "ABBV",
+        "price": 134.18,
+        "time_posted": "2023-11-27"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 133.21,
+        "time_posted": "2023-11-28"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 133.62,
+        "time_posted": "2023-11-29"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 137.37,
+        "time_posted": "2023-11-30"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 138.35,
+        "time_posted": "2023-12-01"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 139.07,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 139.47,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 141.22,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 142.75,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 144.02,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 145.91,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 147.84,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 148.86,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 149.42,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 148.61,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 148.01,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 148.18,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 146.34,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 147.21,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 149.48,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 149.17,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 149.42,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 149.29,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 149.5,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 154.18,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 154.8,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 155.77,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 156.42,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 155.74,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 156.59,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 159.07,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 158.0,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 158.17,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 157.27,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 157.82,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 159.05,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 160.48,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 161.08,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 163.14,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 159.94,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 160.83,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 160.12,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 159.64,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 160.62,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 160.12,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 163.22,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 164.28,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 166.8,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 168.78,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 170.45,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 170.24,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 169.55,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 168.56,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 168.78,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 169.88,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 171.99,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 172.87,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 171.17,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 170.58,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 172.15,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 173.45,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 174.15,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 174.33,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 173.36,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 171.46,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 174.25,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 172.44,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 174.49,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 176.34,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 175.87,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 174.19,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 174.95,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 176.21,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 175.17,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 176.48,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 173.25,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 173.84,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 174.98,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 171.68,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 172.88,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 173.8,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 173.88,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 174.52,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 175.65,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 177.36,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 176.05,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 175.98,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 172.71,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 163.53,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 165.57,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 165.38,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 165.71,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 164.63,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 163.16,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 159.53,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 158.93,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 159.78,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 161.47,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 161.87,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 163.59,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 165.04,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 166.67,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 164.96,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 164.45,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 156.91,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 158.78,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 159.88,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 158.98,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 158.08,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 161.01,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 159.97,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 159.79,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 157.73,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 157.68,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 158.02,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 158.55,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 158.85,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 161.01,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 161.56,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 163.6,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 161.77,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 160.17,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 156.9,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 155.58,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 154.4,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 152.71,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 152.17,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 153.66,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 158.51,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 157.47,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 159.39,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 162.64,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 165.71,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 166.55,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 167.57,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 164.86,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 163.27,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 163.74,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 165.73,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 166.8,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 168.45,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 169.21,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 167.5,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 169.81,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 167.86,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 168.25,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 166.13,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 168.61,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 167.48,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 163.15,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 161.06,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 164.41,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 163.7,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 165.2,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 165.29,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 167.03,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 167.39,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 166.7,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 167.86,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 173.88,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 169.78,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 170.95,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 172.23,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 171.78,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 174.81,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 180.73,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 183.69,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 180.5,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 185.3,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 183.85,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 188.21,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 187.79,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 182.9,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 184.24,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 186.02,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 188.89,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 188.43,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 188.67,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 189.72,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 191.47,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 191.87,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 192.36,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 195.31,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 194.6,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 194.97,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 194.81,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 195.98,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 195.88,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 194.37,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 193.85,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 193.63,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 194.75,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 196.12,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 195.45,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 191.33,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 191.87,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 194.86,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 197.77,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 193.05,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 192.48,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 192.67,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 194.18,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 191.92,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 191.41,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 192.09,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 191.94,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 192.29,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 191.98,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 189.74,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 190.38,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 193.25,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 195.92,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 195.4,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 195.26,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 193.9,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 192.75,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 192.08,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 191.48,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 193.21,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 192.81,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 192.65,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 194.1,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 191.86,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 190.46,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 188.57,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 188.86,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 186.54,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 188.76,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 187.88,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 189.65,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 187.85,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 189.68,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 189.45,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 201.5,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 203.87,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 203.55,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 200.47,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 201.68,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 201.2,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 200.51,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 199.5,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 174.43,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 171.09,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 170.35,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 169.63,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 164.99,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 166.28,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 166.57,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 167.76,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 171.73,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 176.95,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 177.06,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "ABBV",
+        "price": 181.14,
+        "time_posted": "2024-11-26"
+    }
+]

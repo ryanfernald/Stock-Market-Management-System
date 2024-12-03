@@ -1,0 +1,1267 @@
+[
+    {
+        "ticker_symbol": "VLO",
+        "price": 122.06,
+        "time_posted": "2023-11-27"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 121.7,
+        "time_posted": "2023-11-28"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 120.57,
+        "time_posted": "2023-11-29"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 121.82,
+        "time_posted": "2023-11-30"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 122.81,
+        "time_posted": "2023-12-01"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 122.89,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 122.1,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 119.26,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 118.62,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 119.27,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 119.99,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 117.48,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 121.27,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 125.53,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 124.94,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 128.19,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 129.82,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 128.79,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 128.19,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 128.46,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 129.43,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 128.09,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 126.41,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 126.33,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 126.97,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 129.96,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 126.63,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 125.35,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 125.62,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 123.58,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 121.24,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 124.38,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 127.78,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 125.65,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 122.74,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 122.4,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 124.54,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 125.47,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 125.46,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 126.47,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 130.66,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 134.01,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 134.47,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 137.88,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 136.0,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 135.4,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 134.97,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 137.48,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 134.95,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 138.23,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 138.84,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 140.07,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 139.55,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 138.61,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 138.1,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 139.03,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 136.63,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 132.21,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 134.29,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 136.86,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 138.62,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 142.06,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 140.0,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 136.3,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 138.51,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 140.29,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 141.68,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 141.3,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 141.42,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 145.92,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 146.41,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 147.4,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 147.58,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 155.32,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 156.06,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 160.28,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 162.82,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 163.9,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 166.03,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 167.41,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 166.1,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 164.97,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 163.76,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 164.31,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 167.13,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 169.04,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 173.52,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 176.6,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 176.84,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 179.56,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 177.11,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 172.58,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 172.03,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 173.34,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 169.92,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 167.11,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 165.46,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 163.79,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 159.1,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 160.47,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 162.44,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 164.04,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 163.51,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 163.64,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 162.34,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 164.01,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 156.53,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 152.41,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 154.06,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 153.57,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 154.9,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 153.4,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 153.79,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 155.55,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 152.87,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 152.67,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 152.67,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 154.42,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 155.19,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 162.59,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 160.36,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 159.0,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 158.62,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 159.17,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 159.03,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 160.16,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 152.44,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 148.77,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 154.92,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 151.77,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 153.19,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 151.87,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 153.57,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 152.25,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 152.41,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 151.43,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 146.29,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 147.71,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 147.95,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 148.98,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 147.83,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 150.32,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 148.09,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 148.6,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 151.62,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 151.41,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 151.87,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 154.55,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 155.75,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 155.73,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 156.26,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 150.63,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 145.87,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 144.24,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 142.86,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 144.57,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 145.83,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 146.65,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 146.73,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 147.93,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 145.7,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 146.24,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 146.92,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 144.8,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 146.72,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 154.79,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 156.88,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 155.23,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 161.17,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 159.44,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 155.27,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 147.44,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 146.53,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 147.73,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 147.15,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 150.47,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 149.94,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 150.35,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 146.43,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 146.71,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 148.18,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 148.69,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 147.1,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 140.2,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 142.79,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 142.35,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 144.77,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 142.01,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 139.87,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 139.99,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 140.74,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 145.62,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 140.3,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 138.58,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 134.5,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 133.18,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 133.15,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 135.06,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 131.9,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 133.11,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 133.25,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 132.74,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 134.78,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 135.63,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 137.65,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 133.45,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 134.16,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 131.82,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 131.81,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 135.59,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 134.95,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 134.01,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 136.43,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 134.66,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 142.94,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 141.35,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 142.9,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 135.31,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 138.31,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 141.63,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 141.27,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 140.11,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 133.64,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 134.5,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 135.62,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 136.01,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 134.48,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 134.69,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 131.89,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 130.37,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 131.4,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 131.26,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 126.92,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 127.76,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 128.78,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 127.25,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 128.97,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 131.06,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 137.66,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 135.08,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 135.66,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 136.98,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 135.99,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 138.51,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 138.96,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 139.1,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 142.92,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 140.94,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 141.2,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 141.11,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 140.91,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 139.82,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 139.8,
+        "time_posted": "2024-11-26"
+    }
+]

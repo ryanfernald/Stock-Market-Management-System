@@ -1,0 +1,1267 @@
+[
+    {
+        "ticker_symbol": "PH",
+        "price": 427.21,
+        "time_posted": "2023-11-27"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 421.88,
+        "time_posted": "2023-11-28"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 423.4,
+        "time_posted": "2023-11-29"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 428.46,
+        "time_posted": "2023-11-30"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 435.36,
+        "time_posted": "2023-12-01"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 433.38,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 430.09,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 429.59,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 429.04,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 433.85,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 433.45,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 436.03,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 436.73,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 450.45,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 448.66,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 448.55,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 455.24,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 444.52,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 450.93,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 453.2,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 456.43,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 457.21,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 456.93,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 455.68,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 453.61,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 445.77,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 447.13,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 448.61,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 453.69,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 452.48,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 455.76,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 457.6,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 455.3,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 455.73,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 451.08,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 460.63,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 465.24,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 468.36,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 463.99,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 459.81,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 466.66,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 466.45,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 471.31,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 472.65,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 459.44,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 494.73,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 504.8,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 503.33,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 505.98,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 508.62,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 511.36,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 517.19,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 514.03,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 507.52,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 517.71,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 517.67,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 515.88,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 515.35,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 519.5,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 525.74,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 526.8,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 526.54,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 527.22,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 526.83,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 531.14,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 533.48,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 531.2,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 523.75,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 526.96,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 535.14,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 533.03,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 531.73,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 533.95,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 535.22,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 531.94,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 531.11,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 531.95,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 534.51,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 542.07,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 556.13,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 550.43,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 546.1,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 544.74,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 553.56,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 551.32,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 546.58,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 543.04,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 554.08,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 551.18,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 562.11,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 561.38,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 556.84,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 550.9,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 551.32,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 545.89,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 539.0,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 539.76,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 536.22,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 533.76,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 530.35,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 535.38,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 545.97,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 541.96,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 544.96,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 549.19,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 549.98,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 540.53,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 538.59,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 526.41,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 531.87,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 546.36,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 545.76,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 550.45,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 557.82,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 558.26,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 548.21,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 546.59,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 550.44,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 536.73,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 542.32,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 545.19,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 544.07,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 543.27,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 523.87,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 527.12,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 523.84,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 520.51,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 521.78,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 528.8,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 510.45,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 509.83,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 520.52,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 512.58,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 513.5,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 523.31,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 520.32,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 530.23,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 526.19,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 500.72,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 503.44,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 504.24,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 505.39,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 501.58,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 507.68,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 502.71,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 500.06,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 501.64,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 503.22,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 498.45,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 507.42,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 510.1,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 502.91,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 506.17,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 506.08,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 520.49,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 525.46,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 535.15,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 541.95,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 565.77,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 555.08,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 544.87,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 541.86,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 549.29,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 548.84,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 526.55,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 542.34,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 551.77,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 545.71,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 548.39,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 558.29,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 531.8,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 515.86,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 503.72,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 515.37,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 509.88,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 565.17,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 566.89,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 564.87,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 568.6,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 575.43,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 587.82,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 580.41,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 583.5,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 579.31,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 582.94,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 584.29,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 590.78,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 588.22,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 587.07,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 586.62,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 589.82,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 598.78,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 573.99,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 575.59,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 573.84,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 569.96,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 578.83,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 579.73,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 583.02,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 586.16,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 589.93,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 595.37,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 603.74,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 607.59,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 624.57,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 622.3,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 617.26,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 623.89,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 620.35,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 633.9,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 631.27,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 630.33,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 628.65,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 626.02,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 624.83,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 629.19,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 628.22,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 625.86,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 631.29,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 630.03,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 635.64,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 642.01,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 636.51,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 635.97,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 638.33,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 638.93,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 637.73,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 627.79,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 628.21,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 622.67,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 620.27,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 622.18,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 623.63,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 622.81,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 632.57,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 633.53,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 636.49,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 651.91,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 707.78,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 688.14,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 695.58,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 708.15,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 699.32,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 706.46,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 697.63,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 698.91,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 691.68,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 689.76,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 690.43,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 702.68,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 706.87,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 704.42,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "PH",
+        "price": 706.85,
+        "time_posted": "2024-11-26"
+    }
+]

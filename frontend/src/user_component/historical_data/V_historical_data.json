@@ -1,0 +1,1267 @@
+[
+    {
+        "ticker_symbol": "V",
+        "price": 252.21,
+        "time_posted": "2023-11-27"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 251.02,
+        "time_posted": "2023-11-28"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 252.3,
+        "time_posted": "2023-11-29"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 254.73,
+        "time_posted": "2023-11-30"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 254.5,
+        "time_posted": "2023-12-01"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 252.51,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 252.68,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 252.36,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 253.88,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 253.8,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 254.57,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 257.59,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 260.39,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 256.77,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 256.07,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 256.41,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 258.02,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 255.16,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 257.57,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 256.47,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 257.19,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 256.97,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 258.42,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 258.38,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 256.91,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 256.02,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 257.64,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 257.72,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 260.55,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 261.33,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 262.55,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 262.03,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 262.17,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 263.23,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 264.61,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 266.11,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 268.85,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 269.14,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 269.2,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 269.59,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 270.54,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 265.91,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 271.58,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 275.05,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 271.19,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 274.95,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 275.08,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 273.49,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 274.66,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 277.27,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 274.2,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 274.84,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 273.49,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 274.23,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 275.97,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 279.37,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 276.96,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 273.57,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 275.17,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 282.12,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 281.97,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 282.52,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 281.55,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 283.99,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 281.02,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 281.54,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 278.92,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 277.78,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 278.82,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 276.66,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 278.43,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 278.95,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 282.29,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 283.5,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 284.77,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 281.42,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 283.42,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 285.7,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 287.62,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 288.7,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 281.64,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 279.6,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 278.99,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 277.42,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 277.48,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 276.68,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 276.84,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 275.37,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 272.43,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 275.55,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 276.17,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 275.13,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 272.91,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 274.1,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 274.38,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 269.72,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 269.79,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 271.13,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 269.81,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 268.23,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 270.77,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 272.54,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 273.44,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 273.58,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 272.95,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 270.28,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 267.07,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 265.79,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 266.08,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 266.95,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 271.11,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 274.87,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 275.6,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 276.94,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 279.13,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 277.79,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 276.15,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 279.89,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 278.75,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 279.01,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 277.46,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 274.88,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 274.51,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 273.16,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 273.42,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 269.92,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 267.81,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 270.24,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 271.4,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 269.33,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 271.36,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 273.43,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 275.96,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 277.58,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 273.97,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 273.6,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 269.27,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 270.13,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 269.61,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 270.11,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 272.55,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 275.74,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 274.15,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 275.22,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 272.46,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 272.53,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 265.55,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 261.45,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 262.21,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 267.19,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 267.94,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 269.31,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 265.36,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 264.41,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 261.98,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 261.53,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 264.7,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 267.4,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 268.2,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 271.64,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 268.1,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 264.43,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 266.67,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 263.76,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 253.18,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 252.75,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 258.45,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 260.58,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 262.08,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 264.64,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 264.89,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 265.54,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 255.44,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 257.25,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 255.52,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 258.82,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 259.27,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 259.4,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 259.64,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 260.64,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 266.29,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 266.87,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 265.96,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 267.53,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 267.69,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 267.43,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 266.93,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 267.7,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 270.21,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 268.68,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 273.8,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 275.85,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 278.01,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 279.96,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 278.09,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 278.84,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 285.07,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 284.8,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 283.42,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 284.83,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 286.8,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 289.93,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 291.01,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 287.93,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 284.7,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 284.23,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 288.08,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 272.26,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 269.12,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 271.17,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 274.65,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 274.43,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 277.07,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 276.47,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 276.33,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 277.4,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 273.27,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 274.44,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 276.4,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 276.94,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 277.31,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 280.15,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 278.76,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 286.97,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 289.84,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 290.07,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 286.31,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 284.25,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 283.22,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 282.68,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 281.2,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 283.65,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 281.35,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 289.61,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 289.3,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 290.19,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 291.3,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 292.73,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 306.82,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 305.22,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 307.29,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 310.33,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 309.85,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 309.48,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 308.25,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 309.64,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 312.16,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 311.85,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 307.39,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 309.9,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 309.92,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 313.19,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "V",
+        "price": 311.82,
+        "time_posted": "2024-11-26"
+    }
+]

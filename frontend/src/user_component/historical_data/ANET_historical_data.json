@@ -1,0 +1,1267 @@
+[
+    {
+        "ticker_symbol": "ANET",
+        "price": 218.67,
+        "time_posted": "2023-11-27"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 217.25,
+        "time_posted": "2023-11-28"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 219.3,
+        "time_posted": "2023-11-29"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 219.71,
+        "time_posted": "2023-11-30"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 216.64,
+        "time_posted": "2023-12-01"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 215.1,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 215.71,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 213.4,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 215.29,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 224.03,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 226.57,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 229.86,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 229.55,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 231.03,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 235.6,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 238.81,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 236.7,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 233.16,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 235.34,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 238.26,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 237.53,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 237.73,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 236.97,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 235.51,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 231.56,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 229.4,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 230.56,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 230.92,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 245.85,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 245.2,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 249.23,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 251.74,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 252.03,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 253.26,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 248.99,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 257.56,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 263.51,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 266.6,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 262.04,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 262.47,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 264.42,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 264.4,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 269.58,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 271.96,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 258.68,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 262.98,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 273.1,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 272.97,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 264.89,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 267.05,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 275.89,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 282.45,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 280.88,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 265.51,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 265.67,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 266.5,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 261.75,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 259.61,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 254.49,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 268.76,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 267.66,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 273.74,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 271.91,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 273.17,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 277.54,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 287.74,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 287.94,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 280.47,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 284.5,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 286.48,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 273.11,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 271.02,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 281.86,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 280.71,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 284.02,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 277.73,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 289.32,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 286.92,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 296.58,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 304.6,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 306.42,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 305.5,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 297.83,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 288.41,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 289.98,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 299.75,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 290.85,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 298.79,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 288.77,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 297.6,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 297.38,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 294.75,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 288.22,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 296.58,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 271.22,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 263.2,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 262.76,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 259.27,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 257.19,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 246.09,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 245.47,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 251.18,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 254.77,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 264.76,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 264.7,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 263.67,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 256.56,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 255.21,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 261.86,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 274.4,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 278.82,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 273.99,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 291.67,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 296.07,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 314.03,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 309.87,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 313.66,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 326.03,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 320.09,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 319.89,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 319.39,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 316.99,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 316.5,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 301.42,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 306.55,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 307.49,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 308.31,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 303.66,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 297.65,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 296.39,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 293.18,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 297.56,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 296.57,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 296.79,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 297.58,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 304.77,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 311.33,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 331.67,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 328.5,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 340.08,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 340.34,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 340.19,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 337.36,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 329.21,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 334.53,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 334.7,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 347.93,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 350.48,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 356.7,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 357.01,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 365.42,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 366.14,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 371.07,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 365.75,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 363.75,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 359.59,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 361.9,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 360.42,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 358.23,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 336.68,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 332.63,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 330.56,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 342.24,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 346.65,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 325.87,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 314.12,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 319.21,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 320.55,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 311.42,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 346.55,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 338.64,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 319.34,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 314.93,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 323.54,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 317.33,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 334.5,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 335.81,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 338.33,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 346.19,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 348.65,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 356.6,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 353.89,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 352.06,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 353.79,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 355.89,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 352.17,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 355.13,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 344.69,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 345.62,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 341.16,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 346.59,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 353.38,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 326.72,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 326.05,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 328.44,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 314.31,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 324.77,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 326.75,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 342.93,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 355.36,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 359.76,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 359.16,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 360.95,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 361.71,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 379.32,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 384.46,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 385.57,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 385.07,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 388.21,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 386.3,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 380.26,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 383.82,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 381.85,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 389.62,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 390.11,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 395.97,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 392.54,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 400.22,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 406.93,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 409.76,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 416.93,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 413.47,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 392.31,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 406.08,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 407.39,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 402.0,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 406.01,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 396.56,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 394.04,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 395.7,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 394.09,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 392.38,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 401.57,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 396.0,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 386.44,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 394.17,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 394.88,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 405.12,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 423.12,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 431.02,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 400.45,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 397.31,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 395.55,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 395.16,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 385.95,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 374.39,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 370.47,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 377.7,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 381.71,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 404.97,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 406.48,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 399.72,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "ANET",
+        "price": 408.33,
+        "time_posted": "2024-11-26"
+    }
+]

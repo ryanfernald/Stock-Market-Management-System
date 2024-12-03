@@ -1,0 +1,1267 @@
+[
+    {
+        "ticker_symbol": "FTNT",
+        "price": 53.74,
+        "time_posted": "2023-11-27"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 52.79,
+        "time_posted": "2023-11-28"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 53.6,
+        "time_posted": "2023-11-29"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 52.56,
+        "time_posted": "2023-11-30"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 52.49,
+        "time_posted": "2023-12-01"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 52.25,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 52.52,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 51.83,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 51.32,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 52.16,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 53.64,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 55.04,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 55.35,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 57.05,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 57.83,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 56.11,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 57.76,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 57.45,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 58.51,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 59.27,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 59.8,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 59.34,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 59.4,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 58.53,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 57.78,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 57.85,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 58.39,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 58.34,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 61.26,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 59.4,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 61.37,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 62.25,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 62.44,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 62.0,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 60.62,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 61.41,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 60.9,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 62.66,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 64.41,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 66.11,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 65.55,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 66.12,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 66.45,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 66.71,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 64.49,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 66.45,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 66.44,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 66.09,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 67.48,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 70.03,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 67.85,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 70.44,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 70.26,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 69.4,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 70.88,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 70.26,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 68.48,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 67.91,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 65.34,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 66.96,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 67.64,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 68.4,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 69.95,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 69.51,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 69.11,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 70.44,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 71.39,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 69.04,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 71.32,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 73.07,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 71.35,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 71.46,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 71.34,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 70.18,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 68.04,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 66.72,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 67.55,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 67.79,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 67.87,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 68.57,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 68.3,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 67.89,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 67.45,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 67.27,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 68.31,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 67.82,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 68.85,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 71.32,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 69.23,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 70.91,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 68.39,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 68.22,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 68.13,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 68.22,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 66.45,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 64.73,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 64.48,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 64.66,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 64.03,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 63.4,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 63.69,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 64.8,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 65.45,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 64.03,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 64.18,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 64.3,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 63.18,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 63.53,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 65.2,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 58.88,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 58.81,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 59.43,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 59.63,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 58.11,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 58.16,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 59.63,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 60.2,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 60.73,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 61.24,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 61.43,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 62.34,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 61.31,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 61.57,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 60.93,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 61.35,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 59.45,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 59.73,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 58.0,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 59.32,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 58.8,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 58.64,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 59.71,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 59.75,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 59.72,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 60.09,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 59.74,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 60.62,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 60.23,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 60.78,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 60.9,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 59.15,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 57.94,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 58.56,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 58.28,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 58.69,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 58.11,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 60.04,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 60.27,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 59.85,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 61.01,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 60.73,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 61.09,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 60.11,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 60.28,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 59.59,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 58.79,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 59.55,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 59.9,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 59.48,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 59.11,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 58.13,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 58.48,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 58.45,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 57.94,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 56.64,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 57.31,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 57.0,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 57.39,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 57.5,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 58.04,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 57.2,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 56.51,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 55.39,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 55.81,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 69.93,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 68.68,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 69.69,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 70.36,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 71.5,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 72.79,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 73.4,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 74.72,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 74.77,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 75.57,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 75.42,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 74.49,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 74.73,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 75.18,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 75.97,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 75.61,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 76.27,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 76.71,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 77.13,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 76.87,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 75.8,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 75.16,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 75.1,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 76.07,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 76.64,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 74.49,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 75.01,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 76.34,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 75.61,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 74.68,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 75.66,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 76.78,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 77.44,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 77.46,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 76.61,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 77.21,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 77.45,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 77.55,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 76.49,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 77.59,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 76.98,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 78.01,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 77.48,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 77.78,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 80.33,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 82.48,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 82.87,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 82.83,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 82.64,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 82.12,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 80.86,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 81.07,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 82.05,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 82.44,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 80.37,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 80.62,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 80.34,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 80.76,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 79.37,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 78.74,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 78.66,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 78.8,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 78.84,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 77.92,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 80.87,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 83.68,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 92.04,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 97.18,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 99.15,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 97.88,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 94.46,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 94.2,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 91.88,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 90.79,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 92.45,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 94.02,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 92.77,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 93.12,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "FTNT",
+        "price": 96.44,
+        "time_posted": "2024-11-26"
+    }
+]

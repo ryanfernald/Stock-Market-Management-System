@@ -1,0 +1,1267 @@
+[
+    {
+        "ticker_symbol": "APTV",
+        "price": 81.81,
+        "time_posted": "2023-11-27"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 81.95,
+        "time_posted": "2023-11-28"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 82.27,
+        "time_posted": "2023-11-29"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 82.84,
+        "time_posted": "2023-11-30"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 84.01,
+        "time_posted": "2023-12-01"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 82.83,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 80.85,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 80.88,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 80.85,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 79.83,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 80.61,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 80.44,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 81.58,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 88.85,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 87.2,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 87.3,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 88.84,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 86.64,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 89.07,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 89.02,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 89.44,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 89.63,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 90.47,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 89.72,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 90.17,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 84.49,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 83.59,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 83.48,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 84.56,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 82.26,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 82.92,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 83.6,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 80.88,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 80.79,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 78.86,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 79.01,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 79.0,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 80.0,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 81.64,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 83.08,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 84.52,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 86.04,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 87.44,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 86.72,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 81.33,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 83.5,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 83.5,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 82.23,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 84.19,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 82.02,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 81.29,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 82.02,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 83.78,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 79.09,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 79.14,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 79.41,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 78.96,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 77.76,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 77.63,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 77.8,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 77.23,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 77.52,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 78.83,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 78.77,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 79.49,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 79.05,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 78.49,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 79.43,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 78.13,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 78.77,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 78.19,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 78.51,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 78.71,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 79.72,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 76.2,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 77.24,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 77.81,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 77.92,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 79.01,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 80.56,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 78.72,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 79.09,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 76.59,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 78.64,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 79.65,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 78.79,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 77.16,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 77.57,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 75.27,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 74.73,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 76.07,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 78.93,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 74.95,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 75.77,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 74.19,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 73.01,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 71.94,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 69.35,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 69.32,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 69.63,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 70.1,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 70.25,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 71.4,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 70.13,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 71.21,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 72.41,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 71.0,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 69.75,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 77.79,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 80.82,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 84.4,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 83.0,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 83.2,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 83.69,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 82.78,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 82.74,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 82.84,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 81.73,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 82.29,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 82.11,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 81.94,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 82.31,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 81.71,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 80.28,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 82.55,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 83.13,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 81.52,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 81.96,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 83.26,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 84.65,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 83.79,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 81.59,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 81.3,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 81.42,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 79.66,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 76.28,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 75.27,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 74.51,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 70.3,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 70.95,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 70.62,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 73.25,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 75.21,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 76.09,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 73.36,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 67.54,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 68.98,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 70.42,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 68.44,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 69.44,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 69.79,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 70.18,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 69.68,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 69.08,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 69.6,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 71.75,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 72.72,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 72.26,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 73.41,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 72.41,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 71.68,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 68.87,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 69.93,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 68.59,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 67.08,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 67.83,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 68.74,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 68.9,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 67.63,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 69.39,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 73.13,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 69.63,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 69.12,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 69.05,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 67.91,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 68.94,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 67.64,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 67.25,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 67.97,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 66.98,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 68.69,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 68.93,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 70.99,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 69.85,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 70.88,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 70.1,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 72.29,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 72.09,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 70.83,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 70.02,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 70.92,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 71.53,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 70.11,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 69.46,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 70.97,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 68.49,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 69.08,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 65.38,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 65.47,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 67.0,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 68.95,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 68.79,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 70.22,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 69.67,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 70.52,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 69.84,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 71.56,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 72.11,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 70.56,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 72.31,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 74.24,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 72.01,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 70.52,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 70.05,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 68.97,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 70.33,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 70.47,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 69.6,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 71.36,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 70.75,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 71.29,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 71.09,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 70.0,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 70.36,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 69.9,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 71.76,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 70.1,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 69.68,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 69.53,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 68.31,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 69.31,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 70.4,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 69.15,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 69.07,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 56.83,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 56.37,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 55.93,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 55.24,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 53.83,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 55.64,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 56.25,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 55.93,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 56.38,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 56.14,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 54.03,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 52.93,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 52.71,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 52.11,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 52.59,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 53.36,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 54.38,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 57.13,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 55.28,
+        "time_posted": "2024-11-26"
+    }
+]

@@ -1,0 +1,1267 @@
+[
+    {
+        "ticker_symbol": "PARA",
+        "price": 13.91,
+        "time_posted": "2023-11-27"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 13.67,
+        "time_posted": "2023-11-28"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 14.17,
+        "time_posted": "2023-11-29"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 14.13,
+        "time_posted": "2023-11-30"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 15.51,
+        "time_posted": "2023-12-01"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 15.68,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 15.25,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 14.96,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 14.77,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 16.56,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 15.96,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 15.01,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 15.46,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 16.48,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 16.04,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 15.29,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 15.6,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 15.29,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 14.86,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 14.79,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 14.81,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 14.78,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 14.94,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 14.58,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 14.2,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 13.99,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 14.29,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 14.45,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 14.49,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 14.03,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 13.92,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 13.16,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 13.15,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 13.05,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 12.82,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 12.93,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 13.21,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 13.56,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 13.49,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 13.17,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 13.77,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 13.61,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 13.56,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 13.49,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 14.39,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 14.48,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 14.23,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 13.83,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 13.8,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 12.67,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 12.83,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 12.72,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 13.22,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 12.82,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 13.01,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 12.42,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.83,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.78,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.64,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.55,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.05,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.94,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.09,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.91,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.89,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.8,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.16,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.07,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.35,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.65,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.78,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.46,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.43,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.52,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.15,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.1,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.09,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.08,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 12.39,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.71,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.14,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.34,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.26,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.59,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.66,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.64,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.65,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 13.39,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 12.25,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.85,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.95,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.86,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.4,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.16,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.85,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.8,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.33,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.71,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.86,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 12.32,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 12.26,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 12.62,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 12.56,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 12.06,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.8,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 12.13,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.28,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 12.14,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 13.73,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 12.77,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 13.16,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 12.77,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 12.7,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 12.95,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 12.92,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 12.88,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 12.21,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 12.44,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 12.52,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.9,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.9,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.98,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 12.08,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.68,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.84,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.89,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.59,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.71,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.8,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 12.68,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 12.12,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.96,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.85,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.89,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.86,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.93,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.01,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.25,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.07,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 9.78,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 9.56,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.01,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.1,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.24,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.06,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 9.92,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.21,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.34,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.09,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.67,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.41,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.75,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.13,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.48,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.64,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.67,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.51,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.53,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.89,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.81,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.57,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.47,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.49,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.68,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.59,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.41,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.14,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.01,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.19,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.37,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.06,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.95,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.48,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.4,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.41,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.16,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.25,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.27,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.24,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.18,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.91,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.95,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.02,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.89,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.04,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.13,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.31,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.28,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.47,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.65,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.41,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.42,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.37,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.41,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.33,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.04,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.26,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.04,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 9.93,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.21,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.52,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.42,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.44,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.56,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.46,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.37,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.38,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.55,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.55,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.66,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.79,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.62,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.6,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.43,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.45,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.52,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.52,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.5,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.55,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.34,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.35,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.37,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.5,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.52,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.33,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.45,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.31,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.27,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.31,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.3,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.27,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.43,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.47,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.66,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.94,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.98,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.87,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.09,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.38,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.53,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.07,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.55,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.45,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.16,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.35,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.84,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.61,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.33,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.58,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.09,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.88,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.12,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.64,
+        "time_posted": "2024-11-26"
+    }
+]

@@ -1,0 +1,30 @@
+.logs-monitor {
+    padding-top: 60px; 
+}
+
+.logs-monitor .table-container {
+    margin-top: 20px; /* Adds some spacing between the navbar and the table */
+    overflow-x: auto; 
+}
+
+.logs-monitor .table-container table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.logs-monitor .table-container th,
+.logs-monitor .table-container td {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #ddd;
+}
+
+.logs-monitor .table-container thead {
+    background-color: #f4f4f4;
+}
+
+.logs-monitor .error-message {
+    color: red;
+    font-weight: bold;
+    margin: 20px;
+}

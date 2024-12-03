@@ -1,0 +1,1267 @@
+[
+    {
+        "ticker_symbol": "ANSS",
+        "price": 297.23,
+        "time_posted": "2023-11-27"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 294.62,
+        "time_posted": "2023-11-28"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 298.86,
+        "time_posted": "2023-11-29"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 293.36,
+        "time_posted": "2023-11-30"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 295.48,
+        "time_posted": "2023-12-01"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 287.54,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 279.27,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 282.0,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 286.11,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 287.2,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 290.13,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 296.36,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 297.06,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 294.9,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 295.47,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 297.45,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 298.44,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 296.74,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 303.16,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 357.98,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 360.88,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 358.9,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 361.86,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 362.88,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 353.0,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 343.22,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 344.16,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 344.08,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 348.63,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 353.95,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 354.86,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 357.79,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 346.48,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 327.42,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 330.24,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 328.27,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 337.0,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 341.02,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 341.86,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 339.57,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 339.42,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 332.24,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 333.19,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 330.96,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 327.83,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 332.66,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 335.25,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 337.5,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 336.66,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 336.93,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 345.33,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 342.28,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 337.88,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 327.52,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 330.0,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 330.98,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 329.85,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 332.14,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 328.63,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 340.34,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 340.89,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 336.32,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 335.77,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 333.09,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 334.17,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 339.62,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 340.48,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 328.79,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 335.86,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 339.37,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 335.11,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 333.57,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 337.73,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 329.37,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 330.29,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 327.88,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 335.27,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 342.37,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 343.32,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 348.2,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 349.24,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 347.52,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 349.84,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 347.93,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 347.16,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 347.48,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 345.78,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 346.74,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 341.18,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 341.87,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 344.1,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 344.5,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 339.49,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 340.1,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 334.2,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 328.16,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 326.81,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 325.62,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 324.5,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 322.11,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 324.81,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 325.97,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 328.57,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 327.04,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 333.75,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 329.87,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 324.88,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 321.48,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 314.53,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 319.52,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 321.59,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 325.04,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 326.96,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 327.25,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 328.25,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 328.2,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 325.86,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 329.88,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 327.53,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 327.71,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 328.59,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 326.79,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 326.36,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 328.18,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 331.11,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 328.08,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 322.44,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 319.91,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 317.45,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 314.75,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 317.1,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 327.07,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 324.73,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 324.3,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 323.31,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 323.13,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 326.39,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 325.01,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 323.17,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 327.23,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 325.13,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 325.68,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 325.35,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 321.1,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 324.38,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 321.32,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 321.82,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 321.5,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 321.16,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 327.1,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 326.95,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 331.25,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 327.64,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 327.35,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 331.0,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 327.27,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 329.36,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 327.46,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 330.37,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 320.23,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 315.67,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 314.54,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 318.64,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 320.08,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 310.55,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 310.69,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 312.26,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 309.64,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 304.45,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 313.63,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 309.83,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 302.22,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 296.54,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 302.79,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 298.8,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 309.06,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 311.15,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 313.31,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 318.07,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 319.13,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 325.0,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 325.48,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 326.93,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 326.02,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 330.98,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 325.23,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 323.45,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 319.46,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 318.41,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 315.6,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 319.99,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 321.42,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 309.02,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 308.81,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 309.75,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 305.04,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 309.7,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 308.92,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 317.46,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 319.13,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 318.51,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 318.05,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 317.25,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 313.39,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 322.29,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 320.25,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 321.27,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 324.19,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 319.38,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 324.84,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 325.15,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 318.63,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 313.05,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 317.45,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 313.09,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 315.73,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 313.07,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 320.87,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 326.2,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 328.94,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 330.03,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 335.31,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 328.6,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 323.77,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 326.58,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 327.4,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 327.46,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 325.65,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 321.85,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 321.37,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 322.81,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 321.17,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 328.41,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 328.57,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 320.41,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 323.75,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 324.16,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 324.48,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 333.62,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 355.58,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 342.18,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 346.33,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 344.48,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 344.1,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 340.28,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 332.38,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 336.4,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 339.52,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 342.24,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 348.94,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 350.0,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 352.14,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "ANSS",
+        "price": 349.85,
+        "time_posted": "2024-11-26"
+    }
+]
