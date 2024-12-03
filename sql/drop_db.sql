@@ -1,4 +1,4 @@
-USE stonks_market;
+use YHFinance;
 
 -- Drop all tables
 DROP PROCEDURE IF EXISTS `drop_all_tables`;
