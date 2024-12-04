@@ -11,57 +11,48 @@ from io import StringIO
 class DataBase:
     #this help us switch between mysql and postgress easily
     def __init__(self, host, user, password, database, port=3306, db='mysql'):
+        self.host = host
+        self.user = user
+        self.password = password
+        self.database = database
+        self.port = port
+        self.db = db
+
+    def connect_to_db(self):
         try:
-            if db == 'mysql':
+            if self.db == 'mysql':
                 self.connection = mysql.connector.connect(
-                    host=host,
-                    user=user,
-                    password=password,
-                    database=database,
-                    port=port
+                    host=self.host,
+                    user=self.user,
+                    password=self.password,
+                    database=self.database,
+                    port=self.port
                 )
-            elif db == 'postgres':
+            elif self.db == 'postgres':
                 self.connection = psycopg2.connect(
-                    host=host,
-                    user=user,
-                    password=password,
-                    database=database,
-                    port=port
+                    host=self.host,
+                    user=self.user,
+                    password=self.password,
+                    database=self.database,
+                    port=self.port
                 )
                 self.connection.autocommit = True  # Optional: Automatically commit changes
             else:
                 raise ValueError("Unsupported database type. Use 'mysql' or 'postgres'.")
-
-            self.cursor = self.connection.cursor()
-
         except Exception as e:
             print(f"Error connecting to the database: {e}")
             self.connection = None
             self.cursor = None
 
-# Test Connection
-    def test_connection(self):
-        self.cursor.execute("""
-             SELECT table_name 
-             FROM information_schema.tables
-             WHERE table_schema = 'public'
-         """)
-        tables = self.cursor.fetchall()
-        table_names = [table[0] for table in tables]
-        return jsonify({
-            "status": "success",
-            "tables": table_names
-        })
-# get courser
-    def get_courser(self):
-        return self.cursor
- # Close the connection
-    def close(self):
+        self.cursor = self.connection.cursor()
+
+    def close_db(self):
         if self.cursor:
             self.cursor.close()
         if self.connection:
             self.connection.close()
             print("Database connection closed")
+
 # Transaction History (tested)
     # Retrieves transaction history for a user in JSON format.
     # Returns JSON string of a list of transactions with each transaction's details.
@@ -151,6 +142,7 @@ class DataBase:
     # Buys a specified quantity of stock for a user if funds are sufficient.
     # Returns None, but updates user's balance and adds a new buy order in the database.
     def buy_stock(self, user_id, ticker, quantity):
+        self.connect_to_db()
         user_balance = json.loads(self.get_user_balance(user_id))["net_balance"]
         price_query = """
             SELECT price
@@ -178,12 +170,15 @@ class DataBase:
             VALUES (%s, %s, %s, %s, NOW(), 'BUY')
         """
         self.cursor.execute(insert_order_query, (user_id, ticker, stock_price, quantity))
-
         self.connection.commit()
+        self.close_db()
+
 
     # Sells a specified quantity of stock for a user if holdings are sufficient.
     # Returns None, but updates user's balance and adds a new sell order in the database.
     def sell_stock(self, user_id, ticker, quantity):
+        self.connect_to_db()
+
         portfolio = json.loads(self.get_user_portfolio(user_id))
         portfolio_entry = next((entry for entry in portfolio if entry['ticker_symbol'] == ticker), None)
 
@@ -215,6 +210,8 @@ class DataBase:
         self.cursor.execute(insert_order_query, (user_id, ticker, stock_price, quantity))
 
         self.connection.commit()
+        self.close_db()
+
 
     # Retrieves a list of all supported stock ticker symbols from the Stock table.
     # Returns a JSON string containing a list of ticker symbols.
