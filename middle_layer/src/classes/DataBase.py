@@ -144,8 +144,8 @@ class DataBase:
     # Returns None, but updates user's balance and adds a new buy order in the database.
     def buy_stock(self, user_id, ticker, quantity):
         self.connect_to_db()
-        print(f"AAAA{user_id}{self.get_user_balance(user_id)}, {str(self.get_user_balance(user_id))}")
-        user_balance = json.loads(str(self.get_user_balance(user_id)))["net_balance"]
+        # print(f"AAAA{user_id}{self.get_user_balance(user_id)}, {str(self.get_user_balance(user_id))}")
+        # user_balance = json.loads(str(self.get_user_balance(user_id)))["net_balance"]
         price_query = """
             SELECT price
             FROM StockPrice
