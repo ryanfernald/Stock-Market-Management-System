@@ -87,6 +87,8 @@ class DataBase:
     # Retrieves user's stock portfolio, including quantities, value, and profit.
     # Returns JSON string of a list of assets with financial details.
     def get_user_portfolio(self, user_id):
+        self.connect_to_db()
+
         portfolio_query = """
             SELECT ticker_symbol, order_type, quantity, price_purchased
             FROM MarketOrder
@@ -127,6 +129,7 @@ class DataBase:
                         "current_profit_percent": current_profit_percent,
                         "current_price": float(current_price)
                     })
+        self.close_db()
         if assets:
             return jsonify(sorted(assets, key=lambda x: x["ticker_symbol"]))
         else:
@@ -220,28 +223,36 @@ class DataBase:
     # Retrieves a list of all supported stock ticker symbols from the Stock table.
     # Returns a JSON string containing a list of ticker symbols.
     def get_list_of_supported_stocks(self):
+        self.connect_to_db()
+
         query = """
             SELECT ticker_symbol
             FROM Stock
         """
         self.cursor.execute(query)
         stocks = [row[0] for row in self.cursor.fetchall()]  # Extract ticker symbols into a list
+        self.close_db()
         return jsonify(stocks)
 
 # Stock Price (tested)
     # Adds a new stock price to the StockPrice table.
     # Returns None but inserts price information for a stock ticker.
     def add_stock_price(self, ticker_symbol, price):
+        self.connect_to_db()
+
         query = """
                INSERT INTO StockPrice (ticker_symbol, price)
                VALUES (%s, %s)
                        """
         self.cursor.execute(query, (ticker_symbol, price))
         self.connection.commit()
+        self.close_db()
 
     # Retrieves the most recent stock price for a ticker in JSON format.
     # Returns JSON string with price and time of last update.
     def get_most_recent_stock_price(self, ticker):
+        self.connect_to_db()
+
         query = """
             SELECT price, time_posted
             FROM StockPrice
@@ -251,6 +262,7 @@ class DataBase:
         """
         self.cursor.execute(query, (ticker,))
         result = self.cursor.fetchone()
+        self.close_db()
         if result:
             price, time_posted = result
             response = {
@@ -265,6 +277,8 @@ class DataBase:
     # Adds funds to the user's account balance and logs the deposit.
     # Returns None, but updates user's balance and records deposit in the database.
     def add_funds(self, user_id, amount):
+        self.connect_to_db()
+
         if amount <= 0:
             raise ValueError("Amount must be greater than zero.")
 
@@ -282,10 +296,13 @@ class DataBase:
         self.cursor.execute(update_balance_query, (amount, user_id))
 
         self.connection.commit()
+        self.close_db()
 
     # Withdraws funds from user's account if balance is sufficient.
     # Returns None, but updates user's balance and logs withdrawal in the database.
     def withdraw_funds(self, user_id, amount):
+        self.connect_to_db()
+
         if amount <= 0:
             raise ValueError("Amount must be greater than zero.")
 
@@ -307,6 +324,7 @@ class DataBase:
         self.cursor.execute(update_balance_query, (amount, user_id))
 
         self.connection.commit()
+        self.close_db()
 
     # Retrieves user's balance, deposits, withdrawals, and market orders in JSON format.
     # Returns JSON string with total deposits, withdrawals, net market orders, and net balance.
@@ -355,16 +373,21 @@ class DataBase:
     # Adds a new user to the User table.
     # Returns None but inserts user data into the database.
     def add_user(self, user_id, first_name, last_name, email):
+        self.connect_to_db()
+
         query = """
                 INSERT INTO User (user_id, first_name, last_name, email)
                 VALUES (%s, %s, %s, %s)
             """
         self.cursor.execute(query, (user_id, first_name, last_name, email))
         self.connection.commit()
+        self.close_db()
 
     # Retrieves user data by user_id in JSON format.
     # Returns JSON string with user's basic details or None if the user does not exist.
     def get_user_data(self, user_id):
+        self.connect_to_db()
+
         query = """
             SELECT user_id, first_name, last_name, email
             FROM User
@@ -372,6 +395,7 @@ class DataBase:
         """
         self.cursor.execute(query, (user_id,))
         result = self.cursor.fetchone()
+        self.close_db()
         if result:
             user_id, first_name, last_name, email = result
             response = {
@@ -385,6 +409,8 @@ class DataBase:
             return jsonify(None)
 
     def admin_insertion(self, TableName, data):
+        self.connect_to_db()
+
         if not self.connection.is_connected():
                 print("Reconnecting to the database...")
                 self.connection.reconnect()
@@ -396,14 +422,18 @@ class DataBase:
             # Execute the query with the provided values
             self.cursor.execute(query,data)
             self.connection.commit()
+            self.close_db()
             print(f"Inserted {data} into {TableName}")
         except mysql.connector.Error as error:
             print(f"Error: {error}")
-        # finally:
+            self.close_db()
+
         #     self.cursor.close()
         #     self.connection.close()
     # admin table fetch
     def admin_table_fetch(self, TableName):
+        self.connect_to_db()
+
         if not self.connection.is_connected():
                 print("Reconnecting to the database...")
                 self.connection.reconnect()
@@ -417,9 +447,11 @@ class DataBase:
             self.cursor.execute(query)
             logs = self.cursor.fetchall()
             #Returns the log
+            self.close_db()
             return logs
         except Exception as e:
             print(f"Error fetching tables data: {e}")
+            self.close_db()
             return []
     # admin fetch tables
     def admin_table_fetch_manip(self, TableName):
@@ -440,11 +472,13 @@ class DataBase:
 
             # Convert rows to list of dictionaries
             data = [dict(zip(column_names, row)) for row in rows]
-
+            self.close_db()
             return data
         except Exception as e:
             print(f"Error fetching data from table {TableName}: {e}")
+            self.close_db()
             return []
+
     
     # admin table row deletion
     def admin_table_row_deletion(self, TableName, data_name, data_value):
@@ -463,10 +497,12 @@ class DataBase:
             print(f"Deleted {data_name} with value of {data_value} from the table {TableName}")
             # self.connection.close()
             response = f"Deleted {data_name} with value of {data_value} from the table {TableName}"
+            self.close_db()
             return response
             #Returns the log
         except Exception as e:
             print(f"Error daleting from the tables {TableName}: {e}")
+            self.close_db()
             return None
     #function for acessing logs
     def admin_fetch_log(self):
@@ -480,12 +516,14 @@ class DataBase:
             # Execute the query
             self.cursor.execute("SELECT * FROM Log ORDER BY operation_time DESC")
             logs = self.cursor.fetchall()
+            self.close_db()
 
             # Return the logs directly as raw data
             return logs
 
         except Exception as e:
             print(f"Error fetching logs: {e}")
+            self.close_db()
             return []
 
         
@@ -493,13 +531,16 @@ class DataBase:
     
     # Check if today's entry exists for a specific ticker
     def check_today_entry_exists(self, ticker_symbol, date):
+        self.connect_to_db()
         query = "SELECT 1 FROM StockPrice WHERE ticker_symbol = %s AND DATE(time_posted) = %s"
         self.cursor.execute(query, (ticker_symbol, date))
         result = self.cursor.fetchone()
+        self.close_db()
         return result is not None
 
     # Insert or update stock price for a ticker and timestamp
     def insert_or_update_price(self, ticker_symbol, price, timestamp):
+        self.connect_to_db()
         try:
             query = """
                 INSERT INTO StockPrice (ticker_symbol, price, time_posted)
@@ -510,18 +551,23 @@ class DataBase:
             """
             self.cursor.execute(query, (ticker_symbol, price, timestamp))
             self.connection.commit()
+            self.close_db()
             print(f"Price for {ticker_symbol} updated in the database.")
         except Exception as e:
+            self.close_db()
             print(f"Error inserting/updating price for {ticker_symbol}: {e}")
 
     # Clear all data from a specified table
     def clear_table(self, table_name):
+        self.connect_to_db()
         query = f"TRUNCATE TABLE {table_name}"
         self.cursor.execute(query)
         self.connection.commit()
+        self.close_db()
 
     # Insert or replace stock data for a ticker and sector
     def insert_or_replace_stock(self, ticker_symbol, sector_name):
+        self.connect_to_db()
         sector_id = self.get_or_create_sector(sector_name)
         query = """
             REPLACE INTO Stock (ticker_symbol, sector_id)
@@ -529,10 +575,12 @@ class DataBase:
         """
         self.cursor.execute(query, (ticker_symbol, sector_id))
         self.connection.commit()
+        self.close_db()
 
     # Fetch or create a sector ID for a sector name
     def get_or_create_sector(self, sector_name):
         # Check if the sector already exists
+        self.connect_to_db()
         self.cursor.execute("SELECT sector_id FROM Sector WHERE sector_name = %s", (sector_name,))
         result = self.cursor.fetchone()
         if result:
@@ -546,17 +594,21 @@ class DataBase:
             (new_sector_id, sector_name)
         )
         self.connection.commit()
+        self.close_db()
         return new_sector_id  # Return the new sector_id
 
     # Fetch all ticker symbols from the Stock table
     def fetch_sp500_tickers(self):
+        self.connect_to_db()
         query = "SELECT ticker_symbol FROM Stock"
         self.cursor.execute(query)
         result = self.cursor.fetchall()
+        self.close_db()
         return list(result)
     
     # Retrieve all stock price data for every ticker and save it in separate JSON files
     def get_historical_data(self):
+        self.connect_to_db()
         try:
             # Fetch all unique ticker symbols
             tickers_query = "SELECT DISTINCT ticker_symbol FROM StockPrice"
@@ -597,12 +649,14 @@ class DataBase:
                 os.makedirs(os.path.dirname(file_path), exist_ok=True)  # Ensure directory exists
                 with open(file_path, "w") as json_file:
                     json.dump(data, json_file, indent=4)
-
+            self.close_db()
         except Exception as e:
             print(f"Error fetching historical data: {e}")
+            self.close_db()
     
     # Generate a JSON file containing stock symbol, name, sector, and latest price.
     def get_stock_details(self):
+        self.connect_to_db()
         try:
             # SQL query to get symbol, sector, and latest price
             query = """
@@ -648,11 +702,13 @@ class DataBase:
             # Save data to JSON file
             with open(file_path, "w") as json_file:
                 json.dump(data, json_file, indent=4)
-
             print(f"JSON saved to {file_path}")
+            self.close_db()
 
         except Exception as e:
             print(f"Error generating stock details JSON: {e}")
+            self.close_db()
+
 
 
 # TODO
