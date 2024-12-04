@@ -2,7 +2,11 @@ use YHFinance;
 
 CREATE TABLE User (
     user_id VARCHAR(255) PRIMARY KEY,
-    email VARCHAR(100) UNIQUE NOT NULL,
+    email VARCHAR(100) UNIQUE NOT NULL
+);
+
+CREATE TABLE UserData (
+    email VARCHAR(100) PRIMARY KEY,
     first_name VARCHAR(100) NOT NULL,
     last_name VARCHAR(100) NOT NULL
 );
