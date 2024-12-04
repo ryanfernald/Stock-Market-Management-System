@@ -78,15 +78,16 @@ const UserBuy = () => {
                 alert("User ID not found. Please log in again.");
                 return;
             }
-    
+
             const requestBody = {
                 user_id: userId,
                 ticker_symbol: selectedStock.Symbol,
                 quantity,
             };
-    
+
+
             try {
-            const response = await fetch(`http://127.0.0.1:5000/stock_m/buy/${requestBody.user_id}/${requestBody.ticker_symbol}/${requestBody.quantity}`, {
+                const response = await fetch(`http://127.0.0.1:5000/stock_m/buy/${requestBody.user_id}/${requestBody.ticker_symbol}/${requestBody.quantity}`, {
                     method: "POST",
                     headers: {
                         "Content-Type": "application/json",
@@ -94,15 +95,16 @@ const UserBuy = () => {
                     body: JSON.stringify(requestBody),
                 });
                 console.log(response)
+
                 if (!response.ok) {
                     const errorResponse = await response.json();
                     alert(`Error: ${errorResponse.message}`);
                     return;
                 }
-    
+
                 const responseData = await response.json();
                 alert(`${quantity} Shares of ${selectedStock.Name} purchased successfully for $${calculateTotalCost()}.`);
-                
+
                 // Optionally update balance based on response or fetch new balance
                 if (responseData.new_balance) {
                     setCashBalance(responseData.new_balance);
