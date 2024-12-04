@@ -57,6 +57,8 @@ class DataBase:
     # Retrieves transaction history for a user in JSON format.
     # Returns JSON string of a list of transactions with each transaction's details.
     def get_user_transaction_history(self, user_id):
+        self.connect_to_db()
+
         transaction_query = """
             SELECT order_id, ticker_symbol, order_type, quantity, price_purchased, purchase_date
             FROM MarketOrder
@@ -77,6 +79,8 @@ class DataBase:
             }
             for row in transactions
         ]
+
+        self.close_db()
         return jsonify(transaction_history)
 
 # Portfolio (tested)
