@@ -368,11 +368,21 @@ class DataBase:
     def add_user(self, user_id, first_name, last_name, email):
         self.connect_to_db()
 
-        query = """
-                INSERT INTO User (user_id, first_name, last_name, email)
-                VALUES (%s, %s, %s, %s)
-            """
-        self.cursor.execute(query, (user_id, first_name, last_name, email))
+        # Insert into User table
+        user_query = """
+            INSERT INTO User (user_id, email)
+            VALUES (%s, %s)
+                """
+        self.cursor.execute(user_query, (user_id, email))
+
+        # Insert into UserDetails table
+        user_details_query = """
+            INSERT INTO UserData (email, first_name, last_name)
+            VALUES (%s, %s, %s)
+                """
+        self.cursor.execute(user_details_query, (email, first_name, last_name))
+
+        # Commit the transaction
         self.connection.commit()
         self.close_db()
 
@@ -381,25 +391,38 @@ class DataBase:
     def get_user_data(self, user_id):
         self.connect_to_db()
 
-        query = """
-            SELECT user_id, first_name, last_name, email
+        user_query = """
+            SELECT email
             FROM User
             WHERE user_id = %s
         """
-        self.cursor.execute(query, (user_id,))
-        result = self.cursor.fetchone()
+        self.cursor.execute(user_query, (user_id,))
+        user_result = self.cursor.fetchone()
+
+        if user_result:
+            email = user_result[0]
+
+            user_details_query = """
+                SELECT first_name, last_name
+                FROM UserData
+                WHERE email = %s
+            """
+            self.cursor.execute(user_details_query, (email,))
+            user_details_result = self.cursor.fetchone()
+
+            if user_details_result:
+                first_name, last_name = user_details_result
+                response = {
+                    "user_id": user_id,
+                    "first_name": first_name,
+                    "last_name": last_name,
+                    "email": email
+                }
+                self.close_db()
+                return jsonify(response)
+
         self.close_db()
-        if result:
-            user_id, first_name, last_name, email = result
-            response = {
-                "user_id": user_id,
-                "first_name": first_name,
-                "last_name": last_name,
-                "email": email
-            }
-            return jsonify(response)
-        else:
-            return jsonify(None)
+        return jsonify(None)
 
     def admin_insertion(self, TableName, data):
         self.connect_to_db()
