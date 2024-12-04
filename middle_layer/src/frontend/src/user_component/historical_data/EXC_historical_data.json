@@ -1,0 +1,1257 @@
+[
+    {
+        "ticker_symbol": "EXC",
+        "price": 37.18,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 36.96,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 37.83,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 37.77,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 37.64,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 37.94,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 37.86,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 39.36,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 36.38,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 34.07,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 33.07,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 33.99,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 33.42,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 33.67,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 33.85,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 34.11,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 33.99,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 34.42,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 34.46,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 35.01,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 34.73,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 34.58,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 34.86,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 35.22,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 34.98,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 35.17,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 34.76,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 34.63,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 34.27,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 34.17,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 33.89,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 33.64,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 33.47,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 33.36,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 32.72,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 33.5,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 33.61,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 33.88,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 33.65,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 33.42,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 33.62,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 32.98,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 32.27,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 32.55,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 32.74,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 32.4,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 32.49,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 33.0,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 32.82,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 32.75,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 33.47,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 33.51,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 33.34,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 34.76,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 34.59,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 34.68,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 34.2,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 34.76,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 34.37,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 34.41,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 34.43,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 35.12,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 35.19,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 35.58,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 35.74,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 35.86,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 36.08,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 35.91,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 35.89,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 35.48,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 35.4,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 35.51,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 35.72,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 35.47,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 35.93,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 35.61,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 35.75,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 35.47,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 36.2,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 36.45,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 36.12,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 36.46,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 36.1,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 36.11,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 36.23,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 36.66,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 36.74,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 35.81,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 35.71,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 35.4,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 35.19,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 34.69,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 35.34,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 35.59,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 36.43,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 36.55,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 36.44,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 36.65,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 36.54,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 36.21,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 36.6,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 36.46,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 36.72,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 36.76,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 36.3,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 36.43,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 36.78,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 36.7,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 37.19,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 36.92,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 37.37,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 37.63,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 37.95,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 37.85,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 37.81,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 37.69,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 37.75,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 37.14,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 36.29,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 35.96,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 36.04,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 35.46,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 35.99,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 36.8,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 36.46,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 36.61,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 36.05,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 35.79,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 35.45,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 35.49,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 35.49,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 34.05,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 34.7,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 34.83,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 34.47,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 34.19,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 34.24,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 34.08,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 34.62,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 34.12,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 34.1,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 34.01,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 33.92,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 33.86,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 33.84,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 34.03,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 33.62,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 33.55,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 33.74,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 34.0,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 34.61,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 34.53,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 34.64,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 34.81,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 35.7,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 35.51,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 35.41,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 35.52,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 35.15,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 35.74,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 35.75,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 36.01,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 36.15,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 36.48,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 36.46,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 37.49,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 37.99,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 36.77,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 36.84,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 37.08,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 36.79,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 36.73,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 36.53,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 36.76,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 36.66,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 37.13,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 37.23,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 37.23,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 37.17,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 37.49,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 37.5,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 37.41,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 37.59,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 37.3,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 37.51,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 37.65,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 37.71,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 38.11,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 38.5,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 38.04,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 37.82,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 38.34,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 38.66,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 38.91,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 39.46,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 39.83,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 40.03,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 39.8,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 39.11,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 38.9,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 39.87,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 40.0,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 39.59,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 39.59,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 39.53,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 39.98,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 40.15,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 40.36,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 40.54,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 40.37,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 39.81,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 39.15,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 39.21,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 39.2,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 38.88,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 39.34,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 39.53,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 40.16,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 40.56,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 40.36,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 40.54,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 40.1,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 40.13,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 40.33,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 40.3,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 39.67,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 39.83,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 39.16,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 39.3,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 38.91,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 37.77,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 37.59,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 38.09,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 37.94,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 37.71,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 38.11,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 38.4,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 38.16,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 38.14,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 38.12,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 39.11,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 39.23,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 39.1,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 38.73,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 39.31,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 38.71,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 39.13,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 39.49,
+        "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 39.51,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 39.56,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "EXC",
+        "price": 38.14,
+        "time_posted": "2024-12-03"
+    }
+]

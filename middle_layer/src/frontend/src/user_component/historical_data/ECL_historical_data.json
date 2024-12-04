@@ -1,0 +1,1257 @@
+[
+    {
+        "ticker_symbol": "ECL",
+        "price": 189.53,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 188.11,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 188.4,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 190.5,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 190.2,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 191.53,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 192.09,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 196.52,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 194.74,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 194.82,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 195.35,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 195.44,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 193.47,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 195.51,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 196.22,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 197.23,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 197.98,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 197.46,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 196.94,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 196.79,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 194.73,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 194.1,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 193.87,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 194.59,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 194.54,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 195.99,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 196.62,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 197.51,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 197.63,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 196.04,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 199.04,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 198.45,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 199.45,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 197.77,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 195.23,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 197.21,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 197.08,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 197.84,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 199.32,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 196.81,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 198.61,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 197.92,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 194.16,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 198.53,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 201.56,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 201.45,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 201.28,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 201.54,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 219.61,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 215.43,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 214.93,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 213.85,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 214.86,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 215.39,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 218.16,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 220.76,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 218.72,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 220.51,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 223.41,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 223.25,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 223.91,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 224.3,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 221.83,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 221.95,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 222.98,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 221.88,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 222.31,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 221.97,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 223.58,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 223.24,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 225.09,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 227.07,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 226.3,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 227.56,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 227.77,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 228.22,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 226.03,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 227.18,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 230.7,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 229.84,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 226.88,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 226.41,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 227.21,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 223.55,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 226.7,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 225.75,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 224.75,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 221.13,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 219.74,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 220.67,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 218.03,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 219.37,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 218.24,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 218.2,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 217.16,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 218.3,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 218.65,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 219.77,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 218.78,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 220.09,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 220.65,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 225.11,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 223.95,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 225.72,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 226.46,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 227.9,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 231.85,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 232.16,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 232.51,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 232.45,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 230.69,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 230.84,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 231.88,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 231.56,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 232.59,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 233.61,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 233.92,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 232.63,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 232.06,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 233.23,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 227.85,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 225.09,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 227.65,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 231.13,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 231.85,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 234.44,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 238.09,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 239.42,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 238.09,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 237.67,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 239.51,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 240.57,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 240.42,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 238.95,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 242.08,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 242.74,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 243.34,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 243.44,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 244.09,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 240.64,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 240.11,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 239.01,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 237.46,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 234.97,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 235.12,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 235.32,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 237.65,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 242.33,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 241.7,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 242.72,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 243.95,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 245.57,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 241.31,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 244.64,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 242.77,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 241.72,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 242.62,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 245.8,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 246.16,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 244.88,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 243.11,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 244.69,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 247.36,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 228.34,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 230.17,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 239.7,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 236.67,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 230.73,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 233.19,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 231.03,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 236.63,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 237.4,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 236.71,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 240.79,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 238.93,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 239.4,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 240.12,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 241.66,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 242.02,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 245.99,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 245.68,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 246.67,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 246.51,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 248.09,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 249.05,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 249.53,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 252.61,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 247.37,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 246.32,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 246.14,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 244.5,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 248.63,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 250.14,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 248.86,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 250.13,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 249.98,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 252.63,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 250.46,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 248.53,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 251.21,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 251.44,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 254.85,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 254.26,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 254.82,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 255.76,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 254.59,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 255.33,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 253.55,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 253.97,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 250.77,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 251.02,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 249.05,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 252.62,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 255.68,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 255.8,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 254.0,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 256.44,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 258.25,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 259.75,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 257.1,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 261.46,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 259.19,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 258.24,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 258.72,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 256.34,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 253.49,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 256.45,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 253.76,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 252.6,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 245.73,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 244.57,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 244.5,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 246.85,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 244.71,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 246.29,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 250.04,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 250.56,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 248.31,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 249.9,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 247.61,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 245.24,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 245.97,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 244.3,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 241.77,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 243.42,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 245.3,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 246.92,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 247.38,
+        "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 247.7,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 248.77,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "ECL",
+        "price": 248.17,
+        "time_posted": "2024-12-03"
+    }
+]

@@ -91,9 +91,32 @@ const UserDashboard = () => {
             setLoading(false);
          }
       };
-
-
       fetchUserBalance();
+   }, []);
+   const [transactions, setTransactions] = useState([]);
+   useEffect(() => {
+      const fetchUserH = async () => {
+         const userId = localStorage.getItem("uid");
+         if (!userId) {
+            console.error("User ID not found in local storage.");
+            return;
+         }
+
+         try {
+            const response = await fetch(`http://127.0.0.1:5000/transaction_h/${userId}`);
+            if (!response.ok) {
+               throw new Error(`Error fetching balance: ${response.statusText}`);
+            }
+            const t = await response.json();
+            console.log(t)
+            setTransactions(t); // Update state with fetched data
+            setLoading(false);
+         } catch (error) {
+            console.error("Failed to fetch user balance:", error);
+            setLoading(false);
+         }
+      };
+      fetchUserH();
    }, []);
 
    return (
@@ -145,12 +168,18 @@ const UserDashboard = () => {
 
                {/* Transaction History */}
                <div className="transaction-card">
-                  <h3>Transaction History</h3>
-                  <UserTransaction id="001" amount="100" />
-                  <UserTransaction id="002" amount="-230" />
-                  <button onClick={() => (window.location.href = "/usertransactions")}>Details</button>
+                  <h3>Trading History</h3>
+                  {transactions.map((transaction) => {
+                     const amount = transaction.order_type === 'BUY' ? -transaction.quantity * transaction.price_purchased : transaction.quantity * transaction.price_purchased;
+                     const textColor = amount >= 0 ? 'green' : 'red';
+                     return (
+                        <div key={transaction.order_id} style={{ color: textColor }}>
+                           <UserTransaction id={transaction.order_id} amount={amount} ticker_symbol={transaction.ticker_symbol} quantity={transaction.quantity} />
+                        </div>
+                     );
+                  })}
                </div>
-
+               {/* Transaction History */}
                <div className="activity-card holdings">
                   <h3>Holdings</h3>
                   <table>

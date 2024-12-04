@@ -1,0 +1,1257 @@
+[
+    {
+        "ticker_symbol": "CPAY",
+        "price": 251.6,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 250.94,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 251.23,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 256.06,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 256.09,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 258.43,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 258.22,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 264.57,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 272.1,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 277.43,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 277.95,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 278.6,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 275.16,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 277.03,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 277.42,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 278.75,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 282.98,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 282.46,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 282.61,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 281.56,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 278.99,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 280.88,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 280.76,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 284.39,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 283.69,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 280.26,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 279.48,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 283.99,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 283.99,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 277.93,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 277.56,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 282.86,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 287.46,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 288.46,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 287.4,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 293.8,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 294.01,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 297.27,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 296.93,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 289.93,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 294.55,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 295.95,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 291.58,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 286.99,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 291.99,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 265.12,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 273.4,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 270.96,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 268.75,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 272.38,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 275.38,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 271.62,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 272.91,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 274.3,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 275.83,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 281.2,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 278.31,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 278.55,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 275.66,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 279.27,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 276.6,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 281.67,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 280.61,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 285.24,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 293.07,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 294.03,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 293.52,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 294.67,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 298.93,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 295.9,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 295.64,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 299.42,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 306.39,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 306.25,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 305.8,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 303.26,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 307.66,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 304.18,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 305.52,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 308.54,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 305.9,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 310.37,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 316.14,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 304.83,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 306.2,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 306.86,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 304.59,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 303.79,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 305.72,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 299.91,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 296.29,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 298.73,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 296.27,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 295.64,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 294.29,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 300.9,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 306.61,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 307.42,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 302.08,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 303.8,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 305.09,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 302.14,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 296.25,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 298.94,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 299.29,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 302.6,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 304.72,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 304.5,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 283.22,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 283.44,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 287.51,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 283.3,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 279.06,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 282.86,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 279.53,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 278.94,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 273.11,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 272.77,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 269.95,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 267.93,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 263.16,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 264.01,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 266.43,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 267.67,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 258.35,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 257.92,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 258.42,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 261.5,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 259.01,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 259.19,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 256.62,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 253.67,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 252.0,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 249.66,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 252.1,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 252.45,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 262.45,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 267.15,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 269.67,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 270.32,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 270.34,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 269.24,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 266.41,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 266.26,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 268.26,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 267.39,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 270.48,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 271.56,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 269.47,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 273.22,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 280.42,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 286.52,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 289.63,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 293.61,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 297.52,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 293.97,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 291.23,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 290.35,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 289.38,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 285.98,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 285.56,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 292.17,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 293.59,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 297.64,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 291.82,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 284.9,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 274.9,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 265.91,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 270.97,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 270.28,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 286.33,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 284.04,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 278.25,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 284.13,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 288.0,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 292.75,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 293.09,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 294.82,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 289.14,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 294.31,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 297.18,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 297.96,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 300.89,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 303.57,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 303.8,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 311.02,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 315.55,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 314.37,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 311.99,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 304.79,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 302.97,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 307.4,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 309.41,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 306.77,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 305.81,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 307.43,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 307.63,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 306.88,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 307.71,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 312.78,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 307.21,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 311.86,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 308.67,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 304.72,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 306.57,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 311.24,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 312.76,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 314.85,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 316.65,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 318.95,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 331.0,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 333.02,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 337.06,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 334.1,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 335.87,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 339.32,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 338.87,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 342.54,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 344.92,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 350.41,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 353.51,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 348.79,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 348.97,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 354.38,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 343.89,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 340.72,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 338.92,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 332.02,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 331.88,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 329.72,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 329.81,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 329.67,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 330.81,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 348.97,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 346.5,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 366.01,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 373.15,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 374.48,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 370.77,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 370.28,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 363.36,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 364.57,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 368.19,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 369.24,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 375.46,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 379.87,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 381.54,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 382.14,
+        "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 380.62,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 381.18,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "CPAY",
+        "price": 374.58,
+        "time_posted": "2024-12-03"
+    }
+]

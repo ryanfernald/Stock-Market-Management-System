@@ -1,0 +1,1257 @@
+[
+    {
+        "ticker_symbol": "MTD",
+        "price": 1102.84,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1081.88,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1093.23,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1100.02,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1090.52,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1112.5,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1114.81,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1171.0,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1224.7,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1190.61,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1185.03,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1201.77,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1186.95,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1209.1,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1213.8,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1219.23,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1222.96,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1225.26,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1212.96,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1214.19,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1147.12,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1149.32,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1132.29,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1166.1,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1140.81,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1176.86,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1186.56,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1182.28,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1183.98,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1163.0,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1185.0,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1200.0,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1219.16,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1219.94,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1204.81,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1202.45,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1217.47,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1227.48,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1237.5,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1197.19,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1224.0,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1210.11,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1186.97,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1212.1,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1213.23,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1224.97,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1174.51,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1190.04,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1157.56,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1181.18,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1192.7,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1187.44,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1184.37,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1193.89,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1192.78,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1209.79,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1195.26,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1213.21,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1243.57,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1247.22,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1267.98,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1286.54,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1286.9,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1311.65,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1350.46,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1313.85,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1297.97,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1288.31,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1305.65,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1298.13,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1324.45,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1306.17,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1302.65,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1302.86,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1338.64,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1327.6,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1320.0,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1315.07,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1335.84,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1331.29,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1341.2,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1321.05,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1330.77,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1284.55,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1300.84,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1304.27,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1336.6,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1305.44,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1311.49,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1261.07,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1243.56,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1228.3,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1198.03,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1192.56,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1188.54,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1199.46,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1241.32,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1235.37,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1232.91,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1238.09,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1255.24,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1229.7,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1249.75,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1249.88,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1251.95,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1250.8,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1247.74,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1253.13,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1290.42,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1510.25,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1461.64,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1496.14,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1519.89,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1530.55,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1522.75,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1518.29,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1521.29,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1501.78,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1479.3,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1479.53,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1454.55,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1437.16,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1383.57,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1404.09,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1399.43,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1406.83,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1452.03,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1438.03,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1438.58,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1443.83,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1441.4,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1459.51,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1474.44,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1454.74,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1447.76,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1481.07,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1456.59,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1463.48,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1453.98,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1426.8,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1427.3,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1406.52,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1397.59,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1366.84,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1357.07,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1354.1,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1346.08,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1330.0,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1308.0,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1324.1,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1358.18,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1359.21,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1358.54,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1382.89,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1378.24,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1356.07,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1344.26,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1372.62,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1361.6,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1384.56,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1411.0,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1450.08,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1452.0,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1509.56,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1521.03,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1515.35,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1441.43,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1374.65,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1382.47,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1357.95,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1395.33,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1397.26,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1378.14,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1420.3,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1402.55,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1434.78,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1417.58,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1434.79,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1430.93,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1431.83,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1423.44,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1435.94,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1422.02,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1422.59,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1423.18,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1431.23,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1439.08,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1398.06,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1387.64,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1386.51,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1374.68,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1384.77,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1394.09,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1388.52,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1373.4,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1383.06,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1393.25,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1383.47,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1402.69,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1443.03,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1406.11,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1405.9,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1442.66,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1420.36,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1491.02,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1478.92,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1499.7,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1477.64,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1498.12,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1463.4,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1452.82,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1465.25,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1451.47,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1450.6,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1442.34,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1450.95,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1456.89,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1453.4,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1404.47,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1364.19,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1373.98,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1365.68,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1351.78,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1320.35,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1293.38,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1292.77,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1294.92,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1297.17,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1302.24,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1291.75,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1342.09,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1364.02,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1385.79,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1398.19,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1411.52,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1310.03,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1250.07,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1260.97,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1258.66,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1237.78,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1179.58,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1174.56,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1160.67,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1166.9,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1196.82,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1217.97,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1224.47,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1232.3,
+        "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1243.4,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1251.2,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "MTD",
+        "price": 1257.86,
+        "time_posted": "2024-12-03"
+    }
+]

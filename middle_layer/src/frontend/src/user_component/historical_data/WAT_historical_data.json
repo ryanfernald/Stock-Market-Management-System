@@ -1,0 +1,1257 @@
+[
+    {
+        "ticker_symbol": "WAT",
+        "price": 288.79,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 284.95,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 289.52,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 293.38,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 292.14,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 296.37,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 297.79,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 312.13,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 321.34,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 320.14,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 322.28,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 328.97,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 323.25,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 328.79,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 329.74,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 331.97,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 333.04,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 332.77,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 329.23,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 328.62,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 305.88,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 307.37,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 305.07,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 311.74,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 302.58,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 307.6,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 304.43,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 307.96,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 308.13,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 302.51,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 310.16,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 312.45,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 317.05,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 316.44,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 312.42,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 312.0,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 316.12,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 324.36,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 328.38,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 317.71,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 324.45,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 320.74,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 324.85,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 330.38,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 323.54,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 326.69,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 322.82,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 320.2,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 311.58,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 317.52,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 322.87,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 325.21,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 323.95,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 329.52,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 330.55,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 331.25,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 327.03,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 332.65,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 337.68,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 337.42,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 346.04,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 346.76,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 343.41,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 349.0,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 361.0,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 355.94,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 353.86,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 353.3,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 351.73,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 343.57,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 352.9,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 347.27,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 348.96,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 348.36,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 352.45,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 347.31,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 342.72,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 338.1,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 345.19,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 344.23,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 344.51,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 339.73,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 341.1,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 334.26,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 335.94,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 339.04,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 345.03,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 337.15,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 337.89,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 322.66,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 319.59,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 313.72,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 304.18,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 294.23,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 296.1,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 299.23,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 313.3,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 310.25,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 308.35,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 311.3,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 315.09,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 309.04,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 315.92,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 315.58,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 321.25,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 319.86,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 326.06,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 323.8,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 336.42,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 351.11,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 349.28,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 358.99,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 361.79,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 360.51,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 355.95,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 354.02,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 351.65,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 348.8,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 336.79,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 336.46,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 331.84,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 327.65,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 307.62,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 308.9,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 309.9,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 307.26,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 307.19,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 300.55,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 302.09,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 301.47,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 300.5,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 300.96,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 295.51,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 294.94,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 294.25,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 294.4,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 290.0,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 290.27,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 289.27,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 286.97,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 290.3,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 286.47,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 290.12,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 282.7,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 284.49,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 287.5,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 286.21,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 285.57,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 282.97,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 288.31,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 301.48,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 302.4,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 302.93,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 316.73,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 314.38,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 308.98,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 302.72,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 307.22,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 300.83,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 305.31,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 310.29,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 317.96,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 321.54,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 327.66,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 336.28,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 352.53,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 345.66,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 328.83,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 330.89,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 321.85,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 333.34,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 332.7,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 333.42,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 338.83,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 336.49,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 340.68,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 339.98,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 340.26,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 336.16,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 337.34,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 336.09,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 342.42,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 336.59,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 336.77,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 340.94,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 344.71,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 346.35,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 339.75,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 331.56,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 331.31,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 328.84,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 332.1,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 328.16,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 326.73,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 322.08,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 325.86,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 328.65,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 328.97,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 333.37,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 338.45,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 336.56,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 339.71,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 343.84,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 340.0,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 355.68,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 357.33,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 359.89,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 358.33,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 355.05,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 354.4,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 352.51,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 349.92,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 358.91,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 356.83,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 352.64,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 357.97,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 357.25,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 360.0,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 353.97,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 347.31,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 348.45,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 345.5,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 339.43,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 333.28,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 327.3,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 324.55,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 325.51,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 324.67,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 326.59,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 323.11,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 387.21,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 387.34,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 387.17,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 386.69,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 386.12,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 384.51,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 380.74,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 385.79,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 385.62,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 376.72,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 358.46,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 355.47,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 344.71,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 357.77,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 368.5,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 373.47,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 378.16,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 388.15,
+        "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 386.57,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 384.72,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "WAT",
+        "price": 387.0,
+        "time_posted": "2024-12-03"
+    }
+]

@@ -1,0 +1,1257 @@
+[
+    {
+        "ticker_symbol": "DE",
+        "price": 363.51,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 355.84,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 360.17,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 355.92,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 358.33,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 355.73,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 354.11,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 371.47,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 382.72,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 380.4,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 377.14,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 388.15,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 381.57,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 387.56,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 390.99,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 395.38,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 395.74,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 394.84,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 395.45,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 396.47,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 389.0,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 388.05,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 391.58,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 393.58,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 388.87,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 389.35,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 385.9,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 382.23,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 381.09,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 374.42,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 377.17,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 378.48,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 380.33,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 383.17,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 384.11,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 388.66,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 389.26,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 393.28,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 392.54,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 389.22,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 389.32,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 388.26,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 381.76,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 384.6,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 381.68,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 381.56,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 377.07,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 385.08,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 375.07,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 380.52,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 360.62,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 356.69,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 353.43,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 353.34,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 352.83,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 360.62,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 359.19,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 356.67,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 360.77,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 361.01,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 363.78,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 360.39,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 362.67,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 362.57,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 371.17,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 369.96,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 370.9,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 368.53,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 374.66,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 376.02,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 379.15,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 381.05,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 387.18,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 389.69,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 393.24,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 394.45,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 393.63,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 394.11,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 406.11,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 407.7,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 401.15,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 401.01,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 403.02,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 404.1,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 409.49,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 407.71,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 408.43,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 408.92,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 409.78,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 394.33,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 390.88,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 390.1,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 393.94,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 397.63,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 397.36,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 396.65,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 394.27,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 391.7,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 391.14,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 390.42,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 397.99,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 388.51,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 384.63,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 393.03,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 397.99,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 398.86,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 402.57,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 402.42,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 405.97,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 404.87,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 404.97,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 409.72,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 410.95,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 391.51,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 394.08,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 388.58,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 383.88,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 383.15,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 376.43,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 372.18,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 366.54,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 362.28,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 365.62,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 371.99,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 365.39,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 366.64,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 368.24,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 368.52,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 365.85,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 365.57,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 362.43,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 367.35,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 375.15,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 375.2,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 376.41,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 379.93,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 378.71,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 372.26,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 375.37,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 366.73,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 373.46,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 374.0,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 372.32,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 359.72,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 363.67,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 361.51,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 358.76,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 353.75,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 347.61,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 350.29,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 360.33,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 364.05,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 370.36,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 376.18,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 383.78,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 379.3,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 376.73,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 377.92,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 370.21,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 368.09,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 380.35,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 385.19,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 375.44,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 370.46,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 370.67,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 356.65,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 352.51,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 343.63,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 344.84,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 344.76,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 347.91,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 344.81,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 343.8,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 349.36,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 350.04,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 371.95,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 376.59,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 371.6,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 371.28,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 375.72,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 375.27,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 379.84,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 381.74,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 374.66,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 376.62,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 380.48,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 384.38,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 384.33,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 390.57,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 382.34,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 380.22,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 385.87,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 385.94,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 387.22,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 385.64,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 393.29,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 393.27,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 396.48,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 399.66,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 408.29,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 404.46,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 407.51,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 409.45,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 405.5,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 410.02,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 416.53,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 417.33,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 416.44,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 416.49,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 408.74,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 407.99,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 406.04,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 400.28,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 405.48,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 405.76,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 411.08,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 407.72,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 401.99,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 409.37,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 405.14,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 408.73,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 406.96,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 406.65,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 408.64,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 411.07,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 407.93,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 412.35,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 406.04,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 404.69,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 404.69,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 400.42,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 401.68,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 400.37,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 405.71,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 411.16,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 394.06,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 402.65,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 393.75,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 389.45,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 394.64,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 398.95,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 404.53,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 400.09,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 404.96,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 437.54,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 446.65,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 462.69,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 461.04,
+        "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 466.0,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 465.9,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "DE",
+        "price": 459.25,
+        "time_posted": "2024-12-03"
+    }
+]

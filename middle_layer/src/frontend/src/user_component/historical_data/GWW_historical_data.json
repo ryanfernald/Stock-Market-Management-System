@@ -1,0 +1,1257 @@
+[
+    {
+        "ticker_symbol": "GWW",
+        "price": 795.07,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 792.26,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 796.19,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 801.02,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 797.7,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 810.99,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 814.59,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 812.34,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 822.27,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 817.04,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 826.58,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 823.63,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 809.57,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 817.53,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 821.31,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 821.89,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 824.74,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 820.57,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 822.15,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 806.82,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 802.56,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 809.54,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 812.25,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 815.74,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 817.48,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 824.27,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 830.46,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 835.47,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 833.91,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 832.45,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 865.31,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 857.18,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 869.74,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 868.73,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 864.36,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 874.49,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 876.27,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 889.08,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 907.56,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 888.57,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 915.35,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 964.86,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 938.17,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 932.92,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 937.54,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 942.43,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 953.3,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 941.57,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 929.84,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 938.78,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 938.08,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 930.23,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 929.59,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 935.44,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 952.48,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 953.22,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 957.9,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 963.77,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 968.9,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 967.67,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 975.06,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 981.72,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 979.9,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 976.75,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 983.16,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 964.55,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 958.25,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 966.64,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 968.94,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 985.79,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 988.45,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 988.57,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 995.7,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1010.11,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1023.42,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1020.99,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1001.74,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 999.39,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1014.1,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1011.25,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1003.63,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 994.55,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1000.71,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 987.26,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1008.79,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1008.68,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1001.71,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 994.9,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 960.52,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 959.23,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 949.74,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 951.0,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 944.27,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 931.96,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 937.04,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 936.47,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 950.1,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 952.62,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 942.2,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 923.73,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 928.94,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 915.87,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 914.82,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 918.4,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 926.4,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 934.45,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 940.26,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 943.27,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 950.52,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 955.02,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 945.64,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 946.92,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 954.5,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 944.2,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 942.05,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 949.76,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 953.12,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 960.23,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 951.06,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 962.71,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 935.54,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 907.1,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 904.01,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 917.95,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 885.17,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 883.74,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 886.87,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 875.68,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 888.85,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 893.94,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 896.86,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 911.41,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 917.56,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 903.33,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 913.95,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 920.96,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 911.8,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 911.57,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 912.01,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 906.61,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 905.32,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 900.29,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 898.8,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 892.77,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 914.47,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 912.02,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 909.07,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 913.85,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 905.1,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 899.84,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 900.64,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 914.96,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 939.18,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 984.3,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 971.1,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 953.71,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 942.22,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 947.98,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 947.67,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 929.07,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 950.51,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 966.64,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 963.12,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 962.67,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 973.08,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 938.77,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 949.16,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 946.37,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 949.03,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 947.56,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 968.53,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 975.58,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 957.77,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 959.48,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 951.06,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 957.19,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 964.7,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 956.49,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 960.74,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 978.56,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 975.47,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 980.54,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 971.91,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 965.69,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 966.67,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 966.37,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 983.22,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 958.4,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 950.65,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 936.86,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 946.3,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 970.46,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 975.99,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 986.94,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 995.21,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 992.11,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1006.47,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1012.23,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1011.43,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1028.32,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1030.44,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1040.28,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1038.92,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1030.38,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1042.13,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1034.15,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1037.02,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1038.11,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1036.34,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1027.38,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1031.46,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1021.08,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1026.79,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1027.82,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1023.39,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1083.17,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1096.48,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1083.7,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1111.01,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1117.54,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1125.06,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1118.43,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1097.04,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1090.65,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1080.34,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1089.06,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1102.23,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1096.46,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1097.44,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1107.32,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1103.16,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1093.79,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1120.09,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1192.9,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1186.9,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1202.35,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1220.93,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1208.34,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1202.01,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1176.01,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1178.33,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1172.13,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1172.07,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1178.45,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1194.41,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1206.65,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1215.76,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1217.3,
+        "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1205.87,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1205.34,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "GWW",
+        "price": 1193.16,
+        "time_posted": "2024-12-03"
+    }
+]

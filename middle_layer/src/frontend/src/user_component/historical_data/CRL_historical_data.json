@@ -1,0 +1,1257 @@
+[
+    {
+        "ticker_symbol": "CRL",
+        "price": 200.61,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 198.34,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 200.68,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 202.77,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 204.46,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 206.5,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 210.73,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 217.98,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 229.26,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 230.81,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 228.09,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 235.65,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 231.62,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 235.72,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 236.23,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 238.17,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 238.84,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 238.78,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 236.4,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 234.25,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 224.02,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 223.35,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 223.89,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 226.93,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 215.19,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 213.14,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 213.46,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 211.49,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 206.43,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 203.52,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 206.11,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 212.03,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 215.82,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 214.05,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 213.11,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 213.03,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 220.28,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 224.56,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 223.96,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 216.28,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 219.54,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 218.17,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 217.59,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 220.5,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 218.58,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 218.77,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 222.22,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 225.78,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 220.24,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 245.12,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 245.4,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 244.96,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 238.94,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 241.1,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 246.9,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 247.71,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 249.56,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 252.95,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 256.73,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 254.19,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 264.38,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 258.92,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 261.27,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 263.44,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 270.27,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 266.97,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 263.09,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 264.12,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 261.18,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 260.5,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 258.97,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 262.13,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 266.51,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 268.17,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 273.43,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 272.57,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 265.61,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 265.44,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 269.37,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 270.95,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 268.73,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 261.82,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 259.31,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 250.66,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 253.1,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 254.92,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 257.15,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 247.49,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 246.42,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 241.34,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 235.93,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 232.34,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 230.09,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 227.55,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 226.78,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 232.56,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 240.13,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 239.43,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 227.81,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 229.03,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 232.1,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 229.0,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 232.69,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 229.89,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 233.47,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 235.27,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 236.3,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 235.29,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 230.09,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 228.12,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 228.41,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 232.82,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 232.56,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 224.75,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 221.61,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 223.06,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 221.48,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 219.0,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 217.55,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 217.21,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 214.51,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 211.48,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 209.72,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 208.44,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 207.93,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 210.23,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 216.12,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 221.62,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 214.79,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 214.51,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 210.43,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 213.84,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 212.44,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 209.47,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 208.41,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 209.8,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 209.63,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 211.6,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 209.85,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 206.39,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 206.71,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 207.35,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 206.58,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 203.24,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 201.48,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 201.42,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 199.66,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 202.46,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 201.85,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 202.71,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 210.88,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 216.19,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 216.25,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 227.31,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 223.15,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 218.58,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 218.24,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 227.62,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 220.28,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 222.41,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 221.81,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 233.47,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 237.92,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 245.29,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 244.1,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 242.84,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 233.6,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 226.4,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 228.8,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 199.96,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 201.93,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 200.97,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 194.31,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 203.49,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 198.55,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 202.09,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 201.87,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 204.02,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 202.5,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 204.38,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 201.33,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 205.27,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 204.6,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 203.3,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 196.96,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 199.29,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 197.75,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 192.04,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 191.77,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 191.19,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 187.96,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 188.16,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 190.02,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 193.59,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 194.32,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 198.61,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 203.73,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 206.21,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 206.1,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 209.62,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 205.79,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 203.77,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 200.62,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 192.9,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 198.26,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 198.31,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 196.97,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 194.08,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 192.9,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 189.59,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 190.74,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 189.22,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 186.83,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 187.7,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 191.43,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 192.97,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 193.14,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 193.87,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 195.11,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 197.78,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 197.77,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 195.04,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 185.94,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 186.63,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 182.73,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 182.12,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 186.52,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 184.0,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 181.39,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 178.58,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 180.96,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 182.48,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 188.68,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 214.2,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 210.29,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 215.39,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 220.69,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 215.94,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 206.54,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 196.9,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 187.74,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 187.5,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 186.1,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 187.9,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 194.19,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 195.77,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 201.3,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 197.75,
+        "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 199.59,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 199.06,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "CRL",
+        "price": 199.3,
+        "time_posted": "2024-12-03"
+    }
+]

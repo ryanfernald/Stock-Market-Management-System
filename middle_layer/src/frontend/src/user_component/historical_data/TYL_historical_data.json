@@ -1,0 +1,1257 @@
+[
+    {
+        "ticker_symbol": "TYL",
+        "price": 412.94,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 410.87,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 404.25,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 402.14,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 403.07,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 403.91,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 407.69,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 412.46,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 410.2,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 410.42,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 418.47,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 414.59,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 409.03,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 412.49,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 415.0,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 416.41,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 415.6,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 418.29,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 418.12,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 408.2,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 406.9,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 401.39,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 400.82,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 414.42,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 412.67,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 418.4,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 425.27,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 429.0,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 417.21,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 419.54,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 424.16,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 430.33,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 440.12,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 444.0,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 439.29,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 429.25,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 430.62,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 436.41,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 432.06,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 422.75,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 429.68,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 430.86,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 427.39,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 430.52,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 435.88,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 435.15,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 440.99,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 434.85,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 431.7,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 440.13,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 441.11,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 440.98,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 435.38,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 432.71,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 436.6,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 437.48,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 441.19,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 436.39,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 438.71,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 437.14,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 440.9,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 438.14,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 417.18,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 419.86,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 422.07,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 420.48,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 428.82,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 427.96,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 421.15,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 418.28,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 416.31,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 416.33,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 424.4,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 420.62,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 421.08,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 419.29,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 420.25,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 418.09,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 420.6,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 425.01,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 416.69,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 413.87,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 415.04,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 414.77,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 415.18,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 418.2,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 423.2,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 411.85,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 412.86,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 413.36,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 400.68,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 399.22,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 402.84,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 402.95,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 403.35,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 411.41,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 418.44,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 419.0,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 458.07,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 460.74,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 465.2,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 461.55,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 458.53,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 464.46,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 469.0,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 476.02,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 481.38,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 481.02,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 481.84,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 484.76,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 481.1,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 484.85,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 489.14,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 487.97,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 489.14,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 493.92,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 495.98,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 497.51,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 491.13,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 492.05,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 479.13,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 475.4,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 477.38,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 480.36,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 474.19,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 479.1,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 483.83,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 481.42,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 481.84,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 477.02,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 481.97,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 478.58,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 474.49,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 471.79,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 467.27,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 472.9,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 479.04,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 489.14,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 491.57,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 488.24,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 488.63,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 493.81,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 502.78,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 499.52,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 509.0,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 508.56,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 513.42,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 511.48,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 508.86,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 511.88,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 514.31,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 523.08,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 520.91,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 528.92,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 528.03,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 525.91,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 524.33,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 529.09,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 526.37,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 515.8,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 564.34,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 590.65,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 576.99,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 574.55,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 568.11,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 569.71,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 575.81,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 569.01,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 570.63,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 568.48,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 579.52,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 575.23,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 579.76,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 579.28,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 581.18,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 582.01,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 584.17,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 579.58,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 576.63,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 581.19,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 572.68,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 571.73,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 571.68,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 578.59,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 581.05,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 587.63,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 587.87,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 578.72,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 586.66,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 583.86,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 581.16,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 588.99,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 595.46,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 586.41,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 583.17,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 581.96,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 585.73,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 579.39,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 579.49,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 580.25,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 577.8,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 583.74,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 585.15,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 580.04,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 579.07,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 577.52,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 583.72,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 578.64,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 584.11,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 581.55,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 579.45,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 581.57,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 593.9,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 591.56,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 586.47,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 594.41,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 599.69,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 601.05,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 589.97,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 588.23,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 588.43,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 586.77,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 585.86,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 582.22,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 611.67,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 605.86,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 605.39,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 613.48,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 614.8,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 605.59,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 602.75,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 600.61,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 606.35,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 603.2,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 615.35,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 623.22,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 613.23,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 619.12,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 616.87,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 614.28,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 597.1,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 601.19,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 599.68,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 601.14,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 597.21,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 609.09,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 624.19,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 635.19,
+        "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 630.44,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 629.17,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "TYL",
+        "price": 622.85,
+        "time_posted": "2024-12-03"
+    }
+]

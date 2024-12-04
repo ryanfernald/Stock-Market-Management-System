@@ -53,7 +53,7 @@ def fetch_and_insert_historical_data(ticker_symbol):
                 closing_price = round(row['Close'], 2)
                 market_close_time = datetime.combine(date.date(), time(13, 0))
                 market_close_time = pacific.localize(market_close_time)
-
+ 
                 # insert historical data into the database
                 db.insert_or_update_price(ticker_symbol, closing_price, market_close_time)
         else:

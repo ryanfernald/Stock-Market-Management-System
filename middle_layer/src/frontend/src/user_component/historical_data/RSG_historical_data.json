@@ -1,0 +1,1257 @@
+[
+    {
+        "ticker_symbol": "RSG",
+        "price": 160.67,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 159.58,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 159.96,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 159.71,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 159.9,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 160.55,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 163.24,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 165.16,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 160.79,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 160.19,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 161.66,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 160.9,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 160.31,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 159.77,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 160.79,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 161.17,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 161.85,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 162.39,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 163.52,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 163.55,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 162.34,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 162.78,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 162.14,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 162.97,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 162.43,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 162.92,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 162.55,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 164.74,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 164.24,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 164.8,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 166.34,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 167.26,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 167.41,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 168.39,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 167.91,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 168.85,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 169.85,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 170.03,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 171.42,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 169.68,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 172.37,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 172.2,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 171.79,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 172.22,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 173.09,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 173.17,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 172.03,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 170.55,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 174.13,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 177.23,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 178.34,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 178.91,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 178.49,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 179.83,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 181.79,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 183.42,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 183.31,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 182.97,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 184.38,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 182.05,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 182.09,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 183.38,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 182.21,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 182.25,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 182.45,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 182.64,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 182.72,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 183.88,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 184.32,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 184.76,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 184.74,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 186.0,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 186.56,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 186.22,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 187.53,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 188.9,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 188.13,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 188.09,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 189.91,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 189.83,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 188.76,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 187.85,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 188.17,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 185.73,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 187.34,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 187.46,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 187.73,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 188.62,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 188.11,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 186.76,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 186.18,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 186.42,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 187.88,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 187.9,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 188.69,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 190.68,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 189.53,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 190.91,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 192.47,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 190.84,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 192.32,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 190.62,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 184.95,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 185.39,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 184.46,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 185.66,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 187.5,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 186.27,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 187.07,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 188.17,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 187.17,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 186.28,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 185.91,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 186.64,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 187.1,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 184.93,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 185.43,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 185.72,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 185.28,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 185.76,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 182.47,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 180.56,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 181.04,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 184.14,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 184.27,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 186.3,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 187.01,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 186.01,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 185.89,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 186.66,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 185.6,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 186.21,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 186.37,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 187.57,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 190.61,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 190.77,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 190.75,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 190.77,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 193.56,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 193.4,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 192.99,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 193.72,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 193.24,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 191.79,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 192.6,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 192.98,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 194.33,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 194.73,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 194.76,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 196.31,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 198.13,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 199.67,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 200.61,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 203.59,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 204.83,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 203.98,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 202.87,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 204.49,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 198.47,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 199.09,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 188.79,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 189.75,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 191.61,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 191.81,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 193.76,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 196.97,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 199.42,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 194.59,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 196.13,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 200.98,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 200.91,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 200.64,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 198.94,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 199.81,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 201.87,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 202.3,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 202.68,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 204.37,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 204.71,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 205.23,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 206.31,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 205.68,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 206.23,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 206.37,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 206.75,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 205.35,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 207.61,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 205.24,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 207.11,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 204.84,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 202.24,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 204.71,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 205.72,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 204.21,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 204.65,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 205.2,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 204.77,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 201.17,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 198.61,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 200.33,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 200.81,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 202.23,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 202.77,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 203.9,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 200.19,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 198.81,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 200.26,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 200.7,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 200.09,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 201.9,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 200.67,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 198.61,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 202.06,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 204.84,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 203.08,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 204.44,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 205.77,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 206.49,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 205.53,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 205.62,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 204.8,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 204.11,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 203.92,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 203.98,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 201.53,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 199.83,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 200.42,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 204.31,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 198.81,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 198.0,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 198.58,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 200.59,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 202.14,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 207.07,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 208.08,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 211.59,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 211.82,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 212.24,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 214.68,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 209.46,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 208.04,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 209.08,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 210.91,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 212.62,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 214.06,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 216.79,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 217.86,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 218.75,
+        "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 218.28,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 218.3,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "RSG",
+        "price": 214.79,
+        "time_posted": "2024-12-03"
+    }
+]

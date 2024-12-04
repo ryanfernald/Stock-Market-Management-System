@@ -1,0 +1,1257 @@
+[
+    {
+        "ticker_symbol": "STT",
+        "price": 71.49,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 70.64,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 68.92,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 70.6,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 71.37,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 71.97,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 72.47,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 73.91,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 75.78,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 74.9,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 74.47,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 74.94,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 73.37,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 74.3,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 74.47,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 74.98,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 75.22,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 75.66,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 75.4,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 75.68,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 75.24,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 75.32,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 76.13,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 76.34,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 75.26,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 74.56,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 74.23,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 74.47,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 73.85,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 72.7,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 72.33,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 73.84,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 72.33,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 71.98,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 71.87,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 72.69,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 73.11,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 72.85,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 72.86,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 71.9,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 71.3,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 71.47,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 70.64,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 70.52,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 71.08,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 70.46,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 70.9,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 71.64,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 69.21,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 69.59,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 71.08,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 70.56,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 69.64,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 70.23,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 70.49,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 71.62,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 70.93,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 71.52,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 71.41,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 71.77,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 71.88,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 72.03,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 71.36,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 69.93,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 70.32,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 70.5,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 71.48,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 70.58,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 70.91,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 69.94,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 70.57,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 70.56,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 70.68,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 71.85,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 73.91,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 73.82,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 73.63,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 74.15,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 74.83,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 75.94,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 75.87,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 75.63,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 75.94,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 74.6,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 74.45,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 75.03,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 75.27,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 73.04,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 72.59,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 74.43,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 73.59,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 71.72,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 71.51,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 71.74,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 72.06,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 73.18,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 73.06,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 72.97,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 71.98,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 72.08,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 72.67,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 71.2,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 71.81,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 71.89,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 73.06,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 73.77,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 74.01,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 73.98,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 74.9,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 75.21,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 74.8,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 75.19,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 76.19,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 76.25,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 76.62,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 75.77,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 75.71,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 75.13,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 73.48,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 74.05,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 72.59,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 72.51,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 72.93,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 74.24,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 73.99,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 73.32,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 73.16,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 73.17,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 73.43,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 73.02,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 69.86,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 70.85,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 70.32,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 69.65,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 70.43,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 71.08,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 71.11,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 70.95,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 71.64,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 71.29,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 71.56,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 71.75,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 72.68,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 72.93,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 73.23,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 73.5,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 73.09,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 72.74,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 73.78,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 74.84,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 75.82,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 77.89,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 78.26,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 84.09,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 84.61,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 83.61,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 83.76,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 83.28,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 83.09,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 82.25,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 84.16,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 84.56,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 84.19,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 84.96,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 84.24,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 82.91,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 80.21,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 76.45,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 76.47,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 75.82,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 77.08,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 77.54,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 76.86,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 78.12,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 78.27,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 79.86,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 80.48,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 80.31,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 79.73,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 80.11,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 81.85,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 83.32,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 83.85,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 84.75,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 84.01,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 85.16,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 86.35,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 85.24,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 85.17,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 84.46,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 82.57,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 82.94,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 82.6,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 81.88,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 81.87,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 82.56,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 84.73,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 85.95,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 86.41,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 88.54,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 87.74,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 88.36,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 88.15,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 87.74,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 87.33,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 87.44,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 87.71,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 86.65,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 85.99,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 85.96,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 87.31,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 87.47,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 88.57,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 88.86,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 89.34,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 89.83,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 90.93,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 91.82,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 92.88,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 92.55,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 91.43,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 90.19,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 89.86,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 91.43,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 91.87,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 90.38,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 92.98,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 92.82,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 92.93,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 92.8,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 92.8,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 92.26,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 92.91,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 96.81,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 95.12,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 94.78,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 96.55,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 95.19,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 95.17,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 94.18,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 95.48,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 96.12,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 94.71,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 95.3,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 96.34,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 97.5,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 98.79,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 98.81,
+        "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 98.79,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 98.51,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "STT",
+        "price": 97.77,
+        "time_posted": "2024-12-03"
+    }
+]

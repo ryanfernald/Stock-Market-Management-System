@@ -1,0 +1,1257 @@
+[
+    {
+        "ticker_symbol": "GILD",
+        "price": 75.21,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 75.86,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 76.19,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 74.93,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 75.86,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 76.89,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 77.59,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 79.77,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 79.23,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 77.82,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 77.02,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 77.01,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 76.14,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 76.47,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 77.18,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 77.46,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 77.86,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 78.61,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 78.48,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 80.64,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 80.88,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 81.85,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 80.71,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 81.37,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 83.38,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 81.86,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 82.73,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 83.69,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 83.31,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 83.78,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 83.71,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 84.57,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 75.98,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 77.0,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 77.05,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 77.73,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 77.04,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 76.6,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 76.17,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 75.82,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 75.72,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 74.56,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 74.32,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 75.3,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 72.1,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 71.5,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 71.37,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 72.13,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 71.24,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 70.76,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 71.08,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 69.35,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 69.79,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 70.92,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 70.51,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 71.26,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 70.68,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 70.74,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 70.43,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 69.85,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 70.05,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 70.0,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 70.71,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 70.36,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 71.36,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 72.78,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 72.97,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 72.74,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 73.57,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 72.63,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 72.12,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 71.7,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 71.85,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 72.41,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 71.54,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 71.07,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 71.04,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 70.87,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 71.46,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 71.69,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 71.33,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 70.56,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 69.38,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 68.07,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 68.1,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 67.94,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 68.45,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 66.67,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 67.19,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 66.62,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 66.31,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 65.88,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 65.51,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 64.75,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 65.34,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 65.53,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 65.6,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 65.65,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 63.88,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 64.03,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 64.54,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 63.81,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 64.12,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 63.94,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 63.4,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 64.15,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 64.07,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 63.54,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 63.21,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 64.56,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 66.1,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 66.21,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 65.59,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 66.42,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 66.28,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 66.46,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 65.86,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 66.36,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 64.76,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 64.28,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 62.58,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 62.15,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 62.72,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 62.9,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 62.08,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 62.8,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 62.52,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 62.49,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 63.32,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 63.86,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 63.51,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 62.97,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 62.21,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 64.46,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 63.67,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 62.57,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 67.86,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 70.02,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 70.08,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 68.97,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 68.67,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 68.19,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 67.97,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 68.0,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 67.77,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 65.97,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 66.07,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 66.92,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 67.13,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 68.11,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 69.32,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 69.31,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 70.15,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 70.98,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 72.62,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 72.83,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 71.89,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 71.74,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 70.51,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 72.82,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 75.8,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 76.3,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 77.01,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 77.33,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 75.36,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 75.78,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 76.06,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 74.14,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 73.5,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 73.31,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 74.89,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 72.98,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 72.31,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 73.29,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 73.45,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 73.65,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 73.1,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 73.76,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 74.06,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 74.43,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 75.2,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 76.01,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 76.25,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 76.29,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 77.83,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 78.71,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 78.27,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 78.96,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 78.4,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 78.04,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 77.99,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 78.44,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 80.69,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 80.19,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 82.39,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 82.81,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 83.16,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 83.05,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 83.89,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 83.9,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 83.94,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 83.99,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 83.79,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 82.21,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 83.04,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 83.61,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 83.84,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 83.94,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 84.74,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 84.17,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 84.59,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 84.43,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 85.21,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 86.14,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 84.67,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 84.95,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 85.05,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 85.82,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 86.75,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 87.36,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 86.72,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 86.29,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 88.16,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 87.23,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 88.78,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 89.0,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 88.76,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 88.08,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 88.29,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 88.82,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 89.51,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 89.84,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 90.22,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 91.69,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 97.9,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 96.57,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 97.03,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 94.35,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 92.63,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 92.11,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 88.4,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 88.46,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 87.75,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 88.63,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 89.76,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 90.19,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 90.49,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 91.35,
+        "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 92.41,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 92.58,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "GILD",
+        "price": 92.49,
+        "time_posted": "2024-12-03"
+    }
+]

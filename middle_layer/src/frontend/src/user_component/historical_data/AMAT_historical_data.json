@@ -1,0 +1,1257 @@
+[
+    {
+        "ticker_symbol": "AMAT",
+        "price": 147.12,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 145.02,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 143.58,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 147.24,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 146.58,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 153.94,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 156.0,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 155.77,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 160.49,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 160.7,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 159.12,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 161.07,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 155.7,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 160.14,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 160.79,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 163.01,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 162.94,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 161.86,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 160.81,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 153.17,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 150.28,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 148.15,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 147.85,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 150.39,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 149.86,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 148.65,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 150.77,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 150.08,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 152.57,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 152.18,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 159.1,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 166.64,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 167.0,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 165.76,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 172.79,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 171.29,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 165.61,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 167.17,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 164.95,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 163.03,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 165.68,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 166.88,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 169.76,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 167.39,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 169.58,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 172.54,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 184.4,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 184.1,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 178.91,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 184.75,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 186.21,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 198.02,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 187.67,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 189.18,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 198.52,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 195.96,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 202.32,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 201.63,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 196.34,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 200.4,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 208.97,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 208.22,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 206.13,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 210.88,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 211.32,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 204.31,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 200.15,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 203.7,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 199.34,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 199.53,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 197.44,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 199.51,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 200.12,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 203.82,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 209.52,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 208.97,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 207.2,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 205.42,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 206.74,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 204.98,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 207.42,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 204.86,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 206.12,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 202.16,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 206.59,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 207.77,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 209.13,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 207.98,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 211.69,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 206.6,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 204.43,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 208.21,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 198.68,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 193.14,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 188.62,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 188.31,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 192.07,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 194.87,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 196.3,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 202.15,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 204.01,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 197.44,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 192.81,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 196.71,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 202.85,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 207.59,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 206.06,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 206.1,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 205.08,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 208.46,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 205.38,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 208.55,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 216.17,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 212.73,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 210.79,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 218.62,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 218.47,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 217.22,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 217.02,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 219.95,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 220.38,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 218.12,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 215.62,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 214.16,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 213.3,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 211.32,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 222.42,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 220.81,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 220.79,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 227.19,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 228.99,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 236.64,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 236.54,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 236.02,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 241.83,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 246.78,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 238.97,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 234.41,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 228.86,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 233.27,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 231.18,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 231.54,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 234.99,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 236.4,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 239.84,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 242.27,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 241.56,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 245.24,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 250.4,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 253.89,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 240.23,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 242.36,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 244.51,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 244.79,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 219.13,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 216.72,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 209.37,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 222.52,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 218.72,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 205.65,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 201.46,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 205.59,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 204.7,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 195.9,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 211.3,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 195.46,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 181.04,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 181.12,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 182.53,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 177.75,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 189.74,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 190.37,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 192.27,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 199.95,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 200.77,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 210.93,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 207.02,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 210.04,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 205.28,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 208.23,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 199.73,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 202.19,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 195.77,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 195.31,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 192.44,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 192.53,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 196.8,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 182.94,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 181.95,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 179.82,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 174.34,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 177.13,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 177.63,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 185.5,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 182.78,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 188.03,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 187.14,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 188.15,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 185.7,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 196.25,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 191.71,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 193.58,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 196.32,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 196.85,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 209.12,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 204.44,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 201.58,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 196.74,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 200.68,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 199.12,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 201.5,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 199.66,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 200.41,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 204.58,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 203.48,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 204.58,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 213.39,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 190.57,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 184.16,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 182.81,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 185.92,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 184.03,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 182.57,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 182.27,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 183.32,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 186.08,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 184.91,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 189.67,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 184.87,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 181.15,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 182.95,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 181.39,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 186.04,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 187.08,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 193.63,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 191.58,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 188.12,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 186.17,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 182.36,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 185.56,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 168.48,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 170.33,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 168.91,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 170.09,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 175.75,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 174.88,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 174.55,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 173.2,
+        "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 171.32,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 174.71,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "AMAT",
+        "price": 183.16,
+        "time_posted": "2024-12-03"
+    }
+]

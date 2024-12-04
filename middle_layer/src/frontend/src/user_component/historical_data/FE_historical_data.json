@@ -1,0 +1,1257 @@
+[
+    {
+        "ticker_symbol": "FE",
+        "price": 35.62,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 35.5,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 35.89,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 35.74,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 35.53,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 35.7,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 35.43,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 36.9,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 36.29,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 35.43,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 35.28,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 35.38,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 34.68,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 34.81,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 34.72,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 34.82,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 34.8,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 35.06,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 35.13,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 35.84,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 36.18,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 36.21,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 36.54,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 36.78,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 36.91,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 37.12,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 36.43,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 36.77,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 36.27,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 35.77,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 35.56,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 35.46,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 35.16,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 35.19,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 34.46,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 34.97,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 34.86,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 35.24,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 35.22,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 35.15,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 35.76,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 35.25,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 34.71,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 34.71,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 34.73,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 34.69,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 36.16,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 36.61,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 35.81,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 35.79,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 36.15,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 36.24,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 36.01,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 36.65,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 36.15,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 36.25,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 35.36,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 35.73,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 35.7,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 35.48,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 35.38,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 36.12,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 35.87,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 36.31,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 36.67,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 36.92,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 37.34,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 36.72,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 36.92,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 36.85,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 36.78,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 37.03,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 37.12,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 37.08,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 37.09,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 37.03,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 37.18,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 36.63,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 37.27,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 37.43,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 37.19,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 37.28,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 36.96,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 37.09,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 36.84,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 37.19,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 37.28,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 36.67,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 36.46,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 36.26,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 36.25,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 35.7,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 36.3,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 36.47,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 36.99,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 37.03,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 36.95,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 37.12,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 37.38,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 36.96,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 37.58,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 37.16,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 37.51,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 37.89,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 38.03,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 38.16,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 38.55,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 38.67,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 39.04,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 39.13,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 38.89,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 39.04,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 39.45,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 39.41,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 39.23,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 39.25,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 39.61,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 39.09,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 38.35,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 38.18,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 38.01,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 37.75,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 38.2,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 39.45,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 39.36,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 39.4,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 38.64,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 38.31,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 38.04,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 38.14,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 38.04,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 37.87,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 37.9,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 37.99,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 37.47,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 37.4,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 37.46,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 37.5,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 37.72,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 37.6,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 37.76,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 37.75,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 37.5,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 37.54,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 37.48,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 37.66,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 37.8,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 37.81,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 37.87,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 38.13,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 38.67,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 38.72,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 38.07,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 38.18,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 38.7,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 38.66,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 38.79,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 39.0,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 39.07,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 39.6,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 39.63,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 40.11,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 40.68,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 40.96,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 41.06,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 41.86,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 41.82,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 41.03,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 41.29,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 41.48,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 41.46,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 41.54,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 41.77,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 41.86,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 41.85,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 41.89,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 42.13,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 42.42,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 42.75,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 42.74,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 42.76,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 42.75,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 42.98,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 42.74,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 43.33,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 43.16,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 43.47,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 43.86,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 44.08,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 44.02,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 43.74,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 44.03,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 43.82,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 43.7,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 43.61,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 44.02,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 43.89,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 43.24,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 43.05,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 42.79,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 43.55,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 43.58,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 43.2,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 43.34,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 43.16,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 43.6,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 43.9,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 44.06,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 43.6,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 42.98,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 43.02,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 42.43,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 42.29,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 42.12,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 41.9,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 42.27,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 42.73,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 43.06,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 43.45,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 43.05,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 43.21,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 43.25,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 43.39,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 43.82,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 43.64,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 42.97,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 43.23,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 42.39,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 41.74,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 41.4,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 41.3,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 41.13,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 41.47,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 41.16,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 41.23,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 41.54,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 41.72,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 41.5,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 41.22,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 40.83,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 41.51,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 41.69,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 41.58,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 41.73,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 42.2,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 41.79,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 42.05,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 42.28,
+        "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 42.62,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 42.55,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "FE",
+        "price": 41.4,
+        "time_posted": "2024-12-03"
+    }
+]

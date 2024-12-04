@@ -1,0 +1,1257 @@
+[
+    {
+        "ticker_symbol": "MS",
+        "price": 78.36,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 77.35,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 76.62,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 77.53,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 79.39,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 79.91,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 80.66,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 82.62,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 87.84,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 88.36,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 87.57,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 88.69,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 87.94,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 89.37,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 89.16,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 89.58,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 90.37,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 90.35,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 89.97,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 90.6,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 88.68,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 88.91,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 89.96,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 90.22,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 88.82,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 88.26,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 87.33,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 86.55,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 82.95,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 81.44,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 80.95,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 82.34,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 82.72,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 83.69,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 84.49,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 84.93,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 84.65,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 84.54,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 85.37,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 85.0,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 84.59,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 85.03,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 83.68,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 83.89,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 83.79,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 83.45,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 83.68,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 84.64,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 81.81,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 81.84,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 83.47,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 84.28,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 83.16,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 83.26,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 83.64,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 84.33,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 83.47,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 83.29,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 83.84,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 83.83,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 84.26,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 87.73,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 86.84,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 83.46,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 83.93,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 84.8,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 84.71,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 84.81,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 87.05,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 86.81,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 86.11,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 85.7,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 86.15,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 89.0,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 91.0,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 89.59,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 88.8,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 88.93,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 91.1,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 91.74,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 91.13,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 90.33,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 90.61,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 89.91,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 90.09,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 90.82,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 91.66,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 89.3,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 84.61,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 83.98,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 84.75,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 86.85,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 87.77,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 87.94,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 88.33,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 89.72,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 91.35,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 91.44,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 90.18,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 90.44,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 90.57,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 89.32,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 90.01,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 91.1,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 92.08,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 93.21,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 94.19,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 94.04,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 96.47,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 96.64,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 96.92,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 97.72,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 98.84,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 97.92,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 98.55,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 98.66,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 99.84,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 99.06,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 97.27,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 97.32,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 97.02,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 95.65,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 95.61,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 96.21,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 95.78,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 94.97,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 95.05,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 95.23,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 95.52,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 94.78,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 93.84,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 94.05,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 93.62,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 93.91,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 95.42,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 95.94,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 95.81,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 94.56,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 95.48,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 96.17,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 95.27,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 94.17,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 95.57,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 97.51,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 97.99,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 98.53,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 97.93,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 98.91,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 100.9,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 101.73,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 102.89,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 102.35,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 103.5,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 104.45,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 105.17,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 103.06,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 100.39,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 100.73,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 101.77,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 100.27,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 101.83,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 102.45,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 100.77,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 102.03,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 102.4,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 100.96,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 95.1,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 91.35,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 92.24,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 91.39,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 93.89,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 93.98,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 94.1,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 95.95,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 98.66,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 99.85,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 100.64,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 100.95,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 99.99,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 99.9,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 99.77,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 101.09,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 101.53,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 101.28,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 101.4,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 101.8,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 102.8,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 98.49,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 99.36,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 98.78,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 95.83,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 97.41,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 95.86,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 96.27,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 95.88,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 97.48,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 99.3,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 99.06,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 98.52,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 99.94,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 101.67,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 101.67,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 101.78,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 101.54,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 103.78,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 103.29,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 103.42,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 103.6,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 103.7,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 103.75,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 107.03,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 106.8,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 106.65,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 108.18,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 107.23,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 109.59,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 111.4,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 111.34,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 118.57,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 118.5,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 120.11,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 117.35,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 117.39,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 117.35,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 118.24,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 115.96,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 118.2,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 118.36,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 116.99,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 116.25,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 116.85,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 116.14,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 117.81,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 131.49,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 128.44,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 129.53,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 133.52,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 132.31,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 132.76,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 132.43,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 134.06,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 133.78,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 132.24,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 131.69,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 134.99,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 134.69,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 133.66,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 131.28,
+        "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 131.21,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 131.61,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 130.44,
+        "time_posted": "2024-12-03"
+    }
+]

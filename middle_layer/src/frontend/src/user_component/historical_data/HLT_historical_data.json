@@ -1,0 +1,1257 @@
+[
+    {
+        "ticker_symbol": "HLT",
+        "price": 171.09,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 166.96,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 167.59,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 169.96,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 170.85,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 176.52,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 178.08,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 177.6,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 176.27,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 176.74,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 177.99,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 179.24,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 177.18,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 181.02,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 181.01,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 180.71,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 181.02,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 181.23,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 181.58,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 179.57,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 178.42,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 178.25,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 180.0,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 181.69,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 181.15,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 182.01,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 181.64,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 181.65,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 181.88,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 183.01,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 185.19,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 186.86,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 187.93,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 186.86,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 187.05,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 191.24,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 192.09,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 192.63,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 193.64,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 190.43,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 193.18,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 194.47,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 193.13,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 194.08,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 195.49,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 194.01,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 191.63,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 193.03,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 189.58,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 192.16,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 195.61,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 197.02,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 196.54,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 198.49,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 202.04,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 204.13,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 202.6,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 203.18,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 203.55,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 203.91,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 204.46,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 202.0,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 203.4,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 203.2,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 204.52,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 205.29,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 203.78,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 206.61,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 208.11,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 206.5,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 204.25,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 206.08,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 207.7,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 210.08,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 210.12,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 210.87,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 209.69,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 212.61,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 213.91,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 212.88,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 212.27,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 209.94,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 211.74,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 208.37,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 211.26,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 211.15,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 209.48,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 209.17,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 210.33,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 204.68,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 204.02,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 202.09,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 200.07,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 198.42,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 194.08,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 194.74,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 196.64,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 204.29,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 203.52,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 201.71,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 201.75,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 196.88,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 197.34,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 197.13,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 197.14,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 199.69,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 199.31,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 199.98,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 203.07,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 207.66,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 205.67,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 204.88,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 204.16,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 205.52,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 203.93,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 205.3,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 205.53,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 204.17,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 199.77,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 202.98,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 199.74,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 196.23,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 196.28,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 200.34,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 197.9,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 200.18,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 202.32,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 200.91,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 201.92,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 204.55,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 205.61,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 210.44,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 211.37,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 210.05,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 214.34,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 215.72,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 217.53,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 215.6,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 216.76,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 214.8,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 212.77,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 214.79,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 217.92,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 213.95,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 215.32,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 215.84,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 214.13,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 214.29,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 214.97,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 219.57,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 216.58,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 220.43,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 222.7,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 227.89,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 219.51,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 218.72,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 218.91,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 219.87,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 220.37,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 214.32,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 212.9,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 215.33,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 217.54,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 218.48,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 214.39,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 208.44,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 204.69,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 201.56,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 206.85,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 203.26,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 204.77,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 206.05,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 205.32,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 204.89,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 207.52,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 210.32,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 212.18,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 214.27,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 212.14,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 216.15,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 215.55,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 216.96,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 215.16,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 218.21,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 216.95,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 217.53,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 219.51,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 215.52,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 214.12,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 215.87,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 212.97,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 214.81,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 210.52,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 211.45,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 216.0,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 216.69,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 217.97,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 220.25,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 220.85,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 225.4,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 224.51,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 224.53,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 228.33,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 227.25,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 232.77,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 234.22,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 230.36,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 229.69,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 231.32,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 230.74,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 233.58,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 232.36,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 234.05,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 236.84,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 235.81,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 237.99,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 237.62,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 235.98,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 237.35,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 238.33,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 238.67,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 236.81,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 237.99,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 233.36,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 235.07,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 235.97,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 237.03,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 239.01,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 238.27,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 234.71,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 236.33,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 233.26,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 235.51,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 246.28,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 246.08,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 247.5,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 250.21,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 250.45,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 252.5,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 249.89,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 248.41,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 249.04,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 249.76,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 250.14,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 251.83,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 253.0,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 253.63,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 253.0,
+        "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 250.42,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 253.44,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "HLT",
+        "price": 251.02,
+        "time_posted": "2024-12-03"
+    }
+]
