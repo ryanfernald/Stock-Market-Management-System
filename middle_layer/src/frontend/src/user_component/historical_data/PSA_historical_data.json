@@ -1,0 +1,1257 @@
+[
+    {
+        "ticker_symbol": "PSA",
+        "price": 258.58,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 258.13,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 258.93,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 262.22,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 262.91,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 265.81,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 265.01,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 274.28,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 282.58,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 281.57,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 280.54,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 286.23,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 284.41,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 288.44,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 289.21,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 293.04,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 296.34,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 298.79,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 296.07,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 302.7,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 294.14,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 291.39,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 289.87,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 291.33,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 288.21,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 286.58,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 281.85,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 286.39,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 286.22,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 285.88,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 282.45,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 283.37,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 285.05,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 283.31,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 280.26,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 283.14,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 281.39,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 281.33,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 276.42,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 274.9,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 278.07,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 272.35,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 266.13,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 270.49,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 272.98,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 276.56,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 275.75,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 273.1,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 268.54,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 272.27,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 277.88,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 273.28,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 275.8,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 280.17,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 277.04,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 276.44,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 270.46,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 271.4,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 272.08,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 275.56,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 274.95,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 276.73,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 271.33,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 275.42,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 277.71,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 284.55,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 283.14,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 284.99,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 283.31,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 275.26,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 271.72,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 272.25,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 271.99,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 276.62,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 276.45,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 274.01,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 270.49,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 270.01,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 282.57,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 284.49,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 281.0,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 277.94,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 274.94,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 275.26,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 277.15,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 282.1,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 287.71,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 270.56,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 269.9,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 266.92,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 260.66,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 257.19,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 256.79,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 255.29,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 255.38,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 256.42,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 257.19,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 257.14,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 253.72,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 252.79,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 257.89,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 254.47,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 255.16,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 258.87,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 260.66,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 264.03,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 267.96,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 263.86,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 270.11,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 270.65,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 271.6,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 274.46,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 281.15,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 281.51,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 283.13,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 280.41,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 277.6,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 277.58,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 269.1,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 267.16,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 265.3,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 258.74,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 263.09,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 268.58,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 269.13,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 273.62,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 271.82,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 270.84,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 268.57,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 268.76,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 269.37,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 273.44,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 280.24,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 280.88,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 281.43,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 289.02,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 289.53,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 288.62,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 289.87,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 287.15,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 285.71,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 284.16,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 285.25,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 280.76,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 283.01,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 284.94,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 287.25,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 288.01,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 286.58,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 285.0,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 294.15,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 300.1,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 299.52,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 303.1,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 307.39,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 301.08,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 299.13,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 301.88,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 299.45,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 293.08,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 292.46,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 298.23,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 300.27,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 301.83,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 293.45,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 297.57,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 309.29,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 301.12,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 310.03,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 307.56,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 310.55,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 314.39,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 311.71,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 313.81,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 318.2,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 314.58,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 316.74,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 320.38,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 322.83,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 325.05,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 330.46,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 338.09,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 336.82,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 339.73,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 337.92,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 338.87,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 340.85,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 338.83,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 341.08,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 338.32,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 342.74,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 348.56,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 356.14,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 356.4,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 356.12,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 359.16,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 362.99,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 357.57,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 360.72,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 358.62,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 361.72,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 365.01,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 361.99,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 359.58,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 356.5,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 356.64,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 363.87,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 360.06,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 355.3,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 353.0,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 345.4,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 346.71,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 347.94,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 347.96,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 342.07,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 342.83,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 343.72,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 344.99,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 347.64,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 345.4,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 345.62,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 331.85,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 334.92,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 339.77,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 338.41,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 336.34,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 336.61,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 331.26,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 335.83,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 329.06,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 323.66,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 332.56,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 340.6,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 325.31,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 333.13,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 339.42,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 336.9,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 330.24,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 334.94,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 331.79,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 335.01,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 337.29,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 334.45,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 332.86,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 335.85,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 337.58,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 347.83,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 350.04,
+        "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 351.36,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 348.05,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "PSA",
+        "price": 336.09,
+        "time_posted": "2024-12-03"
+    }
+]

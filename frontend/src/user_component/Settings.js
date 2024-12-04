@@ -19,10 +19,6 @@ const Settings = () => {
     password: false,
   });
 
-  const [isAccountSettingsVisible, setAccountSettingsVisible] = useState(false);
-  const [isStatementsVisible, setStatementsVisible] = useState(false);
-
-  // Fetch user data from the backend 
   useEffect(() => {
     const fetchUserData = async () => {
       const token = localStorage.getItem('access_token');
@@ -31,16 +27,14 @@ const Settings = () => {
         return;
       }
 
-      const requestOptions = {
-        method: 'GET',
-        headers: {
-          'Content-Type': 'application/json',
-          Authorization: `Bearer ${token}`,
-        },
-      };
-
       try {
-        const response = await fetch('http://127.0.0.1:8000/auth/user/', requestOptions);
+        const response = await fetch('http://127.0.0.1:8000/auth/user/', {
+          method: 'GET',
+          headers: {
+            'Content-Type': 'application/json',
+            Authorization: `Bearer ${token}`,
+          },
+        });
 
         if (!response.ok) {
           throw new Error(`Error ${response.status}: ${response.statusText}`);
@@ -62,20 +56,12 @@ const Settings = () => {
     fetchUserData();
   }, []);
 
-  // Function to handle when a field becomes editable
   const handleEditClick = (field) => {
-    setEditableFields({
-      ...editableFields,
-      [field]: true,
-    });
+    setEditableFields({ ...editableFields, [field]: true });
   };
 
-  // Function to handle saving the updated data
   const handleSaveClick = async (field) => {
-    setEditableFields({
-      ...editableFields,
-      [field]: false,
-    });
+    setEditableFields({ ...editableFields, [field]: false });
 
     const token = localStorage.getItem('access_token');
     if (!token) {
@@ -83,24 +69,22 @@ const Settings = () => {
       return;
     }
 
-    // Send updated data to the backend
-    const requestOptions = {
-      method: 'PUT',
-      headers: {
-        'Content-Type': 'application/json',
-        Authorization: `Bearer ${token}`,
-      },
-      body: JSON.stringify(formData),
-    };
-
     try {
-      const response = await fetch('http://127.0.0.1:8000/auth/user/', requestOptions);
+      const response = await fetch('http://127.0.0.1:8000/auth/user/', {
+        method: 'PUT',
+        headers: {
+          'Content-Type': 'application/json',
+          Authorization: `Bearer ${token}`,
+        },
+        body: JSON.stringify(formData),
+      });
+
       if (!response.ok) {
         throw new Error(`Error ${response.status}: ${response.statusText}`);
       }
 
-      const updatedData = await response.json(); // Get updated data from the backend 
-      setFormData(updatedData); // Update the formData with the saved data
+      const updatedData = await response.json();
+      setFormData(updatedData);
       console.log('User data successfully updated');
     } catch (error) {
       console.error('Error saving user data:', error);
@@ -108,17 +92,13 @@ const Settings = () => {
   };
 
   const handleInputChange = (e) => {
-    setFormData({
-      ...formData,
-      [e.target.name]: e.target.value,
-    });
+    setFormData({ ...formData, [e.target.name]: e.target.value });
   };
 
   return (
     <>
       <Navbar />
       <div className="settings-page-container">
-        {/* User Info Section */}
         <div className="user-info-container">
           <div className="user-initials">
             {formData.first_name[0]}{formData.last_name[0]}
@@ -129,84 +109,96 @@ const Settings = () => {
           </div>
         </div>
 
-        {/* Account Settings Section */}
-        <div className="dropdown-container">
-          <h2
-            className="dropdown-header"
-            onClick={() => setAccountSettingsVisible(!isAccountSettingsVisible)}
-          >
-            Account Settings
-            <span className={`dropdown-arrow ${isAccountSettingsVisible ? 'open' : ''}`}>&#9660;</span>
-          </h2>
-          {isAccountSettingsVisible && (
-            <div className="settings-container">
-              <form className="settings-form">
-                {['first_name', 'last_name', 'phone', 'email', 'password'].map((field) => (
-                  <div key={field} className="settings-form-group">
-                    <label htmlFor={field} className="settings-label">
-                      {field.split('_').map(f => f.charAt(0).toUpperCase() + f.slice(1)).join(' ')}
-                    </label>
-                    <input
-                      type={field === 'password' ? 'password' : 'text'} // Password input type for the password field
-                      name={field}
-                      className="settings-input"
-                      value={formData[field]}
-                      onChange={handleInputChange}
-                      readOnly={!editableFields[field]}
-                    />
-                    {editableFields[field] ? (
-                      <button
-                        className="edit-save-btn"
-                        type="button"
-                        onClick={() => handleSaveClick(field)}
-                      >
-                        Save
-                      </button>
-                    ) : (
-                      <button
-                        className="edit-save-btn"
-                        type="button"
-                        onClick={() => handleEditClick(field)}
-                      >
-                        Edit
-                      </button>
-                    )}
-                  </div>
-                ))}
-              </form>
+        <div className="settings-content">
+          {/* Left Column: Fields */}
+          <div className="settings-left-column">
+            <div className="settings-field">
+              <label>First Name</label>
+              {editableFields.first_name ? (
+                <input
+                  className="settings-input"
+                  name="first_name"
+                  value={formData.first_name}
+                  onChange={handleInputChange}
+                />
+              ) : (
+                <p>{formData.first_name}</p>
+              )}
+              <button onClick={() => handleEditClick('first_name')} className="edit-save-btn">
+                {editableFields.first_name ? "Save" : "Edit"}
+              </button>
             </div>
-          )}
-        </div>
 
-        {/* Statements & Documents Section */}
-        <div className="dropdown-container">
-          <h2
-            className="dropdown-header"
-            onClick={() => setStatementsVisible(!isStatementsVisible)}
-          >
-            Statements & Documents
-            <span className={`dropdown-arrow ${isStatementsVisible ? 'open' : ''}`}>&#9660;</span>
-          </h2>
-          {isStatementsVisible && (
-            <div className="data-container">
-              <div className="data-option">
-                <label className="data-label">Monthly Statements</label>
-                <button className="download-btn">Download PDF</button>
-              </div>
-              <div className="data-option">
-                <label className="data-label">Tax Documents</label>
-                <button className="download-btn">Download PDF</button>
-              </div>
-              <div className="data-option">
-                <label className="data-label">Notices</label>
-                <button className="download-btn">Download PDF</button>
-              </div>
-              <div className="data-option">
-                <label className="data-label">Annual Summaries</label>
-                <button className="download-btn">Download PDF</button>
-              </div>
+            <div className="settings-field">
+              <label>Last Name</label>
+              {editableFields.last_name ? (
+                <input
+                  className="settings-input"
+                  name="last_name"
+                  value={formData.last_name}
+                  onChange={handleInputChange}
+                />
+              ) : (
+                <p>{formData.last_name}</p>
+              )}
+              <button onClick={() => handleEditClick('last_name')} className="edit-save-btn">
+                {editableFields.last_name ? "Save" : "Edit"}
+              </button>
             </div>
-          )}
+
+            <div className="settings-field">
+              <label>Phone</label>
+              {editableFields.phone ? (
+                <input
+                  className="settings-input"
+                  name="phone"
+                  value={formData.phone}
+                  onChange={handleInputChange}
+                />
+              ) : (
+                <p>{formData.phone}</p>
+              )}
+              <button onClick={() => handleEditClick('phone')} className="edit-save-btn">
+                {editableFields.phone ? "Save" : "Edit"}
+              </button>
+            </div>
+
+            <div className="settings-field">
+              <label>Email</label>
+              {editableFields.email ? (
+                <input
+                  className="settings-input"
+                  name="email"
+                  value={formData.email}
+                  onChange={handleInputChange}
+                />
+              ) : (
+                <p>{formData.email}</p>
+              )}
+              <button onClick={() => handleEditClick('email')} className="edit-save-btn">
+                {editableFields.email ? "Save" : "Edit"}
+              </button>
+            </div>
+
+            {/* Password Field */}
+            <div className="settings-field">
+              <label>Password</label>
+              {editableFields.password ? (
+                <input
+                  className="settings-input"
+                  name="password"
+                  type="password"
+                  value={formData.password}
+                  onChange={handleInputChange}
+                />
+              ) : (
+                <p>{formData.password}</p>
+              )}
+              <button onClick={() => handleEditClick('password')} className="edit-save-btn">
+                {editableFields.password ? "Save" : "Edit"}
+              </button>
+            </div>
+          </div>
         </div>
       </div>
     </>

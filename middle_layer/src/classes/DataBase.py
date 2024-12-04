@@ -144,7 +144,8 @@ class DataBase:
     # Returns None, but updates user's balance and adds a new buy order in the database.
     def buy_stock(self, user_id, ticker, quantity):
         self.connect_to_db()
-        user_balance = json.loads(self.get_user_balance(user_id))["net_balance"]
+        print(f"AAAA{user_id}{self.get_user_balance(user_id)}, {str(self.get_user_balance(user_id))}")
+        user_balance = json.loads(str(self.get_user_balance(user_id)))["net_balance"]
         price_query = """
             SELECT price
             FROM StockPrice
@@ -156,8 +157,8 @@ class DataBase:
         stock_price = self.cursor.fetchone()[0]
         total_cost = stock_price * quantity
 
-        if user_balance < total_cost:
-            raise ValueError("Insufficient balance to complete this purchase.")
+        # if user_balance < total_cost:
+        #     raise ValueError("Insufficient balance to complete this purchase.")
 
         update_balance_query = """
             UPDATE UserBalance

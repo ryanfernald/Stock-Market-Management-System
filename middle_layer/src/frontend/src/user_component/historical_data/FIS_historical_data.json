@@ -1,0 +1,1257 @@
+[
+    {
+        "ticker_symbol": "FIS",
+        "price": 58.56,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 58.23,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 57.62,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 58.09,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 58.11,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 57.89,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 57.02,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 59.15,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 59.51,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 58.57,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 59.19,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 59.07,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 58.05,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 58.87,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 59.09,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 59.42,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 59.55,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 59.94,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 59.22,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 60.11,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 59.36,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 59.72,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 60.54,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 62.46,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 61.29,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 61.57,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 61.42,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 60.92,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 60.3,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 58.96,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 58.18,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 59.02,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 60.96,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 59.58,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 60.2,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 61.37,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 62.61,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 62.6,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 62.26,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 61.38,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 61.98,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 61.41,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 60.84,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 60.75,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 60.8,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 60.57,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 60.89,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 61.44,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 60.38,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 61.76,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 62.75,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 62.75,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 62.07,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 62.56,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 63.2,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 63.37,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 66.38,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 66.04,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 65.93,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 68.21,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 68.23,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 68.47,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 68.77,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 68.85,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 68.53,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 69.02,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 69.12,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 68.92,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 68.28,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 67.61,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 68.5,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 68.68,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 69.23,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 70.06,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 71.61,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 69.89,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 70.45,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 71.65,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 72.8,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 73.51,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 72.1,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 73.04,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 71.96,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 71.25,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 71.79,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 72.42,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 73.21,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 71.98,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 71.51,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 70.31,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 70.08,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 70.06,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 69.72,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 69.37,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 70.09,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 70.66,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 71.25,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 70.17,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 69.84,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 68.97,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 68.82,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 67.31,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 66.6,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 68.81,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 70.08,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 69.82,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 73.64,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 73.38,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 73.05,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 73.97,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 75.07,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 75.7,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 76.78,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 76.86,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 77.66,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 77.02,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 77.41,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 76.55,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 75.62,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 77.09,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 74.45,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 73.81,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 73.41,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 75.2,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 75.36,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 75.39,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 75.28,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 75.68,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 76.81,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 76.95,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 75.5,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 76.61,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 76.73,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 76.24,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 75.79,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 76.71,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 76.15,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 75.63,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 75.22,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 74.87,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 74.66,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 74.3,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 75.03,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 73.95,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 74.9,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 75.48,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 75.09,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 74.52,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 73.4,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 73.6,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 75.25,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 76.09,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 75.78,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 76.57,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 76.92,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 75.71,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 74.92,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 74.99,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 74.77,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 75.0,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 74.18,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 75.35,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 75.39,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 76.4,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 76.49,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 74.76,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 74.04,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 72.48,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 76.21,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 76.12,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 76.1,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 77.25,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 75.8,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 77.92,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 77.75,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 78.14,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 78.65,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 78.81,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 78.18,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 78.86,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 78.36,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 78.92,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 80.03,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 81.17,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 80.89,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 80.97,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 82.09,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 82.27,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 82.04,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 82.11,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 81.0,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 82.03,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 83.42,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 83.53,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 84.25,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 84.14,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 85.03,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 85.04,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 84.43,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 84.41,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 84.06,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 84.39,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 84.03,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 82.31,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 82.94,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 83.13,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 83.75,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 83.67,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 83.46,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 83.71,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 84.63,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 84.3,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 85.91,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 86.37,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 86.49,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 86.75,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 87.79,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 89.05,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 89.79,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 89.92,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 90.95,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 90.66,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 89.51,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 89.9,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 90.33,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 89.72,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 90.87,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 90.01,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 90.72,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 89.73,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 89.1,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 89.7,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 86.57,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 86.44,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 86.68,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 88.07,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 88.72,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 87.62,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 88.88,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 88.46,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 87.82,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 88.42,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 86.08,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 85.9,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 85.5,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 86.08,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 84.41,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 84.94,
+        "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 85.55,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 85.3,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "FIS",
+        "price": 85.24,
+        "time_posted": "2024-12-03"
+    }
+]

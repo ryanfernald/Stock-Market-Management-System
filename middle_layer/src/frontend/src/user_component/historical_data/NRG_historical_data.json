@@ -1,0 +1,1257 @@
+[
+    {
+        "ticker_symbol": "NRG",
+        "price": 46.98,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 47.16,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 46.45,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 46.39,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 46.72,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 46.79,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 47.59,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 47.64,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 47.11,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 47.65,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 48.17,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 48.9,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 48.25,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 48.95,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 48.86,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 49.65,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 50.05,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 50.68,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 50.52,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 50.08,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 50.49,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 50.12,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 50.55,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 51.05,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 50.54,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 49.78,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 49.36,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 49.56,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 49.78,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 50.06,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 49.8,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 51.32,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 51.49,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 51.39,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 50.84,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 52.47,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 53.01,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 53.21,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 52.8,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 52.22,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 53.42,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 53.89,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 52.85,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 52.7,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 52.18,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 51.54,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 51.56,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 50.96,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 51.12,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 51.26,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 51.22,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 51.1,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 50.9,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 51.07,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 51.08,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 50.76,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 51.96,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 53.21,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 53.86,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 54.47,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 55.84,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 56.8,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 59.09,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 60.51,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 59.69,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 59.8,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 59.52,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 61.34,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 61.48,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 62.42,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 62.95,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 64.0,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 65.63,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 66.11,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 66.01,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 66.14,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 67.08,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 64.87,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 65.6,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 66.65,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 69.07,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 67.54,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 70.9,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 69.61,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 71.65,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 72.67,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 71.65,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 72.05,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 73.44,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 72.79,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 71.83,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 73.37,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 72.29,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 69.44,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 68.89,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 69.31,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 70.39,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 71.49,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 71.74,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 71.69,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 72.81,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 71.95,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 72.93,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 74.38,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 75.89,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 77.12,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 72.67,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 75.07,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 80.95,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 82.82,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 81.64,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 81.27,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 83.65,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 82.11,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 81.48,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 80.67,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 82.21,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 80.27,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 80.29,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 85.15,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 83.02,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 82.7,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 83.8,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 80.2,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 77.56,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 77.06,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 80.74,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 77.06,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 77.12,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 79.18,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 80.25,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 79.5,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 78.59,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 77.86,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 77.77,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 79.13,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 79.92,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 79.23,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 80.75,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 81.45,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 78.73,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 77.88,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 77.09,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 77.08,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 77.12,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 78.63,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 76.39,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 77.79,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 78.47,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 78.38,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 78.84,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 79.14,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 74.64,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 75.67,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 71.82,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 72.9,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 74.17,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 76.09,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 75.85,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 73.45,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 72.37,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 72.98,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 73.59,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 72.6,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 74.42,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 73.17,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 69.68,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 68.58,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 70.87,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 71.74,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 77.62,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 79.93,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 79.51,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 81.49,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 82.01,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 82.38,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 82.41,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 81.97,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 81.55,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 82.38,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 81.48,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 83.12,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 83.37,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 83.22,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 79.91,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 82.25,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 84.63,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 79.39,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 78.77,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 78.18,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 76.16,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 77.57,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 77.59,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 79.71,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 79.44,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 80.67,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 80.42,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 80.95,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 81.58,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 81.46,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 86.7,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 87.6,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 87.52,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 88.84,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 90.17,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 90.81,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 90.69,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 92.23,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 92.07,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 93.63,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 94.92,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 93.86,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 93.14,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 88.16,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 87.2,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 89.34,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 89.67,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 88.74,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 90.88,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 85.61,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 85.94,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 86.06,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 84.92,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 87.33,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 88.88,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 87.13,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 88.33,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 87.7,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 88.05,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 89.99,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 86.72,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 88.05,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 91.25,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 92.39,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 96.4,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 96.14,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 94.28,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 92.66,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 92.48,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 91.64,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 92.19,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 93.23,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 94.86,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 94.52,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 96.89,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 95.48,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 91.87,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 101.16,
+        "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 98.89,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 101.61,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "NRG",
+        "price": 99.11,
+        "time_posted": "2024-12-03"
+    }
+]

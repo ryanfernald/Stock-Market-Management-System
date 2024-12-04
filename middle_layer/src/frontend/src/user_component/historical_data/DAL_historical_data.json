@@ -1,0 +1,1257 @@
+[
+    {
+        "ticker_symbol": "DAL",
+        "price": 37.75,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 37.21,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 38.53,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 39.91,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 39.92,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 40.08,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 40.8,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 40.75,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 41.99,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 41.89,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 40.74,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 40.71,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 39.91,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 40.68,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 40.69,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 40.33,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 40.16,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 40.2,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 39.8,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 40.02,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 38.33,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 38.78,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 40.11,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 41.19,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 41.87,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 41.66,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 41.81,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 38.06,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 37.07,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 36.74,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 37.68,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 36.88,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 36.59,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 37.61,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 37.78,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 39.75,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 39.21,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 39.66,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 39.1,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 38.72,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 39.34,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 39.55,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 38.82,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 39.75,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 39.78,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 39.92,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 40.08,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 40.15,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 39.58,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 40.41,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 40.56,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 39.69,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 40.17,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 40.33,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 41.67,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 41.37,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 41.44,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 41.63,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 41.66,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 41.92,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 41.81,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 41.23,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 41.45,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 41.67,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 42.43,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 41.89,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 42.33,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 42.41,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 43.55,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 42.7,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 42.76,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 43.08,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 43.38,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 45.0,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 45.62,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 45.21,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 45.04,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 45.55,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 46.92,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 47.47,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 47.82,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 46.51,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 46.18,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 45.5,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 45.68,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 46.62,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 46.93,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 45.86,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 47.23,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 46.47,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 46.26,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 46.16,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 47.48,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 47.45,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 47.18,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 48.61,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 48.82,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 47.54,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 49.47,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 49.51,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 50.03,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 49.65,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 49.61,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 50.61,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 51.12,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 52.49,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 51.77,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 51.85,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 52.31,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 52.16,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 52.65,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 52.72,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 52.92,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 52.17,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 52.36,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 52.65,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 51.9,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 51.25,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 50.87,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 51.51,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 49.96,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 49.58,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 49.79,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 50.69,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 50.46,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 49.54,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 50.49,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 50.11,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 50.12,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 50.18,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 48.97,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 50.3,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 49.85,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 48.41,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 49.39,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 49.26,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 49.29,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 49.06,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 49.08,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 48.5,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 47.87,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 48.29,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 47.14,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 46.62,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 46.41,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 47.09,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 45.73,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 46.05,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 46.59,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 46.56,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 44.7,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 43.34,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 42.72,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 45.73,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 45.47,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 44.63,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 45.15,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 43.55,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 43.33,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 42.66,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 43.19,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 43.85,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 42.9,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 43.1,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 42.89,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 41.38,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 39.71,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 37.82,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 38.11,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 37.21,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 39.49,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 39.18,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 38.95,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 39.38,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 38.58,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 40.06,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 40.03,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 40.35,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 40.0,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 40.06,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 40.02,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 41.26,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 40.86,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 40.69,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 40.31,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 41.44,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 42.36,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 42.25,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 42.25,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 42.05,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 41.91,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 43.55,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 43.27,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 44.15,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 44.14,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 45.05,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 45.19,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 46.54,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 46.78,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 46.99,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 46.8,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 47.02,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 47.66,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 48.61,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 51.66,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 51.39,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 50.64,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 49.81,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 48.26,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 47.32,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 49.14,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 49.32,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 50.47,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 50.83,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 50.29,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 51.33,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 53.18,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 52.73,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 56.31,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 55.26,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 55.8,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 55.1,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 54.8,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 54.65,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 54.77,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 54.12,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 55.38,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 57.34,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 58.46,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 57.22,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 58.39,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 56.89,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 58.29,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 62.32,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 60.43,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 61.05,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 63.56,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 64.05,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 64.46,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 64.85,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 64.07,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 63.24,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 64.75,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 63.64,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 63.34,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 63.34,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 64.49,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 64.14,
+        "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 63.62,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 63.82,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "DAL",
+        "price": 62.57,
+        "time_posted": "2024-12-03"
+    }
+]

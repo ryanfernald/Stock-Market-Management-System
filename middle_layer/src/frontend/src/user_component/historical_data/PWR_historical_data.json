@@ -1,0 +1,1257 @@
+[
+    {
+        "ticker_symbol": "PWR",
+        "price": 189.37,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 189.16,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 191.58,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 194.11,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 198.97,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 201.47,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 204.98,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 209.98,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 215.5,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 214.72,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 214.7,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 217.4,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 212.6,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 212.15,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 213.74,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 214.36,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 215.64,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 216.16,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 215.58,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 209.06,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 201.54,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 199.87,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 198.88,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 205.36,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 203.9,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 203.44,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 202.27,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 202.26,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 201.17,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 199.96,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 201.71,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 202.23,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 203.26,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 195.36,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 193.09,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 197.79,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 196.1,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 196.86,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 197.05,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 193.86,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 200.06,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 204.3,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 201.99,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 205.9,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 208.69,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 207.56,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 209.9,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 211.39,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 206.63,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 212.43,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 213.85,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 211.23,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 208.99,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 211.01,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 232.7,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 234.16,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 235.4,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 239.33,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 238.39,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 241.27,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 240.65,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 243.1,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 239.47,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 241.56,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 244.08,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 241.82,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 238.9,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 241.53,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 241.59,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 242.12,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 242.51,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 243.57,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 246.14,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 249.26,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 256.04,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 255.66,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 255.29,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 258.92,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 259.49,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 259.54,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 259.0,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 255.84,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 262.03,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 258.03,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 262.94,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 262.09,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 256.23,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 254.13,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 257.83,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 254.52,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 248.73,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 248.53,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 245.8,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 245.52,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 243.1,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 245.4,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 251.78,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 253.01,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 255.02,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 261.49,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 262.17,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 258.39,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 255.84,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 254.83,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 256.16,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 269.32,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 266.7,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 264.81,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 269.99,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 271.3,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 265.26,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 263.19,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 270.61,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 263.65,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 264.23,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 267.48,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 271.87,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 270.92,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 276.37,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 283.24,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 279.46,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 277.79,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 279.58,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 275.76,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 271.79,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 269.84,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 275.75,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 267.1,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 269.14,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 271.39,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 271.38,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 276.61,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 276.52,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 273.11,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 276.4,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 281.02,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 273.79,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 273.82,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 274.05,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 272.79,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 266.4,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 266.88,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 253.92,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 247.54,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 247.71,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 254.52,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 252.45,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 254.58,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 254.71,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 257.79,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 264.06,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 268.73,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 257.16,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 259.29,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 244.87,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 264.63,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 258.48,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 267.63,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 264.38,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 251.84,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 248.73,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 256.65,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 256.14,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 251.52,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 265.3,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 254.8,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 240.85,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 239.51,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 247.96,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 248.42,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 262.72,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 259.54,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 259.96,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 261.92,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 263.39,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 267.86,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 265.81,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 268.02,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 266.78,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 269.28,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 267.72,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 273.09,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 270.93,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 270.28,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 267.42,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 270.97,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 275.05,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 257.52,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 255.59,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 251.31,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 247.85,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 249.98,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 249.95,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 263.01,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 268.42,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 269.46,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 271.46,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 273.84,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 271.98,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 289.64,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 290.8,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 296.04,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 298.15,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 297.85,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 296.27,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 296.65,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 298.06,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 296.05,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 299.09,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 298.4,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 305.72,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 307.51,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 308.67,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 307.61,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 306.99,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 309.42,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 310.98,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 305.54,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 312.22,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 313.14,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 314.27,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 317.64,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 312.97,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 306.63,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 309.87,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 308.17,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 313.36,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 313.43,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 311.63,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 301.63,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 303.5,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 304.32,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 314.62,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 310.82,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 320.86,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 330.98,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 329.69,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 327.27,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 326.88,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 323.87,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 323.33,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 328.41,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 330.78,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 332.34,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 340.01,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 341.92,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 342.92,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 346.6,
+        "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 343.94,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 344.52,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "PWR",
+        "price": 339.74,
+        "time_posted": "2024-12-03"
+    }
+]

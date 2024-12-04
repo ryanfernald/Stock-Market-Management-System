@@ -1,0 +1,1257 @@
+[
+    {
+        "ticker_symbol": "CDW",
+        "price": 210.2,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 208.04,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 207.23,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 210.18,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 210.79,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 213.29,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 215.17,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 215.56,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 217.96,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 220.71,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 221.17,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 221.43,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 219.9,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 222.56,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 224.08,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 226.15,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 225.97,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 226.12,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 224.76,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 218.18,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 214.85,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 212.66,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 211.63,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 215.75,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 215.72,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 217.79,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 218.68,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 216.67,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 218.23,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 216.6,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 222.49,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 223.91,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 224.35,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 222.28,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 223.78,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 226.41,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 227.1,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 226.53,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 227.62,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 224.16,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 227.49,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 230.04,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 228.13,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 227.9,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 234.92,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 241.21,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 242.47,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 239.27,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 234.79,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 236.78,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 240.01,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 238.65,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 239.06,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 238.62,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 244.77,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 244.94,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 244.07,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 242.12,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 242.76,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 244.05,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 245.15,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 244.5,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 242.82,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 245.02,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 246.16,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 245.77,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 245.76,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 247.67,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 246.44,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 244.31,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 243.35,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 242.87,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 245.82,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 248.6,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 252.57,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 253.42,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 251.62,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 251.89,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 255.6,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 253.53,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 250.84,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 249.42,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 253.51,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 250.32,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 252.95,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 252.03,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 252.02,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 245.11,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 245.82,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 240.77,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 239.26,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 237.9,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 234.7,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 233.63,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 233.71,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 235.55,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 238.36,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 238.57,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 241.28,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 240.13,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 243.78,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 239.73,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 212.72,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 216.49,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 217.63,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 219.87,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 218.74,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 218.38,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 221.01,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 220.5,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 220.1,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 219.63,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 221.48,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 222.17,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 221.67,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 226.23,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 228.36,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 234.19,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 230.14,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 229.63,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 223.81,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 219.35,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 221.46,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 222.24,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 222.11,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 220.54,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 221.55,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 220.44,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 222.85,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 222.52,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 222.97,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 224.9,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 223.71,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 221.81,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 224.95,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 229.12,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 230.5,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 234.03,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 230.18,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 223.23,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 221.75,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 222.67,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 222.46,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 217.84,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 217.77,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 216.76,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 214.96,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 215.53,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 213.47,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 217.52,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 222.44,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 227.09,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 231.33,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 238.36,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 235.52,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 232.26,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 227.43,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 231.08,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 228.73,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 227.79,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 227.21,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 228.32,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 229.96,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 231.03,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 216.76,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 212.27,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 208.55,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 205.39,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 207.16,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 207.7,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 211.0,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 212.41,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 210.79,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 214.57,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 215.34,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 220.5,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 221.38,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 217.84,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 219.78,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 223.55,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 223.8,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 228.32,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 228.51,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 226.2,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 223.72,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 222.34,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 224.85,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 216.91,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 213.73,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 214.07,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 211.47,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 213.39,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 215.11,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 215.05,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 217.88,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 219.38,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 220.68,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 222.54,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 220.85,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 227.07,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 224.51,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 223.33,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 223.5,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 220.51,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 227.83,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 225.76,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 225.51,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 217.05,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 218.58,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 217.5,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 220.92,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 219.72,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 222.83,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 224.91,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 220.92,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 221.22,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 222.7,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 219.36,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 219.39,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 220.41,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 217.55,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 219.58,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 216.32,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 216.89,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 218.39,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 216.25,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 217.74,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 219.13,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 194.38,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 187.57,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 187.72,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 190.43,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 192.32,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 202.08,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 202.19,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 199.17,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 197.12,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 191.24,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 185.36,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 180.14,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 177.01,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 177.45,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 173.44,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 175.38,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 177.55,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 178.34,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 181.34,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 177.8,
+        "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 176.75,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 175.93,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "CDW",
+        "price": 179.63,
+        "time_posted": "2024-12-03"
+    }
+]

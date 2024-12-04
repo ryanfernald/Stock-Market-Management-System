@@ -1,0 +1,1257 @@
+[
+    {
+        "ticker_symbol": "APD",
+        "price": 263.07,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 255.15,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 254.43,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 255.14,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 256.37,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 257.63,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 260.33,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 262.26,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 263.71,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 263.76,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 264.09,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 265.38,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 261.12,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 264.62,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 265.69,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 267.67,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 268.47,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 267.04,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 268.34,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 268.01,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 265.46,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 264.86,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 264.76,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 267.4,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 262.74,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 261.63,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 259.31,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 258.86,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 255.25,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 254.95,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 254.84,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 255.44,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 255.72,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 257.99,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 252.03,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 258.39,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 256.67,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 255.92,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 254.11,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 250.61,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 254.38,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 253.02,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 213.67,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 213.7,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 211.08,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 215.52,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 215.45,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 218.15,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 213.27,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 212.68,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 222.42,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 222.32,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 223.54,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 223.55,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 226.88,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 228.15,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 224.78,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 227.11,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 227.77,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 229.37,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 231.29,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 233.65,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 234.8,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 238.25,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 240.28,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 236.79,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 242.99,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 239.98,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 242.36,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 240.25,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 239.75,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 240.71,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 237.0,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 234.18,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 230.79,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 231.99,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 232.82,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 233.09,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 238.25,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 239.18,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 240.31,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 236.78,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 236.54,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 234.08,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 235.63,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 234.6,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 236.6,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 232.9,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 233.23,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 228.57,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 228.21,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 224.85,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 226.09,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 230.05,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 228.68,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 231.37,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 230.73,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 231.68,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 232.08,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 233.07,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 235.08,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 233.32,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 234.46,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 240.58,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 242.73,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 244.44,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 245.48,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 243.13,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 247.41,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 247.35,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 247.07,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 245.39,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 248.39,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 253.76,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 259.35,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 262.81,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 261.28,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 261.27,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 259.64,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 261.23,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 261.25,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 256.95,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 257.18,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 263.3,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 267.45,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 266.85,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 266.88,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 266.28,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 275.96,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 278.71,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 277.23,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 279.44,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 281.67,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 271.63,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 269.62,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 271.19,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 268.6,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 269.43,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 267.44,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 263.68,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 260.33,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 259.71,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 254.76,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 245.87,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 249.51,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 251.5,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 251.17,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 253.38,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 253.19,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 254.14,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 256.47,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 259.76,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 258.3,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 265.94,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 268.86,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 265.01,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 261.35,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 247.07,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 254.48,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 258.65,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 257.1,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 259.43,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 264.16,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 262.66,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 262.28,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 285.76,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 280.07,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 276.81,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 276.9,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 275.79,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 277.55,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 276.58,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 272.3,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 274.91,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 274.85,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 272.25,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 274.4,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 272.54,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 271.79,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 273.88,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 272.8,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 274.22,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 277.1,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 276.26,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 275.14,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 275.45,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 277.19,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 273.55,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 273.04,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 271.92,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 267.11,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 272.19,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 273.59,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 276.06,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 278.36,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 282.44,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 287.15,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 289.4,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 285.59,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 286.01,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 286.27,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 290.31,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 293.83,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 293.96,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 297.68,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 298.57,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 295.97,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 291.43,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 290.0,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 285.58,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 285.5,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 312.69,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 310.36,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 313.97,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 314.61,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 316.66,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 320.34,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 323.23,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 326.7,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 328.77,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 332.1,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 331.56,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 330.37,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 326.62,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 322.1,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 318.02,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 318.26,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 315.3,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 312.77,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 310.53,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 309.21,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 306.09,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 306.37,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 306.73,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 312.82,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 312.99,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 313.91,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 311.12,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 312.89,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 315.88,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 317.1,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 327.89,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 328.0,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 327.85,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 328.88,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 331.83,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 333.97,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 334.78,
+        "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 333.22,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 334.33,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "APD",
+        "price": 330.64,
+        "time_posted": "2024-12-03"
+    }
+]

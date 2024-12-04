@@ -1,0 +1,1257 @@
+[
+    {
+        "ticker_symbol": "SNPS",
+        "price": 531.2,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 535.71,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 527.49,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 534.15,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 535.93,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 556.02,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 567.06,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 568.09,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 551.45,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 556.27,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 559.69,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 558.65,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 551.72,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 559.96,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 524.46,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 520.25,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 518.1,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 517.41,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 514.91,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 498.97,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 492.4,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 490.18,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 484.81,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 499.98,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 501.87,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 505.18,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 498.46,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 494.4,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 509.68,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 507.87,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 494.34,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 517.31,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 541.71,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 548.9,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 540.46,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 536.68,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 528.13,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 539.9,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 543.18,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 533.35,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 540.0,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 552.05,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 559.14,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 542.43,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 554.28,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 570.69,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 575.3,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 568.93,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 548.53,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 562.73,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 557.83,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 552.91,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 547.98,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 543.57,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 580.9,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 575.65,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 575.7,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 574.0,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 570.28,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 573.73,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 591.35,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 594.32,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 565.26,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 575.97,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 583.35,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 571.29,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 565.32,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 576.72,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 561.2,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 559.31,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 550.03,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 560.63,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 584.71,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 589.78,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 602.01,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 594.2,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 584.32,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 584.32,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 573.35,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 571.5,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 576.89,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 569.82,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 578.87,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 567.11,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 575.45,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 576.36,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 568.99,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 561.23,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 561.97,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 557.16,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 543.91,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 541.09,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 527.58,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 519.71,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 510.71,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 515.49,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 527.5,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 527.52,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 530.11,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 543.66,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 544.76,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 530.59,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 522.18,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 523.38,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 536.94,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 545.54,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 549.61,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 550.49,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 549.88,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 556.71,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 557.39,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 559.63,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 580.2,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 569.27,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 566.73,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 574.38,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 571.53,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 573.13,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 586.3,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 587.4,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 587.94,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 580.21,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 564.73,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 560.8,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 561.18,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 561.73,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 588.14,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 573.85,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 571.45,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 576.18,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 579.91,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 590.89,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 586.54,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 590.21,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 612.72,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 620.31,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 610.18,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 605.53,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 595.6,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 600.14,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 598.52,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 595.0,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 595.06,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 601.75,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 609.66,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 606.99,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 621.3,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 615.49,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 607.94,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 619.56,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 608.74,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 614.05,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 616.01,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 613.01,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 570.38,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 560.38,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 563.12,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 587.71,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 588.33,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 553.33,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 538.72,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 546.38,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 547.52,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 525.89,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 558.32,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 540.67,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 505.78,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 487.84,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 499.39,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 489.97,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 515.03,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 524.73,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 520.84,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 528.64,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 530.8,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 548.28,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 549.0,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 558.22,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 557.03,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 564.68,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 548.06,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 539.39,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 525.91,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 521.78,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 509.98,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 517.02,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 519.58,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 481.22,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 477.53,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 476.03,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 463.97,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 464.16,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 465.5,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 481.5,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 488.95,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 490.07,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 498.57,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 502.25,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 495.95,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 514.12,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 506.65,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 505.79,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 506.83,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 510.36,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 515.4,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 513.31,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 506.39,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 495.56,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 496.82,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 495.41,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 499.12,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 494.87,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 517.76,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 529.0,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 533.08,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 539.92,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 545.46,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 517.56,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 501.35,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 504.69,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 507.03,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 505.59,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 502.41,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 493.41,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 495.25,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 501.58,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 496.18,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 529.21,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 536.42,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 513.61,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 518.4,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 524.52,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 521.98,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 553.15,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 573.59,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 561.55,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 556.26,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 553.47,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 557.96,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 548.31,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 520.75,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 523.98,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 534.02,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 541.56,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 557.94,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 565.07,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 561.87,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 553.95,
+        "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 547.74,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 558.49,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "SNPS",
+        "price": 570.19,
+        "time_posted": "2024-12-03"
+    }
+]

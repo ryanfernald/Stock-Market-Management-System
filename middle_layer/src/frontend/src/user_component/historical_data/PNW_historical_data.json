@@ -1,0 +1,1257 @@
+[
+    {
+        "ticker_symbol": "PNW",
+        "price": 71.77,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 71.51,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 72.84,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 72.69,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 71.97,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 72.31,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 70.92,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 73.73,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 71.41,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 70.46,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 69.35,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 69.47,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 67.6,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 67.68,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 67.99,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 68.2,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 67.67,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 68.66,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 68.66,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 69.97,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 70.75,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 71.03,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 71.04,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 71.2,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 70.64,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 70.28,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 67.89,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 68.1,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 66.77,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 66.79,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 66.23,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 66.55,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 66.33,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 66.55,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 65.19,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 66.9,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 68.22,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 67.15,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 67.31,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 66.69,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 67.88,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 66.49,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 65.63,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 65.89,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 65.08,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 64.26,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 64.85,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 65.9,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 65.01,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 64.7,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 65.72,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 65.74,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 66.88,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 67.92,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 67.96,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 68.24,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 67.05,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 66.79,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 64.75,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 66.14,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 65.87,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 66.68,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 66.41,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 67.52,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 69.08,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 69.4,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 69.98,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 68.54,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 69.18,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 68.54,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 68.7,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 69.77,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 70.17,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 70.44,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 70.54,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 70.67,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 70.26,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 69.68,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 71.65,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 72.33,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 71.67,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 71.66,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 70.73,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 70.68,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 70.42,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 71.7,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 72.22,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 69.88,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 69.89,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 69.92,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 69.79,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 68.92,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 69.66,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 70.63,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 72.01,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 72.3,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 72.11,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 72.15,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 71.82,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 71.32,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 72.5,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 72.13,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 73.4,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 73.49,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 74.23,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 74.44,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 74.84,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 75.05,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 75.81,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 75.65,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 75.37,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 75.41,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 75.94,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 76.22,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 76.82,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 76.4,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 77.0,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 76.17,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 74.9,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 75.24,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 74.9,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 74.17,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 75.43,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 77.24,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 75.34,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 76.39,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 75.56,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 74.97,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 74.13,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 74.26,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 75.0,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 75.08,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 75.34,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 74.91,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 74.29,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 73.2,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 73.93,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 73.07,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 74.17,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 73.67,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 74.08,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 74.38,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 74.81,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 74.16,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 74.46,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 73.96,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 74.29,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 74.84,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 75.85,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 76.87,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 78.36,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 78.6,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 77.95,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 78.89,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 80.67,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 80.38,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 80.48,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 80.77,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 80.86,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 81.79,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 81.87,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 82.96,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 83.43,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 83.69,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 83.83,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 87.15,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 87.31,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 84.34,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 84.43,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 84.44,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 84.51,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 85.1,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 84.85,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 85.17,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 84.81,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 85.05,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 85.55,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 86.11,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 85.78,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 86.32,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 86.2,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 86.15,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 86.18,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 85.51,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 86.11,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 86.24,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 86.61,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 87.38,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 87.63,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 87.55,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 86.89,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 88.55,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 88.73,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 88.04,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 88.29,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 89.75,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 90.37,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 89.03,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 89.28,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 88.09,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 89.34,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 89.26,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 88.31,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 88.02,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 87.53,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 87.35,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 87.67,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 89.57,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 88.89,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 88.6,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 87.06,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 86.2,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 85.79,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 85.29,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 84.63,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 85.0,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 85.63,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 86.14,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 86.67,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 86.18,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 87.0,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 86.55,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 87.2,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 88.38,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 88.68,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 87.28,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 87.31,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 86.53,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 86.62,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 86.89,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 84.94,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 85.71,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 86.71,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 90.1,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 89.22,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 91.81,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 91.91,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 90.92,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 91.22,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 90.86,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 91.88,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 91.58,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 90.95,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 91.79,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 93.62,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 92.93,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 92.88,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 93.8,
+        "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 94.52,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 93.7,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "PNW",
+        "price": 91.28,
+        "time_posted": "2024-12-03"
+    }
+]

@@ -1,0 +1,1257 @@
+[
+    {
+        "ticker_symbol": "TT",
+        "price": 226.65,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 227.74,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 228.62,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 229.49,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 232.12,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 235.48,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 237.4,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 236.14,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 236.98,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 237.99,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 238.17,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 239.85,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 236.64,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 241.45,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 240.45,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 241.78,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 241.99,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 241.85,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 241.94,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 238.7,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 234.07,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 237.77,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 238.63,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 241.18,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 242.53,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 243.91,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 244.02,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 244.17,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 243.55,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 242.47,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 245.34,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 246.92,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 250.6,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 251.12,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 249.11,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 250.1,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 249.49,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 252.71,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 255.68,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 250.03,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 268.57,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 274.56,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 269.62,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 268.06,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 271.24,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 267.77,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 273.23,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 269.84,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 267.21,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 270.62,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 270.77,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 269.99,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 273.94,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 274.35,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 280.01,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 279.56,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 282.54,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 281.24,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 281.36,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 280.54,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 284.53,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 286.67,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 282.62,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 284.89,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 285.99,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 283.4,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 281.48,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 286.25,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 284.48,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 290.46,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 289.93,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 290.29,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 293.53,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 297.1,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 302.35,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 298.76,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 298.11,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 297.76,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 298.19,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 298.67,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 295.22,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 296.0,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 299.81,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 296.0,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 303.12,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 302.3,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 299.69,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 297.02,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 295.73,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 295.45,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 292.39,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 294.13,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 291.6,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 288.09,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 286.81,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 289.67,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 293.59,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 294.98,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 297.85,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 302.98,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 299.33,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 315.73,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 313.38,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 315.18,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 317.67,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 324.08,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 324.23,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 325.94,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 331.23,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 330.29,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 324.98,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 328.38,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 330.6,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 323.07,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 326.97,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 329.23,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 333.87,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 331.84,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 331.23,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 336.2,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 326.64,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 320.43,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 323.35,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 325.8,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 319.87,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 317.91,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 321.61,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 316.84,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 318.25,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 324.28,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 324.32,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 331.32,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 332.75,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 328.83,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 334.49,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 344.53,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 335.11,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 333.3,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 337.31,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 334.78,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 328.95,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 332.83,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 328.12,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 320.57,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 324.03,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 330.48,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 330.87,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 332.7,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 332.92,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 339.99,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 343.72,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 342.97,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 340.16,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 345.47,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 334.62,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 329.56,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 329.33,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 336.27,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 344.11,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 332.02,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 321.43,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 328.9,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 331.03,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 328.02,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 333.46,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 332.51,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 317.67,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 313.44,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 322.12,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 322.69,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 326.83,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 331.87,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 332.07,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 338.57,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 344.87,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 347.0,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 340.46,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 346.14,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 346.82,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 350.8,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 349.85,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 352.05,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 349.77,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 351.7,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 351.46,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 354.15,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 360.77,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 345.33,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 345.68,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 342.07,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 342.07,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 345.3,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 346.13,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 354.31,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 359.67,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 364.23,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 368.89,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 374.6,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 371.59,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 381.39,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 384.93,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 387.38,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 383.75,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 387.7,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 386.57,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 383.95,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 388.73,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 386.63,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 387.85,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 386.93,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 388.36,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 390.33,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 396.5,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 399.72,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 393.46,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 399.86,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 404.97,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 397.5,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 395.24,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 400.14,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 402.54,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 400.8,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 392.2,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 395.83,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 392.57,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 392.57,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 392.76,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 390.59,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 375.52,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 370.16,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 376.15,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 376.99,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 390.29,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 391.86,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 395.92,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 410.58,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 414.92,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 411.14,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 415.0,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 410.12,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 407.49,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 409.27,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 413.03,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 411.16,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 415.39,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 417.49,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 413.32,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 419.14,
+        "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 416.09,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 416.22,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "TT",
+        "price": 412.56,
+        "time_posted": "2024-12-03"
+    }
+]

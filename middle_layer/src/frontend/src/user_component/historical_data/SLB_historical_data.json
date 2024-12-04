@@ -1,0 +1,1257 @@
+[
+    {
+        "ticker_symbol": "SLB",
+        "price": 50.83,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 49.68,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 48.23,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 47.57,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 47.9,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 48.25,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 48.14,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 48.29,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 51.46,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 51.23,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 51.32,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 52.01,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 51.58,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 51.61,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 52.1,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 52.69,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 52.05,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 51.28,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 51.08,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 51.02,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 51.68,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 50.74,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 50.91,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 49.39,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 47.67,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 47.56,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 47.9,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 49.03,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 47.41,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 47.01,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 47.67,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 48.73,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 49.75,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 49.49,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 50.72,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 51.51,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 51.95,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 52.22,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 48.44,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 47.8,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 48.1,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 48.1,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 47.66,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 47.4,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 46.84,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 47.18,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 46.48,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 47.52,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 46.97,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 47.14,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 47.96,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 47.95,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 47.9,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 48.58,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 48.63,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 48.2,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 47.94,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 47.84,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 47.54,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 47.71,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 48.72,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 48.79,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 49.02,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 49.39,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 50.13,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 49.76,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 50.87,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 50.91,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 51.9,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 52.55,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 52.19,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 52.75,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 53.78,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 53.7,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 53.74,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 53.3,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 53.62,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 53.38,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 54.2,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 54.11,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 54.51,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 53.98,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 54.16,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 53.58,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 54.33,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 53.35,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 53.48,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 53.51,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 53.31,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 51.33,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 51.01,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 50.75,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 50.16,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 50.29,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 49.21,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 48.88,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 48.92,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 48.48,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 48.81,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 48.57,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 48.58,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 46.87,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 46.56,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 46.97,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 47.05,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 47.35,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 47.55,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 47.25,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 47.86,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 47.88,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 48.13,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 48.0,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 47.69,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 47.8,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 47.97,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 47.61,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 47.67,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 45.89,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 45.73,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 45.65,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 45.93,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 45.06,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 45.01,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 45.3,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 43.51,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 42.85,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 42.92,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 43.38,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 44.26,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 44.69,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 44.67,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 44.42,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 43.53,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 42.72,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 43.35,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 44.15,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 45.16,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 45.36,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 47.17,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 47.21,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 45.93,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 46.7,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 46.87,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 46.28,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 46.39,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 47.0,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 45.84,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 45.94,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 44.91,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 44.99,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 45.89,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 46.12,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 47.65,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 48.4,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 48.58,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 48.4,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 49.35,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 49.12,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 48.73,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 47.72,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 47.92,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 48.51,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 47.55,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 47.3,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 47.98,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 46.36,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 44.64,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 43.49,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 43.12,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 42.58,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 43.41,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 43.27,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 43.61,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 43.49,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 43.5,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 44.75,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 44.49,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 45.07,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 43.74,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 43.91,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 43.83,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 44.83,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 45.3,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 44.75,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 43.46,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 43.89,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 43.7,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 42.01,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 41.32,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 41.22,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 40.62,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 40.41,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 39.59,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 39.57,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 39.8,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 39.96,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 40.4,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 41.5,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 41.42,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 42.75,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 42.41,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 42.9,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 42.98,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 41.81,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 41.17,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 42.29,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 41.95,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 43.14,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 43.94,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 44.89,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 45.46,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 45.59,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 44.14,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 44.21,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 44.6,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 44.78,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 44.7,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 42.95,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 43.68,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 43.99,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 41.92,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 42.43,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 41.93,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 42.13,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 41.25,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 41.74,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 41.39,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 40.43,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 40.15,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 40.07,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 39.76,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 40.32,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 40.55,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 43.77,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 43.24,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 43.18,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 44.29,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 44.33,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 43.59,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 43.45,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 43.18,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 43.49,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 43.1,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 43.53,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 44.06,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 44.23,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 43.75,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 43.48,
+        "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 43.66,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 43.94,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "SLB",
+        "price": 43.65,
+        "time_posted": "2024-12-03"
+    }
+]

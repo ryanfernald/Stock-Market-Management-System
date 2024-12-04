@@ -1,0 +1,1257 @@
+[
+    {
+        "ticker_symbol": "GDDY",
+        "price": 103.2,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 103.66,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 102.82,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 103.87,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 104.31,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 105.33,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 106.1,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 106.7,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 104.93,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 105.08,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 106.6,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 107.41,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 106.59,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 106.9,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 105.91,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 106.52,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 106.59,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 106.36,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 106.16,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 103.0,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 102.49,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 100.94,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 100.22,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 101.94,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 103.53,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 104.7,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 104.54,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 104.7,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 104.9,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 106.99,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 107.29,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 108.04,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 108.23,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 107.7,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 108.35,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 107.45,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 107.75,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 108.05,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 109.0,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 106.66,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 108.44,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 107.67,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 109.5,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 109.5,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 112.38,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 112.59,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 112.92,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 112.31,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 113.03,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 111.57,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 111.35,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 109.98,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 108.9,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 109.65,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 113.0,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 114.91,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 114.06,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 113.37,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 113.01,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 114.15,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 113.72,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 111.26,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 108.96,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 109.57,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 113.82,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 113.47,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 114.58,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 117.54,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 117.71,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 117.14,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 117.19,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 119.42,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 119.19,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 119.15,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 120.36,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 121.62,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 120.93,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 120.94,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 122.08,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 118.68,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 121.11,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 122.23,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 123.91,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 123.93,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 125.94,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 126.8,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 125.9,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 125.21,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 126.61,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 123.3,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 121.42,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 123.25,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 122.36,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 121.35,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 120.12,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 121.41,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 123.4,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 123.83,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 124.14,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 125.01,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 125.01,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 122.38,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 122.29,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 124.33,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 123.64,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 128.34,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 131.35,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 131.47,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 131.93,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 133.92,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 133.57,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 132.82,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 136.45,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 135.01,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 135.7,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 137.96,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 138.87,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 139.28,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 138.56,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 140.14,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 138.49,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 139.36,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 138.21,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 139.63,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 140.29,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 138.8,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 139.63,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 138.66,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 139.36,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 142.04,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 140.1,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 138.07,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 138.18,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 137.53,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 138.04,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 137.04,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 137.91,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 137.66,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 138.41,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 141.18,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 139.82,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 140.24,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 139.71,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 141.5,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 142.94,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 143.69,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 143.98,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 143.65,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 144.38,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 142.46,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 142.12,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 145.33,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 146.79,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 147.64,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 144.27,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 144.43,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 145.19,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 147.18,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 147.67,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 143.21,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 143.29,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 143.65,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 143.84,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 143.8,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 145.45,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 141.41,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 151.25,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 146.88,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 152.02,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 152.76,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 156.84,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 157.53,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 158.46,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 159.99,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 160.83,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 162.45,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 163.6,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 163.94,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 162.99,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 164.93,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 162.42,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 162.45,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 164.17,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 164.72,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 164.05,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 164.99,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 167.41,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 159.5,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 157.29,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 153.0,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 150.0,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 152.87,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 149.66,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 151.43,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 152.61,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 152.28,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 150.3,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 153.9,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 154.28,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 160.14,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 160.55,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 158.53,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 157.77,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 158.81,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 155.63,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 156.0,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 156.78,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 153.16,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 154.95,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 154.41,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 156.33,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 155.26,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 160.12,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 161.21,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 162.14,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 163.13,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 164.07,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 162.92,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 163.85,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 164.42,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 164.7,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 163.89,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 163.65,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 161.89,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 161.45,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 160.53,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 159.9,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 161.35,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 161.6,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 166.8,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 163.36,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 165.51,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 167.63,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 175.81,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 177.31,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 177.84,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 183.13,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 187.23,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 188.74,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 185.29,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 182.92,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 185.02,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 187.4,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 190.12,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 193.01,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 196.35,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 197.43,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 199.73,
+        "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 197.85,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 197.57,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "GDDY",
+        "price": 198.36,
+        "time_posted": "2024-12-03"
+    }
+]

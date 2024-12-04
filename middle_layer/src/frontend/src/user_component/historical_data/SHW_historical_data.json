@@ -1,0 +1,1257 @@
+[
+    {
+        "ticker_symbol": "SHW",
+        "price": 279.12,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 280.65,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 284.33,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 289.16,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 287.41,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 289.21,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 292.37,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 300.87,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 304.22,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 307.2,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 305.81,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 304.66,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 301.68,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 304.38,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 308.68,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 310.07,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 310.67,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 310.24,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 309.31,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 302.38,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 294.3,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 293.31,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 294.21,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 296.98,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 295.04,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 295.92,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 294.95,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 300.0,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 297.59,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 298.38,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 303.82,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 301.49,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 304.92,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 302.92,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 298.56,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 301.38,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 299.34,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 305.53,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 305.07,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 301.85,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 306.51,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 307.41,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 301.96,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 305.32,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 307.28,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 309.56,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 309.15,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 307.84,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 304.66,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 308.45,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 309.91,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 306.51,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 308.67,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 311.68,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 317.96,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 320.07,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 320.54,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 325.72,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 327.67,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 330.01,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 333.19,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 335.05,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 331.25,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 334.44,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 342.56,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 338.61,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 338.32,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 340.61,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 334.76,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 332.88,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 332.62,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 333.23,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 334.53,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 338.97,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 345.11,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 340.78,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 339.92,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 339.92,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 344.78,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 345.21,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 336.1,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 331.92,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 332.25,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 327.85,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 329.83,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 330.27,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 332.51,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 319.2,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 317.97,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 316.31,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 312.06,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 306.5,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 308.27,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 307.49,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 304.1,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 307.38,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 300.52,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 301.88,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 302.95,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 304.58,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 304.22,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 297.78,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 301.49,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 302.6,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 309.4,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 313.07,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 316.81,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 317.06,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 318.5,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 318.9,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 313.95,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 312.14,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 314.44,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 312.81,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 311.2,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 308.23,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 308.77,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 306.04,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 301.93,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 303.67,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 300.57,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 296.29,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 300.89,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 302.63,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 300.87,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 304.66,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 307.05,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 302.89,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 290.83,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 291.98,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 294.86,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 298.14,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 299.3,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 295.85,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 301.69,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 299.04,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 300.19,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 300.1,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 299.4,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 293.55,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 295.72,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 295.86,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 297.28,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 294.65,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 293.52,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 296.08,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 294.56,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 299.1,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 297.76,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 304.2,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 312.76,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 317.15,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 317.25,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 325.15,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 324.55,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 324.21,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 320.61,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 321.11,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 343.18,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 330.74,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 341.42,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 347.88,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 351.2,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 350.49,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 349.45,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 349.03,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 345.92,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 337.79,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 342.8,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 338.4,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 341.39,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 344.31,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 341.92,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 347.74,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 350.8,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 355.1,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 353.75,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 355.34,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 354.69,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 357.31,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 357.25,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 358.07,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 360.03,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 359.32,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 361.03,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 359.95,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 368.69,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 363.08,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 362.03,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 359.42,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 360.17,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 363.23,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 371.17,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 370.92,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 373.28,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 374.71,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 378.36,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 377.3,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 374.62,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 379.05,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 377.82,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 381.17,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 380.86,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 380.48,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 383.22,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 382.03,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 380.97,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 379.88,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 377.46,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 372.41,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 370.62,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 367.1,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 372.71,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 378.26,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 375.76,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 378.29,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 383.45,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 387.83,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 388.67,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 388.36,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 387.65,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 381.05,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 360.71,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 362.05,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 360.92,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 358.38,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 362.6,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 360.95,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 361.22,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 358.11,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 357.31,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 373.71,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 377.51,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 380.03,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 383.29,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 385.96,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 388.53,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 382.96,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 386.58,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 387.74,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 378.99,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 375.35,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 373.5,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 371.66,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 383.32,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 388.3,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 399.71,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 396.14,
+        "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 393.96,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 397.4,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "SHW",
+        "price": 395.32,
+        "time_posted": "2024-12-03"
+    }
+]

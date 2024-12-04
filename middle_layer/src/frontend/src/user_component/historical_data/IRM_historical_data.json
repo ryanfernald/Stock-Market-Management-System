@@ -1,0 +1,1257 @@
+[
+    {
+        "ticker_symbol": "IRM",
+        "price": 64.16,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 63.96,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 63.95,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 63.57,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 63.43,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 63.87,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 64.4,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 65.75,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 66.98,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 66.46,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 66.85,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 67.26,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 66.56,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 67.57,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 67.88,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 68.37,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 68.73,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 69.09,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 68.48,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 67.16,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 64.8,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 65.13,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 65.32,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 66.59,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 65.7,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 65.74,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 64.83,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 65.79,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 64.94,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 63.94,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 64.53,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 65.44,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 65.67,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 66.43,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 65.57,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 66.96,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 66.11,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 66.27,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 66.8,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 66.07,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 67.79,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 67.64,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 66.98,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 67.48,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 66.37,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 67.09,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 67.16,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 67.35,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 65.58,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 66.1,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 67.66,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 66.52,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 66.95,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 67.06,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 70.55,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 73.42,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 73.75,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 72.41,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 73.74,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 76.95,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 79.29,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 77.24,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 76.88,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 78.71,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 79.28,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 79.62,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 78.96,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 79.14,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 78.38,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 77.0,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 77.55,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 78.61,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 78.86,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 79.09,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 79.84,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 78.39,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 77.12,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 76.9,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 79.06,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 79.13,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 78.47,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 77.69,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 78.14,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 77.64,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 77.58,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 77.68,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 78.13,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 74.67,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 75.58,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 75.0,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 73.83,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 73.71,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 74.14,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 73.42,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 74.09,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 74.83,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 75.57,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 77.14,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 76.22,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 76.48,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 76.92,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 76.48,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 77.05,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 75.96,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 74.31,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 75.77,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 76.56,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 76.99,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 78.52,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 78.7,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 77.34,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 79.45,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 81.23,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 80.9,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 80.69,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 81.0,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 81.74,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 79.87,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 78.21,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 79.15,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 78.43,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 77.33,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 78.57,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 79.6,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 79.64,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 80.06,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 81.23,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 83.7,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 84.32,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 85.93,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 86.16,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 86.13,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 86.59,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 86.84,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 87.73,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 88.16,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 88.29,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 88.32,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 88.55,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 88.0,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 87.91,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 88.67,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 89.07,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 89.14,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 90.3,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 91.22,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 91.04,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 92.3,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 92.56,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 94.57,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 93.94,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 95.3,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 97.23,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 99.37,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 98.61,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 97.24,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 97.68,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 99.52,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 100.32,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 96.31,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 96.31,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 97.9,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 98.87,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 100.67,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 101.93,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 108.87,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 106.04,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 103.69,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 105.8,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 104.92,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 106.71,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 107.78,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 108.01,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 107.23,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 108.03,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 107.92,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 107.64,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 108.97,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 108.85,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 111.42,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 112.09,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 112.66,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 112.71,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 114.14,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 111.61,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 111.31,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 112.57,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 112.14,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 112.18,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 108.41,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 108.81,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 109.72,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 113.46,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 113.68,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 115.65,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 116.34,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 118.19,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 115.92,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 116.45,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 114.13,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 115.36,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 118.44,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 119.17,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 119.32,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 117.31,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 116.73,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 118.83,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 118.24,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 119.4,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 118.43,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 118.28,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 116.77,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 118.84,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 120.49,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 119.02,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 120.34,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 121.2,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 122.0,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 123.42,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 124.46,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 125.76,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 123.41,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 123.87,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 125.54,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 125.97,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 127.7,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 128.14,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 127.6,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 127.64,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 123.73,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 121.16,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 122.35,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 125.73,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 114.44,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 116.92,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 119.71,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 117.44,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 114.5,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 115.98,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 113.12,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 114.88,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 115.5,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 116.51,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 116.3,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 118.73,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 119.1,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 120.78,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 123.61,
+        "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 124.24,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 123.67,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 120.16,
+        "time_posted": "2024-12-03"
+    }
+]

@@ -1,0 +1,1257 @@
+[
+    {
+        "ticker_symbol": "TSCO",
+        "price": 208.54,
+        "time_posted": "2023-12-04"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 203.8,
+        "time_posted": "2023-12-05"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 206.03,
+        "time_posted": "2023-12-06"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 205.63,
+        "time_posted": "2023-12-07"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 208.6,
+        "time_posted": "2023-12-08"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 212.53,
+        "time_posted": "2023-12-11"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 211.78,
+        "time_posted": "2023-12-12"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 216.85,
+        "time_posted": "2023-12-13"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 220.43,
+        "time_posted": "2023-12-14"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 213.74,
+        "time_posted": "2023-12-15"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 212.22,
+        "time_posted": "2023-12-18"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 212.6,
+        "time_posted": "2023-12-19"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 206.35,
+        "time_posted": "2023-12-20"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 208.24,
+        "time_posted": "2023-12-21"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 208.45,
+        "time_posted": "2023-12-22"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 207.28,
+        "time_posted": "2023-12-26"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 209.16,
+        "time_posted": "2023-12-27"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 212.37,
+        "time_posted": "2023-12-28"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 211.51,
+        "time_posted": "2023-12-29"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 213.03,
+        "time_posted": "2024-01-02"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 209.17,
+        "time_posted": "2024-01-03"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 211.52,
+        "time_posted": "2024-01-04"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 215.33,
+        "time_posted": "2024-01-05"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 219.87,
+        "time_posted": "2024-01-08"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 217.21,
+        "time_posted": "2024-01-09"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 216.43,
+        "time_posted": "2024-01-10"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 217.96,
+        "time_posted": "2024-01-11"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 219.91,
+        "time_posted": "2024-01-12"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 220.6,
+        "time_posted": "2024-01-16"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 223.81,
+        "time_posted": "2024-01-17"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 226.48,
+        "time_posted": "2024-01-18"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 227.28,
+        "time_posted": "2024-01-19"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 228.7,
+        "time_posted": "2024-01-22"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 224.66,
+        "time_posted": "2024-01-23"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 222.33,
+        "time_posted": "2024-01-24"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 222.63,
+        "time_posted": "2024-01-25"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 223.9,
+        "time_posted": "2024-01-26"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 222.64,
+        "time_posted": "2024-01-29"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 224.06,
+        "time_posted": "2024-01-30"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 220.93,
+        "time_posted": "2024-01-31"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 231.06,
+        "time_posted": "2024-02-01"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 229.13,
+        "time_posted": "2024-02-02"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 227.18,
+        "time_posted": "2024-02-05"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 229.96,
+        "time_posted": "2024-02-06"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 229.63,
+        "time_posted": "2024-02-07"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 228.04,
+        "time_posted": "2024-02-08"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 231.23,
+        "time_posted": "2024-02-09"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 232.35,
+        "time_posted": "2024-02-12"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 229.5,
+        "time_posted": "2024-02-13"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 231.64,
+        "time_posted": "2024-02-14"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 233.77,
+        "time_posted": "2024-02-15"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 232.62,
+        "time_posted": "2024-02-16"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 232.55,
+        "time_posted": "2024-02-20"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 231.53,
+        "time_posted": "2024-02-21"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 235.79,
+        "time_posted": "2024-02-22"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 240.2,
+        "time_posted": "2024-02-23"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 239.84,
+        "time_posted": "2024-02-26"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 248.23,
+        "time_posted": "2024-02-27"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 249.61,
+        "time_posted": "2024-02-28"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 251.31,
+        "time_posted": "2024-02-29"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 249.43,
+        "time_posted": "2024-03-01"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 250.26,
+        "time_posted": "2024-03-04"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 244.93,
+        "time_posted": "2024-03-05"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 247.7,
+        "time_posted": "2024-03-06"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 246.14,
+        "time_posted": "2024-03-07"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 247.53,
+        "time_posted": "2024-03-08"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 245.95,
+        "time_posted": "2024-03-11"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 246.73,
+        "time_posted": "2024-03-12"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 250.67,
+        "time_posted": "2024-03-13"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 250.87,
+        "time_posted": "2024-03-14"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 254.11,
+        "time_posted": "2024-03-15"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 252.7,
+        "time_posted": "2024-03-18"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 253.34,
+        "time_posted": "2024-03-19"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 253.98,
+        "time_posted": "2024-03-20"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 263.02,
+        "time_posted": "2024-03-21"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 259.86,
+        "time_posted": "2024-03-22"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 255.62,
+        "time_posted": "2024-03-25"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 255.01,
+        "time_posted": "2024-03-26"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 257.36,
+        "time_posted": "2024-03-27"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 258.62,
+        "time_posted": "2024-03-28"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 255.19,
+        "time_posted": "2024-04-01"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 253.85,
+        "time_posted": "2024-04-02"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 249.16,
+        "time_posted": "2024-04-03"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 249.52,
+        "time_posted": "2024-04-04"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 249.5,
+        "time_posted": "2024-04-05"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 246.62,
+        "time_posted": "2024-04-08"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 250.2,
+        "time_posted": "2024-04-09"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 250.3,
+        "time_posted": "2024-04-10"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 247.23,
+        "time_posted": "2024-04-11"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 241.99,
+        "time_posted": "2024-04-12"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 239.11,
+        "time_posted": "2024-04-15"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 241.94,
+        "time_posted": "2024-04-16"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 244.46,
+        "time_posted": "2024-04-17"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 244.42,
+        "time_posted": "2024-04-18"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 249.8,
+        "time_posted": "2024-04-19"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 250.38,
+        "time_posted": "2024-04-22"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 252.93,
+        "time_posted": "2024-04-23"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 255.08,
+        "time_posted": "2024-04-24"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 262.12,
+        "time_posted": "2024-04-25"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 270.66,
+        "time_posted": "2024-04-26"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 274.59,
+        "time_posted": "2024-04-29"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 269.85,
+        "time_posted": "2024-04-30"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 267.96,
+        "time_posted": "2024-05-01"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 263.55,
+        "time_posted": "2024-05-02"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 267.01,
+        "time_posted": "2024-05-03"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 266.35,
+        "time_posted": "2024-05-06"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 266.93,
+        "time_posted": "2024-05-07"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 263.5,
+        "time_posted": "2024-05-08"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 266.51,
+        "time_posted": "2024-05-09"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 268.22,
+        "time_posted": "2024-05-10"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 268.46,
+        "time_posted": "2024-05-13"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 271.25,
+        "time_posted": "2024-05-14"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 272.7,
+        "time_posted": "2024-05-15"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 272.94,
+        "time_posted": "2024-05-16"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 282.29,
+        "time_posted": "2024-05-17"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 280.68,
+        "time_posted": "2024-05-20"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 282.3,
+        "time_posted": "2024-05-21"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 279.42,
+        "time_posted": "2024-05-22"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 279.91,
+        "time_posted": "2024-05-23"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 279.75,
+        "time_posted": "2024-05-24"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 279.61,
+        "time_posted": "2024-05-28"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 278.78,
+        "time_posted": "2024-05-29"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 278.56,
+        "time_posted": "2024-05-30"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 283.01,
+        "time_posted": "2024-05-31"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 265.43,
+        "time_posted": "2024-06-03"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 267.56,
+        "time_posted": "2024-06-04"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 268.21,
+        "time_posted": "2024-06-05"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 267.61,
+        "time_posted": "2024-06-06"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 268.77,
+        "time_posted": "2024-06-07"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 271.44,
+        "time_posted": "2024-06-10"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 276.08,
+        "time_posted": "2024-06-11"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 277.68,
+        "time_posted": "2024-06-12"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 279.24,
+        "time_posted": "2024-06-13"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 278.01,
+        "time_posted": "2024-06-14"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 287.24,
+        "time_posted": "2024-06-17"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 287.67,
+        "time_posted": "2024-06-18"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 278.0,
+        "time_posted": "2024-06-20"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 279.31,
+        "time_posted": "2024-06-21"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 275.16,
+        "time_posted": "2024-06-24"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 262.45,
+        "time_posted": "2024-06-25"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 264.87,
+        "time_posted": "2024-06-26"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 265.42,
+        "time_posted": "2024-06-27"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 267.85,
+        "time_posted": "2024-06-28"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 265.6,
+        "time_posted": "2024-07-01"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 263.91,
+        "time_posted": "2024-07-02"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 259.56,
+        "time_posted": "2024-07-03"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 260.44,
+        "time_posted": "2024-07-05"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 258.84,
+        "time_posted": "2024-07-08"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 255.21,
+        "time_posted": "2024-07-09"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 257.18,
+        "time_posted": "2024-07-10"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 260.72,
+        "time_posted": "2024-07-11"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 268.91,
+        "time_posted": "2024-07-12"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 268.68,
+        "time_posted": "2024-07-15"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 280.91,
+        "time_posted": "2024-07-16"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 276.6,
+        "time_posted": "2024-07-17"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 267.78,
+        "time_posted": "2024-07-18"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 266.31,
+        "time_posted": "2024-07-19"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 268.92,
+        "time_posted": "2024-07-22"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 268.2,
+        "time_posted": "2024-07-23"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 260.43,
+        "time_posted": "2024-07-24"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 255.39,
+        "time_posted": "2024-07-25"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 260.43,
+        "time_posted": "2024-07-26"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 262.97,
+        "time_posted": "2024-07-29"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 259.65,
+        "time_posted": "2024-07-30"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 261.22,
+        "time_posted": "2024-07-31"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 254.22,
+        "time_posted": "2024-08-01"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 250.75,
+        "time_posted": "2024-08-02"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 254.11,
+        "time_posted": "2024-08-05"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 257.95,
+        "time_posted": "2024-08-06"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 249.94,
+        "time_posted": "2024-08-07"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 258.84,
+        "time_posted": "2024-08-08"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 258.44,
+        "time_posted": "2024-08-09"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 260.14,
+        "time_posted": "2024-08-12"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 258.26,
+        "time_posted": "2024-08-13"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 260.2,
+        "time_posted": "2024-08-14"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 260.9,
+        "time_posted": "2024-08-15"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 261.38,
+        "time_posted": "2024-08-16"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 261.84,
+        "time_posted": "2024-08-19"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 261.3,
+        "time_posted": "2024-08-20"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 265.48,
+        "time_posted": "2024-08-21"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 263.16,
+        "time_posted": "2024-08-22"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 267.03,
+        "time_posted": "2024-08-23"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 271.75,
+        "time_posted": "2024-08-26"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 271.87,
+        "time_posted": "2024-08-27"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 272.19,
+        "time_posted": "2024-08-28"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 272.64,
+        "time_posted": "2024-08-29"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 266.51,
+        "time_posted": "2024-08-30"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 267.3,
+        "time_posted": "2024-09-03"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 271.62,
+        "time_posted": "2024-09-04"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 269.75,
+        "time_posted": "2024-09-05"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 269.53,
+        "time_posted": "2024-09-06"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 271.72,
+        "time_posted": "2024-09-09"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 269.71,
+        "time_posted": "2024-09-10"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 275.17,
+        "time_posted": "2024-09-11"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 278.4,
+        "time_posted": "2024-09-12"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 281.86,
+        "time_posted": "2024-09-13"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 282.28,
+        "time_posted": "2024-09-16"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 275.67,
+        "time_posted": "2024-09-17"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 274.41,
+        "time_posted": "2024-09-18"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 272.9,
+        "time_posted": "2024-09-19"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 273.82,
+        "time_posted": "2024-09-20"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 275.77,
+        "time_posted": "2024-09-23"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 276.49,
+        "time_posted": "2024-09-24"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 279.76,
+        "time_posted": "2024-09-25"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 284.17,
+        "time_posted": "2024-09-26"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 285.02,
+        "time_posted": "2024-09-27"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 289.79,
+        "time_posted": "2024-09-30"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 293.99,
+        "time_posted": "2024-10-01"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 296.91,
+        "time_posted": "2024-10-02"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 290.71,
+        "time_posted": "2024-10-03"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 293.82,
+        "time_posted": "2024-10-04"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 292.71,
+        "time_posted": "2024-10-07"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 302.51,
+        "time_posted": "2024-10-08"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 299.78,
+        "time_posted": "2024-10-09"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 296.18,
+        "time_posted": "2024-10-10"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 302.19,
+        "time_posted": "2024-10-11"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 302.55,
+        "time_posted": "2024-10-14"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 299.65,
+        "time_posted": "2024-10-15"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 301.62,
+        "time_posted": "2024-10-16"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 297.16,
+        "time_posted": "2024-10-17"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 296.46,
+        "time_posted": "2024-10-18"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 293.45,
+        "time_posted": "2024-10-21"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 290.3,
+        "time_posted": "2024-10-22"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 290.95,
+        "time_posted": "2024-10-23"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 273.22,
+        "time_posted": "2024-10-24"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 271.7,
+        "time_posted": "2024-10-25"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 268.94,
+        "time_posted": "2024-10-28"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 267.75,
+        "time_posted": "2024-10-29"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 266.89,
+        "time_posted": "2024-10-30"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 264.47,
+        "time_posted": "2024-10-31"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 265.53,
+        "time_posted": "2024-11-01"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 269.3,
+        "time_posted": "2024-11-04"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 275.13,
+        "time_posted": "2024-11-05"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 287.82,
+        "time_posted": "2024-11-06"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 288.16,
+        "time_posted": "2024-11-07"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 287.43,
+        "time_posted": "2024-11-08"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 280.47,
+        "time_posted": "2024-11-11"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 278.1,
+        "time_posted": "2024-11-12"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 277.66,
+        "time_posted": "2024-11-13"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 276.0,
+        "time_posted": "2024-11-14"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 274.58,
+        "time_posted": "2024-11-15"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 275.74,
+        "time_posted": "2024-11-18"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 271.78,
+        "time_posted": "2024-11-19"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 268.95,
+        "time_posted": "2024-11-20"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 272.56,
+        "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 280.61,
+        "time_posted": "2024-11-22"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 285.99,
+        "time_posted": "2024-11-25"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 280.19,
+        "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 281.96,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 283.67,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "TSCO",
+        "price": 284.98,
+        "time_posted": "2024-12-03"
+    }
+]
