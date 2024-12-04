@@ -307,6 +307,8 @@ class DataBase:
     # Retrieves user's balance, deposits, withdrawals, and market orders in JSON format.
     # Returns JSON string with total deposits, withdrawals, net market orders, and net balance.
     def get_user_balance(self, user_id):
+        self.connect_to_db()
+
         deposit_query = """
             SELECT COALESCE(SUM(amount), 0) 
             FROM FundsDeposit 
@@ -341,6 +343,8 @@ class DataBase:
             "net_market_orders": float(net_market_orders),
             "net_balance": float(net_balance)
         }
+        self.close_db()
+
         return jsonify(balance_data)
 
 # User Manipulation (tested)
