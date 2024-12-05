@@ -47,14 +47,13 @@ class DataBase:
             if cursor:
                 cursor.close()
                 print("Database cursor closed.")
-            if self.cursor:
-                self.cursor.close()       
+              
         except Exception as e:
             print(f"Error closing cursor: {e}")
 
         try:
-            if self.connection:
-                self.connection.close()
+            if conn:
+                conn.close()
         except Exception as e:
             print(f"Error closing connection: {e}")
 

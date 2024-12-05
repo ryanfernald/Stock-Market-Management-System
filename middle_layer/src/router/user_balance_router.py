@@ -1,10 +1,11 @@
 # user_balance_router.py
 from flask import Blueprint, request, jsonify
 from db_config import db
-
+from flask_cors import cross_origin
 user_balance = Blueprint('user_balance', __name__)
 
 @user_balance.route('/add_funds/<user_id>/<amount>', methods=['POST'])
+@cross_origin()
 def add_funds(user_id, amount):
     try:
         db.add_funds(user_id, float(amount))
@@ -13,6 +14,7 @@ def add_funds(user_id, amount):
         return jsonify({"status": "error", "message": str(e)}), 400
 
 @user_balance.route('/withdraw_funds/<user_id>/<amount>', methods=['POST'])
+@cross_origin()
 def withdraw_funds(user_id, amount):
     try:
         db.withdraw_funds(user_id, float(amount))
@@ -20,6 +22,7 @@ def withdraw_funds(user_id, amount):
     except ValueError as e:
         return jsonify({"status": "error", "message": str(e)}), 400
 @user_balance.route('/balance/<user_id>', methods=['GET'])
+@cross_origin()
 def get_user_balance(user_id):
     result = db.get_user_balance(user_id)
 
