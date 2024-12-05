@@ -42,10 +42,19 @@ class DataBase:
         self.cursor = self.connection.cursor()
 
     def close_db(self):
-        if self.cursor:
-            self.cursor.close()
-        if self.connection:
-            self.connection.close()
+        try:
+            if self.cursor:
+                self.cursor.close()
+                print("Database cursor closed.")
+        except Exception as e:
+            print(f"Error closing cursor: {e}")
+
+        try:
+            if self.connection:
+                self.connection.close()
+                print("Database connection closed.")
+        except Exception as e:
+            print(f"Error closing connection: {e}")
 
 # Transaction History (tested)
     # Retrieves transaction history for a user in JSON format.
@@ -108,7 +117,8 @@ class DataBase:
             if data["quantity_available"] > 0:
                 most_recent_price_data = self.get_most_recent_stock_price(ticker)
                 if most_recent_price_data:
-                    most_recent_price_data = json.loads(most_recent_price_data)
+                    print("AAA", most_recent_price_data)
+                  
                     current_price = most_recent_price_data["price"]
                     total_current_value = current_price * data["quantity_available"]
                     current_profit = (float(data["total_sold"]) + float(total_current_value)) - float(data["total_purchased"])
@@ -132,11 +142,55 @@ class DataBase:
     # Calculates the total current value of the user's portfolio.
     # Returns a float representing the total value.
     def get_user_portfolio_value(self, user_id):
-        assets_json = self.get_user_portfolio(user_id)
-        assets = json.loads(assets_json)
+        self.connect_to_db()
+
+        portfolio_query = """
+            SELECT ticker_symbol, order_type, quantity, price_purchased
+            FROM MarketOrder
+            WHERE user_id = %s
+        """
+        self.cursor.execute(portfolio_query, (user_id,))
+        transactions = self.cursor.fetchall()
+
+        portfolio = {}
+        for ticker_symbol, order_type, quantity, price_purchased in transactions:
+            if ticker_symbol not in portfolio:
+                portfolio[ticker_symbol] = {"quantity_available": 0, "total_purchased": 0, "total_sold": 0}
+
+            if order_type == 'BUY':
+                portfolio[ticker_symbol]["quantity_available"] += quantity
+                portfolio[ticker_symbol]["total_purchased"] += price_purchased * quantity
+            elif order_type == 'SELL':
+                portfolio[ticker_symbol]["quantity_available"] -= quantity
+                portfolio[ticker_symbol]["total_sold"] += price_purchased * quantity
+
+        assets = []
+        for ticker, data in portfolio.items():
+            if data["quantity_available"] > 0:
+                most_recent_price_data = self.get_most_recent_stock_price(ticker)
+                if most_recent_price_data:
+            
+                    current_price = most_recent_price_data["price"]
+                    total_current_value = current_price * data["quantity_available"]
+                    current_profit = (float(data["total_sold"]) + float(total_current_value)) - float(data["total_purchased"])
+                    current_profit_percent = f"{(((float(data['total_sold']) + float(total_current_value)) / float(data['total_purchased']) - 1) * 100):.2f}"
+                    assets.append({
+                        "ticker_symbol": ticker,
+                        "quantity": data["quantity_available"],
+                        "total_current_value": float(total_current_value),
+                        "total_purchased": float(data["total_purchased"]),
+                        "total_sold": float(data["total_sold"]),
+                        "current_profit": current_profit,
+                        "current_profit_percent": current_profit_percent,
+                        "current_price": float(current_price)
+                    })
+        
+        self.close_db()
+        print(assets)
         if assets:
             total_portfolio_value = sum(asset["total_current_value"] for asset in assets)
-            return total_portfolio_value
+            print(total_current_value)
+            return jsonify(total_portfolio_value)
         return 0
 
 # Stock Manipulation (tested)
@@ -180,11 +234,11 @@ class DataBase:
     def sell_stock(self, user_id, ticker, quantity):
         self.connect_to_db()
 
-        portfolio = json.loads(self.get_user_portfolio(user_id))
-        portfolio_entry = next((entry for entry in portfolio if entry['ticker_symbol'] == ticker), None)
+        # portfolio = json.loads(self.get_user_portfolio(user_id))
+        # portfolio_entry = next((entry for entry in portfolio if entry['ticker_symbol'] == ticker), None)
 
-        if not portfolio_entry or portfolio_entry['quantity'] < quantity:
-            raise ValueError("Insufficient shares to complete this sale.")
+        # if not portfolio_entry or portfolio_entry['quantity'] < quantity:
+        #     raise ValueError("Insufficient shares to complete this sale.")
 
         price_query = """
             SELECT price
@@ -262,9 +316,9 @@ class DataBase:
                 "price": float(price),
                 "time_posted": time_posted.strftime("%Y-%m-%dT%H:%M:%SZ")
             }
-            return jsonify(response)
+            return response
         else:
-            return jsonify(None)
+            return None
 
 # User Balance (tested)
     # Adds funds to the user's account balance and logs the deposit.

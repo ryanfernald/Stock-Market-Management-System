@@ -9,8 +9,10 @@ import { format } from "date-fns";
 import appleHistory from "./historical_data/appl_history.json";
 import msftHistory from "./historical_data/msft_history.json";
 import googHistory from "./historical_data/goog_history.json";
-import stockList from "./historical_data/stock_list.json";
+
 import watchList from "./historical_data/watch_list.json";
+
+import stockDetails from "./stock_details.json";
 
 import "./styling/UserDashboard.css";
 
@@ -55,12 +57,7 @@ const UserDashboard = () => {
       { month: "Dec", activity: 600 },
    ];
 
-   const [balanceDetails, setBalanceDetails] = useState([{
-      net_balance: 0,
-      net_market_orders: 0,
-      total_deposit: 0,
-      total_withdraw: 0,
-   }]);
+   const [balanceDetails, setBalanceDetails] = useState(0);
    const [loading, setLoading] = useState(true);
    const navigate = useNavigate();
 
@@ -78,7 +75,7 @@ const UserDashboard = () => {
          }
 
          try {
-            const response = await fetch(`http://127.0.0.1:5000/user_b/balance/${userId}`);
+            const response = await fetch(`http://127.0.0.1:5000/portfolio/value/${userId}`);
             if (!response.ok) {
                throw new Error(`Error fetching balance: ${response.statusText}`);
             }
@@ -110,6 +107,7 @@ const UserDashboard = () => {
             const t = await response.json();
             console.log(t)
             setTransactions(t); // Update state with fetched data
+            console.log(transactions)
             setLoading(false);
          } catch (error) {
             console.error("Failed to fetch user balance:", error);
@@ -118,6 +116,14 @@ const UserDashboard = () => {
       };
       fetchUserH();
    }, []);
+
+   
+
+   const getCurrentPrice = (symbol, stockDetails) => {
+      const stock = stockDetails.find((stock) => stock.Symbol === symbol);
+      return stock ? parseFloat(stock.Price) : 0; // Return price or 0 if not found
+  };
+  
 
    return (
       <>
@@ -130,12 +136,12 @@ const UserDashboard = () => {
             <div className="dashboard-content">
                {/* Balance Details */}
                <div className="summary-card">
-                  <h3>Balance Details</h3>
+                  <h3>Portfolio Value</h3>
                   {loading ? (
                      <p>Loading...</p>
                   ) : (
                      <div id="balance-details">
-                        <p>${balanceDetails.net_balance}</p>
+                        <p>${balanceDetails.toFixed(2)}</p>
                      </div>
                   )}
                   <button onClick={() => (window.location.href = "/userstatement")}>View Details</button>
@@ -169,66 +175,104 @@ const UserDashboard = () => {
                {/* Transaction History */}
                <div className="transaction-card">
                   <h3>Trading History</h3>
-                  {transactions.map((transaction) => {
-                     const amount = transaction.order_type === 'BUY' ? -transaction.quantity * transaction.price_purchased : transaction.quantity * transaction.price_purchased;
+                  {transactions.slice(-5).reverse().map((transaction) => { // Get the last 5 transactions and reverse the order
+                     const amount = transaction.order_type === 'BUY'
+                        ? -transaction.quantity * transaction.price_purchased
+                        : transaction.quantity * transaction.price_purchased;
                      const textColor = amount >= 0 ? 'green' : 'red';
                      return (
                         <div key={transaction.order_id} style={{ color: textColor }}>
-                           <UserTransaction id={transaction.order_id} amount={amount} ticker_symbol={transaction.ticker_symbol} quantity={transaction.quantity} />
+                           <UserTransaction
+                              id={transaction.order_id}
+                              amount={amount}
+                              ticker_symbol={transaction.ticker_symbol}
+                              quantity={transaction.quantity}
+                           />
                         </div>
                      );
                   })}
                </div>
+               </div>
                {/* Transaction History */}
                <div className="activity-card holdings">
-                  <h3>Holdings</h3>
-                  <table>
-                     <thead>
-                        <tr>
-                           <th>Stock</th>
-                           <th>Quantity Shares</th>
-                           <th>Purchase Price</th>
-                           <th>Current Price</th>
-                           <th>Total Value</th>
-                           <th>Percent Change</th>
-                           <th>Dollar Change</th>
-                        </tr>
-                     </thead>
-                     <tbody>
-                        {stockList.map((row, index) => (
-                           <React.Fragment key={index}>
-                              <tr onClick={() => toggleRow(index)} style={{ cursor: "pointer" }}>
-                                 <td>{row.Stock}</td>
-                                 <td>{row["Quantity Shares"]}</td>
-                                 <td>${row["Purchase Price"]}</td>
-                                 <td>${row["Current Price"]}</td>
-                                 <td>${calculateTotalValue(row["Quantity Shares"], row["Current Price"])}</td>
-                                 <td className={calculatePercentChange(row["Purchase Price"], row["Current Price"]) >= 0 ? "text-positive" : "text-negative"}>
-                                    {calculatePercentChange(row["Purchase Price"], row["Current Price"])}%
-                                 </td>
-                                 <td className={calculateDollarChange(row["Purchase Price"], row["Current Price"]) >= 0 ? "text-positive" : "text-negative"}>
-                                    ${calculateDollarChange(row["Purchase Price"], row["Current Price"])}
-                                 </td>
-                              </tr>
-                              {expandedRow === index && (
-                                 <tr>
-                                    <td colSpan="7" className="expanded-chart-container">
-                                       <ResponsiveContainer width="100%" height={300}>
-                                          <LineChart data={historyDataMap[row.Stock]} margin={{ top: 5, right: 30, left: 20, bottom: 5 }}>
-                                             <CartesianGrid strokeDasharray="3 3" />
-                                             <XAxis dataKey="date" tickFormatter={formatTick} />
-                                             <YAxis dataKey="Price" domain={[(dataMin) => Math.floor(dataMin * 0.99), 'auto']} />
-                                             <Tooltip />
-                                             <Line type="monotone" dataKey="Price" stroke="#8884d8" />
-                                          </LineChart>
-                                       </ResponsiveContainer>
+               <h3>Holdings</h3>
+               <table>
+                  <thead>
+                     <tr>
+                        <th>Stock</th>
+                        <th>Quantity Shares</th>
+                        <th>Purchase Price</th>
+                        <th>Current Price</th>
+                        <th>Total Value</th>
+                        <th>Percent Change</th>
+                        <th>Dollar Change</th>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     {/* Compute net holdings */}
+                     {Object.entries(
+                        transactions.reduce((acc, transaction) => {
+                           const { ticker_symbol, order_type, quantity, price_purchased } = transaction;
+
+                           if (!acc[ticker_symbol]) {
+                              acc[ticker_symbol] = {
+                                 quantity: 0,
+                                 total_purchased: 0,
+                                 price_purchased: 0, // Average purchase price
+                              };
+                           }
+
+                           if (order_type === "BUY") {
+                              acc[ticker_symbol].quantity += quantity;
+                              acc[ticker_symbol].total_purchased += quantity * price_purchased;
+                           } else if (order_type === "SELL") {
+                              acc[ticker_symbol].quantity -= quantity;
+                           }
+
+                           acc[ticker_symbol].price_purchased =
+                              acc[ticker_symbol].quantity > 0
+                                 ? acc[ticker_symbol].total_purchased / acc[ticker_symbol].quantity
+                                 : 0;
+
+                           return acc;
+                        }, {})
+                     )
+                        .filter(([_, { quantity }]) => quantity > 0) // Only include stocks with remaining quantity
+                        .map(([ticker_symbol, { quantity, price_purchased }], index) => {
+                           const currentPrice = getCurrentPrice(ticker_symbol, stockDetails);
+
+                           return (
+                              <React.Fragment key={index}>
+                                 <tr onClick={() => toggleRow(index)} style={{ cursor: "pointer" }}>
+                                    <td>{ticker_symbol}</td>
+                                    <td>{quantity}</td>
+                                    <td>${price_purchased.toFixed(2)}</td>
+                                    <td>${currentPrice.toFixed(2)}</td>
+                                    <td>${calculateTotalValue(quantity, currentPrice).toFixed(2)}</td>
+                                    <td
+                                       className={
+                                          calculatePercentChange(price_purchased, currentPrice) >= 0
+                                             ? "text-positive"
+                                             : "text-negative"
+                                       }
+                                    >
+                                       {calculatePercentChange(price_purchased, currentPrice).toFixed(2)}%
+                                    </td>
+                                    <td
+                                       className={
+                                          calculateDollarChange(price_purchased, currentPrice) >= 0
+                                             ? "text-positive"
+                                             : "text-negative"
+                                       }
+                                    >
+                                       ${calculateDollarChange(price_purchased, currentPrice).toFixed(2)}
                                     </td>
                                  </tr>
-                              )}
-                           </React.Fragment>
-                        ))}
-                     </tbody>
-                  </table>
+                              </React.Fragment>
+                           );
+                        })}
+                  </tbody>
+               </table>
                </div>
                <div className="activity-card watch-list">
                   <h3>Watch List</h3>
@@ -255,13 +299,8 @@ const UserDashboard = () => {
                      </tbody>
                   </table>
                </div>
-
+               
             </div>
-         </div>
-
-
-
-
       </>
    );
 };

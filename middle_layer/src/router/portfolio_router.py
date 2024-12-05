@@ -10,5 +10,5 @@ def get_user_portfolio(user_id):
 
 @portfolio.route('/value/<user_id>', methods=['GET'])
 def get_user_portfolio_value(user_id):
-    total_value = db.get_user_portfolio_value(user_id)
-    return jsonify({"total_portfolio_value": total_value})
+
+    return db.get_user_portfolio_value(user_id)

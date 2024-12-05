@@ -3,10 +3,11 @@ import React, { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom"; 
 import "./styling/UserSell.css";
 
-import stockList from "./historical_data/stock_list.json";
+import stockDetails from "./stock_details.json";
 
 const UserSell = () => {
     const navigate = useNavigate();
+    const [expandedRow, setExpandedRow] = useState(null);
     const [selectedStock, setSelectedStock] = useState(null);
     const [quantityToSell, setQuantityToSell] = useState(0);
 
@@ -29,39 +30,110 @@ const UserSell = () => {
         }
     };
 
-    const calculateTotalValue = (stock) => {
-        return (stock["Quantity Shares"] * stock["Current Price"]).toFixed(2);
+    const calculateTotalValue = (quantity, currentPrice) => {
+        return (quantity * currentPrice).toFixed(2);
     };
 
-    const calculatePercentChange = (stock) => {
-        const percentChange = ((stock["Current Price"] - stock["Purchase Price"]) / stock["Purchase Price"]) * 100;
+    const calculatePercentChange = (price_purchased, current_price) => {
+        const percentChange = ((current_price - price_purchased) / price_purchased) * 100;
         return percentChange.toFixed(2);
     };
 
-    const calculateDollarChange = (stock) => {
-        const dollarChange = (stock["Current Price"] - stock["Purchase Price"]) * stock["Quantity Shares"];
+    const calculateDollarChange = (price_purchased, current_price, quantity) => {
+        const dollarChange = (current_price - price_purchased) * quantity;
         return dollarChange.toFixed(2);
     };
 
     const calculateSaleValue = () => {
         if (selectedStock) {
-            return (selectedStock["Current Price"] * quantityToSell).toFixed(2);
+            return (selectedStock.currentPrice * quantityToSell).toFixed(2);
         }
         return 0;
     };
+    const getCurrentPrice = (symbol, stockDetails) => {
+        const stock = stockDetails.find((stock) => stock.Symbol === symbol);
+        return stock ? parseFloat(stock.Price) : 0; // Return price or 0 if not found
+    };
 
-    const handleSellStock = () => {
-        if (quantityToSell > 0 && quantityToSell <= selectedStock["Quantity Shares"]) {
-            const saleValue = calculateSaleValue();
-            // Display a pop-up message
-            alert(`${quantityToSell} Shares of ${selectedStock["Stock"]} Sold for $${saleValue} Cash`);
+    const handleSellStock = async () => {
+        if (quantityToSell > 0 && quantityToSell <= selectedStock.quantity) {
+            const saleValue = quantityToSell * getCurrentPrice(selectedStock.ticker_symbol, stockDetails);
             
-            // Optionally, update the state to reflect the new stock quantity or navigate away
-            // Example: selectedStock["Quantity Shares"] -= quantityToSell;
+            // Display a pop-up message (optional)
+            // alert(`${quantityToSell} Shares of ${selectedStock.ticker_symbol} Sold for $${saleValue} Cash`);
+    
+            const userId = localStorage.getItem("uid");
+            if (!userId) {
+                console.error("User ID not found in local storage.");
+                return;
+            }
+    
+            try {
+                // Create the data to be sent in the POST request body
+                const requestData = {
+                    user_id: userId,
+                    ticker: selectedStock.ticker_symbol,
+                    quantity: quantityToSell,
+                };
+    
+                // Make a POST request to the backend API
+                const response = await fetch(`http://127.0.0.1:5000/stock_m/sell/${userId}/${selectedStock.ticker_symbol}/${quantityToSell}`, {
+                    method: "POST", // Use POST method
+                    headers: {
+                        "Content-Type": "application/json",
+                    },
+                    body: JSON.stringify(requestData), // Send the request data in the body as a JSON object
+                });
+    
+                if (!response.ok) {
+                    throw new Error(`Error processing the sell request: ${response.statusText}`);
+                }
+    
+                const t = await response.json(); // Assuming the response is in JSON format
+                console.log(t);
+                setTransactions(t); // Update the state with the response data
+                navigate('/dashboard')
+            } catch (error) {
+                console.error("Failed to sell the stock:", error);
+            }
         } else {
             alert("Please enter a valid quantity to sell.");
         }
     };
+    
+
+    const [transactions, setTransactions] = useState([]);
+    useEffect(() => {
+        const fetchUserH = async () => {
+            const userId = localStorage.getItem("uid");
+            if (!userId) {
+                console.error("User ID not found in local storage.");
+                return;
+            }
+
+            try {
+                const response = await fetch(`http://127.0.0.1:5000/transaction_h/${userId}`);
+                if (!response.ok) {
+                throw new Error(`Error fetching balance: ${response.statusText}`);
+                }
+                const t = await response.json();
+                console.log(t)
+                setTransactions(t); // Update state with fetched data
+                console.log(transactions)
+                // setLoading(false);
+            } catch (error) {
+                console.error("Failed to fetch user balance:", error);
+                // setLoading(false);
+            }
+        };
+        fetchUserH();
+    }, []);
+
+   
+
+    const toggleRow = (index) => {
+        setExpandedRow(expandedRow === index ? null : index);
+     };
 
     return (
         <>
@@ -82,47 +154,91 @@ const UserSell = () => {
                             </tr>
                         </thead>
                         <tbody>
-                            {stockList.map((stock) => (
-                                <tr key={stock.Symbol} onClick={() => handleSelectStock(stock)}>
-                                    <td>{stock.Symbol}</td>
-                                    <td>{stock["Quantity Shares"]}</td>
-                                    <td>{stock["Purchase Price"]}</td>
-                                    <td>{stock["Current Price"]}</td>
-                                    <td>{calculateTotalValue(stock)}</td>
-                                    <td className={calculatePercentChange(stock) >= 0 ? "positive" : "negative"}>
-                                        {calculatePercentChange(stock)}%
-                                    </td>
-                                    <td className={calculateDollarChange(stock) >= 0 ? "positive" : "negative"}>
-                                        ${calculateDollarChange(stock)}
-                                    </td>
-                                </tr>
-                            ))}
+                        {Object.entries(
+                            transactions.reduce((acc, transaction) => {
+                                const { ticker_symbol, order_type, quantity, price_purchased } = transaction;
+
+                                if (!acc[ticker_symbol]) {
+                                    acc[ticker_symbol] = {
+                                    quantity: 0,
+                                    total_purchased: 0,
+                                    price_purchased: 0, // Average purchase price
+                                    };
+                                }
+
+                                if (order_type === "BUY") {
+                                    acc[ticker_symbol].quantity += quantity;
+                                    acc[ticker_symbol].total_purchased += quantity * price_purchased;
+                                } else if (order_type === "SELL") {
+                                    acc[ticker_symbol].quantity -= quantity;
+                                }
+
+                                acc[ticker_symbol].price_purchased =
+                                    acc[ticker_symbol].quantity > 0
+                                    ? acc[ticker_symbol].total_purchased / acc[ticker_symbol].quantity
+                                    : 0;
+
+                                return acc;
+                            }, {})
+                        )
+                            .filter(([_, { quantity }]) => quantity > 0) // Only include stocks with remaining quantity
+                            .map(([ticker_symbol, { quantity, price_purchased }], index) => {
+                                const currentPrice = getCurrentPrice(ticker_symbol, stockDetails);
+
+                                return (
+                                    <React.Fragment key={index}>
+                                    <tr onClick={() => handleSelectStock({ ticker_symbol, quantity, price_purchased })} style={{ cursor: "pointer" }}>
+                                        <td>{ticker_symbol}</td>
+                                        <td>{quantity}</td>
+                                        <td>${price_purchased.toFixed(2)}</td>
+                                        <td>${currentPrice.toFixed(2)}</td>
+                                        <td>${calculateTotalValue(quantity, currentPrice)}</td>
+                                        <td
+                                            className={
+                                                calculatePercentChange(price_purchased, currentPrice) >= 0
+                                                ? "text-positive"
+                                                : "text-negative"
+                                            }
+                                        >
+                                            {calculatePercentChange(price_purchased, currentPrice)}%
+                                        </td>
+                                        <td
+                                            className={
+                                                calculateDollarChange(price_purchased, currentPrice, quantity) >= 0
+                                                ? "text-positive"
+                                                : "text-negative"
+                                            }
+                                        >
+                                            ${calculateDollarChange(price_purchased, currentPrice, quantity)}
+                                        </td>
+                                    </tr>
+                                    </React.Fragment>
+                                );
+                            })}
                         </tbody>
                     </table>
                 </div>
-
-                {/* Right Side: Sell Stock Form */}
                 <div className="right-panel">
-                    {selectedStock && (
-                        <div className="stock-info">
-                            <h2>{selectedStock.Stock}</h2>
-                            <p>Current Price: ${selectedStock["Current Price"]}</p>
-                            <p>Shares Owned: {selectedStock["Quantity Shares"]}</p>
-                            <p>Total Value: ${calculateTotalValue(selectedStock)}</p>
-                            <input
-                                type="number"
-                                min="1"
-                                max={selectedStock["Quantity Shares"]}
-                                value={quantityToSell}
-                                onChange={handleQuantityChange}
-                                className={`quantity-input ${!isQuantityValid ? "invalid" : ""}`}
-                                placeholder="Quantity to Sell"
-                            />
-                            <p>Remaining Shares: {selectedStock["Quantity Shares"] - quantityToSell}</p>
-                            <p>Total Sale Value: ${calculateSaleValue()}</p>
-                            <button className="sell-button" onClick={handleSellStock}>Sell Stock</button>
-                        </div>
-                    )}
+                {selectedStock && (
+                    <div className="stock-info">
+                        <h2>{selectedStock.ticker_symbol}</h2>
+                        <p>Current Price: ${getCurrentPrice(selectedStock.ticker_symbol, stockDetails)}</p>
+                        <p>Shares Owned: {selectedStock.quantity}</p>
+                        <p>Total Value: ${calculateTotalValue(selectedStock.quantity, selectedStock.price_purchased)}</p>
+                        <input
+                            type="number"
+                            min="1"
+                            max={selectedStock.quantity}
+                            value={quantityToSell}
+                            onChange={handleQuantityChange}
+                            className={`quantity-input ${!isQuantityValid ? "invalid" : ""}`}
+                            placeholder="Quantity to Sell"
+                        />
+                        <p>Remaining Shares: {selectedStock.quantity - quantityToSell}</p>
+                        <p>Total Sale Value: ${calculateTotalValue(quantityToSell, getCurrentPrice(selectedStock.ticker_symbol, stockDetails))}</p>
+                        <button className="sell-button" onClick={handleSellStock}>Sell Stock</button>
+                    </div>
+                )}
                 </div>
             </div>
         </>
@@ -130,3 +246,5 @@ const UserSell = () => {
 };
 
 export default UserSell;
+
+
