@@ -16,21 +16,16 @@ const UserNavbar = () => {
          <div className="user-navbar-center">
          </div>
 
-         <div className="user-navbar-option">
-            <Link to="/dashboard">Dashboard</Link>
-         </div>
-         <div className="user-navbar-option">
-            <Link to="/news-logged-in">News</Link>
-         </div>
-         <div className="user-navbar-option">
-            <Link to="/settings">Settings</Link>
-         </div>
-         <div className="user-navbar-option">
-            <Link to="/service-request">Help</Link>
-         </div>
-         <div className="user-navbar-option">
-            <Link to="/">Logout</Link>
-         </div>
+         <Link className="user-navbar-option" to="/dashboard">Dashboard</Link>
+         
+         <Link className="user-navbar-option" to="/news-logged-in">News</Link>
+
+         <Link className="user-navbar-option" to="/settings">Settings</Link>
+         
+         <Link className="user-navbar-option" to="/service-request">Help</Link>
+         
+         <Link className="user-navbar-option" to="/">Logout</Link>
+         
       </div>
    );
 };
