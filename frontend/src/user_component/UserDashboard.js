@@ -117,13 +117,13 @@ const UserDashboard = () => {
       fetchUserH();
    }, []);
 
-   
+
 
    const getCurrentPrice = (symbol, stockDetails) => {
       const stock = stockDetails.find((stock) => stock.Symbol === symbol);
       return stock ? parseFloat(stock.Price) : 0; // Return price or 0 if not found
-  };
-  
+   };
+
 
    return (
       <>
@@ -192,9 +192,9 @@ const UserDashboard = () => {
                      );
                   })}
                </div>
-               </div>
-               {/* Transaction History */}
-               <div className="activity-card holdings">
+            </div>
+            {/* Transaction History */}
+            <div className="activity-card holdings">
                <h3>Holdings</h3>
                <table>
                   <thead>
@@ -273,34 +273,34 @@ const UserDashboard = () => {
                         })}
                   </tbody>
                </table>
-               </div>
-               <div className="activity-card watch-list">
-                  <h3>Watch List</h3>
-                  <table className="watch-list-table">
-                     <thead>
-                        <tr>
-                           <th>Stock</th>
-                           <th>Company</th>
-                           <th>Current Price</th>
-                        </tr>
-                     </thead>
-                     <tbody>
-                        {watchList.map((item, index) => (
-                           <tr
-                              key={index}
-                              onClick={() => handleRowClick(item.Company)} // Make sure this triggers the handleRowClick method
-                              style={{ cursor: "pointer" }}
-                           >
-                              <td>{item.Stock}</td>
-                              <td>{item.Company}</td>
-                              <td>${parseFloat(item.Price)}</td>
-                           </tr>
-                        ))}
-                     </tbody>
-                  </table>
-               </div>
-               
             </div>
+            <div className="activity-card watch-list">
+               <h3>Watch List</h3>
+               <table className="watch-list-table">
+                  <thead>
+                     <tr>
+                        <th>Stock</th>
+                        <th>Company</th>
+                        <th>Current Price</th>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     {watchList.map((item, index) => (
+                        <tr
+                           key={index}
+                           onClick={() => handleRowClick(item.Company)} // Make sure this triggers the handleRowClick method
+                           style={{ cursor: "pointer" }}
+                        >
+                           <td>{item.Stock}</td>
+                           <td>{item.Company}</td>
+                           <td>${parseFloat(item.Price)}</td>
+                        </tr>
+                     ))}
+                  </tbody>
+               </table>
+            </div>
+
+         </div>
       </>
    );
 };

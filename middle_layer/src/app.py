@@ -21,19 +21,19 @@ from classes.DataBase import DataBase
 import os
 
 app = Flask(__name__)
-CORS(app, resources={r"/*": {"origins": "http://localhost:3000"}},
+CORS(app, resources={r"/*": {"origins": "http://127.0.0.1:3000"}},
      allow_headers=["Content-Type", "Authorization"],
      methods=["GET", "POST", "PUT", "DELETE", "OPTIONS"],
      supports_credentials=True)
 
-CORS(portfolio, resources={r"/*": {"origins": "http://localhost:3000"}})
-CORS(stock_manipulation, resources={r"/*": {"origins": "http://localhost:3000"}})
-CORS(stock_price, resources={r"/*": {"origins": "http://localhost:3000"}})
-CORS(transaction_history, resources={r"/*": {"origins": "http://localhost:3000"}})
-CORS(user_balance, resources={r"/user_b/*": {"origins": "http://localhost:3000"}})
-CORS(user_manipulation, resources={r"/*": {"origins": "http://localhost:3000"}})
-CORS(admin_connection_bp, resources={r"/*": {"origins": "http://localhost:3000"}})
-CORS(perfomance_bp, resources={r"/*": {"origins": "http://localhost:3000"}})
+CORS(portfolio, resources={r"/*": {"origins": "http://127.0.0.1:3000"}})
+CORS(stock_manipulation, resources={r"/*": {"origins": "http://127.0.0.1:3000"}})
+CORS(stock_price, resources={r"/*": {"origins": "http://127.0.0.1:3000"}})
+CORS(transaction_history, resources={r"/*": {"origins": "http://127.0.0.1:3000"}})
+CORS(user_balance, resources={r"/user_b/*": {"origins": "http://127.0.0.1:3000"}})
+CORS(user_manipulation, resources={r"/*": {"origins": "http://127.0.0.1:3000"}})
+CORS(admin_connection_bp, resources={r"/*": {"origins": "http://127.0.0.1:3000"}})
+CORS(perfomance_bp, resources={r"/*": {"origins": "http://127.0.0.1:3000"}})
 
 @app.route('/test_db_connection', methods=['GET'])
 def testdb():
@@ -55,4 +55,4 @@ app.register_blueprint(logs_bp)
 
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=False)

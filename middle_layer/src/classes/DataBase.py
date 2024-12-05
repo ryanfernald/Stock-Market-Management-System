@@ -44,15 +44,13 @@ class DataBase:
     def close_db(self):
         try:
             if self.cursor:
-                self.cursor.close()
-                print("Database cursor closed.")
+                self.cursor.close()       
         except Exception as e:
             print(f"Error closing cursor: {e}")
 
         try:
             if self.connection:
                 self.connection.close()
-                print("Database connection closed.")
         except Exception as e:
             print(f"Error closing connection: {e}")
 
@@ -151,6 +149,7 @@ class DataBase:
         """
         self.cursor.execute(portfolio_query, (user_id,))
         transactions = self.cursor.fetchall()
+        print(transactions)
 
         portfolio = {}
         for ticker_symbol, order_type, quantity, price_purchased in transactions:
