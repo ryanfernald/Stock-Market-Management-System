@@ -7,6 +7,7 @@ import os
 import pandas as pd
 import requests
 from io import StringIO
+from mysql.connector import Error
 
 class DataBase:
 
@@ -482,11 +483,6 @@ class DataBase:
 
     def admin_insertion(self, TableName, data):
         cursor,conn=self.connect_to_db()
-
-        if not conn.is_connected():
-                print("Reconnecting to the database...")
-                conn.reconnect()
-                cursor = conn.cursor()
         columns = ', '.join(data.keys())
         values = ', '.join(f"'{v}'" for v in data.values())
         query = f"INSERT INTO {TableName} ({columns}) VALUES ({values})"
@@ -500,10 +496,6 @@ class DataBase:
     def admin_table_fetch(self, TableName):
         cursor,conn=self.connect_to_db()
 
-        if not conn.is_connected():
-                print("Reconnecting to the database...")
-                conn.reconnect()
-                cursor = conn.cursor()
         query = f"""
                     SELECT *
                     FROM {TableName}
@@ -518,11 +510,6 @@ class DataBase:
     # admin fetch tables
     def admin_table_fetch_manip(self, TableName):
         cursor,conn=self.connect_to_db()
-        if not conn.is_connected():
-            print("Reconnecting to the database...")
-            conn.reconnect()
-            cursor = conn.cursor()
-
         query = f"SELECT * FROM {TableName}"
 
         # Execute the query
@@ -561,10 +548,10 @@ class DataBase:
     def admin_fetch_log(self):
         cursor,conn=self.connect_to_db()
         # Check if the connection or cursor is closed and reinitialize if needed
-        if not conn.is_connected():
-            print("Reconnecting to the database...")
-            conn.reconnect()
-            cursor = conn.cursor()
+        # if not conn.is_connected():
+        #     print("Reconnecting to the database...")
+        #     conn.reconnect()
+        #     cursor = conn.cursor()
 
         # Execute the query
         cursor.execute("SELECT * FROM Log ORDER BY operation_time DESC")
@@ -741,3 +728,27 @@ class DataBase:
             json.dump(data, json_file, indent=4)
         print(f"JSON saved to {file_path}")
         self.close_db(cursor,conn)
+
+    def Admin_performance(self):
+        cursor,conn=self.connect_to_db()
+        #cursor = db.get_courser()  # Get a new cursor with dictionary format
+        
+        # Query for table size
+        query = """
+            SELECT 
+                table_name AS 'Table',
+                ROUND(((data_length + index_length) / 1024 / 1024), 2) AS 'Size_MB'
+            FROM 
+                information_schema.TABLES 
+            WHERE 
+                table_schema = %s
+            ORDER BY 
+                (data_length + index_length) DESC
+            LIMIT 10;
+        """
+        cursor.execute(query, (self.database,))
+        results = cursor.fetchall()
+        self.close_db(cursor, conn)
+        return jsonify(results)  # Return raw data
+    
+        

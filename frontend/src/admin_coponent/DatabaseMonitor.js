@@ -6,31 +6,42 @@ function DatabaseMonitor() {
     const [error, setError] = useState(null);
 
     useEffect(() => {
-        // Fetch performance data every 10 seconds
         const fetchMetrics = () => {
-            fetch('http://127.0.0.1:5000/api/performance')
-                .then((response) => response.json())
+            fetch('http://127.0.0.1:5000/api/performance', {
+                method: 'GET',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+            })
+                .then((response) => {
+                    if (!response.ok) {
+                        throw new Error(`HTTP error! status: ${response.status}`);
+                    }
+                    return response.json();
+                })
                 .then((data) => {
-                    console.log("Fetched data:", data); // Log the fetched data structure
-                    if (Array.isArray(data)) {
+                    console.log("Fetched data:", data); // Log the fetched data
+
+                    // Ensure the data is an array of arrays
+                    if (Array.isArray(data) && data.every(item => Array.isArray(item) && item.length === 2)) {
                         setMetrics(data);
                         setError(null); // Clear any previous errors
                     } else {
-                        console.error("Data is not in the expected array format:", data);
+                        console.error("Unexpected data format received:", data);
                         setMetrics([]);
                         setError("Unexpected data format received.");
                     }
                     setLoading(false);
                 })
                 .catch((error) => {
-                    console.error("Error fetching database metrics:", error);
+                    console.error("Fetch error:", error.message);
                     setLoading(false);
                     setError("Failed to fetch database metrics. Please try again later.");
                 });
         };
 
         fetchMetrics();
-        const interval = setInterval(fetchMetrics, 36000000); // Fetch hour
+        const interval = setInterval(fetchMetrics, 3600000); // Fetch every hour
 
         return () => clearInterval(interval); // Cleanup on component unmount
     }, []);
@@ -60,7 +71,7 @@ function DatabaseMonitor() {
                         {metrics.map((metric, index) => (
                             <tr key={index}>
                                 <td>{metric[0]}</td> {/* Table name */}
-                                <td>{metric[1]}</td> {/* Size_MB */}
+                                <td>{metric[1]}</td> {/* Size (MB) */}
                             </tr>
                         ))}
                     </tbody>

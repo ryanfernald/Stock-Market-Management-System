@@ -16,24 +16,28 @@ from router.admin_connections_router import admin_connection_bp
 # import the example "blueprint" from the router folder to include the route in the main application
 from router.example_router import example
 from router.admin_connections_router import admin_connection_bp
-
+from router.AdminFetch_route import admin_fetch_bp
 from classes.DataBase import DataBase
 import os
 
 app = Flask(__name__)
-CORS(app, resources={r"/*": {"origins": "http://127.0.0.1:3000"}},
+CORS(app, resources={r"/*": {"origins": ["http://localhost:3000", "http://another-origin.com"]}},
      allow_headers=["Content-Type", "Authorization"],
      methods=["GET", "POST", "PUT", "DELETE", "OPTIONS"],
      supports_credentials=True)
 
-CORS(portfolio, resources={r"/*": {"origins": "http://127.0.0.1:3000"}})
-CORS(stock_manipulation, resources={r"/*": {"origins": "http://127.0.0.1:3000"}})
-CORS(stock_price, resources={r"/*": {"origins": "http://127.0.0.1:3000"}})
-CORS(transaction_history, resources={r"/*": {"origins": "http://127.0.0.1:3000"}})
-CORS(user_balance, resources={r"/user_b/*": {"origins": "http://127.0.0.1:3000"}})
-CORS(user_manipulation, resources={r"/*": {"origins": "http://127.0.0.1:3000"}})
-CORS(admin_connection_bp, resources={r"/*": {"origins": "http://127.0.0.1:3000"}})
-CORS(perfomance_bp, resources={r"/*": {"origins": "http://127.0.0.1:3000"}})
+CORS(portfolio, resources={r"/*": {"origins": ["http://localhost:3000", "http://127.0.0.1:3000"]}})
+CORS(stock_manipulation, resources={r"/*": {"origins": ["http://localhost:3000", "http://127.0.0.1:3000"]}})
+CORS(stock_price, resources={r"/*": {"origins": ["http://localhost:3000", "http://127.0.0.1:3000"]}})
+CORS(transaction_history, resources={r"/*": {"origins": ["http://localhost:3000", "http://127.0.0.1:3000"]}})
+CORS(user_balance, resources={r"/user_b/*": {"origins": ["http://localhost:3000", "http://127.0.0.1:3000"]}})
+CORS(user_manipulation, resources={r"/*": {"origin``s": ["http://localhost:3000", "http://127.0.0.1:3000"]}})
+CORS(admin_connection_bp, resources={r"/*": {"origin``s": ["http://localhost:3000", "http://127.0.0.1:3000"]}})
+from flask_cors import CORS
+
+CORS(perfomance_bp, resources={r"/*": {"origins": ["http://localhost:3000", "http://127.0.0.1:3000"]}})
+
+CORS(admin_fetch_bp)
 
 @app.route('/test_db_connection', methods=['GET'])
 def testdb():
@@ -50,7 +54,7 @@ app.register_blueprint(user_manipulation, url_prefix='/user_m')
 app.register_blueprint(admin_connection_bp, url_prefix='/Admin')
 app.register_blueprint(perfomance_bp)
 app.register_blueprint(logs_bp)
-
+app.register_blueprint(admin_fetch_bp)
 
 
 

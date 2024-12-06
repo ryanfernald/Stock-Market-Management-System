@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useCallback } from 'react';
 import AdminNavbar from './admin_nav.js'; // Import Admin Navbar
 import './styling/AdminTableManip.css';
 
@@ -9,30 +9,37 @@ const AdminTableManip = () => {
     const [activeTab, setActiveTab] = useState('delete'); // Default to deletion mode
     const [formData, setFormData] = useState({}); // For insertion
 
+    // Update the static table options to reflect the new schema
     const tableOptions = {
-        'User': ['user_id', 'first_name', 'last_name', 'email'],
+        'User': ['user_id', 'email'],
+        'UserData': ['email', 'first_name', 'last_name'],
+        'Sector': ['sector_id', 'sector_name'],
         'Stock': ['ticker_symbol', 'sector_id'],
+        'StockPrice': ['ticker_symbol', 'price', 'time_posted'],
         'MarketOrder': ['order_id', 'user_id', 'ticker_symbol', 'price_purchased', 'quantity', 'purchase_date', 'order_type'],
+        'UserBalance': ['user_id', 'balance_usd'],
         'FundsDeposit': ['deposit_id', 'user_id', 'amount', 'time_initiated', 'cleared'],
         'FundsWithdraw': ['withdraw_id', 'user_id', 'amount', 'time_initiated', 'cleared'],
-        'StockPrice': ['ticker_symbol', 'price', 'time_posted'],
+        'Watchlist': ['user_id', 'ticker_symbol'],
+        'News': ['news_id', 'news_content', 'time_posted'],
+        'SavedNews': ['user_id', 'news_id'],
+        'Log': ['log_id', 'table_name', 'operation', 'affected_row_id', 'operation_time', 'user_id', 'details', 'op_status'],
     };
 
-    // Fetch table data from backend
-    const fetchTableData = async () => {
+    // Fetch table data from the backend
+    const fetchTableData = useCallback(async () => {
         if (!selectedTable) return;
-    
+
         try {
-            const response = await fetch(`http://127.0.0.1:5000/fetch_table?tableName=${selectedTable}`);
+            const response = await fetch(`http://127.0.0.1:5000/fetch_table?tableName=${selectedTable}`, {
+                method: 'GET',
+                headers: { 'Content-Type': 'application/json' },
+            });
+
             if (response.ok) {
                 const data = await response.json();
-                if (data.length > 0) {
-                    setColumns(Object.keys(data[0]));
-                    setTableData(data);
-                } else {
-                    setColumns([]);
-                    setTableData([]);
-                }
+                setTableData(data);
+                setColumns(Object.keys(data[0] || {})); // Extract columns dynamically
             } else {
                 const error = await response.json();
                 alert(error.error || 'Error fetching table data');
@@ -40,25 +47,31 @@ const AdminTableManip = () => {
         } catch (error) {
             console.error('Error fetching table data:', error.message);
         }
-    };
+    }, [selectedTable]);
 
     // Handle table selection
     const handleTableChange = (e) => {
         const table = e.target.value;
         setSelectedTable(table);
+        setColumns(tableOptions[table]); // Set columns based on the selected table
         setFormData({});
         fetchTableData(); // Fetch data when table changes
     };
 
-    // Handle insertion input change
+    // Handle input change for insertion
     const handleInputChange = (e) => {
         const { name, value } = e.target;
         setFormData((prevData) => ({ ...prevData, [name]: value }));
     };
 
-    // Submit new data to backend
+    // Submit new data to the backend
     const handleInsert = async (e) => {
         e.preventDefault();
+
+        if (!selectedTable || Object.keys(formData).length === 0) {
+            alert('Please fill out the form completely.');
+            return;
+        }
 
         try {
             const payload = {
@@ -85,18 +98,20 @@ const AdminTableManip = () => {
         }
     };
 
-    // Delete row from backend
+    // Handle row deletion
     const handleDeleteRow = async (row) => {
         const confirmDelete = window.confirm(`Are you sure you want to delete this row?`);
         if (!confirmDelete) return;
-
+    
+        console.log('Deleting row:', row); // Debug: Log row data
+    
         try {
             const response = await fetch('http://127.0.0.1:5000/delete_row', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({ tableName: selectedTable, row }),
             });
-
+    
             if (response.ok) {
                 alert('Row deleted successfully!');
                 fetchTableData(); // Refresh table data after deletion
@@ -109,15 +124,14 @@ const AdminTableManip = () => {
         }
     };
 
-    // Automatically fetch data when the table is selected
     useEffect(() => {
         if (selectedTable) {
             fetchTableData();
         }
-    }, [selectedTable]);
+    }, [selectedTable, fetchTableData]); // Added fetchTableData as a dependency
 
     return (
-        <div className='admin-container'>
+        <div className="admin-container">
             <AdminNavbar />
             <h2>Admin Table Management</h2>
 
@@ -146,7 +160,7 @@ const AdminTableManip = () => {
 
                 {activeTab === 'insert' && (
                     <form className="insert-form" onSubmit={handleInsert}>
-                        {selectedTable && tableOptions[selectedTable].map((field) => (
+                        {columns.map((field) => (
                             <input
                                 key={field}
                                 type="text"

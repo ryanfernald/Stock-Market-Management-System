@@ -17,5 +17,4 @@ def fetch_logs():
     except Exception as e:
         print(f"Error in admin_fetch_log: {e}")
         return jsonify({"error": str(e)}), 500
-    finally:
-        db.close()
+    

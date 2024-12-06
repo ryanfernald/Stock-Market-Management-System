@@ -45,10 +45,15 @@ async function syncFirebaseUsersWithDB() {
       if (rows.length === 0) {
         // Insert user into the database if they don't exist
         await db.query(
-          'INSERT INTO User (user_id, email, first_name, last_name) VALUES (?, ?, ?, ?)',
-          [userId, email, firstName, lastName]
+          'INSERT INTO User (user_id, email) VALUES (?, ?)',
+          [userId, email]
         );
-        console.log(`Added user ${userId} (${email}) to the database.`);
+        // insert the users email into the usersData table
+        await db.query(
+          'INSERT INTO UserData (email,first_name, last_name) VALUES (?, ?, ?)',
+          [email, firstName, lastName]
+        ); 
+        console.log(`Added user ${userId} (${email}) to the database.   Added User info to UserData table!`);
       } else {
         console.log(`User ${userId} (${email}) already exists in the database.`);
       }
