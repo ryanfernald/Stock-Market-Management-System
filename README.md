@@ -106,6 +106,7 @@ This Flask server will allow us to handle API requests from the frontend, to con
 First, navigate to the middle layer directory by running:
 
 ```bash
+brew install pkg-config
 cd STOCK-MARKET-MANAGEMENT-SYSTEM/middle_layer
 pip install -r requirements.txt
 ```
