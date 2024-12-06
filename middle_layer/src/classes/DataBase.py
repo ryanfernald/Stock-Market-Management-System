@@ -517,6 +517,7 @@ class DataBase:
 
     # admin fetch tables
     def admin_table_fetch_manip(self, TableName):
+        cursor,conn=self.connect_to_db()
         if not conn.is_connected():
             print("Reconnecting to the database...")
             conn.reconnect()
@@ -538,6 +539,7 @@ class DataBase:
 
     # admin table row deletion
     def admin_table_row_deletion(self, TableName, data_name, data_value):
+        cursor,conn=self.connect_to_db()
         if not conn.is_connected():
                 print("Reconnecting to the database...")
                 conn.reconnect()
@@ -557,6 +559,7 @@ class DataBase:
 
     #function for acessing logs
     def admin_fetch_log(self):
+        cursor,conn=self.connect_to_db()
         # Check if the connection or cursor is closed and reinitialize if needed
         if not conn.is_connected():
             print("Reconnecting to the database...")
