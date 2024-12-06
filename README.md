@@ -124,6 +124,12 @@ Create an .env file that is under `STOCK-MARKET-MANAGEMENT-SYSTEM/middle_layer` 
 Replace `{YOUR_DB_PW}` with your database password and `{YOUR_DB_NAME}` with the name of your database (e.g., YHFinance if you followed the earlier instructions).
 
 ### Step 3
+Run main_fetch.py to populate db with historical stock prices.
+```bash
+python src/main_fetch.py
+```
+
+### Step 4
 With everything set up, it’s time to get the backend running. Run the following command:
 
 ```bash
