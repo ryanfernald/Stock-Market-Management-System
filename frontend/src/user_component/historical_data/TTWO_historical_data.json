@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "TTWO",
-        "price": 156.27,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "TTWO",
-        "price": 156.68,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "TTWO",
-        "price": 157.01,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "TTWO",
-        "price": 158.2,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "TTWO",
-        "price": 157.84,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "TTWO",
-        "price": 157.56,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "TTWO",
-        "price": 156.76,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "TTWO",
         "price": 157.32,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "TTWO",
         "price": 187.85,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "TTWO",
+        "price": 185.56,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "TTWO",
+        "price": 188.38,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "TTWO",
+        "price": 187.95,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "TTWO",
+        "price": 188.06,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "TTWO",
+        "price": 188.2,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "TTWO",
+        "price": 190.03,
+        "time_posted": "2024-12-05"
     }
 ]

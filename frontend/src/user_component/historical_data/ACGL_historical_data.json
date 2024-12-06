@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "ACGL",
-        "price": 82.73,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "ACGL",
-        "price": 80.3,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "ACGL",
-        "price": 78.34,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "ACGL",
-        "price": 79.58,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "ACGL",
-        "price": 78.57,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "ACGL",
-        "price": 77.96,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "ACGL",
-        "price": 77.83,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "ACGL",
         "price": 76.04,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "ACGL",
         "price": 100.41,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "ACGL",
+        "price": 100.74,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "ACGL",
+        "price": 100.72,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "ACGL",
+        "price": 99.3,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "ACGL",
+        "price": 99.53,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "ACGL",
+        "price": 98.48,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "ACGL",
+        "price": 98.49,
+        "time_posted": "2024-12-05"
     }
 ]

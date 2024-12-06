@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "WFC",
-        "price": 41.91,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "WFC",
-        "price": 42.25,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "WFC",
-        "price": 42.65,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "WFC",
-        "price": 43.44,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "WFC",
-        "price": 43.86,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "WFC",
-        "price": 43.96,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "WFC",
-        "price": 43.34,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "WFC",
         "price": 43.35,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "WFC",
         "price": 77.35,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "WFC",
+        "price": 77.21,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "WFC",
+        "price": 76.17,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "WFC",
+        "price": 75.28,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "WFC",
+        "price": 74.14,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "WFC",
+        "price": 73.06,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "WFC",
+        "price": 73.66,
+        "time_posted": "2024-12-05"
     }
 ]

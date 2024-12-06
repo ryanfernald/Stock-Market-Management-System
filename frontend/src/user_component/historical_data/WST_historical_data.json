@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "WST",
-        "price": 353.06,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "WST",
-        "price": 351.58,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "WST",
-        "price": 348.09,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "WST",
-        "price": 349.93,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "WST",
-        "price": 350.95,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "WST",
-        "price": 350.05,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "WST",
-        "price": 342.65,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "WST",
         "price": 342.11,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "WST",
         "price": 319.35,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "WST",
+        "price": 323.32,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "WST",
+        "price": 325.68,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "WST",
+        "price": 322.65,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "WST",
+        "price": 321.89,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "WST",
+        "price": 321.08,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "WST",
+        "price": 318.2,
+        "time_posted": "2024-12-05"
     }
 ]

@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "CPB",
-        "price": 39.52,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "CPB",
-        "price": 39.14,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "CPB",
-        "price": 38.49,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "CPB",
-        "price": 38.89,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "CPB",
-        "price": 39.3,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "CPB",
-        "price": 39.7,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "CPB",
-        "price": 39.08,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "CPB",
         "price": 41.85,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "CPB",
         "price": 46.6,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "CPB",
+        "price": 46.07,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "CPB",
+        "price": 46.2,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "CPB",
+        "price": 46.23,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "CPB",
+        "price": 45.53,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "CPB",
+        "price": 42.69,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "CPB",
+        "price": 42.63,
+        "time_posted": "2024-12-05"
     }
 ]

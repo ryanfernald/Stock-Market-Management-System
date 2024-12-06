@@ -1,1267 +1,1262 @@
 [
     {
         "ticker_symbol": "CI",
-        "price": 281.49,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "CI",
-        "price": 281.31,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "CI",
-        "price": 258.49,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "CI",
-        "price": 258.5,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "CI",
-        "price": 264.54,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "CI",
-        "price": 258.53,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "CI",
-        "price": 254.68,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "CI",
-        "price": 254.39,
+        "price": 253.33,
         "time_posted": "2023-12-06"
     },
     {
         "ticker_symbol": "CI",
-        "price": 254.83,
+        "price": 253.77,
         "time_posted": "2023-12-07"
     },
     {
         "ticker_symbol": "CI",
-        "price": 255.68,
+        "price": 254.62,
         "time_posted": "2023-12-08"
     },
     {
         "ticker_symbol": "CI",
-        "price": 298.33,
+        "price": 297.09,
         "time_posted": "2023-12-11"
     },
     {
         "ticker_symbol": "CI",
-        "price": 293.14,
+        "price": 291.91,
         "time_posted": "2023-12-12"
     },
     {
         "ticker_symbol": "CI",
-        "price": 293.6,
+        "price": 292.38,
         "time_posted": "2023-12-13"
     },
     {
         "ticker_symbol": "CI",
-        "price": 295.04,
+        "price": 293.81,
         "time_posted": "2023-12-14"
     },
     {
         "ticker_symbol": "CI",
-        "price": 287.0,
+        "price": 285.8,
         "time_posted": "2023-12-15"
     },
     {
         "ticker_symbol": "CI",
-        "price": 288.55,
+        "price": 287.35,
         "time_posted": "2023-12-18"
     },
     {
         "ticker_symbol": "CI",
-        "price": 290.78,
+        "price": 289.56,
         "time_posted": "2023-12-19"
     },
     {
         "ticker_symbol": "CI",
-        "price": 292.29,
+        "price": 291.07,
         "time_posted": "2023-12-20"
     },
     {
         "ticker_symbol": "CI",
-        "price": 293.66,
+        "price": 292.43,
         "time_posted": "2023-12-21"
     },
     {
         "ticker_symbol": "CI",
-        "price": 294.5,
+        "price": 293.27,
         "time_posted": "2023-12-22"
     },
     {
         "ticker_symbol": "CI",
-        "price": 296.51,
+        "price": 295.27,
         "time_posted": "2023-12-26"
     },
     {
         "ticker_symbol": "CI",
-        "price": 295.54,
+        "price": 294.3,
         "time_posted": "2023-12-27"
     },
     {
         "ticker_symbol": "CI",
-        "price": 295.8,
+        "price": 294.56,
         "time_posted": "2023-12-28"
     },
     {
         "ticker_symbol": "CI",
-        "price": 295.85,
+        "price": 294.61,
         "time_posted": "2023-12-29"
     },
     {
         "ticker_symbol": "CI",
-        "price": 306.37,
+        "price": 305.09,
         "time_posted": "2024-01-02"
     },
     {
         "ticker_symbol": "CI",
-        "price": 300.0,
+        "price": 298.75,
         "time_posted": "2024-01-03"
     },
     {
         "ticker_symbol": "CI",
-        "price": 302.53,
+        "price": 301.27,
         "time_posted": "2024-01-04"
     },
     {
         "ticker_symbol": "CI",
-        "price": 309.81,
+        "price": 308.52,
         "time_posted": "2024-01-05"
     },
     {
         "ticker_symbol": "CI",
-        "price": 309.85,
+        "price": 308.56,
         "time_posted": "2024-01-08"
     },
     {
         "ticker_symbol": "CI",
-        "price": 309.1,
+        "price": 307.81,
         "time_posted": "2024-01-09"
     },
     {
         "ticker_symbol": "CI",
-        "price": 304.02,
+        "price": 302.74,
         "time_posted": "2024-01-10"
     },
     {
         "ticker_symbol": "CI",
-        "price": 303.69,
+        "price": 302.42,
         "time_posted": "2024-01-11"
     },
     {
         "ticker_symbol": "CI",
-        "price": 301.34,
+        "price": 300.08,
         "time_posted": "2024-01-12"
     },
     {
         "ticker_symbol": "CI",
-        "price": 303.24,
+        "price": 301.98,
         "time_posted": "2024-01-16"
     },
     {
         "ticker_symbol": "CI",
-        "price": 304.77,
+        "price": 303.49,
         "time_posted": "2024-01-17"
     },
     {
         "ticker_symbol": "CI",
-        "price": 305.36,
+        "price": 304.08,
         "time_posted": "2024-01-18"
     },
     {
         "ticker_symbol": "CI",
-        "price": 298.42,
+        "price": 297.18,
         "time_posted": "2024-01-19"
     },
     {
         "ticker_symbol": "CI",
-        "price": 301.36,
+        "price": 300.1,
         "time_posted": "2024-01-22"
     },
     {
         "ticker_symbol": "CI",
-        "price": 300.74,
+        "price": 299.48,
         "time_posted": "2024-01-23"
     },
     {
         "ticker_symbol": "CI",
-        "price": 300.83,
+        "price": 299.58,
         "time_posted": "2024-01-24"
     },
     {
         "ticker_symbol": "CI",
-        "price": 294.98,
+        "price": 293.74,
         "time_posted": "2024-01-25"
     },
     {
         "ticker_symbol": "CI",
-        "price": 294.23,
+        "price": 293.0,
         "time_posted": "2024-01-26"
     },
     {
         "ticker_symbol": "CI",
-        "price": 295.28,
+        "price": 294.05,
         "time_posted": "2024-01-29"
     },
     {
         "ticker_symbol": "CI",
-        "price": 295.35,
+        "price": 294.12,
         "time_posted": "2024-01-30"
     },
     {
         "ticker_symbol": "CI",
-        "price": 297.33,
+        "price": 296.08,
         "time_posted": "2024-01-31"
     },
     {
         "ticker_symbol": "CI",
-        "price": 303.62,
+        "price": 302.35,
         "time_posted": "2024-02-01"
     },
     {
         "ticker_symbol": "CI",
-        "price": 319.94,
+        "price": 318.6,
         "time_posted": "2024-02-02"
     },
     {
         "ticker_symbol": "CI",
-        "price": 317.4,
+        "price": 316.08,
         "time_posted": "2024-02-05"
     },
     {
         "ticker_symbol": "CI",
-        "price": 323.64,
+        "price": 322.28,
         "time_posted": "2024-02-06"
     },
     {
         "ticker_symbol": "CI",
-        "price": 326.57,
+        "price": 325.21,
         "time_posted": "2024-02-07"
     },
     {
         "ticker_symbol": "CI",
-        "price": 328.29,
+        "price": 326.92,
         "time_posted": "2024-02-08"
     },
     {
         "ticker_symbol": "CI",
-        "price": 330.9,
+        "price": 329.51,
         "time_posted": "2024-02-09"
     },
     {
         "ticker_symbol": "CI",
-        "price": 333.19,
+        "price": 331.8,
         "time_posted": "2024-02-12"
     },
     {
         "ticker_symbol": "CI",
-        "price": 333.36,
+        "price": 331.96,
         "time_posted": "2024-02-13"
     },
     {
         "ticker_symbol": "CI",
-        "price": 334.53,
+        "price": 333.14,
         "time_posted": "2024-02-14"
     },
     {
         "ticker_symbol": "CI",
-        "price": 335.12,
+        "price": 333.72,
         "time_posted": "2024-02-15"
     },
     {
         "ticker_symbol": "CI",
-        "price": 336.98,
+        "price": 335.58,
         "time_posted": "2024-02-16"
     },
     {
         "ticker_symbol": "CI",
-        "price": 337.24,
+        "price": 335.83,
         "time_posted": "2024-02-20"
     },
     {
         "ticker_symbol": "CI",
-        "price": 339.25,
+        "price": 337.83,
         "time_posted": "2024-02-21"
     },
     {
         "ticker_symbol": "CI",
-        "price": 338.04,
+        "price": 336.63,
         "time_posted": "2024-02-22"
     },
     {
         "ticker_symbol": "CI",
-        "price": 340.1,
+        "price": 338.67,
         "time_posted": "2024-02-23"
     },
     {
         "ticker_symbol": "CI",
-        "price": 338.19,
+        "price": 336.78,
         "time_posted": "2024-02-26"
     },
     {
         "ticker_symbol": "CI",
-        "price": 336.64,
+        "price": 335.23,
         "time_posted": "2024-02-27"
     },
     {
         "ticker_symbol": "CI",
-        "price": 331.1,
+        "price": 329.71,
         "time_posted": "2024-02-28"
     },
     {
         "ticker_symbol": "CI",
-        "price": 332.09,
+        "price": 330.71,
         "time_posted": "2024-02-29"
     },
     {
         "ticker_symbol": "CI",
-        "price": 328.95,
+        "price": 327.58,
         "time_posted": "2024-03-01"
     },
     {
         "ticker_symbol": "CI",
-        "price": 332.75,
+        "price": 331.35,
         "time_posted": "2024-03-04"
     },
     {
         "ticker_symbol": "CI",
-        "price": 330.1,
+        "price": 328.72,
         "time_posted": "2024-03-05"
     },
     {
         "ticker_symbol": "CI",
-        "price": 337.13,
+        "price": 335.72,
         "time_posted": "2024-03-06"
     },
     {
         "ticker_symbol": "CI",
-        "price": 340.03,
+        "price": 338.61,
         "time_posted": "2024-03-07"
     },
     {
         "ticker_symbol": "CI",
-        "price": 339.08,
+        "price": 337.67,
         "time_posted": "2024-03-08"
     },
     {
         "ticker_symbol": "CI",
-        "price": 339.56,
+        "price": 338.14,
         "time_posted": "2024-03-11"
     },
     {
         "ticker_symbol": "CI",
-        "price": 341.22,
+        "price": 339.79,
         "time_posted": "2024-03-12"
     },
     {
         "ticker_symbol": "CI",
-        "price": 345.96,
+        "price": 344.51,
         "time_posted": "2024-03-13"
     },
     {
         "ticker_symbol": "CI",
-        "price": 346.74,
+        "price": 345.29,
         "time_posted": "2024-03-14"
     },
     {
         "ticker_symbol": "CI",
-        "price": 349.26,
+        "price": 347.8,
         "time_posted": "2024-03-15"
     },
     {
         "ticker_symbol": "CI",
-        "price": 349.84,
+        "price": 348.38,
         "time_posted": "2024-03-18"
     },
     {
         "ticker_symbol": "CI",
-        "price": 349.58,
+        "price": 348.12,
         "time_posted": "2024-03-19"
     },
     {
         "ticker_symbol": "CI",
-        "price": 351.03,
+        "price": 349.56,
         "time_posted": "2024-03-20"
     },
     {
         "ticker_symbol": "CI",
-        "price": 350.92,
+        "price": 349.45,
         "time_posted": "2024-03-21"
     },
     {
         "ticker_symbol": "CI",
-        "price": 349.0,
+        "price": 347.54,
         "time_posted": "2024-03-22"
     },
     {
         "ticker_symbol": "CI",
-        "price": 352.74,
+        "price": 351.26,
         "time_posted": "2024-03-25"
     },
     {
         "ticker_symbol": "CI",
-        "price": 354.9,
+        "price": 353.42,
         "time_posted": "2024-03-26"
     },
     {
         "ticker_symbol": "CI",
-        "price": 360.46,
+        "price": 358.96,
         "time_posted": "2024-03-27"
     },
     {
         "ticker_symbol": "CI",
-        "price": 360.32,
+        "price": 358.81,
         "time_posted": "2024-03-28"
     },
     {
         "ticker_symbol": "CI",
-        "price": 361.2,
+        "price": 359.69,
         "time_posted": "2024-04-01"
     },
     {
         "ticker_symbol": "CI",
-        "price": 360.22,
+        "price": 358.71,
         "time_posted": "2024-04-02"
     },
     {
         "ticker_symbol": "CI",
-        "price": 358.21,
+        "price": 356.71,
         "time_posted": "2024-04-03"
     },
     {
         "ticker_symbol": "CI",
-        "price": 357.52,
+        "price": 356.02,
         "time_posted": "2024-04-04"
     },
     {
         "ticker_symbol": "CI",
-        "price": 359.58,
+        "price": 358.08,
         "time_posted": "2024-04-05"
     },
     {
         "ticker_symbol": "CI",
-        "price": 355.15,
+        "price": 353.66,
         "time_posted": "2024-04-08"
     },
     {
         "ticker_symbol": "CI",
-        "price": 354.65,
+        "price": 353.17,
         "time_posted": "2024-04-09"
     },
     {
         "ticker_symbol": "CI",
-        "price": 355.01,
+        "price": 353.52,
         "time_posted": "2024-04-10"
     },
     {
         "ticker_symbol": "CI",
-        "price": 350.29,
+        "price": 348.82,
         "time_posted": "2024-04-11"
     },
     {
         "ticker_symbol": "CI",
-        "price": 347.07,
+        "price": 345.62,
         "time_posted": "2024-04-12"
     },
     {
         "ticker_symbol": "CI",
-        "price": 346.14,
+        "price": 344.69,
         "time_posted": "2024-04-15"
     },
     {
         "ticker_symbol": "CI",
-        "price": 344.1,
+        "price": 342.67,
         "time_posted": "2024-04-16"
     },
     {
         "ticker_symbol": "CI",
-        "price": 343.34,
+        "price": 341.91,
         "time_posted": "2024-04-17"
     },
     {
         "ticker_symbol": "CI",
-        "price": 346.02,
+        "price": 344.57,
         "time_posted": "2024-04-18"
     },
     {
         "ticker_symbol": "CI",
-        "price": 349.6,
+        "price": 348.14,
         "time_posted": "2024-04-19"
     },
     {
         "ticker_symbol": "CI",
-        "price": 350.38,
+        "price": 348.92,
         "time_posted": "2024-04-22"
     },
     {
         "ticker_symbol": "CI",
-        "price": 349.86,
+        "price": 348.4,
         "time_posted": "2024-04-23"
     },
     {
         "ticker_symbol": "CI",
-        "price": 349.49,
+        "price": 348.03,
         "time_posted": "2024-04-24"
     },
     {
         "ticker_symbol": "CI",
-        "price": 351.7,
+        "price": 350.23,
         "time_posted": "2024-04-25"
     },
     {
         "ticker_symbol": "CI",
-        "price": 351.66,
+        "price": 350.19,
         "time_posted": "2024-04-26"
     },
     {
         "ticker_symbol": "CI",
-        "price": 353.62,
+        "price": 352.14,
         "time_posted": "2024-04-29"
     },
     {
         "ticker_symbol": "CI",
-        "price": 354.21,
+        "price": 352.73,
         "time_posted": "2024-04-30"
     },
     {
         "ticker_symbol": "CI",
-        "price": 354.35,
+        "price": 352.87,
         "time_posted": "2024-05-01"
     },
     {
         "ticker_symbol": "CI",
-        "price": 341.77,
+        "price": 340.34,
         "time_posted": "2024-05-02"
     },
     {
         "ticker_symbol": "CI",
-        "price": 338.8,
+        "price": 337.38,
         "time_posted": "2024-05-03"
     },
     {
         "ticker_symbol": "CI",
-        "price": 339.7,
+        "price": 338.28,
         "time_posted": "2024-05-06"
     },
     {
         "ticker_symbol": "CI",
-        "price": 343.96,
+        "price": 342.52,
         "time_posted": "2024-05-07"
     },
     {
         "ticker_symbol": "CI",
-        "price": 344.6,
+        "price": 343.16,
         "time_posted": "2024-05-08"
     },
     {
         "ticker_symbol": "CI",
-        "price": 348.19,
+        "price": 346.74,
         "time_posted": "2024-05-09"
     },
     {
         "ticker_symbol": "CI",
-        "price": 345.63,
+        "price": 344.19,
         "time_posted": "2024-05-10"
     },
     {
         "ticker_symbol": "CI",
-        "price": 346.38,
+        "price": 344.93,
         "time_posted": "2024-05-13"
     },
     {
         "ticker_symbol": "CI",
-        "price": 343.68,
+        "price": 342.24,
         "time_posted": "2024-05-14"
     },
     {
         "ticker_symbol": "CI",
-        "price": 340.56,
+        "price": 339.14,
         "time_posted": "2024-05-15"
     },
     {
         "ticker_symbol": "CI",
-        "price": 336.57,
+        "price": 335.17,
         "time_posted": "2024-05-16"
     },
     {
         "ticker_symbol": "CI",
-        "price": 336.03,
+        "price": 334.62,
         "time_posted": "2024-05-17"
     },
     {
         "ticker_symbol": "CI",
-        "price": 330.73,
+        "price": 329.35,
         "time_posted": "2024-05-20"
     },
     {
         "ticker_symbol": "CI",
-        "price": 333.72,
+        "price": 332.32,
         "time_posted": "2024-05-21"
     },
     {
         "ticker_symbol": "CI",
-        "price": 333.81,
+        "price": 332.41,
         "time_posted": "2024-05-22"
     },
     {
         "ticker_symbol": "CI",
-        "price": 335.16,
+        "price": 333.76,
         "time_posted": "2024-05-23"
     },
     {
         "ticker_symbol": "CI",
-        "price": 329.98,
+        "price": 328.6,
         "time_posted": "2024-05-24"
     },
     {
         "ticker_symbol": "CI",
-        "price": 330.57,
+        "price": 329.19,
         "time_posted": "2024-05-28"
     },
     {
         "ticker_symbol": "CI",
-        "price": 330.29,
+        "price": 328.9,
         "time_posted": "2024-05-29"
     },
     {
         "ticker_symbol": "CI",
-        "price": 328.38,
+        "price": 327.01,
         "time_posted": "2024-05-30"
     },
     {
         "ticker_symbol": "CI",
-        "price": 341.89,
+        "price": 340.46,
         "time_posted": "2024-05-31"
     },
     {
         "ticker_symbol": "CI",
-        "price": 338.79,
+        "price": 337.37,
         "time_posted": "2024-06-03"
     },
     {
         "ticker_symbol": "CI",
-        "price": 335.77,
+        "price": 334.37,
         "time_posted": "2024-06-04"
     },
     {
         "ticker_symbol": "CI",
-        "price": 332.9,
+        "price": 331.51,
         "time_posted": "2024-06-05"
     },
     {
         "ticker_symbol": "CI",
-        "price": 336.62,
+        "price": 335.21,
         "time_posted": "2024-06-06"
     },
     {
         "ticker_symbol": "CI",
-        "price": 336.8,
+        "price": 335.4,
         "time_posted": "2024-06-07"
     },
     {
         "ticker_symbol": "CI",
-        "price": 337.35,
+        "price": 335.94,
         "time_posted": "2024-06-10"
     },
     {
         "ticker_symbol": "CI",
-        "price": 336.65,
+        "price": 335.24,
         "time_posted": "2024-06-11"
     },
     {
         "ticker_symbol": "CI",
-        "price": 334.76,
+        "price": 333.36,
         "time_posted": "2024-06-12"
     },
     {
         "ticker_symbol": "CI",
-        "price": 332.87,
+        "price": 331.48,
         "time_posted": "2024-06-13"
     },
     {
         "ticker_symbol": "CI",
-        "price": 332.01,
+        "price": 330.63,
         "time_posted": "2024-06-14"
     },
     {
         "ticker_symbol": "CI",
-        "price": 332.62,
+        "price": 331.23,
         "time_posted": "2024-06-17"
     },
     {
         "ticker_symbol": "CI",
-        "price": 333.52,
+        "price": 332.12,
         "time_posted": "2024-06-18"
     },
     {
         "ticker_symbol": "CI",
-        "price": 336.59,
+        "price": 335.18,
         "time_posted": "2024-06-20"
     },
     {
         "ticker_symbol": "CI",
-        "price": 338.68,
+        "price": 337.26,
         "time_posted": "2024-06-21"
     },
     {
         "ticker_symbol": "CI",
-        "price": 341.83,
+        "price": 340.4,
         "time_posted": "2024-06-24"
     },
     {
         "ticker_symbol": "CI",
-        "price": 337.5,
+        "price": 336.09,
         "time_posted": "2024-06-25"
     },
     {
         "ticker_symbol": "CI",
-        "price": 336.29,
+        "price": 334.88,
         "time_posted": "2024-06-26"
     },
     {
         "ticker_symbol": "CI",
-        "price": 332.87,
+        "price": 331.48,
         "time_posted": "2024-06-27"
     },
     {
         "ticker_symbol": "CI",
-        "price": 329.3,
+        "price": 327.93,
         "time_posted": "2024-06-28"
     },
     {
         "ticker_symbol": "CI",
-        "price": 325.02,
+        "price": 323.66,
         "time_posted": "2024-07-01"
     },
     {
         "ticker_symbol": "CI",
-        "price": 324.66,
+        "price": 323.3,
         "time_posted": "2024-07-02"
     },
     {
         "ticker_symbol": "CI",
-        "price": 324.18,
+        "price": 322.83,
         "time_posted": "2024-07-03"
     },
     {
         "ticker_symbol": "CI",
-        "price": 317.9,
+        "price": 316.57,
         "time_posted": "2024-07-05"
     },
     {
         "ticker_symbol": "CI",
-        "price": 322.54,
+        "price": 321.19,
         "time_posted": "2024-07-08"
     },
     {
         "ticker_symbol": "CI",
-        "price": 327.11,
+        "price": 325.74,
         "time_posted": "2024-07-09"
     },
     {
         "ticker_symbol": "CI",
-        "price": 328.65,
+        "price": 327.27,
         "time_posted": "2024-07-10"
     },
     {
         "ticker_symbol": "CI",
-        "price": 332.28,
+        "price": 330.89,
         "time_posted": "2024-07-11"
     },
     {
         "ticker_symbol": "CI",
-        "price": 333.51,
+        "price": 332.11,
         "time_posted": "2024-07-12"
     },
     {
         "ticker_symbol": "CI",
-        "price": 330.15,
+        "price": 328.77,
         "time_posted": "2024-07-15"
     },
     {
         "ticker_symbol": "CI",
-        "price": 338.41,
+        "price": 336.99,
         "time_posted": "2024-07-16"
     },
     {
         "ticker_symbol": "CI",
-        "price": 343.44,
+        "price": 342.0,
         "time_posted": "2024-07-17"
     },
     {
         "ticker_symbol": "CI",
-        "price": 339.22,
+        "price": 337.8,
         "time_posted": "2024-07-18"
     },
     {
         "ticker_symbol": "CI",
-        "price": 334.55,
+        "price": 333.15,
         "time_posted": "2024-07-19"
     },
     {
         "ticker_symbol": "CI",
-        "price": 334.5,
+        "price": 333.11,
         "time_posted": "2024-07-22"
     },
     {
         "ticker_symbol": "CI",
-        "price": 334.88,
+        "price": 333.48,
         "time_posted": "2024-07-23"
     },
     {
         "ticker_symbol": "CI",
-        "price": 340.9,
+        "price": 339.47,
         "time_posted": "2024-07-24"
     },
     {
         "ticker_symbol": "CI",
-        "price": 339.84,
+        "price": 338.42,
         "time_posted": "2024-07-25"
     },
     {
         "ticker_symbol": "CI",
-        "price": 342.32,
+        "price": 340.89,
         "time_posted": "2024-07-26"
     },
     {
         "ticker_symbol": "CI",
-        "price": 345.21,
+        "price": 343.77,
         "time_posted": "2024-07-29"
     },
     {
         "ticker_symbol": "CI",
-        "price": 351.42,
+        "price": 349.95,
         "time_posted": "2024-07-30"
     },
     {
         "ticker_symbol": "CI",
-        "price": 347.33,
+        "price": 345.88,
         "time_posted": "2024-07-31"
     },
     {
         "ticker_symbol": "CI",
-        "price": 331.33,
+        "price": 329.94,
         "time_posted": "2024-08-01"
     },
     {
         "ticker_symbol": "CI",
-        "price": 336.04,
+        "price": 334.63,
         "time_posted": "2024-08-02"
     },
     {
         "ticker_symbol": "CI",
-        "price": 324.46,
+        "price": 323.11,
         "time_posted": "2024-08-05"
     },
     {
         "ticker_symbol": "CI",
-        "price": 328.03,
+        "price": 326.66,
         "time_posted": "2024-08-06"
     },
     {
         "ticker_symbol": "CI",
-        "price": 327.75,
+        "price": 326.38,
         "time_posted": "2024-08-07"
     },
     {
         "ticker_symbol": "CI",
-        "price": 333.74,
+        "price": 332.34,
         "time_posted": "2024-08-08"
     },
     {
         "ticker_symbol": "CI",
-        "price": 334.85,
+        "price": 333.45,
         "time_posted": "2024-08-09"
     },
     {
         "ticker_symbol": "CI",
-        "price": 326.84,
+        "price": 325.48,
         "time_posted": "2024-08-12"
     },
     {
         "ticker_symbol": "CI",
-        "price": 331.45,
+        "price": 330.06,
         "time_posted": "2024-08-13"
     },
     {
         "ticker_symbol": "CI",
-        "price": 333.62,
+        "price": 332.22,
         "time_posted": "2024-08-14"
     },
     {
         "ticker_symbol": "CI",
-        "price": 335.41,
+        "price": 334.01,
         "time_posted": "2024-08-15"
     },
     {
         "ticker_symbol": "CI",
-        "price": 341.01,
+        "price": 339.58,
         "time_posted": "2024-08-16"
     },
     {
         "ticker_symbol": "CI",
-        "price": 341.02,
+        "price": 339.59,
         "time_posted": "2024-08-19"
     },
     {
         "ticker_symbol": "CI",
-        "price": 341.29,
+        "price": 339.86,
         "time_posted": "2024-08-20"
     },
     {
         "ticker_symbol": "CI",
-        "price": 341.09,
+        "price": 339.66,
         "time_posted": "2024-08-21"
     },
     {
         "ticker_symbol": "CI",
-        "price": 345.14,
+        "price": 343.7,
         "time_posted": "2024-08-22"
     },
     {
         "ticker_symbol": "CI",
-        "price": 352.63,
+        "price": 351.16,
         "time_posted": "2024-08-23"
     },
     {
         "ticker_symbol": "CI",
-        "price": 352.58,
+        "price": 351.11,
         "time_posted": "2024-08-26"
     },
     {
         "ticker_symbol": "CI",
-        "price": 352.53,
+        "price": 351.06,
         "time_posted": "2024-08-27"
     },
     {
         "ticker_symbol": "CI",
-        "price": 356.56,
+        "price": 355.07,
         "time_posted": "2024-08-28"
     },
     {
         "ticker_symbol": "CI",
-        "price": 359.68,
+        "price": 358.17,
         "time_posted": "2024-08-29"
     },
     {
         "ticker_symbol": "CI",
-        "price": 360.42,
+        "price": 358.92,
         "time_posted": "2024-08-30"
     },
     {
         "ticker_symbol": "CI",
-        "price": 364.08,
+        "price": 362.56,
         "time_posted": "2024-09-03"
     },
     {
         "ticker_symbol": "CI",
-        "price": 366.64,
+        "price": 365.11,
         "time_posted": "2024-09-04"
     },
     {
         "ticker_symbol": "CI",
-        "price": 355.12,
+        "price": 353.64,
         "time_posted": "2024-09-05"
     },
     {
         "ticker_symbol": "CI",
-        "price": 353.49,
+        "price": 352.01,
         "time_posted": "2024-09-06"
     },
     {
         "ticker_symbol": "CI",
-        "price": 357.61,
+        "price": 356.12,
         "time_posted": "2024-09-09"
     },
     {
         "ticker_symbol": "CI",
-        "price": 358.1,
+        "price": 356.6,
         "time_posted": "2024-09-10"
     },
     {
         "ticker_symbol": "CI",
-        "price": 357.78,
+        "price": 356.28,
         "time_posted": "2024-09-11"
     },
     {
         "ticker_symbol": "CI",
-        "price": 362.17,
+        "price": 360.66,
         "time_posted": "2024-09-12"
     },
     {
         "ticker_symbol": "CI",
-        "price": 364.72,
+        "price": 363.2,
         "time_posted": "2024-09-13"
     },
     {
         "ticker_symbol": "CI",
-        "price": 366.85,
+        "price": 365.32,
         "time_posted": "2024-09-16"
     },
     {
         "ticker_symbol": "CI",
-        "price": 356.23,
+        "price": 354.74,
         "time_posted": "2024-09-17"
     },
     {
         "ticker_symbol": "CI",
-        "price": 355.39,
+        "price": 353.9,
         "time_posted": "2024-09-18"
     },
     {
         "ticker_symbol": "CI",
-        "price": 357.26,
+        "price": 355.77,
         "time_posted": "2024-09-19"
     },
     {
         "ticker_symbol": "CI",
-        "price": 356.14,
+        "price": 354.65,
         "time_posted": "2024-09-20"
     },
     {
         "ticker_symbol": "CI",
-        "price": 354.94,
+        "price": 353.46,
         "time_posted": "2024-09-23"
     },
     {
         "ticker_symbol": "CI",
-        "price": 353.17,
+        "price": 351.69,
         "time_posted": "2024-09-24"
     },
     {
         "ticker_symbol": "CI",
-        "price": 348.86,
+        "price": 347.4,
         "time_posted": "2024-09-25"
     },
     {
         "ticker_symbol": "CI",
-        "price": 344.99,
+        "price": 343.55,
         "time_posted": "2024-09-26"
     },
     {
         "ticker_symbol": "CI",
-        "price": 347.7,
+        "price": 346.25,
         "time_posted": "2024-09-27"
     },
     {
         "ticker_symbol": "CI",
-        "price": 346.44,
+        "price": 344.99,
         "time_posted": "2024-09-30"
     },
     {
         "ticker_symbol": "CI",
-        "price": 348.09,
+        "price": 346.63,
         "time_posted": "2024-10-01"
     },
     {
         "ticker_symbol": "CI",
-        "price": 340.71,
+        "price": 339.29,
         "time_posted": "2024-10-02"
     },
     {
         "ticker_symbol": "CI",
-        "price": 340.56,
+        "price": 339.14,
         "time_posted": "2024-10-03"
     },
     {
         "ticker_symbol": "CI",
-        "price": 341.7,
+        "price": 340.27,
         "time_posted": "2024-10-04"
     },
     {
         "ticker_symbol": "CI",
-        "price": 340.27,
+        "price": 338.85,
         "time_posted": "2024-10-07"
     },
     {
         "ticker_symbol": "CI",
-        "price": 343.93,
+        "price": 342.49,
         "time_posted": "2024-10-08"
     },
     {
         "ticker_symbol": "CI",
-        "price": 346.72,
+        "price": 345.27,
         "time_posted": "2024-10-09"
     },
     {
         "ticker_symbol": "CI",
-        "price": 350.5,
+        "price": 349.03,
         "time_posted": "2024-10-10"
     },
     {
         "ticker_symbol": "CI",
-        "price": 350.3,
+        "price": 348.84,
         "time_posted": "2024-10-11"
     },
     {
         "ticker_symbol": "CI",
-        "price": 351.45,
+        "price": 349.98,
         "time_posted": "2024-10-14"
     },
     {
         "ticker_symbol": "CI",
-        "price": 348.84,
+        "price": 347.38,
         "time_posted": "2024-10-15"
     },
     {
         "ticker_symbol": "CI",
-        "price": 358.58,
+        "price": 357.08,
         "time_posted": "2024-10-16"
     },
     {
         "ticker_symbol": "CI",
-        "price": 353.12,
+        "price": 351.64,
         "time_posted": "2024-10-17"
     },
     {
         "ticker_symbol": "CI",
-        "price": 336.0,
+        "price": 334.6,
         "time_posted": "2024-10-18"
     },
     {
         "ticker_symbol": "CI",
-        "price": 320.23,
+        "price": 318.89,
         "time_posted": "2024-10-21"
     },
     {
         "ticker_symbol": "CI",
-        "price": 317.46,
+        "price": 316.13,
         "time_posted": "2024-10-22"
     },
     {
         "ticker_symbol": "CI",
-        "price": 317.57,
+        "price": 316.24,
         "time_posted": "2024-10-23"
     },
     {
         "ticker_symbol": "CI",
-        "price": 318.24,
+        "price": 316.91,
         "time_posted": "2024-10-24"
     },
     {
         "ticker_symbol": "CI",
-        "price": 316.85,
+        "price": 315.53,
         "time_posted": "2024-10-25"
     },
     {
         "ticker_symbol": "CI",
-        "price": 314.92,
+        "price": 313.6,
         "time_posted": "2024-10-28"
     },
     {
         "ticker_symbol": "CI",
-        "price": 308.23,
+        "price": 306.94,
         "time_posted": "2024-10-29"
     },
     {
         "ticker_symbol": "CI",
-        "price": 312.89,
+        "price": 311.58,
         "time_posted": "2024-10-30"
     },
     {
         "ticker_symbol": "CI",
-        "price": 314.81,
+        "price": 313.49,
         "time_posted": "2024-10-31"
     },
     {
         "ticker_symbol": "CI",
-        "price": 316.49,
+        "price": 315.17,
         "time_posted": "2024-11-01"
     },
     {
         "ticker_symbol": "CI",
-        "price": 312.32,
+        "price": 311.01,
         "time_posted": "2024-11-04"
     },
     {
         "ticker_symbol": "CI",
-        "price": 318.39,
+        "price": 317.06,
         "time_posted": "2024-11-05"
     },
     {
         "ticker_symbol": "CI",
-        "price": 315.22,
+        "price": 313.9,
         "time_posted": "2024-11-06"
     },
     {
         "ticker_symbol": "CI",
-        "price": 319.49,
+        "price": 318.15,
         "time_posted": "2024-11-07"
     },
     {
         "ticker_symbol": "CI",
-        "price": 319.77,
+        "price": 318.43,
         "time_posted": "2024-11-08"
     },
     {
         "ticker_symbol": "CI",
-        "price": 343.06,
+        "price": 341.63,
         "time_posted": "2024-11-11"
     },
     {
         "ticker_symbol": "CI",
-        "price": 339.87,
+        "price": 338.45,
         "time_posted": "2024-11-12"
     },
     {
         "ticker_symbol": "CI",
-        "price": 332.04,
+        "price": 330.65,
         "time_posted": "2024-11-13"
     },
     {
         "ticker_symbol": "CI",
-        "price": 323.88,
+        "price": 322.53,
         "time_posted": "2024-11-14"
     },
     {
         "ticker_symbol": "CI",
-        "price": 321.52,
+        "price": 320.18,
         "time_posted": "2024-11-15"
     },
     {
         "ticker_symbol": "CI",
-        "price": 322.45,
+        "price": 321.1,
         "time_posted": "2024-11-18"
     },
     {
         "ticker_symbol": "CI",
-        "price": 322.5,
+        "price": 321.15,
         "time_posted": "2024-11-19"
     },
     {
         "ticker_symbol": "CI",
-        "price": 323.39,
+        "price": 322.04,
         "time_posted": "2024-11-20"
     },
     {
         "ticker_symbol": "CI",
-        "price": 330.07,
+        "price": 328.69,
         "time_posted": "2024-11-21"
     },
     {
         "ticker_symbol": "CI",
-        "price": 328.45,
+        "price": 327.08,
         "time_posted": "2024-11-22"
     },
     {
         "ticker_symbol": "CI",
-        "price": 333.01,
+        "price": 331.62,
         "time_posted": "2024-11-25"
     },
     {
         "ticker_symbol": "CI",
-        "price": 335.0,
+        "price": 333.6,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "CI",
+        "price": 335.09,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "CI",
+        "price": 336.39,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "CI",
+        "price": 335.65,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "CI",
+        "price": 333.5,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "CI",
+        "price": 330.12,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "CI",
+        "price": 322.61,
+        "time_posted": "2024-12-05"
     }
 ]

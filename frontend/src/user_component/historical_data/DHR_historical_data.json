@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "DHR",
-        "price": 219.09,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "DHR",
-        "price": 217.85,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "DHR",
-        "price": 221.59,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "DHR",
-        "price": 222.38,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "DHR",
-        "price": 222.55,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "DHR",
-        "price": 221.21,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "DHR",
-        "price": 218.53,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "DHR",
         "price": 219.84,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "DHR",
         "price": 236.58,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "DHR",
+        "price": 238.83,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "DHR",
+        "price": 239.69,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "DHR",
+        "price": 241.29,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "DHR",
+        "price": 240.87,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "DHR",
+        "price": 236.26,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "DHR",
+        "price": 227.87,
+        "time_posted": "2024-12-05"
     }
 ]

@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "BR",
-        "price": 184.58,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "BR",
-        "price": 185.51,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "BR",
-        "price": 187.55,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "BR",
-        "price": 190.68,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "BR",
-        "price": 192.23,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "BR",
-        "price": 191.95,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "BR",
-        "price": 191.19,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "BR",
         "price": 188.29,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "BR",
         "price": 236.44,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "BR",
+        "price": 235.8,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "BR",
+        "price": 236.02,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "BR",
+        "price": 234.25,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "BR",
+        "price": 232.22,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "BR",
+        "price": 232.93,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "BR",
+        "price": 235.91,
+        "time_posted": "2024-12-05"
     }
 ]

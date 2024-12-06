@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "VLO",
-        "price": 122.06,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "VLO",
-        "price": 121.7,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "VLO",
-        "price": 120.57,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "VLO",
-        "price": 121.82,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "VLO",
-        "price": 122.81,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "VLO",
-        "price": 122.89,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "VLO",
-        "price": 122.1,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "VLO",
         "price": 119.26,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "VLO",
         "price": 139.8,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 138.56,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 139.08,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 140.14,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 137.47,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 134.07,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "VLO",
+        "price": 133.05,
+        "time_posted": "2024-12-05"
     }
 ]

@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "PPG",
-        "price": 134.48,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "PPG",
-        "price": 135.26,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "PPG",
-        "price": 136.7,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "PPG",
-        "price": 139.09,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "PPG",
-        "price": 140.69,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "PPG",
-        "price": 140.22,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "PPG",
-        "price": 139.73,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "PPG",
         "price": 139.78,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "PPG",
         "price": 123.35,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "PPG",
+        "price": 123.45,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "PPG",
+        "price": 124.37,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "PPG",
+        "price": 125.97,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "PPG",
+        "price": 126.18,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "PPG",
+        "price": 126.83,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "PPG",
+        "price": 125.5,
+        "time_posted": "2024-12-05"
     }
 ]

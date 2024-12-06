@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "ETR",
-        "price": 97.66,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "ETR",
-        "price": 97.67,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "ETR",
-        "price": 96.66,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "ETR",
-        "price": 97.44,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "ETR",
-        "price": 98.04,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "ETR",
-        "price": 97.42,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "ETR",
-        "price": 96.49,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "ETR",
         "price": 97.58,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "ETR",
         "price": 155.93,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "ETR",
+        "price": 156.4,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "ETR",
+        "price": 156.17,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "ETR",
+        "price": 153.25,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "ETR",
+        "price": 151.33,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "ETR",
+        "price": 151.65,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "ETR",
+        "price": 153.73,
+        "time_posted": "2024-12-05"
     }
 ]

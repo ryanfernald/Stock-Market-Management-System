@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "LH",
-        "price": 210.0,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "LH",
-        "price": 209.57,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "LH",
-        "price": 211.31,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "LH",
-        "price": 214.09,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "LH",
-        "price": 216.13,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "LH",
-        "price": 219.12,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "LH",
-        "price": 214.2,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "LH",
         "price": 215.04,
         "time_posted": "2023-12-06"
     },
@@ -101,7 +66,7 @@
     },
     {
         "ticker_symbol": "LH",
-        "price": 222.43,
+        "price": 222.42,
         "time_posted": "2023-12-26"
     },
     {
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "LH",
         "price": 238.73,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "LH",
+        "price": 242.15,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "LH",
+        "price": 241.16,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "LH",
+        "price": 240.63,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "LH",
+        "price": 240.57,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "LH",
+        "price": 237.39,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "LH",
+        "price": 234.9,
+        "time_posted": "2024-12-05"
     }
 ]

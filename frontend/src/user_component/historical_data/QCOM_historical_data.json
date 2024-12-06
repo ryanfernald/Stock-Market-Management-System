@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "QCOM",
-        "price": 125.58,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "QCOM",
-        "price": 124.0,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "QCOM",
-        "price": 126.09,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "QCOM",
-        "price": 127.22,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "QCOM",
-        "price": 127.83,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "QCOM",
-        "price": 128.1,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "QCOM",
-        "price": 128.89,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "QCOM",
         "price": 128.11,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "QCOM",
         "price": 156.93,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "QCOM",
+        "price": 156.4,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "QCOM",
+        "price": 158.53,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "QCOM",
+        "price": 163.03,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "QCOM",
+        "price": 162.58,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "QCOM",
+        "price": 163.34,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "QCOM",
+        "price": 160.39,
+        "time_posted": "2024-12-05"
     }
 ]

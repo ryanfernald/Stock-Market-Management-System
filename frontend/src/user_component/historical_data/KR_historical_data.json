@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "KR",
-        "price": 43.08,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "KR",
-        "price": 42.91,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "KR",
-        "price": 42.64,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "KR",
-        "price": 43.26,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "KR",
-        "price": 43.58,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "KR",
-        "price": 43.65,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "KR",
-        "price": 43.49,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "KR",
         "price": 43.52,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "KR",
         "price": 60.57,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "KR",
+        "price": 60.5,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "KR",
+        "price": 61.08,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "KR",
+        "price": 60.15,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "KR",
+        "price": 59.97,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "KR",
+        "price": 59.91,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "KR",
+        "price": 60.71,
+        "time_posted": "2024-12-05"
     }
 ]

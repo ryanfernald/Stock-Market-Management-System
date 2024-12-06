@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "SCHW",
-        "price": 55.18,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "SCHW",
-        "price": 55.0,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "SCHW",
-        "price": 58.74,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "SCHW",
-        "price": 60.43,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "SCHW",
-        "price": 62.24,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "SCHW",
-        "price": 61.73,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "SCHW",
-        "price": 61.32,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "SCHW",
         "price": 61.25,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "SCHW",
         "price": 82.25,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "SCHW",
+        "price": 82.6,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "SCHW",
+        "price": 82.76,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "SCHW",
+        "price": 81.39,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "SCHW",
+        "price": 81.12,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "SCHW",
+        "price": 81.51,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "SCHW",
+        "price": 81.81,
+        "time_posted": "2024-12-05"
     }
 ]

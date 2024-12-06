@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "LW",
-        "price": 97.84,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "LW",
-        "price": 96.62,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "LW",
-        "price": 95.73,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "LW",
-        "price": 98.18,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "LW",
-        "price": 99.06,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "LW",
-        "price": 100.57,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "LW",
-        "price": 98.76,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "LW",
         "price": 99.13,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "LW",
         "price": 76.83,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "LW",
+        "price": 76.71,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "LW",
+        "price": 77.24,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "LW",
+        "price": 78.34,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "LW",
+        "price": 79.41,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "LW",
+        "price": 77.95,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "LW",
+        "price": 77.69,
+        "time_posted": "2024-12-05"
     }
 ]

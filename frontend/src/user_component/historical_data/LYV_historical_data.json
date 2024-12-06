@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "LYV",
-        "price": 85.96,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "LYV",
-        "price": 84.54,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "LYV",
-        "price": 83.6,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "LYV",
-        "price": 84.22,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "LYV",
-        "price": 84.25,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "LYV",
-        "price": 84.13,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "LYV",
-        "price": 81.41,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "LYV",
         "price": 82.54,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "LYV",
         "price": 138.87,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "LYV",
+        "price": 139.73,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "LYV",
+        "price": 138.25,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "LYV",
+        "price": 137.76,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "LYV",
+        "price": 137.35,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "LYV",
+        "price": 136.73,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "LYV",
+        "price": 134.67,
+        "time_posted": "2024-12-05"
     }
 ]

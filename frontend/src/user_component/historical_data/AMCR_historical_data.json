@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "AMCR",
-        "price": 8.89,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "AMCR",
-        "price": 8.85,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "AMCR",
-        "price": 9.03,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "AMCR",
-        "price": 9.02,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "AMCR",
-        "price": 9.09,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "AMCR",
-        "price": 9.02,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "AMCR",
-        "price": 8.91,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "AMCR",
         "price": 8.95,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "AMCR",
         "price": 10.39,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "AMCR",
+        "price": 10.5,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "AMCR",
+        "price": 10.64,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "AMCR",
+        "price": 10.57,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "AMCR",
+        "price": 10.56,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "AMCR",
+        "price": 10.47,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "AMCR",
+        "price": 10.24,
+        "time_posted": "2024-12-05"
     }
 ]

@@ -838,5 +838,35 @@
         "ticker_symbol": "SOLV",
         "price": 71.49,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 72.48,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 71.51,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 71.99,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 70.77,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 70.26,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "SOLV",
+        "price": 69.57,
+        "time_posted": "2024-12-05"
     }
 ]

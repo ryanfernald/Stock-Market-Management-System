@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "HES",
-        "price": 142.65,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "HES",
-        "price": 143.73,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "HES",
-        "price": 137.77,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "HES",
-        "price": 138.75,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "HES",
-        "price": 139.26,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "HES",
-        "price": 139.87,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "HES",
-        "price": 136.61,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "HES",
         "price": 134.53,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "HES",
         "price": 146.3,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "HES",
+        "price": 146.76,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "HES",
+        "price": 147.18,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "HES",
+        "price": 146.96,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "HES",
+        "price": 147.22,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "HES",
+        "price": 143.96,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "HES",
+        "price": 144.73,
+        "time_posted": "2024-12-05"
     }
 ]

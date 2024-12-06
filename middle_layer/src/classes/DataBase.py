@@ -46,7 +46,7 @@ class DataBase:
         try:
             if cursor:
                 cursor.close()
-                print("Database cursor closed.")
+                # print("Database cursor closed.")
               
         except Exception as e:
             print(f"Error closing cursor: {e}")
@@ -594,8 +594,6 @@ class DataBase:
         cursor.execute(query, (ticker_symbol, price, timestamp))
         conn.commit()
         self.close_db(cursor,conn)
-        print(f"Price for {ticker_symbol} updated in the database.")
-
 
     # Clear all data from a specified table
     def clear_table(self, table_name):

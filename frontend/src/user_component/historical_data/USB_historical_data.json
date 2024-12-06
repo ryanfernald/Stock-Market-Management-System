@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "USB",
-        "price": 35.14,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "USB",
-        "price": 35.37,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "USB",
-        "price": 36.09,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "USB",
-        "price": 36.41,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "USB",
-        "price": 37.61,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "USB",
-        "price": 37.71,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "USB",
-        "price": 37.63,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "USB",
         "price": 37.32,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "USB",
         "price": 53.66,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "USB",
+        "price": 53.48,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "USB",
+        "price": 53.29,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "USB",
+        "price": 52.77,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "USB",
+        "price": 52.1,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "USB",
+        "price": 52.01,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "USB",
+        "price": 52.12,
+        "time_posted": "2024-12-05"
     }
 ]

@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "PG",
-        "price": 147.57,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "PG",
-        "price": 148.59,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "PG",
-        "price": 147.46,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "PG",
-        "price": 149.79,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "PG",
-        "price": 148.95,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "PG",
-        "price": 148.37,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "PG",
-        "price": 143.2,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "PG",
         "price": 143.09,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "PG",
         "price": 179.31,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "PG",
+        "price": 179.36,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "PG",
+        "price": 179.26,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "PG",
+        "price": 179.7,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "PG",
+        "price": 175.42,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "PG",
+        "price": 175.11,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "PG",
+        "price": 176.03,
+        "time_posted": "2024-12-05"
     }
 ]

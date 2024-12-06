@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "BX",
-        "price": 104.09,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "BX",
-        "price": 104.95,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "BX",
-        "price": 108.59,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "BX",
-        "price": 109.56,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "BX",
-        "price": 111.43,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "BX",
-        "price": 112.66,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "BX",
-        "price": 112.4,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "BX",
         "price": 109.31,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "BX",
         "price": 191.66,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "BX",
+        "price": 189.02,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "BX",
+        "price": 191.09,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "BX",
+        "price": 187.05,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "BX",
+        "price": 186.17,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "BX",
+        "price": 185.5,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "BX",
+        "price": 187.2,
+        "time_posted": "2024-12-05"
     }
 ]

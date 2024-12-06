@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "PYPL",
-        "price": 56.39,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "PYPL",
-        "price": 58.47,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "PYPL",
-        "price": 57.97,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "PYPL",
-        "price": 57.61,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "PYPL",
-        "price": 59.65,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "PYPL",
-        "price": 59.85,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "PYPL",
-        "price": 57.92,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "PYPL",
         "price": 59.53,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "PYPL",
         "price": 86.94,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "PYPL",
+        "price": 86.57,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "PYPL",
+        "price": 86.77,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "PYPL",
+        "price": 86.53,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "PYPL",
+        "price": 85.14,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "PYPL",
+        "price": 89.33,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "PYPL",
+        "price": 89.04,
+        "time_posted": "2024-12-05"
     }
 ]

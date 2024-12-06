@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "GL",
-        "price": 120.0,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "GL",
-        "price": 119.18,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "GL",
-        "price": 119.16,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "GL",
-        "price": 122.0,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "GL",
-        "price": 122.21,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "GL",
-        "price": 123.43,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "GL",
-        "price": 122.79,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "GL",
         "price": 121.99,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "GL",
         "price": 111.43,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "GL",
+        "price": 111.7,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "GL",
+        "price": 111.24,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "GL",
+        "price": 110.04,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "GL",
+        "price": 109.49,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "GL",
+        "price": 106.05,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "GL",
+        "price": 106.61,
+        "time_posted": "2024-12-05"
     }
 ]

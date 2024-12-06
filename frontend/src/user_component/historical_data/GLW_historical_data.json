@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "GLW",
-        "price": 27.07,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "GLW",
-        "price": 26.97,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "GLW",
-        "price": 27.41,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "GLW",
-        "price": 27.68,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "GLW",
-        "price": 28.02,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "GLW",
-        "price": 28.04,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "GLW",
-        "price": 27.65,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "GLW",
         "price": 27.97,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "GLW",
         "price": 48.0,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "GLW",
+        "price": 48.22,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "GLW",
+        "price": 48.67,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "GLW",
+        "price": 49.24,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "GLW",
+        "price": 49.17,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "GLW",
+        "price": 49.15,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "GLW",
+        "price": 49.76,
+        "time_posted": "2024-12-05"
     }
 ]

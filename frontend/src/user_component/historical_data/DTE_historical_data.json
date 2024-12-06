@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "DTE",
-        "price": 101.18,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "DTE",
-        "price": 101.33,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "DTE",
-        "price": 100.48,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "DTE",
-        "price": 100.45,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "DTE",
-        "price": 104.37,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "DTE",
-        "price": 104.6,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "DTE",
-        "price": 102.91,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "DTE",
         "price": 103.56,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "DTE",
         "price": 125.45,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "DTE",
+        "price": 126.08,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "DTE",
+        "price": 125.78,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "DTE",
+        "price": 123.6,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "DTE",
+        "price": 122.98,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "DTE",
+        "price": 122.29,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "DTE",
+        "price": 122.42,
+        "time_posted": "2024-12-05"
     }
 ]

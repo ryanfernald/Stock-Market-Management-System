@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "JPM",
-        "price": 149.62,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "JPM",
-        "price": 149.96,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "JPM",
-        "price": 150.72,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "JPM",
-        "price": 152.44,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "JPM",
-        "price": 153.18,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "JPM",
-        "price": 154.31,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "JPM",
-        "price": 154.29,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "JPM",
         "price": 152.66,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "JPM",
         "price": 249.97,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "JPM",
+        "price": 249.79,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "JPM",
+        "price": 249.72,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "JPM",
+        "price": 246.25,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "JPM",
+        "price": 244.82,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "JPM",
+        "price": 243.4,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "JPM",
+        "price": 245.48,
+        "time_posted": "2024-12-05"
     }
 ]

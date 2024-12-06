@@ -81,6 +81,3 @@ for _, row in tqdm(sp500_tickers.iterrows(), total=len(sp500_tickers), desc="Pro
 
     # fetch and insert all historical data
     fetch_and_insert_historical_data(ticker_symbol)
-
-# close the database connection
-db.close()

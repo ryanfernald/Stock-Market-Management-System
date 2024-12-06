@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "AWK",
-        "price": 127.84,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "AWK",
-        "price": 127.75,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "AWK",
-        "price": 128.3,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "AWK",
-        "price": 128.9,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "AWK",
-        "price": 130.27,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "AWK",
-        "price": 130.17,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "AWK",
-        "price": 128.45,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "AWK",
         "price": 129.74,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "AWK",
         "price": 137.59,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 138.31,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 136.94,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 135.6,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 134.1,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 131.01,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "AWK",
+        "price": 132.1,
+        "time_posted": "2024-12-05"
     }
 ]

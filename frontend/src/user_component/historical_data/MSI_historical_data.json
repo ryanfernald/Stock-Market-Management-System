@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "MSI",
-        "price": 317.26,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "MSI",
-        "price": 315.07,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "MSI",
-        "price": 315.65,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "MSI",
-        "price": 319.44,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "MSI",
-        "price": 321.86,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "MSI",
-        "price": 320.22,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "MSI",
-        "price": 321.11,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "MSI",
         "price": 319.04,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "MSI",
         "price": 496.58,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "MSI",
+        "price": 500.66,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "MSI",
+        "price": 499.7,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "MSI",
+        "price": 496.7,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "MSI",
+        "price": 497.76,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "MSI",
+        "price": 497.87,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "MSI",
+        "price": 494.97,
+        "time_posted": "2024-12-05"
     }
 ]

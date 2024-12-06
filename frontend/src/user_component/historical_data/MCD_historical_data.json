@@ -1,1267 +1,1262 @@
 [
     {
         "ticker_symbol": "MCD",
-        "price": 275.18,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "MCD",
-        "price": 275.42,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "MCD",
-        "price": 273.75,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "MCD",
-        "price": 276.83,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "MCD",
-        "price": 280.87,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "MCD",
-        "price": 281.04,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "MCD",
-        "price": 281.44,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "MCD",
-        "price": 281.76,
+        "price": 280.07,
         "time_posted": "2023-12-06"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 281.69,
+        "price": 280.0,
         "time_posted": "2023-12-07"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 280.45,
+        "price": 278.77,
         "time_posted": "2023-12-08"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 284.01,
+        "price": 282.31,
         "time_posted": "2023-12-11"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 286.24,
+        "price": 284.52,
         "time_posted": "2023-12-12"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 290.67,
+        "price": 288.93,
         "time_posted": "2023-12-13"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 284.86,
+        "price": 283.16,
         "time_posted": "2023-12-14"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 282.16,
+        "price": 280.47,
         "time_posted": "2023-12-15"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 285.07,
+        "price": 283.36,
         "time_posted": "2023-12-18"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 285.56,
+        "price": 283.85,
         "time_posted": "2023-12-19"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 283.85,
+        "price": 282.15,
         "time_posted": "2023-12-20"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 286.21,
+        "price": 284.5,
         "time_posted": "2023-12-21"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 286.51,
+        "price": 284.8,
         "time_posted": "2023-12-22"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 287.65,
+        "price": 285.93,
         "time_posted": "2023-12-26"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 289.31,
+        "price": 287.58,
         "time_posted": "2023-12-27"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 290.58,
+        "price": 288.84,
         "time_posted": "2023-12-28"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 291.24,
+        "price": 289.49,
         "time_posted": "2023-12-29"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 291.76,
+        "price": 290.01,
         "time_posted": "2024-01-02"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 289.15,
+        "price": 287.42,
         "time_posted": "2024-01-03"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 286.55,
+        "price": 284.84,
         "time_posted": "2024-01-04"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 283.85,
+        "price": 282.15,
         "time_posted": "2024-01-05"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 286.71,
+        "price": 284.99,
         "time_posted": "2024-01-08"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 285.7,
+        "price": 283.99,
         "time_posted": "2024-01-09"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 288.86,
+        "price": 287.13,
         "time_posted": "2024-01-10"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 288.92,
+        "price": 287.19,
         "time_posted": "2024-01-11"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 288.25,
+        "price": 286.53,
         "time_posted": "2024-01-12"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 285.91,
+        "price": 284.2,
         "time_posted": "2024-01-16"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 285.98,
+        "price": 284.27,
         "time_posted": "2024-01-17"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 289.12,
+        "price": 287.4,
         "time_posted": "2024-01-18"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 295.18,
+        "price": 293.42,
         "time_posted": "2024-01-19"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 293.1,
+        "price": 291.35,
         "time_posted": "2024-01-22"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 294.71,
+        "price": 292.95,
         "time_posted": "2024-01-23"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 295.1,
+        "price": 293.33,
         "time_posted": "2024-01-24"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 291.92,
+        "price": 290.18,
         "time_posted": "2024-01-25"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 287.06,
+        "price": 285.35,
         "time_posted": "2024-01-26"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 287.11,
+        "price": 285.39,
         "time_posted": "2024-01-29"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 289.41,
+        "price": 287.68,
         "time_posted": "2024-01-30"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 287.51,
+        "price": 285.79,
         "time_posted": "2024-01-31"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 292.78,
+        "price": 291.03,
         "time_posted": "2024-02-01"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 291.77,
+        "price": 290.02,
         "time_posted": "2024-02-02"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 280.88,
+        "price": 279.2,
         "time_posted": "2024-02-05"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 279.59,
+        "price": 277.92,
         "time_posted": "2024-02-06"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 282.22,
+        "price": 280.53,
         "time_posted": "2024-02-07"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 286.74,
+        "price": 285.02,
         "time_posted": "2024-02-08"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 284.32,
+        "price": 282.62,
         "time_posted": "2024-02-09"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 284.29,
+        "price": 282.59,
         "time_posted": "2024-02-12"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 282.0,
+        "price": 280.32,
         "time_posted": "2024-02-13"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 283.04,
+        "price": 281.35,
         "time_posted": "2024-02-14"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 286.67,
+        "price": 284.95,
         "time_posted": "2024-02-15"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 286.83,
+        "price": 285.11,
         "time_posted": "2024-02-16"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 287.44,
+        "price": 285.73,
         "time_posted": "2024-02-20"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 288.68,
+        "price": 286.96,
         "time_posted": "2024-02-21"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 290.66,
+        "price": 288.92,
         "time_posted": "2024-02-22"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 292.45,
+        "price": 290.71,
         "time_posted": "2024-02-23"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 291.84,
+        "price": 290.09,
         "time_posted": "2024-02-26"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 288.53,
+        "price": 286.81,
         "time_posted": "2024-02-27"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 289.94,
+        "price": 288.21,
         "time_posted": "2024-02-28"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 288.71,
+        "price": 286.99,
         "time_posted": "2024-02-29"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 287.18,
+        "price": 285.47,
         "time_posted": "2024-03-01"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 287.39,
+        "price": 285.67,
         "time_posted": "2024-03-04"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 288.97,
+        "price": 287.24,
         "time_posted": "2024-03-05"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 289.36,
+        "price": 287.63,
         "time_posted": "2024-03-06"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 287.56,
+        "price": 285.84,
         "time_posted": "2024-03-07"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 288.98,
+        "price": 287.25,
         "time_posted": "2024-03-08"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 291.22,
+        "price": 289.48,
         "time_posted": "2024-03-11"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 290.72,
+        "price": 288.98,
         "time_posted": "2024-03-12"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 279.41,
+        "price": 277.74,
         "time_posted": "2024-03-13"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 278.29,
+        "price": 276.63,
         "time_posted": "2024-03-14"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 275.73,
+        "price": 274.09,
         "time_posted": "2024-03-15"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 275.18,
+        "price": 273.54,
         "time_posted": "2024-03-18"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 279.42,
+        "price": 277.75,
         "time_posted": "2024-03-19"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 280.98,
+        "price": 279.3,
         "time_posted": "2024-03-20"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 280.07,
+        "price": 278.4,
         "time_posted": "2024-03-21"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 279.18,
+        "price": 277.51,
         "time_posted": "2024-03-22"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 275.22,
+        "price": 273.58,
         "time_posted": "2024-03-25"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 275.22,
+        "price": 273.58,
         "time_posted": "2024-03-26"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 278.58,
+        "price": 276.91,
         "time_posted": "2024-03-27"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 278.51,
+        "price": 276.85,
         "time_posted": "2024-03-28"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 276.8,
+        "price": 275.15,
         "time_posted": "2024-04-01"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 274.35,
+        "price": 272.71,
         "time_posted": "2024-04-02"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 272.18,
+        "price": 270.55,
         "time_posted": "2024-04-03"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 266.8,
+        "price": 265.2,
         "time_posted": "2024-04-04"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 263.44,
+        "price": 261.86,
         "time_posted": "2024-04-05"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 264.3,
+        "price": 262.72,
         "time_posted": "2024-04-08"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 266.15,
+        "price": 264.56,
         "time_posted": "2024-04-09"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 265.39,
+        "price": 263.81,
         "time_posted": "2024-04-10"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 265.34,
+        "price": 263.76,
         "time_posted": "2024-04-11"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 264.13,
+        "price": 262.55,
         "time_posted": "2024-04-12"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 262.98,
+        "price": 261.41,
         "time_posted": "2024-04-15"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 262.19,
+        "price": 260.62,
         "time_posted": "2024-04-16"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 266.66,
+        "price": 265.06,
         "time_posted": "2024-04-17"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 267.67,
+        "price": 266.07,
         "time_posted": "2024-04-18"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 268.67,
+        "price": 267.07,
         "time_posted": "2024-04-19"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 272.22,
+        "price": 270.59,
         "time_posted": "2024-04-22"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 273.5,
+        "price": 271.87,
         "time_posted": "2024-04-23"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 273.37,
+        "price": 271.74,
         "time_posted": "2024-04-24"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 272.24,
+        "price": 270.61,
         "time_posted": "2024-04-25"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 269.76,
+        "price": 268.15,
         "time_posted": "2024-04-26"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 270.21,
+        "price": 268.6,
         "time_posted": "2024-04-29"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 269.71,
+        "price": 268.1,
         "time_posted": "2024-04-30"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 271.08,
+        "price": 269.46,
         "time_posted": "2024-05-01"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 269.95,
+        "price": 268.33,
         "time_posted": "2024-05-02"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 267.02,
+        "price": 265.43,
         "time_posted": "2024-05-03"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 266.01,
+        "price": 264.42,
         "time_posted": "2024-05-06"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 264.24,
+        "price": 262.66,
         "time_posted": "2024-05-07"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 265.21,
+        "price": 263.63,
         "time_posted": "2024-05-08"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 264.68,
+        "price": 263.1,
         "time_posted": "2024-05-09"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 271.65,
+        "price": 270.02,
         "time_posted": "2024-05-10"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 268.01,
+        "price": 266.41,
         "time_posted": "2024-05-13"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 267.36,
+        "price": 265.76,
         "time_posted": "2024-05-14"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 270.53,
+        "price": 268.91,
         "time_posted": "2024-05-15"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 270.17,
+        "price": 268.56,
         "time_posted": "2024-05-16"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 269.06,
+        "price": 267.45,
         "time_posted": "2024-05-17"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 264.6,
+        "price": 263.02,
         "time_posted": "2024-05-20"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 262.63,
+        "price": 261.06,
         "time_posted": "2024-05-21"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 262.53,
+        "price": 260.96,
         "time_posted": "2024-05-22"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 254.78,
+        "price": 253.26,
         "time_posted": "2024-05-23"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 254.96,
+        "price": 253.44,
         "time_posted": "2024-05-24"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 250.45,
+        "price": 248.95,
         "time_posted": "2024-05-28"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 246.33,
+        "price": 244.86,
         "time_posted": "2024-05-29"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 249.0,
+        "price": 247.51,
         "time_posted": "2024-05-30"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 255.73,
+        "price": 254.2,
         "time_posted": "2024-05-31"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 258.25,
+        "price": 256.7,
         "time_posted": "2024-06-03"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 261.2,
+        "price": 259.64,
         "time_posted": "2024-06-04"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 258.49,
+        "price": 256.94,
         "time_posted": "2024-06-05"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 259.21,
+        "price": 257.66,
         "time_posted": "2024-06-06"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 254.73,
+        "price": 253.2,
         "time_posted": "2024-06-07"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 252.34,
+        "price": 250.83,
         "time_posted": "2024-06-10"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 252.81,
+        "price": 251.3,
         "time_posted": "2024-06-11"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 253.01,
+        "price": 251.49,
         "time_posted": "2024-06-12"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 252.23,
+        "price": 250.72,
         "time_posted": "2024-06-13"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 252.11,
+        "price": 250.61,
         "time_posted": "2024-06-14"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 252.04,
+        "price": 250.54,
         "time_posted": "2024-06-17"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 249.34,
+        "price": 247.85,
         "time_posted": "2024-06-18"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 252.33,
+        "price": 250.82,
         "time_posted": "2024-06-20"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 257.89,
+        "price": 256.35,
         "time_posted": "2024-06-21"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 258.87,
+        "price": 257.33,
         "time_posted": "2024-06-24"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 255.89,
+        "price": 254.36,
         "time_posted": "2024-06-25"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 256.34,
+        "price": 254.81,
         "time_posted": "2024-06-26"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 256.68,
+        "price": 255.14,
         "time_posted": "2024-06-27"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 253.37,
+        "price": 251.85,
         "time_posted": "2024-06-28"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 248.54,
+        "price": 247.06,
         "time_posted": "2024-07-01"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 246.36,
+        "price": 244.88,
         "time_posted": "2024-07-02"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 248.55,
+        "price": 247.07,
         "time_posted": "2024-07-03"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 249.64,
+        "price": 248.14,
         "time_posted": "2024-07-05"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 246.42,
+        "price": 244.94,
         "time_posted": "2024-07-08"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 244.4,
+        "price": 242.94,
         "time_posted": "2024-07-09"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 249.04,
+        "price": 247.55,
         "time_posted": "2024-07-10"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 253.33,
+        "price": 251.81,
         "time_posted": "2024-07-11"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 252.43,
+        "price": 250.92,
         "time_posted": "2024-07-12"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 250.07,
+        "price": 248.58,
         "time_posted": "2024-07-15"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 255.78,
+        "price": 254.25,
         "time_posted": "2024-07-16"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 259.49,
+        "price": 257.94,
         "time_posted": "2024-07-17"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 258.02,
+        "price": 256.48,
         "time_posted": "2024-07-18"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 255.79,
+        "price": 254.26,
         "time_posted": "2024-07-19"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 258.04,
+        "price": 256.5,
         "time_posted": "2024-07-22"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 252.58,
+        "price": 251.07,
         "time_posted": "2024-07-23"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 251.9,
+        "price": 250.4,
         "time_posted": "2024-07-24"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 250.01,
+        "price": 248.51,
         "time_posted": "2024-07-25"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 250.54,
+        "price": 249.04,
         "time_posted": "2024-07-26"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 259.91,
+        "price": 258.35,
         "time_posted": "2024-07-29"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 264.9,
+        "price": 263.31,
         "time_posted": "2024-07-30"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 263.86,
+        "price": 262.29,
         "time_posted": "2024-07-31"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 267.2,
+        "price": 265.6,
         "time_posted": "2024-08-01"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 275.09,
+        "price": 273.44,
         "time_posted": "2024-08-02"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 266.9,
+        "price": 265.3,
         "time_posted": "2024-08-05"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 268.5,
+        "price": 266.89,
         "time_posted": "2024-08-06"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 267.81,
+        "price": 266.21,
         "time_posted": "2024-08-07"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 269.62,
+        "price": 268.01,
         "time_posted": "2024-08-08"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 266.36,
+        "price": 264.77,
         "time_posted": "2024-08-09"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 267.9,
+        "price": 266.3,
         "time_posted": "2024-08-12"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 268.75,
+        "price": 267.14,
         "time_posted": "2024-08-13"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 269.58,
+        "price": 267.97,
         "time_posted": "2024-08-14"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 273.28,
+        "price": 271.65,
         "time_posted": "2024-08-15"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 276.88,
+        "price": 275.22,
         "time_posted": "2024-08-16"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 285.89,
+        "price": 284.18,
         "time_posted": "2024-08-19"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 283.98,
+        "price": 282.28,
         "time_posted": "2024-08-20"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 288.03,
+        "price": 286.31,
         "time_posted": "2024-08-21"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 287.54,
+        "price": 285.82,
         "time_posted": "2024-08-22"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 287.85,
+        "price": 286.12,
         "time_posted": "2024-08-23"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 287.01,
+        "price": 285.29,
         "time_posted": "2024-08-26"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 287.96,
+        "price": 286.24,
         "time_posted": "2024-08-27"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 285.39,
+        "price": 283.68,
         "time_posted": "2024-08-28"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 286.19,
+        "price": 284.48,
         "time_posted": "2024-08-29"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 286.99,
+        "price": 285.27,
         "time_posted": "2024-08-30"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 285.52,
+        "price": 283.81,
         "time_posted": "2024-09-03"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 288.03,
+        "price": 286.31,
         "time_posted": "2024-09-04"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 287.97,
+        "price": 286.25,
         "time_posted": "2024-09-05"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 289.51,
+        "price": 287.78,
         "time_posted": "2024-09-06"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 291.29,
+        "price": 289.55,
         "time_posted": "2024-09-09"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 291.27,
+        "price": 289.53,
         "time_posted": "2024-09-10"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 290.23,
+        "price": 288.49,
         "time_posted": "2024-09-11"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 292.35,
+        "price": 290.6,
         "time_posted": "2024-09-12"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 296.53,
+        "price": 294.76,
         "time_posted": "2024-09-13"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 296.69,
+        "price": 294.92,
         "time_posted": "2024-09-16"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 293.75,
+        "price": 291.99,
         "time_posted": "2024-09-17"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 292.03,
+        "price": 290.28,
         "time_posted": "2024-09-18"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 293.85,
+        "price": 292.09,
         "time_posted": "2024-09-19"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 296.83,
+        "price": 295.06,
         "time_posted": "2024-09-20"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 299.06,
+        "price": 297.27,
         "time_posted": "2024-09-23"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 300.27,
+        "price": 298.47,
         "time_posted": "2024-09-24"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 300.47,
+        "price": 298.67,
         "time_posted": "2024-09-25"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 303.65,
+        "price": 301.83,
         "time_posted": "2024-09-26"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 303.69,
+        "price": 301.87,
         "time_posted": "2024-09-27"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 304.51,
+        "price": 302.69,
         "time_posted": "2024-09-30"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 302.98,
+        "price": 301.17,
         "time_posted": "2024-10-01"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 303.76,
+        "price": 301.94,
         "time_posted": "2024-10-02"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 303.45,
+        "price": 301.64,
         "time_posted": "2024-10-03"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 303.76,
+        "price": 301.94,
         "time_posted": "2024-10-04"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 300.85,
+        "price": 299.05,
         "time_posted": "2024-10-07"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 301.9,
+        "price": 300.09,
         "time_posted": "2024-10-08"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 303.83,
+        "price": 302.01,
         "time_posted": "2024-10-09"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 304.04,
+        "price": 302.22,
         "time_posted": "2024-10-10"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 305.04,
+        "price": 303.22,
         "time_posted": "2024-10-11"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 309.84,
+        "price": 307.99,
         "time_posted": "2024-10-14"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 313.34,
+        "price": 311.47,
         "time_posted": "2024-10-15"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 312.92,
+        "price": 311.05,
         "time_posted": "2024-10-16"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 314.7,
+        "price": 312.82,
         "time_posted": "2024-10-17"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 316.56,
+        "price": 314.67,
         "time_posted": "2024-10-18"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 314.89,
+        "price": 313.01,
         "time_posted": "2024-10-21"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 314.69,
+        "price": 312.81,
         "time_posted": "2024-10-22"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 298.57,
+        "price": 296.78,
         "time_posted": "2024-10-23"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 301.58,
+        "price": 299.78,
         "time_posted": "2024-10-24"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 292.61,
+        "price": 290.86,
         "time_posted": "2024-10-25"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 296.79,
+        "price": 295.02,
         "time_posted": "2024-10-28"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 295.0,
+        "price": 293.24,
         "time_posted": "2024-10-29"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 291.52,
+        "price": 289.78,
         "time_posted": "2024-10-30"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 292.11,
+        "price": 290.36,
         "time_posted": "2024-10-31"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 295.21,
+        "price": 293.44,
         "time_posted": "2024-11-01"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 292.85,
+        "price": 291.1,
         "time_posted": "2024-11-04"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 297.32,
+        "price": 295.54,
         "time_posted": "2024-11-05"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 294.0,
+        "price": 292.24,
         "time_posted": "2024-11-06"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 294.66,
+        "price": 292.9,
         "time_posted": "2024-11-07"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 298.97,
+        "price": 297.18,
         "time_posted": "2024-11-08"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 301.53,
+        "price": 299.73,
         "time_posted": "2024-11-11"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 298.65,
+        "price": 296.86,
         "time_posted": "2024-11-12"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 297.35,
+        "price": 295.57,
         "time_posted": "2024-11-13"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 298.56,
+        "price": 296.77,
         "time_posted": "2024-11-14"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 292.63,
+        "price": 290.88,
         "time_posted": "2024-11-15"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 291.1,
+        "price": 289.36,
         "time_posted": "2024-11-18"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 290.73,
+        "price": 288.99,
         "time_posted": "2024-11-19"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 290.91,
+        "price": 289.17,
         "time_posted": "2024-11-20"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 288.47,
+        "price": 286.75,
         "time_posted": "2024-11-21"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 290.28,
+        "price": 288.54,
         "time_posted": "2024-11-22"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 296.19,
+        "price": 294.42,
         "time_posted": "2024-11-25"
     },
     {
         "ticker_symbol": "MCD",
-        "price": 296.33,
+        "price": 294.56,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "MCD",
+        "price": 293.32,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "MCD",
+        "price": 294.24,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "MCD",
+        "price": 292.44,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "MCD",
+        "price": 294.5,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "MCD",
+        "price": 295.09,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "MCD",
+        "price": 299.47,
+        "time_posted": "2024-12-05"
     }
 ]

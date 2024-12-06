@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "REG",
-        "price": 59.25,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "REG",
-        "price": 59.33,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "REG",
-        "price": 58.97,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "REG",
-        "price": 60.23,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "REG",
-        "price": 61.36,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "REG",
-        "price": 62.48,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "REG",
-        "price": 61.92,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "REG",
         "price": 61.18,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "REG",
         "price": 75.0,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "REG",
+        "price": 75.91,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "REG",
+        "price": 75.59,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "REG",
+        "price": 74.63,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "REG",
+        "price": 74.72,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "REG",
+        "price": 74.35,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "REG",
+        "price": 74.31,
+        "time_posted": "2024-12-05"
     }
 ]

@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "FRT",
-        "price": 89.89,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "FRT",
-        "price": 90.21,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "FRT",
-        "price": 90.48,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "FRT",
-        "price": 91.7,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "FRT",
-        "price": 93.93,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "FRT",
-        "price": 95.84,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "FRT",
-        "price": 95.71,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "FRT",
         "price": 95.02,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "FRT",
         "price": 115.9,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "FRT",
+        "price": 117.53,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "FRT",
+        "price": 116.65,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "FRT",
+        "price": 114.25,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "FRT",
+        "price": 113.69,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "FRT",
+        "price": 113.76,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "FRT",
+        "price": 113.61,
+        "time_posted": "2024-12-05"
     }
 ]

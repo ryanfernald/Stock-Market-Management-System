@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "MMM",
-        "price": 78.44,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "MMM",
-        "price": 79.61,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "MMM",
-        "price": 79.57,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "MMM",
-        "price": 80.06,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "MMM",
-        "price": 80.69,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "MMM",
-        "price": 83.59,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "MMM",
-        "price": 82.18,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "MMM",
         "price": 83.07,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "MMM",
         "price": 132.95,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "MMM",
+        "price": 132.48,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "MMM",
+        "price": 133.53,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "MMM",
+        "price": 132.89,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "MMM",
+        "price": 131.15,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "MMM",
+        "price": 130.45,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "MMM",
+        "price": 133.33,
+        "time_posted": "2024-12-05"
     }
 ]

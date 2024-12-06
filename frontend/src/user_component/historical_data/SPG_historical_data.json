@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "SPG",
-        "price": 115.42,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "SPG",
-        "price": 115.79,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "SPG",
-        "price": 116.42,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "SPG",
-        "price": 118.44,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "SPG",
-        "price": 122.16,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "SPG",
-        "price": 124.09,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "SPG",
-        "price": 124.02,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "SPG",
         "price": 124.92,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "SPG",
         "price": 183.46,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "SPG",
+        "price": 183.75,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "SPG",
+        "price": 183.6,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "SPG",
+        "price": 181.37,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "SPG",
+        "price": 180.63,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "SPG",
+        "price": 181.51,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "SPG",
+        "price": 181.88,
+        "time_posted": "2024-12-05"
     }
 ]

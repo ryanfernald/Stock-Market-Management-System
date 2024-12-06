@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "JBL",
-        "price": 130.97,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "JBL",
-        "price": 130.33,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "JBL",
-        "price": 114.93,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "JBL",
-        "price": 115.01,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "JBL",
-        "price": 116.6,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "JBL",
-        "price": 115.04,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "JBL",
-        "price": 113.96,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "JBL",
         "price": 114.09,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "JBL",
         "price": 132.72,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "JBL",
+        "price": 133.33,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "JBL",
+        "price": 135.83,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "JBL",
+        "price": 135.19,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "JBL",
+        "price": 135.5,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "JBL",
+        "price": 136.44,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "JBL",
+        "price": 135.78,
+        "time_posted": "2024-12-05"
     }
 ]

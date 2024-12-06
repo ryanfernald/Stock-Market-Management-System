@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "IDXX",
-        "price": 479.63,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "IDXX",
-        "price": 470.8,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "IDXX",
-        "price": 466.74,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "IDXX",
-        "price": 465.82,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "IDXX",
-        "price": 482.6,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "IDXX",
-        "price": 516.61,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "IDXX",
-        "price": 518.95,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "IDXX",
         "price": 521.56,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "IDXX",
         "price": 417.32,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "IDXX",
+        "price": 421.76,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "IDXX",
+        "price": 421.75,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "IDXX",
+        "price": 430.77,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "IDXX",
+        "price": 432.11,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "IDXX",
+        "price": 434.43,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "IDXX",
+        "price": 427.49,
+        "time_posted": "2024-12-05"
     }
 ]

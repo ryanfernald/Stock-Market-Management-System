@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "BIIB",
-        "price": 228.79,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "BIIB",
-        "price": 227.41,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "BIIB",
-        "price": 232.06,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "BIIB",
-        "price": 234.08,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "BIIB",
-        "price": 234.64,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "BIIB",
-        "price": 232.85,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "BIIB",
-        "price": 229.57,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "BIIB",
         "price": 233.87,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "BIIB",
         "price": 157.69,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "BIIB",
+        "price": 159.83,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "BIIB",
+        "price": 160.63,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "BIIB",
+        "price": 164.23,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "BIIB",
+        "price": 160.85,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "BIIB",
+        "price": 160.92,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "BIIB",
+        "price": 159.26,
+        "time_posted": "2024-12-05"
     }
 ]

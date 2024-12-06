@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "IT",
-        "price": 431.36,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "IT",
-        "price": 428.69,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "IT",
-        "price": 430.12,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "IT",
-        "price": 434.84,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "IT",
-        "price": 441.14,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "IT",
-        "price": 439.58,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "IT",
-        "price": 434.83,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "IT",
         "price": 442.0,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "IT",
         "price": 523.0,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "IT",
+        "price": 519.23,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "IT",
+        "price": 517.93,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "IT",
+        "price": 517.0,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "IT",
+        "price": 515.66,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "IT",
+        "price": 522.53,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "IT",
+        "price": 516.6,
+        "time_posted": "2024-12-05"
     }
 ]

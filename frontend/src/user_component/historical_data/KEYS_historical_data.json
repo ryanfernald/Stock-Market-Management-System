@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "KEYS",
-        "price": 136.35,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "KEYS",
-        "price": 136.32,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "KEYS",
-        "price": 137.88,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "KEYS",
-        "price": 135.89,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "KEYS",
-        "price": 137.88,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "KEYS",
-        "price": 138.14,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "KEYS",
-        "price": 138.22,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "KEYS",
         "price": 141.03,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "KEYS",
         "price": 171.91,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "KEYS",
+        "price": 168.61,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "KEYS",
+        "price": 170.84,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "KEYS",
+        "price": 171.59,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "KEYS",
+        "price": 171.0,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "KEYS",
+        "price": 172.26,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "KEYS",
+        "price": 169.63,
+        "time_posted": "2024-12-05"
     }
 ]

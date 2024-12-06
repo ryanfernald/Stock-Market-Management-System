@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "GOOGL",
-        "price": 136.07,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "GOOGL",
-        "price": 136.86,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "GOOGL",
-        "price": 134.66,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "GOOGL",
-        "price": 132.2,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "GOOGL",
-        "price": 131.53,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "GOOGL",
-        "price": 128.95,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "GOOGL",
-        "price": 130.67,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "GOOGL",
         "price": 129.7,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "GOOGL",
         "price": 169.12,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "GOOGL",
+        "price": 169.23,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "GOOGL",
+        "price": 168.95,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "GOOGL",
+        "price": 171.49,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "GOOGL",
+        "price": 171.34,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "GOOGL",
+        "price": 174.37,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "GOOGL",
+        "price": 172.64,
+        "time_posted": "2024-12-05"
     }
 ]

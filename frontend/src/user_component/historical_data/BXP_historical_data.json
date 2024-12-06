@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "BXP",
-        "price": 50.43,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "BXP",
-        "price": 52.13,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "BXP",
-        "price": 53.77,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "BXP",
-        "price": 53.71,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "BXP",
-        "price": 59.7,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "BXP",
-        "price": 60.11,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "BXP",
-        "price": 58.47,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "BXP",
         "price": 59.69,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "BXP",
         "price": 83.22,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "BXP",
+        "price": 82.86,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "BXP",
+        "price": 81.99,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "BXP",
+        "price": 80.88,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "BXP",
+        "price": 80.15,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "BXP",
+        "price": 79.77,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "BXP",
+        "price": 79.23,
+        "time_posted": "2024-12-05"
     }
 ]

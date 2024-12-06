@@ -1,42 +1,7 @@
 [
     {
         "ticker_symbol": "J",
-        "price": 101.39,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "J",
-        "price": 102.76,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "J",
-        "price": 104.53,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "J",
-        "price": 105.34,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "J",
-        "price": 107.31,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "J",
-        "price": 107.11,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "J",
-        "price": 105.72,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "J",
-        "price": 106.68,
+        "price": 106.69,
         "time_posted": "2023-12-06"
     },
     {
@@ -46,7 +11,7 @@
     },
     {
         "ticker_symbol": "J",
-        "price": 105.43,
+        "price": 105.44,
         "time_posted": "2023-12-08"
     },
     {
@@ -61,7 +26,7 @@
     },
     {
         "ticker_symbol": "J",
-        "price": 106.83,
+        "price": 106.84,
         "time_posted": "2023-12-13"
     },
     {
@@ -81,7 +46,7 @@
     },
     {
         "ticker_symbol": "J",
-        "price": 106.63,
+        "price": 106.64,
         "time_posted": "2023-12-19"
     },
     {
@@ -126,7 +91,7 @@
     },
     {
         "ticker_symbol": "J",
-        "price": 105.04,
+        "price": 105.05,
         "time_posted": "2024-01-03"
     },
     {
@@ -141,22 +106,22 @@
     },
     {
         "ticker_symbol": "J",
-        "price": 106.54,
+        "price": 106.55,
         "time_posted": "2024-01-08"
     },
     {
         "ticker_symbol": "J",
-        "price": 108.56,
+        "price": 108.57,
         "time_posted": "2024-01-09"
     },
     {
         "ticker_symbol": "J",
-        "price": 109.29,
+        "price": 109.3,
         "time_posted": "2024-01-10"
     },
     {
         "ticker_symbol": "J",
-        "price": 109.62,
+        "price": 109.63,
         "time_posted": "2024-01-11"
     },
     {
@@ -176,7 +141,7 @@
     },
     {
         "ticker_symbol": "J",
-        "price": 109.14,
+        "price": 109.15,
         "time_posted": "2024-01-18"
     },
     {
@@ -206,7 +171,7 @@
     },
     {
         "ticker_symbol": "J",
-        "price": 113.63,
+        "price": 113.64,
         "time_posted": "2024-01-26"
     },
     {
@@ -226,12 +191,12 @@
     },
     {
         "ticker_symbol": "J",
-        "price": 113.43,
+        "price": 113.44,
         "time_posted": "2024-02-01"
     },
     {
         "ticker_symbol": "J",
-        "price": 114.55,
+        "price": 114.56,
         "time_posted": "2024-02-02"
     },
     {
@@ -256,12 +221,12 @@
     },
     {
         "ticker_symbol": "J",
-        "price": 120.53,
+        "price": 120.54,
         "time_posted": "2024-02-09"
     },
     {
         "ticker_symbol": "J",
-        "price": 120.53,
+        "price": 120.54,
         "time_posted": "2024-02-12"
     },
     {
@@ -271,7 +236,7 @@
     },
     {
         "ticker_symbol": "J",
-        "price": 119.51,
+        "price": 119.52,
         "time_posted": "2024-02-14"
     },
     {
@@ -296,322 +261,322 @@
     },
     {
         "ticker_symbol": "J",
-        "price": 121.12,
+        "price": 121.17,
         "time_posted": "2024-02-22"
     },
     {
         "ticker_symbol": "J",
-        "price": 122.0,
+        "price": 122.05,
         "time_posted": "2024-02-23"
     },
     {
         "ticker_symbol": "J",
-        "price": 121.57,
+        "price": 121.62,
         "time_posted": "2024-02-26"
     },
     {
         "ticker_symbol": "J",
-        "price": 122.24,
+        "price": 122.3,
         "time_posted": "2024-02-27"
     },
     {
         "ticker_symbol": "J",
-        "price": 122.11,
+        "price": 122.16,
         "time_posted": "2024-02-28"
     },
     {
         "ticker_symbol": "J",
-        "price": 121.71,
+        "price": 121.76,
         "time_posted": "2024-02-29"
     },
     {
         "ticker_symbol": "J",
-        "price": 121.69,
+        "price": 121.74,
         "time_posted": "2024-03-01"
     },
     {
         "ticker_symbol": "J",
-        "price": 122.12,
+        "price": 122.17,
         "time_posted": "2024-03-04"
     },
     {
         "ticker_symbol": "J",
-        "price": 122.1,
+        "price": 122.15,
         "time_posted": "2024-03-05"
     },
     {
         "ticker_symbol": "J",
-        "price": 121.94,
+        "price": 121.99,
         "time_posted": "2024-03-06"
     },
     {
         "ticker_symbol": "J",
-        "price": 123.44,
+        "price": 123.49,
         "time_posted": "2024-03-07"
     },
     {
         "ticker_symbol": "J",
-        "price": 121.95,
+        "price": 122.0,
         "time_posted": "2024-03-08"
     },
     {
         "ticker_symbol": "J",
-        "price": 122.71,
+        "price": 122.76,
         "time_posted": "2024-03-11"
     },
     {
         "ticker_symbol": "J",
-        "price": 123.81,
+        "price": 123.86,
         "time_posted": "2024-03-12"
     },
     {
         "ticker_symbol": "J",
-        "price": 125.02,
+        "price": 125.08,
         "time_posted": "2024-03-13"
     },
     {
         "ticker_symbol": "J",
-        "price": 123.94,
+        "price": 123.99,
         "time_posted": "2024-03-14"
     },
     {
         "ticker_symbol": "J",
-        "price": 123.64,
+        "price": 123.69,
         "time_posted": "2024-03-15"
     },
     {
         "ticker_symbol": "J",
-        "price": 122.77,
+        "price": 122.82,
         "time_posted": "2024-03-18"
     },
     {
         "ticker_symbol": "J",
-        "price": 124.3,
+        "price": 124.35,
         "time_posted": "2024-03-19"
     },
     {
         "ticker_symbol": "J",
-        "price": 125.0,
+        "price": 125.05,
         "time_posted": "2024-03-20"
     },
     {
         "ticker_symbol": "J",
-        "price": 125.67,
+        "price": 125.72,
         "time_posted": "2024-03-21"
     },
     {
         "ticker_symbol": "J",
-        "price": 124.52,
+        "price": 124.57,
         "time_posted": "2024-03-22"
     },
     {
         "ticker_symbol": "J",
-        "price": 124.56,
+        "price": 124.61,
         "time_posted": "2024-03-25"
     },
     {
         "ticker_symbol": "J",
-        "price": 124.81,
+        "price": 124.86,
         "time_posted": "2024-03-26"
     },
     {
         "ticker_symbol": "J",
-        "price": 126.93,
+        "price": 126.98,
         "time_posted": "2024-03-27"
     },
     {
         "ticker_symbol": "J",
-        "price": 127.59,
+        "price": 127.64,
         "time_posted": "2024-03-28"
     },
     {
         "ticker_symbol": "J",
-        "price": 125.51,
+        "price": 125.57,
         "time_posted": "2024-04-01"
     },
     {
         "ticker_symbol": "J",
-        "price": 124.25,
+        "price": 124.3,
         "time_posted": "2024-04-02"
     },
     {
         "ticker_symbol": "J",
-        "price": 124.39,
+        "price": 124.44,
         "time_posted": "2024-04-03"
     },
     {
         "ticker_symbol": "J",
-        "price": 123.78,
+        "price": 123.83,
         "time_posted": "2024-04-04"
     },
     {
         "ticker_symbol": "J",
-        "price": 122.77,
+        "price": 122.82,
         "time_posted": "2024-04-05"
     },
     {
         "ticker_symbol": "J",
-        "price": 121.27,
+        "price": 121.32,
         "time_posted": "2024-04-08"
     },
     {
         "ticker_symbol": "J",
-        "price": 121.77,
+        "price": 121.82,
         "time_posted": "2024-04-09"
     },
     {
         "ticker_symbol": "J",
-        "price": 119.8,
+        "price": 119.85,
         "time_posted": "2024-04-10"
     },
     {
         "ticker_symbol": "J",
-        "price": 121.08,
+        "price": 121.13,
         "time_posted": "2024-04-11"
     },
     {
         "ticker_symbol": "J",
-        "price": 120.05,
+        "price": 120.1,
         "time_posted": "2024-04-12"
     },
     {
         "ticker_symbol": "J",
-        "price": 119.5,
+        "price": 119.55,
         "time_posted": "2024-04-15"
     },
     {
         "ticker_symbol": "J",
-        "price": 120.33,
+        "price": 120.38,
         "time_posted": "2024-04-16"
     },
     {
         "ticker_symbol": "J",
-        "price": 118.66,
+        "price": 118.71,
         "time_posted": "2024-04-17"
     },
     {
         "ticker_symbol": "J",
-        "price": 119.1,
+        "price": 119.15,
         "time_posted": "2024-04-18"
     },
     {
         "ticker_symbol": "J",
-        "price": 119.37,
+        "price": 119.42,
         "time_posted": "2024-04-19"
     },
     {
         "ticker_symbol": "J",
-        "price": 119.61,
+        "price": 119.65,
         "time_posted": "2024-04-22"
     },
     {
         "ticker_symbol": "J",
-        "price": 120.04,
+        "price": 120.09,
         "time_posted": "2024-04-23"
     },
     {
         "ticker_symbol": "J",
-        "price": 119.5,
+        "price": 119.55,
         "time_posted": "2024-04-24"
     },
     {
         "ticker_symbol": "J",
-        "price": 119.66,
+        "price": 119.71,
         "time_posted": "2024-04-25"
     },
     {
         "ticker_symbol": "J",
-        "price": 120.27,
+        "price": 120.32,
         "time_posted": "2024-04-26"
     },
     {
         "ticker_symbol": "J",
-        "price": 121.05,
+        "price": 121.1,
         "time_posted": "2024-04-29"
     },
     {
         "ticker_symbol": "J",
-        "price": 119.12,
+        "price": 119.17,
         "time_posted": "2024-04-30"
     },
     {
         "ticker_symbol": "J",
-        "price": 118.84,
+        "price": 118.89,
         "time_posted": "2024-05-01"
     },
     {
         "ticker_symbol": "J",
-        "price": 120.29,
+        "price": 120.34,
         "time_posted": "2024-05-02"
     },
     {
         "ticker_symbol": "J",
-        "price": 122.92,
+        "price": 122.97,
         "time_posted": "2024-05-03"
     },
     {
         "ticker_symbol": "J",
-        "price": 123.73,
+        "price": 123.78,
         "time_posted": "2024-05-06"
     },
     {
         "ticker_symbol": "J",
-        "price": 117.56,
+        "price": 117.6,
         "time_posted": "2024-05-07"
     },
     {
         "ticker_symbol": "J",
-        "price": 114.96,
+        "price": 115.01,
         "time_posted": "2024-05-08"
     },
     {
         "ticker_symbol": "J",
-        "price": 116.02,
+        "price": 116.07,
         "time_posted": "2024-05-09"
     },
     {
         "ticker_symbol": "J",
-        "price": 115.56,
+        "price": 115.61,
         "time_posted": "2024-05-10"
     },
     {
         "ticker_symbol": "J",
-        "price": 114.8,
+        "price": 114.85,
         "time_posted": "2024-05-13"
     },
     {
         "ticker_symbol": "J",
-        "price": 114.43,
+        "price": 114.47,
         "time_posted": "2024-05-14"
     },
     {
         "ticker_symbol": "J",
-        "price": 114.29,
+        "price": 114.34,
         "time_posted": "2024-05-15"
     },
     {
         "ticker_symbol": "J",
-        "price": 114.33,
+        "price": 114.37,
         "time_posted": "2024-05-16"
     },
     {
         "ticker_symbol": "J",
-        "price": 113.24,
+        "price": 113.29,
         "time_posted": "2024-05-17"
     },
     {
         "ticker_symbol": "J",
-        "price": 113.61,
+        "price": 113.66,
         "time_posted": "2024-05-20"
     },
     {
         "ticker_symbol": "J",
-        "price": 115.19,
+        "price": 115.24,
         "time_posted": "2024-05-21"
     },
     {
         "ticker_symbol": "J",
-        "price": 114.43,
+        "price": 114.47,
         "time_posted": "2024-05-22"
     },
     {
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "J",
         "price": 140.69,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "J",
+        "price": 141.21,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "J",
+        "price": 141.23,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "J",
+        "price": 139.87,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "J",
+        "price": 138.0,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "J",
+        "price": 138.36,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "J",
+        "price": 137.74,
+        "time_posted": "2024-12-05"
     }
 ]

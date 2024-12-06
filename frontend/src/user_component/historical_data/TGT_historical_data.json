@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "TGT",
-        "price": 127.55,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "TGT",
-        "price": 127.88,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "TGT",
-        "price": 127.54,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "TGT",
-        "price": 129.95,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "TGT",
-        "price": 130.9,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "TGT",
-        "price": 129.86,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "TGT",
-        "price": 129.05,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "TGT",
         "price": 129.54,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "TGT",
         "price": 126.55,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "TGT",
+        "price": 130.09,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "TGT",
+        "price": 132.31,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "TGT",
+        "price": 130.72,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "TGT",
+        "price": 131.45,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "TGT",
+        "price": 130.07,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "TGT",
+        "price": 129.17,
+        "time_posted": "2024-12-05"
     }
 ]

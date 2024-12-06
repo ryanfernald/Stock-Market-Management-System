@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "CRWD",
-        "price": 210.07,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "CRWD",
-        "price": 212.35,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "CRWD",
-        "price": 234.44,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "CRWD",
-        "price": 236.99,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "CRWD",
-        "price": 235.03,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "CRWD",
-        "price": 237.39,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "CRWD",
-        "price": 238.97,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "CRWD",
         "price": 239.42,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "CRWD",
         "price": 364.3,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "CRWD",
+        "price": 347.59,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "CRWD",
+        "price": 345.97,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "CRWD",
+        "price": 346.8,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "CRWD",
+        "price": 349.95,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "CRWD",
+        "price": 364.16,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "CRWD",
+        "price": 364.84,
+        "time_posted": "2024-12-05"
     }
 ]

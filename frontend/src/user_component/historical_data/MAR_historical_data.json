@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "MAR",
-        "price": 205.46,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "MAR",
-        "price": 202.64,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "MAR",
-        "price": 200.48,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "MAR",
-        "price": 200.7,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "MAR",
-        "price": 207.22,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "MAR",
-        "price": 207.54,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "MAR",
-        "price": 200.71,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "MAR",
         "price": 202.76,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "MAR",
         "price": 288.18,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "MAR",
+        "price": 285.6,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "MAR",
+        "price": 289.09,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "MAR",
+        "price": 286.24,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "MAR",
+        "price": 284.93,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "MAR",
+        "price": 289.63,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "MAR",
+        "price": 292.48,
+        "time_posted": "2024-12-05"
     }
 ]

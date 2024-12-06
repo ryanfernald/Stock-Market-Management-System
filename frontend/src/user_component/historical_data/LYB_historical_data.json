@@ -1,1267 +1,1262 @@
 [
     {
         "ticker_symbol": "LYB",
-        "price": 89.44,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "LYB",
-        "price": 90.24,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "LYB",
-        "price": 90.33,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "LYB",
-        "price": 91.39,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "LYB",
-        "price": 91.77,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "LYB",
-        "price": 90.42,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "LYB",
-        "price": 89.19,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "LYB",
-        "price": 88.82,
+        "price": 87.39,
         "time_posted": "2023-12-06"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 88.58,
+        "price": 87.16,
         "time_posted": "2023-12-07"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 88.96,
+        "price": 87.53,
         "time_posted": "2023-12-08"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 89.08,
+        "price": 87.65,
         "time_posted": "2023-12-11"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 88.05,
+        "price": 86.64,
         "time_posted": "2023-12-12"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 89.46,
+        "price": 88.03,
         "time_posted": "2023-12-13"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 90.91,
+        "price": 89.44,
         "time_posted": "2023-12-14"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 91.31,
+        "price": 89.84,
         "time_posted": "2023-12-15"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 91.77,
+        "price": 90.29,
         "time_posted": "2023-12-18"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 93.15,
+        "price": 91.66,
         "time_posted": "2023-12-19"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 92.11,
+        "price": 90.63,
         "time_posted": "2023-12-20"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 92.67,
+        "price": 91.18,
         "time_posted": "2023-12-21"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 92.31,
+        "price": 90.82,
         "time_posted": "2023-12-22"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 92.9,
+        "price": 91.41,
         "time_posted": "2023-12-26"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 92.7,
+        "price": 91.21,
         "time_posted": "2023-12-27"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 91.95,
+        "price": 90.47,
         "time_posted": "2023-12-28"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 91.37,
+        "price": 89.9,
         "time_posted": "2023-12-29"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 92.81,
+        "price": 91.32,
         "time_posted": "2024-01-02"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 92.78,
+        "price": 91.29,
         "time_posted": "2024-01-03"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 92.34,
+        "price": 90.85,
         "time_posted": "2024-01-04"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 93.09,
+        "price": 91.59,
         "time_posted": "2024-01-05"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 92.88,
+        "price": 91.39,
         "time_posted": "2024-01-08"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 91.45,
+        "price": 89.98,
         "time_posted": "2024-01-09"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 90.65,
+        "price": 89.19,
         "time_posted": "2024-01-10"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 91.01,
+        "price": 89.55,
         "time_posted": "2024-01-11"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 90.74,
+        "price": 89.28,
         "time_posted": "2024-01-12"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 90.3,
+        "price": 88.85,
         "time_posted": "2024-01-16"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 89.08,
+        "price": 87.65,
         "time_posted": "2024-01-17"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 89.67,
+        "price": 88.22,
         "time_posted": "2024-01-18"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 89.74,
+        "price": 88.3,
         "time_posted": "2024-01-19"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 90.1,
+        "price": 88.65,
         "time_posted": "2024-01-22"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 90.89,
+        "price": 89.42,
         "time_posted": "2024-01-23"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 89.77,
+        "price": 88.33,
         "time_posted": "2024-01-24"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 91.66,
+        "price": 90.19,
         "time_posted": "2024-01-25"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 91.7,
+        "price": 90.23,
         "time_posted": "2024-01-26"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 91.55,
+        "price": 90.08,
         "time_posted": "2024-01-29"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 91.91,
+        "price": 90.44,
         "time_posted": "2024-01-30"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 90.44,
+        "price": 88.99,
         "time_posted": "2024-01-31"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 90.91,
+        "price": 89.45,
         "time_posted": "2024-02-01"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 89.23,
+        "price": 87.8,
         "time_posted": "2024-02-02"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 89.51,
+        "price": 88.07,
         "time_posted": "2024-02-05"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 90.78,
+        "price": 89.32,
         "time_posted": "2024-02-06"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 90.78,
+        "price": 89.32,
         "time_posted": "2024-02-07"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 91.27,
+        "price": 89.8,
         "time_posted": "2024-02-08"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 91.67,
+        "price": 90.2,
         "time_posted": "2024-02-09"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 92.73,
+        "price": 91.24,
         "time_posted": "2024-02-12"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 91.03,
+        "price": 89.57,
         "time_posted": "2024-02-13"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 90.94,
+        "price": 89.48,
         "time_posted": "2024-02-14"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 93.66,
+        "price": 92.16,
         "time_posted": "2024-02-15"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 93.88,
+        "price": 92.37,
         "time_posted": "2024-02-16"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 92.51,
+        "price": 91.02,
         "time_posted": "2024-02-20"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 93.58,
+        "price": 92.07,
         "time_posted": "2024-02-21"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 94.45,
+        "price": 92.93,
         "time_posted": "2024-02-22"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 95.39,
+        "price": 93.86,
         "time_posted": "2024-02-23"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 94.96,
+        "price": 93.43,
         "time_posted": "2024-02-26"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 95.13,
+        "price": 93.6,
         "time_posted": "2024-02-27"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 94.93,
+        "price": 93.41,
         "time_posted": "2024-02-28"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 96.36,
+        "price": 94.81,
         "time_posted": "2024-02-29"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 96.77,
+        "price": 95.22,
         "time_posted": "2024-03-01"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 98.92,
+        "price": 97.33,
         "time_posted": "2024-03-04"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 98.75,
+        "price": 97.16,
         "time_posted": "2024-03-05"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 97.22,
+        "price": 95.66,
         "time_posted": "2024-03-06"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 96.35,
+        "price": 94.8,
         "time_posted": "2024-03-07"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 96.28,
+        "price": 94.73,
         "time_posted": "2024-03-08"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 97.95,
+        "price": 96.37,
         "time_posted": "2024-03-11"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 97.82,
+        "price": 96.25,
         "time_posted": "2024-03-12"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 98.97,
+        "price": 97.38,
         "time_posted": "2024-03-13"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 97.31,
+        "price": 95.74,
         "time_posted": "2024-03-14"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 97.22,
+        "price": 95.66,
         "time_posted": "2024-03-15"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 97.16,
+        "price": 95.6,
         "time_posted": "2024-03-18"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 97.14,
+        "price": 95.58,
         "time_posted": "2024-03-19"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 99.54,
+        "price": 97.94,
         "time_posted": "2024-03-20"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 98.52,
+        "price": 96.94,
         "time_posted": "2024-03-21"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 98.26,
+        "price": 96.68,
         "time_posted": "2024-03-22"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 97.78,
+        "price": 96.21,
         "time_posted": "2024-03-25"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 98.42,
+        "price": 96.83,
         "time_posted": "2024-03-26"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 100.18,
+        "price": 98.57,
         "time_posted": "2024-03-27"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 99.53,
+        "price": 97.93,
         "time_posted": "2024-03-28"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 99.32,
+        "price": 97.72,
         "time_posted": "2024-04-01"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 101.37,
+        "price": 99.74,
         "time_posted": "2024-04-02"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 103.01,
+        "price": 101.35,
         "time_posted": "2024-04-03"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 101.59,
+        "price": 99.96,
         "time_posted": "2024-04-04"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 101.96,
+        "price": 100.32,
         "time_posted": "2024-04-05"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 101.03,
+        "price": 99.41,
         "time_posted": "2024-04-08"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 101.94,
+        "price": 100.3,
         "time_posted": "2024-04-09"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 100.74,
+        "price": 99.12,
         "time_posted": "2024-04-10"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 100.14,
+        "price": 98.53,
         "time_posted": "2024-04-11"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 98.8,
+        "price": 97.21,
         "time_posted": "2024-04-12"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 97.75,
+        "price": 96.18,
         "time_posted": "2024-04-15"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 96.48,
+        "price": 94.93,
         "time_posted": "2024-04-16"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 97.02,
+        "price": 95.46,
         "time_posted": "2024-04-17"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 96.72,
+        "price": 95.17,
         "time_posted": "2024-04-18"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 98.03,
+        "price": 96.45,
         "time_posted": "2024-04-19"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 97.88,
+        "price": 96.31,
         "time_posted": "2024-04-22"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 97.84,
+        "price": 96.27,
         "time_posted": "2024-04-23"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 98.07,
+        "price": 96.49,
         "time_posted": "2024-04-24"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 97.0,
+        "price": 95.44,
         "time_posted": "2024-04-25"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 99.38,
+        "price": 97.78,
         "time_posted": "2024-04-26"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 98.96,
+        "price": 97.37,
         "time_posted": "2024-04-29"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 97.28,
+        "price": 95.71,
         "time_posted": "2024-04-30"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 96.84,
+        "price": 95.28,
         "time_posted": "2024-05-01"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 96.12,
+        "price": 94.57,
         "time_posted": "2024-05-02"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 96.45,
+        "price": 94.9,
         "time_posted": "2024-05-03"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 97.05,
+        "price": 95.49,
         "time_posted": "2024-05-06"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 98.72,
+        "price": 97.13,
         "time_posted": "2024-05-07"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 99.43,
+        "price": 97.83,
         "time_posted": "2024-05-08"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 98.89,
+        "price": 97.3,
         "time_posted": "2024-05-09"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 98.64,
+        "price": 97.05,
         "time_posted": "2024-05-10"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 98.59,
+        "price": 97.01,
         "time_posted": "2024-05-13"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 98.79,
+        "price": 97.2,
         "time_posted": "2024-05-14"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 97.57,
+        "price": 96.0,
         "time_posted": "2024-05-15"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 97.25,
+        "price": 95.69,
         "time_posted": "2024-05-16"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 98.19,
+        "price": 96.61,
         "time_posted": "2024-05-17"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 97.4,
+        "price": 95.84,
         "time_posted": "2024-05-20"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 97.44,
+        "price": 95.88,
         "time_posted": "2024-05-21"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 95.87,
+        "price": 94.33,
         "time_posted": "2024-05-22"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 94.8,
+        "price": 93.27,
         "time_posted": "2024-05-23"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 95.89,
+        "price": 94.34,
         "time_posted": "2024-05-24"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 96.05,
+        "price": 94.51,
         "time_posted": "2024-05-28"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 94.21,
+        "price": 92.7,
         "time_posted": "2024-05-29"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 94.68,
+        "price": 93.16,
         "time_posted": "2024-05-30"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 96.74,
+        "price": 95.19,
         "time_posted": "2024-05-31"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 94.2,
+        "price": 92.68,
         "time_posted": "2024-06-03"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 93.14,
+        "price": 91.65,
         "time_posted": "2024-06-04"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 93.76,
+        "price": 92.26,
         "time_posted": "2024-06-05"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 93.94,
+        "price": 92.43,
         "time_posted": "2024-06-06"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 94.75,
+        "price": 93.23,
         "time_posted": "2024-06-07"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 94.26,
+        "price": 92.74,
         "time_posted": "2024-06-10"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 95.02,
+        "price": 93.49,
         "time_posted": "2024-06-11"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 94.6,
+        "price": 93.08,
         "time_posted": "2024-06-12"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 94.26,
+        "price": 92.74,
         "time_posted": "2024-06-13"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 92.26,
+        "price": 90.78,
         "time_posted": "2024-06-14"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 92.67,
+        "price": 91.18,
         "time_posted": "2024-06-17"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 94.08,
+        "price": 92.57,
         "time_posted": "2024-06-18"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 93.75,
+        "price": 92.25,
         "time_posted": "2024-06-20"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 93.91,
+        "price": 92.4,
         "time_posted": "2024-06-21"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 96.19,
+        "price": 94.64,
         "time_posted": "2024-06-24"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 94.18,
+        "price": 92.66,
         "time_posted": "2024-06-25"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 94.47,
+        "price": 92.96,
         "time_posted": "2024-06-26"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 94.52,
+        "price": 93.0,
         "time_posted": "2024-06-27"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 94.36,
+        "price": 92.84,
         "time_posted": "2024-06-28"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 93.35,
+        "price": 91.85,
         "time_posted": "2024-07-01"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 93.64,
+        "price": 92.13,
         "time_posted": "2024-07-02"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 93.87,
+        "price": 92.36,
         "time_posted": "2024-07-03"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 92.3,
+        "price": 90.82,
         "time_posted": "2024-07-05"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 93.16,
+        "price": 91.66,
         "time_posted": "2024-07-08"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 91.93,
+        "price": 90.45,
         "time_posted": "2024-07-09"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 91.58,
+        "price": 90.11,
         "time_posted": "2024-07-10"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 92.88,
+        "price": 91.38,
         "time_posted": "2024-07-11"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 93.76,
+        "price": 92.26,
         "time_posted": "2024-07-12"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 94.35,
+        "price": 92.83,
         "time_posted": "2024-07-15"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 96.43,
+        "price": 94.88,
         "time_posted": "2024-07-16"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 97.39,
+        "price": 95.83,
         "time_posted": "2024-07-17"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 96.85,
+        "price": 95.29,
         "time_posted": "2024-07-18"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 95.68,
+        "price": 94.14,
         "time_posted": "2024-07-19"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 96.14,
+        "price": 94.6,
         "time_posted": "2024-07-22"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 94.77,
+        "price": 93.25,
         "time_posted": "2024-07-23"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 93.98,
+        "price": 92.47,
         "time_posted": "2024-07-24"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 95.28,
+        "price": 93.75,
         "time_posted": "2024-07-25"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 95.93,
+        "price": 94.39,
         "time_posted": "2024-07-26"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 96.06,
+        "price": 94.52,
         "time_posted": "2024-07-29"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 96.92,
+        "price": 95.36,
         "time_posted": "2024-07-30"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 98.1,
+        "price": 96.53,
         "time_posted": "2024-07-31"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 96.8,
+        "price": 95.25,
         "time_posted": "2024-08-01"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 93.1,
+        "price": 91.61,
         "time_posted": "2024-08-02"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 91.3,
+        "price": 89.83,
         "time_posted": "2024-08-05"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 94.26,
+        "price": 92.74,
         "time_posted": "2024-08-06"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 93.55,
+        "price": 92.04,
         "time_posted": "2024-08-07"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 94.89,
+        "price": 93.36,
         "time_posted": "2024-08-08"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 95.54,
+        "price": 94.0,
         "time_posted": "2024-08-09"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 94.43,
+        "price": 92.92,
         "time_posted": "2024-08-12"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 95.31,
+        "price": 93.78,
         "time_posted": "2024-08-13"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 94.88,
+        "price": 93.35,
         "time_posted": "2024-08-14"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 96.11,
+        "price": 94.57,
         "time_posted": "2024-08-15"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 95.75,
+        "price": 94.21,
         "time_posted": "2024-08-16"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 95.64,
+        "price": 94.1,
         "time_posted": "2024-08-19"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 95.24,
+        "price": 93.71,
         "time_posted": "2024-08-20"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 95.59,
+        "price": 94.05,
         "time_posted": "2024-08-21"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 95.03,
+        "price": 93.5,
         "time_posted": "2024-08-22"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 96.95,
+        "price": 95.39,
         "time_posted": "2024-08-23"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 97.87,
+        "price": 96.3,
         "time_posted": "2024-08-26"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 97.71,
+        "price": 96.14,
         "time_posted": "2024-08-27"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 97.72,
+        "price": 96.15,
         "time_posted": "2024-08-28"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 98.17,
+        "price": 96.59,
         "time_posted": "2024-08-29"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 98.7,
+        "price": 97.11,
         "time_posted": "2024-08-30"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 95.72,
+        "price": 94.18,
         "time_posted": "2024-09-03"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 94.87,
+        "price": 93.34,
         "time_posted": "2024-09-04"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 94.23,
+        "price": 92.71,
         "time_posted": "2024-09-05"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 93.49,
+        "price": 91.99,
         "time_posted": "2024-09-06"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 94.78,
+        "price": 93.26,
         "time_posted": "2024-09-09"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 93.79,
+        "price": 92.28,
         "time_posted": "2024-09-10"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 93.96,
+        "price": 92.45,
         "time_posted": "2024-09-11"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 93.86,
+        "price": 92.35,
         "time_posted": "2024-09-12"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 93.18,
+        "price": 91.68,
         "time_posted": "2024-09-13"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 94.08,
+        "price": 92.57,
         "time_posted": "2024-09-16"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 94.99,
+        "price": 93.46,
         "time_posted": "2024-09-17"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 93.94,
+        "price": 92.43,
         "time_posted": "2024-09-18"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 96.09,
+        "price": 94.54,
         "time_posted": "2024-09-19"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 94.04,
+        "price": 92.53,
         "time_posted": "2024-09-20"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 93.6,
+        "price": 92.1,
         "time_posted": "2024-09-23"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 96.1,
+        "price": 94.55,
         "time_posted": "2024-09-24"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 94.86,
+        "price": 93.33,
         "time_posted": "2024-09-25"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 96.11,
+        "price": 94.56,
         "time_posted": "2024-09-26"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 96.43,
+        "price": 94.88,
         "time_posted": "2024-09-27"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 95.9,
+        "price": 94.36,
         "time_posted": "2024-09-30"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 95.81,
+        "price": 94.27,
         "time_posted": "2024-10-01"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 95.28,
+        "price": 93.75,
         "time_posted": "2024-10-02"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 94.87,
+        "price": 93.34,
         "time_posted": "2024-10-03"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 96.75,
+        "price": 95.19,
         "time_posted": "2024-10-04"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 95.39,
+        "price": 93.86,
         "time_posted": "2024-10-07"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 94.1,
+        "price": 92.59,
         "time_posted": "2024-10-08"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 94.27,
+        "price": 92.75,
         "time_posted": "2024-10-09"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 94.66,
+        "price": 93.14,
         "time_posted": "2024-10-10"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 93.79,
+        "price": 92.28,
         "time_posted": "2024-10-11"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 93.44,
+        "price": 91.94,
         "time_posted": "2024-10-14"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 92.07,
+        "price": 90.59,
         "time_posted": "2024-10-15"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 91.92,
+        "price": 90.44,
         "time_posted": "2024-10-16"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 91.59,
+        "price": 90.12,
         "time_posted": "2024-10-17"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 91.49,
+        "price": 90.02,
         "time_posted": "2024-10-18"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 89.74,
+        "price": 88.3,
         "time_posted": "2024-10-21"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 89.51,
+        "price": 88.07,
         "time_posted": "2024-10-22"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 88.87,
+        "price": 87.44,
         "time_posted": "2024-10-23"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 88.49,
+        "price": 87.07,
         "time_posted": "2024-10-24"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 87.5,
+        "price": 86.09,
         "time_posted": "2024-10-25"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 87.72,
+        "price": 86.31,
         "time_posted": "2024-10-28"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 87.18,
+        "price": 85.78,
         "time_posted": "2024-10-29"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 87.15,
+        "price": 85.75,
         "time_posted": "2024-10-30"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 86.85,
+        "price": 85.45,
         "time_posted": "2024-10-31"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 86.56,
+        "price": 85.17,
         "time_posted": "2024-11-01"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 84.19,
+        "price": 82.84,
         "time_posted": "2024-11-04"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 85.37,
+        "price": 84.0,
         "time_posted": "2024-11-05"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 86.43,
+        "price": 85.04,
         "time_posted": "2024-11-06"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 87.33,
+        "price": 85.93,
         "time_posted": "2024-11-07"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 85.3,
+        "price": 83.93,
         "time_posted": "2024-11-08"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 84.97,
+        "price": 83.6,
         "time_posted": "2024-11-11"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 83.6,
+        "price": 82.26,
         "time_posted": "2024-11-12"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 83.44,
+        "price": 82.1,
         "time_posted": "2024-11-13"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 82.56,
+        "price": 81.23,
         "time_posted": "2024-11-14"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 82.65,
+        "price": 81.32,
         "time_posted": "2024-11-15"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 83.2,
+        "price": 81.86,
         "time_posted": "2024-11-18"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 82.2,
+        "price": 80.88,
         "time_posted": "2024-11-19"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 82.48,
+        "price": 81.15,
         "time_posted": "2024-11-20"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 82.8,
+        "price": 81.47,
         "time_posted": "2024-11-21"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 83.87,
+        "price": 82.52,
         "time_posted": "2024-11-22"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 84.06,
+        "price": 82.71,
         "time_posted": "2024-11-25"
     },
     {
         "ticker_symbol": "LYB",
-        "price": 82.14,
+        "price": 80.82,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "LYB",
+        "price": 81.7,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "LYB",
+        "price": 82.0,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "LYB",
+        "price": 82.05,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "LYB",
+        "price": 80.78,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "LYB",
+        "price": 77.95,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "LYB",
+        "price": 77.41,
+        "time_posted": "2024-12-05"
     }
 ]

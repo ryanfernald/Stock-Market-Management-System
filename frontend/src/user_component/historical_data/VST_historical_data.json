@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "VST",
-        "price": 35.14,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "VST",
-        "price": 34.73,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "VST",
-        "price": 34.43,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "VST",
-        "price": 34.92,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "VST",
-        "price": 35.77,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "VST",
-        "price": 36.6,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "VST",
-        "price": 36.85,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "VST",
         "price": 35.77,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "VST",
         "price": 162.66,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "VST",
+        "price": 154.52,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "VST",
+        "price": 159.84,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "VST",
+        "price": 154.11,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "VST",
+        "price": 154.16,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "VST",
+        "price": 161.31,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "VST",
+        "price": 160.88,
+        "time_posted": "2024-12-05"
     }
 ]

@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "MAS",
-        "price": 58.86,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "MAS",
-        "price": 58.57,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "MAS",
-        "price": 59.44,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "MAS",
-        "price": 59.62,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "MAS",
-        "price": 61.2,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "MAS",
-        "price": 61.48,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "MAS",
-        "price": 61.32,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "MAS",
         "price": 62.45,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "MAS",
         "price": 80.71,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "MAS",
+        "price": 80.42,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "MAS",
+        "price": 80.56,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "MAS",
+        "price": 80.5,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "MAS",
+        "price": 80.76,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "MAS",
+        "price": 80.36,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "MAS",
+        "price": 80.39,
+        "time_posted": "2024-12-05"
     }
 ]

@@ -1,1267 +1,1262 @@
 [
     {
         "ticker_symbol": "GS",
-        "price": 328.66,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "GS",
-        "price": 328.6,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "GS",
-        "price": 333.86,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "GS",
-        "price": 335.11,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "GS",
-        "price": 341.87,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "GS",
-        "price": 342.82,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "GS",
-        "price": 335.32,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "GS",
-        "price": 335.54,
+        "price": 333.88,
         "time_posted": "2023-12-06"
     },
     {
         "ticker_symbol": "GS",
-        "price": 338.14,
+        "price": 336.47,
         "time_posted": "2023-12-07"
     },
     {
         "ticker_symbol": "GS",
-        "price": 344.23,
+        "price": 342.53,
         "time_posted": "2023-12-08"
     },
     {
         "ticker_symbol": "GS",
-        "price": 345.14,
+        "price": 343.44,
         "time_posted": "2023-12-11"
     },
     {
         "ticker_symbol": "GS",
-        "price": 345.98,
+        "price": 344.27,
         "time_posted": "2023-12-12"
     },
     {
         "ticker_symbol": "GS",
-        "price": 355.91,
+        "price": 354.15,
         "time_posted": "2023-12-13"
     },
     {
         "ticker_symbol": "GS",
-        "price": 376.26,
+        "price": 374.4,
         "time_posted": "2023-12-14"
     },
     {
         "ticker_symbol": "GS",
-        "price": 373.35,
+        "price": 371.51,
         "time_posted": "2023-12-15"
     },
     {
         "ticker_symbol": "GS",
-        "price": 369.32,
+        "price": 367.5,
         "time_posted": "2023-12-18"
     },
     {
         "ticker_symbol": "GS",
-        "price": 375.25,
+        "price": 373.4,
         "time_posted": "2023-12-19"
     },
     {
         "ticker_symbol": "GS",
-        "price": 370.42,
+        "price": 368.59,
         "time_posted": "2023-12-20"
     },
     {
         "ticker_symbol": "GS",
-        "price": 373.41,
+        "price": 371.57,
         "time_posted": "2023-12-21"
     },
     {
         "ticker_symbol": "GS",
-        "price": 373.49,
+        "price": 371.65,
         "time_posted": "2023-12-22"
     },
     {
         "ticker_symbol": "GS",
-        "price": 374.43,
+        "price": 372.58,
         "time_posted": "2023-12-26"
     },
     {
         "ticker_symbol": "GS",
-        "price": 377.25,
+        "price": 375.39,
         "time_posted": "2023-12-27"
     },
     {
         "ticker_symbol": "GS",
-        "price": 379.14,
+        "price": 377.27,
         "time_posted": "2023-12-28"
     },
     {
         "ticker_symbol": "GS",
-        "price": 378.51,
+        "price": 376.65,
         "time_posted": "2023-12-29"
     },
     {
         "ticker_symbol": "GS",
-        "price": 380.99,
+        "price": 379.12,
         "time_posted": "2024-01-02"
     },
     {
         "ticker_symbol": "GS",
-        "price": 374.61,
+        "price": 372.76,
         "time_posted": "2024-01-03"
     },
     {
         "ticker_symbol": "GS",
-        "price": 375.75,
+        "price": 373.89,
         "time_posted": "2024-01-04"
     },
     {
         "ticker_symbol": "GS",
-        "price": 379.17,
+        "price": 377.3,
         "time_posted": "2024-01-05"
     },
     {
         "ticker_symbol": "GS",
-        "price": 381.54,
+        "price": 379.66,
         "time_posted": "2024-01-08"
     },
     {
         "ticker_symbol": "GS",
-        "price": 376.52,
+        "price": 374.66,
         "time_posted": "2024-01-09"
     },
     {
         "ticker_symbol": "GS",
-        "price": 374.77,
+        "price": 372.93,
         "time_posted": "2024-01-10"
     },
     {
         "ticker_symbol": "GS",
-        "price": 372.61,
+        "price": 370.77,
         "time_posted": "2024-01-11"
     },
     {
         "ticker_symbol": "GS",
-        "price": 370.64,
+        "price": 368.82,
         "time_posted": "2024-01-12"
     },
     {
         "ticker_symbol": "GS",
-        "price": 373.29,
+        "price": 371.45,
         "time_posted": "2024-01-16"
     },
     {
         "ticker_symbol": "GS",
-        "price": 370.08,
+        "price": 368.26,
         "time_posted": "2024-01-17"
     },
     {
         "ticker_symbol": "GS",
-        "price": 369.82,
+        "price": 368.0,
         "time_posted": "2024-01-18"
     },
     {
         "ticker_symbol": "GS",
-        "price": 375.01,
+        "price": 373.16,
         "time_posted": "2024-01-19"
     },
     {
         "ticker_symbol": "GS",
-        "price": 378.7,
+        "price": 376.83,
         "time_posted": "2024-01-22"
     },
     {
         "ticker_symbol": "GS",
-        "price": 373.61,
+        "price": 371.76,
         "time_posted": "2024-01-23"
     },
     {
         "ticker_symbol": "GS",
-        "price": 372.26,
+        "price": 370.43,
         "time_posted": "2024-01-24"
     },
     {
         "ticker_symbol": "GS",
-        "price": 375.5,
+        "price": 373.65,
         "time_posted": "2024-01-25"
     },
     {
         "ticker_symbol": "GS",
-        "price": 370.68,
+        "price": 368.85,
         "time_posted": "2024-01-26"
     },
     {
         "ticker_symbol": "GS",
-        "price": 373.4,
+        "price": 371.56,
         "time_posted": "2024-01-29"
     },
     {
         "ticker_symbol": "GS",
-        "price": 379.59,
+        "price": 377.72,
         "time_posted": "2024-01-30"
     },
     {
         "ticker_symbol": "GS",
-        "price": 376.79,
+        "price": 374.93,
         "time_posted": "2024-01-31"
     },
     {
         "ticker_symbol": "GS",
-        "price": 376.63,
+        "price": 374.77,
         "time_posted": "2024-02-01"
     },
     {
         "ticker_symbol": "GS",
-        "price": 380.56,
+        "price": 378.69,
         "time_posted": "2024-02-02"
     },
     {
         "ticker_symbol": "GS",
-        "price": 375.81,
+        "price": 373.96,
         "time_posted": "2024-02-05"
     },
     {
         "ticker_symbol": "GS",
-        "price": 377.75,
+        "price": 375.88,
         "time_posted": "2024-02-06"
     },
     {
         "ticker_symbol": "GS",
-        "price": 379.39,
+        "price": 377.52,
         "time_posted": "2024-02-07"
     },
     {
         "ticker_symbol": "GS",
-        "price": 377.8,
+        "price": 375.93,
         "time_posted": "2024-02-08"
     },
     {
         "ticker_symbol": "GS",
-        "price": 377.03,
+        "price": 375.17,
         "time_posted": "2024-02-09"
     },
     {
         "ticker_symbol": "GS",
-        "price": 385.25,
+        "price": 383.35,
         "time_posted": "2024-02-12"
     },
     {
         "ticker_symbol": "GS",
-        "price": 371.62,
+        "price": 369.79,
         "time_posted": "2024-02-13"
     },
     {
         "ticker_symbol": "GS",
-        "price": 370.93,
+        "price": 369.1,
         "time_posted": "2024-02-14"
     },
     {
         "ticker_symbol": "GS",
-        "price": 378.17,
+        "price": 376.3,
         "time_posted": "2024-02-15"
     },
     {
         "ticker_symbol": "GS",
-        "price": 377.21,
+        "price": 375.35,
         "time_posted": "2024-02-16"
     },
     {
         "ticker_symbol": "GS",
-        "price": 377.29,
+        "price": 375.43,
         "time_posted": "2024-02-20"
     },
     {
         "ticker_symbol": "GS",
-        "price": 380.96,
+        "price": 379.09,
         "time_posted": "2024-02-21"
     },
     {
         "ticker_symbol": "GS",
-        "price": 383.12,
+        "price": 381.23,
         "time_posted": "2024-02-22"
     },
     {
         "ticker_symbol": "GS",
-        "price": 383.69,
+        "price": 381.8,
         "time_posted": "2024-02-23"
     },
     {
         "ticker_symbol": "GS",
-        "price": 382.88,
+        "price": 380.99,
         "time_posted": "2024-02-26"
     },
     {
         "ticker_symbol": "GS",
-        "price": 383.46,
+        "price": 381.57,
         "time_posted": "2024-02-27"
     },
     {
         "ticker_symbol": "GS",
-        "price": 388.52,
+        "price": 386.6,
         "time_posted": "2024-02-28"
     },
     {
         "ticker_symbol": "GS",
-        "price": 384.44,
+        "price": 382.54,
         "time_posted": "2024-02-29"
     },
     {
         "ticker_symbol": "GS",
-        "price": 383.5,
+        "price": 381.61,
         "time_posted": "2024-03-01"
     },
     {
         "ticker_symbol": "GS",
-        "price": 387.6,
+        "price": 385.69,
         "time_posted": "2024-03-04"
     },
     {
         "ticker_symbol": "GS",
-        "price": 386.27,
+        "price": 384.37,
         "time_posted": "2024-03-05"
     },
     {
         "ticker_symbol": "GS",
-        "price": 384.95,
+        "price": 383.05,
         "time_posted": "2024-03-06"
     },
     {
         "ticker_symbol": "GS",
-        "price": 383.82,
+        "price": 381.93,
         "time_posted": "2024-03-07"
     },
     {
         "ticker_symbol": "GS",
-        "price": 382.4,
+        "price": 380.51,
         "time_posted": "2024-03-08"
     },
     {
         "ticker_symbol": "GS",
-        "price": 381.58,
+        "price": 379.7,
         "time_posted": "2024-03-11"
     },
     {
         "ticker_symbol": "GS",
-        "price": 383.58,
+        "price": 381.68,
         "time_posted": "2024-03-12"
     },
     {
         "ticker_symbol": "GS",
-        "price": 387.66,
+        "price": 385.75,
         "time_posted": "2024-03-13"
     },
     {
         "ticker_symbol": "GS",
-        "price": 384.0,
+        "price": 382.11,
         "time_posted": "2024-03-14"
     },
     {
         "ticker_symbol": "GS",
-        "price": 382.62,
+        "price": 380.73,
         "time_posted": "2024-03-15"
     },
     {
         "ticker_symbol": "GS",
-        "price": 379.81,
+        "price": 377.94,
         "time_posted": "2024-03-18"
     },
     {
         "ticker_symbol": "GS",
-        "price": 384.05,
+        "price": 382.16,
         "time_posted": "2024-03-19"
     },
     {
         "ticker_symbol": "GS",
-        "price": 391.77,
+        "price": 389.84,
         "time_posted": "2024-03-20"
     },
     {
         "ticker_symbol": "GS",
-        "price": 408.8,
+        "price": 406.79,
         "time_posted": "2024-03-21"
     },
     {
         "ticker_symbol": "GS",
-        "price": 401.99,
+        "price": 400.01,
         "time_posted": "2024-03-22"
     },
     {
         "ticker_symbol": "GS",
-        "price": 400.14,
+        "price": 398.16,
         "time_posted": "2024-03-25"
     },
     {
         "ticker_symbol": "GS",
-        "price": 401.36,
+        "price": 399.38,
         "time_posted": "2024-03-26"
     },
     {
         "ticker_symbol": "GS",
-        "price": 410.32,
+        "price": 408.3,
         "time_posted": "2024-03-27"
     },
     {
         "ticker_symbol": "GS",
-        "price": 412.74,
+        "price": 410.7,
         "time_posted": "2024-03-28"
     },
     {
         "ticker_symbol": "GS",
-        "price": 408.61,
+        "price": 406.59,
         "time_posted": "2024-04-01"
     },
     {
         "ticker_symbol": "GS",
-        "price": 405.29,
+        "price": 403.29,
         "time_posted": "2024-04-02"
     },
     {
         "ticker_symbol": "GS",
-        "price": 409.09,
+        "price": 407.07,
         "time_posted": "2024-04-03"
     },
     {
         "ticker_symbol": "GS",
-        "price": 401.43,
+        "price": 399.45,
         "time_posted": "2024-04-04"
     },
     {
         "ticker_symbol": "GS",
-        "price": 403.23,
+        "price": 401.24,
         "time_posted": "2024-04-05"
     },
     {
         "ticker_symbol": "GS",
-        "price": 405.67,
+        "price": 403.67,
         "time_posted": "2024-04-08"
     },
     {
         "ticker_symbol": "GS",
-        "price": 405.84,
+        "price": 403.84,
         "time_posted": "2024-04-09"
     },
     {
         "ticker_symbol": "GS",
-        "price": 396.01,
+        "price": 394.05,
         "time_posted": "2024-04-10"
     },
     {
         "ticker_symbol": "GS",
-        "price": 392.77,
+        "price": 390.83,
         "time_posted": "2024-04-11"
     },
     {
         "ticker_symbol": "GS",
-        "price": 384.87,
+        "price": 382.97,
         "time_posted": "2024-04-12"
     },
     {
         "ticker_symbol": "GS",
-        "price": 396.13,
+        "price": 394.17,
         "time_posted": "2024-04-15"
     },
     {
         "ticker_symbol": "GS",
-        "price": 392.15,
+        "price": 390.22,
         "time_posted": "2024-04-16"
     },
     {
         "ticker_symbol": "GS",
-        "price": 399.12,
+        "price": 397.15,
         "time_posted": "2024-04-17"
     },
     {
         "ticker_symbol": "GS",
-        "price": 398.33,
+        "price": 396.37,
         "time_posted": "2024-04-18"
     },
     {
         "ticker_symbol": "GS",
-        "price": 399.21,
+        "price": 397.24,
         "time_posted": "2024-04-19"
     },
     {
         "ticker_symbol": "GS",
-        "price": 412.4,
+        "price": 410.37,
         "time_posted": "2024-04-22"
     },
     {
         "ticker_symbol": "GS",
-        "price": 418.97,
+        "price": 416.91,
         "time_posted": "2024-04-23"
     },
     {
         "ticker_symbol": "GS",
-        "price": 418.02,
+        "price": 415.96,
         "time_posted": "2024-04-24"
     },
     {
         "ticker_symbol": "GS",
-        "price": 415.07,
+        "price": 413.02,
         "time_posted": "2024-04-25"
     },
     {
         "ticker_symbol": "GS",
-        "price": 422.5,
+        "price": 420.42,
         "time_posted": "2024-04-26"
     },
     {
         "ticker_symbol": "GS",
-        "price": 425.7,
+        "price": 423.6,
         "time_posted": "2024-04-29"
     },
     {
         "ticker_symbol": "GS",
-        "price": 421.65,
+        "price": 419.57,
         "time_posted": "2024-04-30"
     },
     {
         "ticker_symbol": "GS",
-        "price": 421.89,
+        "price": 419.81,
         "time_posted": "2024-05-01"
     },
     {
         "ticker_symbol": "GS",
-        "price": 427.44,
+        "price": 425.33,
         "time_posted": "2024-05-02"
     },
     {
         "ticker_symbol": "GS",
-        "price": 432.98,
+        "price": 430.85,
         "time_posted": "2024-05-03"
     },
     {
         "ticker_symbol": "GS",
-        "price": 438.41,
+        "price": 436.25,
         "time_posted": "2024-05-06"
     },
     {
         "ticker_symbol": "GS",
-        "price": 438.54,
+        "price": 436.37,
         "time_posted": "2024-05-07"
     },
     {
         "ticker_symbol": "GS",
-        "price": 441.65,
+        "price": 439.47,
         "time_posted": "2024-05-08"
     },
     {
         "ticker_symbol": "GS",
-        "price": 450.16,
+        "price": 447.94,
         "time_posted": "2024-05-09"
     },
     {
         "ticker_symbol": "GS",
-        "price": 449.34,
+        "price": 447.12,
         "time_posted": "2024-05-10"
     },
     {
         "ticker_symbol": "GS",
-        "price": 448.18,
+        "price": 445.97,
         "time_posted": "2024-05-13"
     },
     {
         "ticker_symbol": "GS",
-        "price": 453.03,
+        "price": 450.8,
         "time_posted": "2024-05-14"
     },
     {
         "ticker_symbol": "GS",
-        "price": 460.56,
+        "price": 458.29,
         "time_posted": "2024-05-15"
     },
     {
         "ticker_symbol": "GS",
-        "price": 459.01,
+        "price": 456.75,
         "time_posted": "2024-05-16"
     },
     {
         "ticker_symbol": "GS",
-        "price": 462.17,
+        "price": 459.89,
         "time_posted": "2024-05-17"
     },
     {
         "ticker_symbol": "GS",
-        "price": 457.45,
+        "price": 455.19,
         "time_posted": "2024-05-20"
     },
     {
         "ticker_symbol": "GS",
-        "price": 464.83,
+        "price": 462.54,
         "time_posted": "2024-05-21"
     },
     {
         "ticker_symbol": "GS",
-        "price": 456.9,
+        "price": 454.64,
         "time_posted": "2024-05-22"
     },
     {
         "ticker_symbol": "GS",
-        "price": 452.72,
+        "price": 450.48,
         "time_posted": "2024-05-23"
     },
     {
         "ticker_symbol": "GS",
-        "price": 455.71,
+        "price": 453.46,
         "time_posted": "2024-05-24"
     },
     {
         "ticker_symbol": "GS",
-        "price": 454.36,
+        "price": 452.12,
         "time_posted": "2024-05-28"
     },
     {
         "ticker_symbol": "GS",
-        "price": 451.75,
+        "price": 449.52,
         "time_posted": "2024-05-29"
     },
     {
         "ticker_symbol": "GS",
-        "price": 447.58,
+        "price": 445.38,
         "time_posted": "2024-05-30"
     },
     {
         "ticker_symbol": "GS",
-        "price": 453.84,
+        "price": 451.6,
         "time_posted": "2024-05-31"
     },
     {
         "ticker_symbol": "GS",
-        "price": 452.3,
+        "price": 450.07,
         "time_posted": "2024-06-03"
     },
     {
         "ticker_symbol": "GS",
-        "price": 452.62,
+        "price": 450.39,
         "time_posted": "2024-06-04"
     },
     {
         "ticker_symbol": "GS",
-        "price": 458.96,
+        "price": 456.7,
         "time_posted": "2024-06-05"
     },
     {
         "ticker_symbol": "GS",
-        "price": 455.41,
+        "price": 453.16,
         "time_posted": "2024-06-06"
     },
     {
         "ticker_symbol": "GS",
-        "price": 452.23,
+        "price": 450.01,
         "time_posted": "2024-06-07"
     },
     {
         "ticker_symbol": "GS",
-        "price": 450.88,
+        "price": 448.66,
         "time_posted": "2024-06-10"
     },
     {
         "ticker_symbol": "GS",
-        "price": 441.66,
+        "price": 439.48,
         "time_posted": "2024-06-11"
     },
     {
         "ticker_symbol": "GS",
-        "price": 446.06,
+        "price": 443.86,
         "time_posted": "2024-06-12"
     },
     {
         "ticker_symbol": "GS",
-        "price": 443.72,
+        "price": 441.54,
         "time_posted": "2024-06-13"
     },
     {
         "ticker_symbol": "GS",
-        "price": 443.83,
+        "price": 441.65,
         "time_posted": "2024-06-14"
     },
     {
         "ticker_symbol": "GS",
-        "price": 447.53,
+        "price": 445.33,
         "time_posted": "2024-06-17"
     },
     {
         "ticker_symbol": "GS",
-        "price": 454.74,
+        "price": 452.5,
         "time_posted": "2024-06-18"
     },
     {
         "ticker_symbol": "GS",
-        "price": 455.36,
+        "price": 453.11,
         "time_posted": "2024-06-20"
     },
     {
         "ticker_symbol": "GS",
-        "price": 447.53,
+        "price": 445.33,
         "time_posted": "2024-06-21"
     },
     {
         "ticker_symbol": "GS",
-        "price": 459.37,
+        "price": 457.11,
         "time_posted": "2024-06-24"
     },
     {
         "ticker_symbol": "GS",
-        "price": 454.69,
+        "price": 452.45,
         "time_posted": "2024-06-25"
     },
     {
         "ticker_symbol": "GS",
-        "price": 453.18,
+        "price": 450.94,
         "time_posted": "2024-06-26"
     },
     {
         "ticker_symbol": "GS",
-        "price": 443.34,
+        "price": 441.15,
         "time_posted": "2024-06-27"
     },
     {
         "ticker_symbol": "GS",
-        "price": 449.66,
+        "price": 447.44,
         "time_posted": "2024-06-28"
     },
     {
         "ticker_symbol": "GS",
-        "price": 460.93,
+        "price": 458.66,
         "time_posted": "2024-07-01"
     },
     {
         "ticker_symbol": "GS",
-        "price": 462.87,
+        "price": 460.59,
         "time_posted": "2024-07-02"
     },
     {
         "ticker_symbol": "GS",
-        "price": 465.17,
+        "price": 462.87,
         "time_posted": "2024-07-03"
     },
     {
         "ticker_symbol": "GS",
-        "price": 462.02,
+        "price": 459.74,
         "time_posted": "2024-07-05"
     },
     {
         "ticker_symbol": "GS",
-        "price": 462.09,
+        "price": 459.81,
         "time_posted": "2024-07-08"
     },
     {
         "ticker_symbol": "GS",
-        "price": 470.05,
+        "price": 467.73,
         "time_posted": "2024-07-09"
     },
     {
         "ticker_symbol": "GS",
-        "price": 476.07,
+        "price": 473.73,
         "time_posted": "2024-07-10"
     },
     {
         "ticker_symbol": "GS",
-        "price": 476.41,
+        "price": 474.06,
         "time_posted": "2024-07-11"
     },
     {
         "ticker_symbol": "GS",
-        "price": 477.06,
+        "price": 474.71,
         "time_posted": "2024-07-12"
     },
     {
         "ticker_symbol": "GS",
-        "price": 489.34,
+        "price": 486.92,
         "time_posted": "2024-07-15"
     },
     {
         "ticker_symbol": "GS",
-        "price": 500.06,
+        "price": 497.6,
         "time_posted": "2024-07-16"
     },
     {
         "ticker_symbol": "GS",
-        "price": 499.23,
+        "price": 496.77,
         "time_posted": "2024-07-17"
     },
     {
         "ticker_symbol": "GS",
-        "price": 483.35,
+        "price": 480.97,
         "time_posted": "2024-07-18"
     },
     {
         "ticker_symbol": "GS",
-        "price": 482.08,
+        "price": 479.7,
         "time_posted": "2024-07-19"
     },
     {
         "ticker_symbol": "GS",
-        "price": 484.18,
+        "price": 481.79,
         "time_posted": "2024-07-22"
     },
     {
         "ticker_symbol": "GS",
-        "price": 489.26,
+        "price": 486.84,
         "time_posted": "2024-07-23"
     },
     {
         "ticker_symbol": "GS",
-        "price": 483.84,
+        "price": 481.45,
         "time_posted": "2024-07-24"
     },
     {
         "ticker_symbol": "GS",
-        "price": 488.82,
+        "price": 486.41,
         "time_posted": "2024-07-25"
     },
     {
         "ticker_symbol": "GS",
-        "price": 496.1,
+        "price": 493.65,
         "time_posted": "2024-07-26"
     },
     {
         "ticker_symbol": "GS",
-        "price": 489.82,
+        "price": 487.41,
         "time_posted": "2024-07-29"
     },
     {
         "ticker_symbol": "GS",
-        "price": 502.7,
+        "price": 500.22,
         "time_posted": "2024-07-30"
     },
     {
         "ticker_symbol": "GS",
-        "price": 506.04,
+        "price": 503.54,
         "time_posted": "2024-07-31"
     },
     {
         "ticker_symbol": "GS",
-        "price": 497.18,
+        "price": 494.73,
         "time_posted": "2024-08-01"
     },
     {
         "ticker_symbol": "GS",
-        "price": 467.87,
+        "price": 465.57,
         "time_posted": "2024-08-02"
     },
     {
         "ticker_symbol": "GS",
-        "price": 456.32,
+        "price": 454.07,
         "time_posted": "2024-08-05"
     },
     {
         "ticker_symbol": "GS",
-        "price": 467.45,
+        "price": 465.15,
         "time_posted": "2024-08-06"
     },
     {
         "ticker_symbol": "GS",
-        "price": 470.23,
+        "price": 467.91,
         "time_posted": "2024-08-07"
     },
     {
         "ticker_symbol": "GS",
-        "price": 482.91,
+        "price": 480.53,
         "time_posted": "2024-08-08"
     },
     {
         "ticker_symbol": "GS",
-        "price": 487.38,
+        "price": 484.97,
         "time_posted": "2024-08-09"
     },
     {
         "ticker_symbol": "GS",
-        "price": 482.64,
+        "price": 480.27,
         "time_posted": "2024-08-12"
     },
     {
         "ticker_symbol": "GS",
-        "price": 489.05,
+        "price": 486.64,
         "time_posted": "2024-08-13"
     },
     {
         "ticker_symbol": "GS",
-        "price": 495.77,
+        "price": 493.32,
         "time_posted": "2024-08-14"
     },
     {
         "ticker_symbol": "GS",
-        "price": 496.09,
+        "price": 493.64,
         "time_posted": "2024-08-15"
     },
     {
         "ticker_symbol": "GS",
-        "price": 501.29,
+        "price": 498.82,
         "time_posted": "2024-08-16"
     },
     {
         "ticker_symbol": "GS",
-        "price": 501.71,
+        "price": 499.24,
         "time_posted": "2024-08-19"
     },
     {
         "ticker_symbol": "GS",
-        "price": 494.42,
+        "price": 491.98,
         "time_posted": "2024-08-20"
     },
     {
         "ticker_symbol": "GS",
-        "price": 493.54,
+        "price": 491.11,
         "time_posted": "2024-08-21"
     },
     {
         "ticker_symbol": "GS",
-        "price": 494.82,
+        "price": 492.38,
         "time_posted": "2024-08-22"
     },
     {
         "ticker_symbol": "GS",
-        "price": 506.42,
+        "price": 503.93,
         "time_posted": "2024-08-23"
     },
     {
         "ticker_symbol": "GS",
-        "price": 504.88,
+        "price": 502.39,
         "time_posted": "2024-08-26"
     },
     {
         "ticker_symbol": "GS",
-        "price": 504.28,
+        "price": 501.79,
         "time_posted": "2024-08-27"
     },
     {
         "ticker_symbol": "GS",
-        "price": 500.37,
+        "price": 497.9,
         "time_posted": "2024-08-28"
     },
     {
         "ticker_symbol": "GS",
-        "price": 507.1,
+        "price": 504.6,
         "time_posted": "2024-08-29"
     },
     {
         "ticker_symbol": "GS",
-        "price": 510.25,
+        "price": 507.73,
         "time_posted": "2024-08-30"
     },
     {
         "ticker_symbol": "GS",
-        "price": 487.46,
+        "price": 485.06,
         "time_posted": "2024-09-03"
     },
     {
         "ticker_symbol": "GS",
-        "price": 490.64,
+        "price": 488.22,
         "time_posted": "2024-09-04"
     },
     {
         "ticker_symbol": "GS",
-        "price": 487.88,
+        "price": 485.47,
         "time_posted": "2024-09-05"
     },
     {
         "ticker_symbol": "GS",
-        "price": 479.61,
+        "price": 477.25,
         "time_posted": "2024-09-06"
     },
     {
         "ticker_symbol": "GS",
-        "price": 488.57,
+        "price": 486.16,
         "time_posted": "2024-09-09"
     },
     {
         "ticker_symbol": "GS",
-        "price": 467.13,
+        "price": 464.83,
         "time_posted": "2024-09-10"
     },
     {
         "ticker_symbol": "GS",
-        "price": 471.17,
+        "price": 468.85,
         "time_posted": "2024-09-11"
     },
     {
         "ticker_symbol": "GS",
-        "price": 474.06,
+        "price": 471.72,
         "time_posted": "2024-09-12"
     },
     {
         "ticker_symbol": "GS",
-        "price": 478.99,
+        "price": 476.63,
         "time_posted": "2024-09-13"
     },
     {
         "ticker_symbol": "GS",
-        "price": 485.16,
+        "price": 482.77,
         "time_posted": "2024-09-16"
     },
     {
         "ticker_symbol": "GS",
-        "price": 485.39,
+        "price": 483.0,
         "time_posted": "2024-09-17"
     },
     {
         "ticker_symbol": "GS",
-        "price": 484.58,
+        "price": 482.19,
         "time_posted": "2024-09-18"
     },
     {
         "ticker_symbol": "GS",
-        "price": 503.83,
+        "price": 501.35,
         "time_posted": "2024-09-19"
     },
     {
         "ticker_symbol": "GS",
-        "price": 498.43,
+        "price": 495.97,
         "time_posted": "2024-09-20"
     },
     {
         "ticker_symbol": "GS",
-        "price": 497.41,
+        "price": 494.96,
         "time_posted": "2024-09-23"
     },
     {
         "ticker_symbol": "GS",
-        "price": 498.02,
+        "price": 495.56,
         "time_posted": "2024-09-24"
     },
     {
         "ticker_symbol": "GS",
-        "price": 491.14,
+        "price": 488.72,
         "time_posted": "2024-09-25"
     },
     {
         "ticker_symbol": "GS",
-        "price": 496.92,
+        "price": 494.47,
         "time_posted": "2024-09-26"
     },
     {
         "ticker_symbol": "GS",
-        "price": 498.51,
+        "price": 496.05,
         "time_posted": "2024-09-27"
     },
     {
         "ticker_symbol": "GS",
-        "price": 495.11,
+        "price": 492.67,
         "time_posted": "2024-09-30"
     },
     {
         "ticker_symbol": "GS",
-        "price": 490.17,
+        "price": 487.75,
         "time_posted": "2024-10-01"
     },
     {
         "ticker_symbol": "GS",
-        "price": 491.99,
+        "price": 489.56,
         "time_posted": "2024-10-02"
     },
     {
         "ticker_symbol": "GS",
-        "price": 486.1,
+        "price": 483.7,
         "time_posted": "2024-10-03"
     },
     {
         "ticker_symbol": "GS",
-        "price": 495.16,
+        "price": 492.72,
         "time_posted": "2024-10-04"
     },
     {
         "ticker_symbol": "GS",
-        "price": 494.62,
+        "price": 492.18,
         "time_posted": "2024-10-07"
     },
     {
         "ticker_symbol": "GS",
-        "price": 496.57,
+        "price": 494.12,
         "time_posted": "2024-10-08"
     },
     {
         "ticker_symbol": "GS",
-        "price": 505.18,
+        "price": 502.69,
         "time_posted": "2024-10-09"
     },
     {
         "ticker_symbol": "GS",
-        "price": 503.72,
+        "price": 501.24,
         "time_posted": "2024-10-10"
     },
     {
         "ticker_symbol": "GS",
-        "price": 516.3,
+        "price": 513.75,
         "time_posted": "2024-10-11"
     },
     {
         "ticker_symbol": "GS",
-        "price": 522.75,
+        "price": 520.17,
         "time_posted": "2024-10-14"
     },
     {
         "ticker_symbol": "GS",
-        "price": 522.38,
+        "price": 519.8,
         "time_posted": "2024-10-15"
     },
     {
         "ticker_symbol": "GS",
-        "price": 529.86,
+        "price": 527.25,
         "time_posted": "2024-10-16"
     },
     {
         "ticker_symbol": "GS",
-        "price": 529.0,
+        "price": 526.39,
         "time_posted": "2024-10-17"
     },
     {
         "ticker_symbol": "GS",
-        "price": 528.5,
+        "price": 525.89,
         "time_posted": "2024-10-18"
     },
     {
         "ticker_symbol": "GS",
-        "price": 517.8,
+        "price": 515.25,
         "time_posted": "2024-10-21"
     },
     {
         "ticker_symbol": "GS",
-        "price": 518.3,
+        "price": 515.74,
         "time_posted": "2024-10-22"
     },
     {
         "ticker_symbol": "GS",
-        "price": 517.2,
+        "price": 514.65,
         "time_posted": "2024-10-23"
     },
     {
         "ticker_symbol": "GS",
-        "price": 524.5,
+        "price": 521.91,
         "time_posted": "2024-10-24"
     },
     {
         "ticker_symbol": "GS",
-        "price": 512.6,
+        "price": 510.07,
         "time_posted": "2024-10-25"
     },
     {
         "ticker_symbol": "GS",
-        "price": 523.58,
+        "price": 521.0,
         "time_posted": "2024-10-28"
     },
     {
         "ticker_symbol": "GS",
-        "price": 524.28,
+        "price": 521.7,
         "time_posted": "2024-10-29"
     },
     {
         "ticker_symbol": "GS",
-        "price": 524.4,
+        "price": 521.81,
         "time_posted": "2024-10-30"
     },
     {
         "ticker_symbol": "GS",
-        "price": 517.79,
+        "price": 515.24,
         "time_posted": "2024-10-31"
     },
     {
         "ticker_symbol": "GS",
-        "price": 519.35,
+        "price": 516.79,
         "time_posted": "2024-11-01"
     },
     {
         "ticker_symbol": "GS",
-        "price": 511.47,
+        "price": 508.95,
         "time_posted": "2024-11-04"
     },
     {
         "ticker_symbol": "GS",
-        "price": 526.96,
+        "price": 524.36,
         "time_posted": "2024-11-05"
     },
     {
         "ticker_symbol": "GS",
-        "price": 595.98,
+        "price": 593.04,
         "time_posted": "2024-11-06"
     },
     {
         "ticker_symbol": "GS",
-        "price": 582.17,
+        "price": 579.3,
         "time_posted": "2024-11-07"
     },
     {
         "ticker_symbol": "GS",
-        "price": 589.26,
+        "price": 586.36,
         "time_posted": "2024-11-08"
     },
     {
         "ticker_symbol": "GS",
-        "price": 602.34,
+        "price": 599.37,
         "time_posted": "2024-11-11"
     },
     {
         "ticker_symbol": "GS",
-        "price": 592.59,
+        "price": 589.67,
         "time_posted": "2024-11-12"
     },
     {
         "ticker_symbol": "GS",
-        "price": 594.22,
+        "price": 591.29,
         "time_posted": "2024-11-13"
     },
     {
         "ticker_symbol": "GS",
-        "price": 588.61,
+        "price": 585.71,
         "time_posted": "2024-11-14"
     },
     {
         "ticker_symbol": "GS",
-        "price": 593.54,
+        "price": 590.61,
         "time_posted": "2024-11-15"
     },
     {
         "ticker_symbol": "GS",
-        "price": 587.99,
+        "price": 585.09,
         "time_posted": "2024-11-18"
     },
     {
         "ticker_symbol": "GS",
-        "price": 581.38,
+        "price": 578.51,
         "time_posted": "2024-11-19"
     },
     {
         "ticker_symbol": "GS",
-        "price": 581.93,
+        "price": 579.06,
         "time_posted": "2024-11-20"
     },
     {
         "ticker_symbol": "GS",
-        "price": 596.11,
+        "price": 593.17,
         "time_posted": "2024-11-21"
     },
     {
         "ticker_symbol": "GS",
-        "price": 602.78,
+        "price": 599.81,
         "time_posted": "2024-11-22"
     },
     {
         "ticker_symbol": "GS",
-        "price": 603.03,
+        "price": 600.06,
         "time_posted": "2024-11-25"
     },
     {
         "ticker_symbol": "GS",
-        "price": 605.5,
+        "price": 602.52,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "GS",
+        "price": 602.45,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "GS",
+        "price": 605.57,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "GS",
+        "price": 601.71,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "GS",
+        "price": 602.08,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "GS",
+        "price": 598.71,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "GS",
+        "price": 596.8,
+        "time_posted": "2024-12-05"
     }
 ]
