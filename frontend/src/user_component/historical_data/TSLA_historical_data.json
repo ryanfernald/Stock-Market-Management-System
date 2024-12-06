@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "TSLA",
-        "price": 236.08,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "TSLA",
-        "price": 246.72,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "TSLA",
-        "price": 244.14,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "TSLA",
-        "price": 240.08,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "TSLA",
-        "price": 238.83,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "TSLA",
-        "price": 235.58,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "TSLA",
-        "price": 238.72,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "TSLA",
         "price": 239.37,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "TSLA",
         "price": 338.23,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "TSLA",
+        "price": 332.89,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "TSLA",
+        "price": 345.16,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "TSLA",
+        "price": 357.09,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "TSLA",
+        "price": 351.42,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "TSLA",
+        "price": 357.93,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "TSLA",
+        "price": 369.49,
+        "time_posted": "2024-12-05"
     }
 ]

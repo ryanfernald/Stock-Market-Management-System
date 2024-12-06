@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "CSCO",
-        "price": 46.42,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "CSCO",
-        "price": 46.34,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "CSCO",
-        "price": 46.54,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "CSCO",
-        "price": 46.85,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "CSCO",
-        "price": 46.94,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "CSCO",
-        "price": 46.54,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "CSCO",
-        "price": 46.42,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "CSCO",
         "price": 46.2,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "CSCO",
         "price": 59.59,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "CSCO",
+        "price": 59.29,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "CSCO",
+        "price": 59.21,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "CSCO",
+        "price": 59.43,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "CSCO",
+        "price": 59.48,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "CSCO",
+        "price": 59.62,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "CSCO",
+        "price": 60.02,
+        "time_posted": "2024-12-05"
     }
 ]

@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "ABT",
-        "price": 100.7,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "ABT",
-        "price": 100.06,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "ABT",
-        "price": 101.6,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "ABT",
-        "price": 102.25,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "ABT",
-        "price": 102.83,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "ABT",
-        "price": 103.13,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "ABT",
-        "price": 102.31,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "ABT",
         "price": 102.89,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "ABT",
         "price": 117.96,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "ABT",
+        "price": 118.95,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "ABT",
+        "price": 118.77,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "ABT",
+        "price": 116.81,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "ABT",
+        "price": 116.29,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "ABT",
+        "price": 115.97,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "ABT",
+        "price": 115.59,
+        "time_posted": "2024-12-05"
     }
 ]

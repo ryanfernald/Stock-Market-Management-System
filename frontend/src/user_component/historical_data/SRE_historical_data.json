@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "SRE",
-        "price": 71.35,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "SRE",
-        "price": 71.16,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "SRE",
-        "price": 70.61,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "SRE",
-        "price": 70.53,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "SRE",
-        "price": 70.85,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "SRE",
-        "price": 70.47,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "SRE",
-        "price": 69.22,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "SRE",
         "price": 71.29,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "SRE",
         "price": 93.29,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "SRE",
+        "price": 94.28,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "SRE",
+        "price": 93.67,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "SRE",
+        "price": 92.1,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "SRE",
+        "price": 92.01,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "SRE",
+        "price": 91.5,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "SRE",
+        "price": 90.94,
+        "time_posted": "2024-12-05"
     }
 ]

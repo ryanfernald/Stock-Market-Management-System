@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "IRM",
-        "price": 61.64,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "IRM",
-        "price": 61.76,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "IRM",
-        "price": 61.33,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "IRM",
-        "price": 62.17,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "IRM",
-        "price": 63.47,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "IRM",
-        "price": 64.16,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "IRM",
-        "price": 63.96,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "IRM",
         "price": 63.95,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "IRM",
         "price": 123.61,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 124.24,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 123.67,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 121.59,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 120.16,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 118.86,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "IRM",
+        "price": 118.37,
+        "time_posted": "2024-12-05"
     }
 ]

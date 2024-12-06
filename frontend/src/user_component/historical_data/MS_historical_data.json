@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "MS",
-        "price": 75.21,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "MS",
-        "price": 74.18,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "MS",
-        "price": 75.79,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "MS",
-        "price": 76.55,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "MS",
-        "price": 78.05,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "MS",
-        "price": 78.36,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "MS",
-        "price": 77.35,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "MS",
         "price": 76.62,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "MS",
         "price": 131.28,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 131.21,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 131.61,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 131.03,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 130.44,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 129.99,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "MS",
+        "price": 130.32,
+        "time_posted": "2024-12-05"
     }
 ]

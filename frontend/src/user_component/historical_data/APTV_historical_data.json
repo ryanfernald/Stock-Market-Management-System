@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "APTV",
-        "price": 81.81,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "APTV",
-        "price": 81.95,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "APTV",
-        "price": 82.27,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "APTV",
-        "price": 82.84,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "APTV",
-        "price": 84.01,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "APTV",
-        "price": 82.83,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "APTV",
-        "price": 80.85,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "APTV",
         "price": 80.88,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "APTV",
         "price": 55.28,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 55.52,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 55.53,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 56.07,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 55.71,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 56.41,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "APTV",
+        "price": 56.91,
+        "time_posted": "2024-12-05"
     }
 ]

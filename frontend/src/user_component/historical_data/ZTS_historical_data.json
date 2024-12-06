@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "ZTS",
-        "price": 177.04,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "ZTS",
-        "price": 175.23,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "ZTS",
-        "price": 174.07,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "ZTS",
-        "price": 174.94,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "ZTS",
-        "price": 177.37,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "ZTS",
-        "price": 180.33,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "ZTS",
-        "price": 177.89,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "ZTS",
         "price": 180.22,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "ZTS",
         "price": 175.7,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "ZTS",
+        "price": 176.74,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "ZTS",
+        "price": 175.25,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "ZTS",
+        "price": 176.81,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "ZTS",
+        "price": 176.94,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "ZTS",
+        "price": 175.32,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "ZTS",
+        "price": 174.77,
+        "time_posted": "2024-12-05"
     }
 ]

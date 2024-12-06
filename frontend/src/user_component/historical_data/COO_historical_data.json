@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "COO",
-        "price": 83.76,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "COO",
-        "price": 83.58,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "COO",
-        "price": 82.9,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "COO",
-        "price": 84.23,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "COO",
-        "price": 85.27,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "COO",
-        "price": 84.58,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "COO",
-        "price": 83.82,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "COO",
         "price": 85.64,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "COO",
         "price": 102.64,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "COO",
+        "price": 103.43,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "COO",
+        "price": 104.46,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "COO",
+        "price": 103.0,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "COO",
+        "price": 103.29,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "COO",
+        "price": 104.98,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "COO",
+        "price": 103.23,
+        "time_posted": "2024-12-05"
     }
 ]

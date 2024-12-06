@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "CDNS",
-        "price": 271.55,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "CDNS",
-        "price": 270.72,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "CDNS",
-        "price": 275.21,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "CDNS",
-        "price": 273.27,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "CDNS",
-        "price": 270.35,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "CDNS",
-        "price": 263.48,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "CDNS",
-        "price": 262.18,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "CDNS",
         "price": 257.68,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "CDNS",
         "price": 310.1,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "CDNS",
+        "price": 304.68,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "CDNS",
+        "price": 306.81,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "CDNS",
+        "price": 310.27,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "CDNS",
+        "price": 313.25,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "CDNS",
+        "price": 324.54,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "CDNS",
+        "price": 303.79,
+        "time_posted": "2024-12-05"
     }
 ]

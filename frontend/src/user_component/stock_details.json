@@ -3,1933 +3,1933 @@
         "Symbol": "A",
         "Name": "Agilent Technologies",
         "Sector": "Health Care",
-        "Price": "134.37"
+        "Price": "137.87"
     },
     {
         "Symbol": "AAPL",
         "Name": "Apple Inc.",
         "Sector": "Information Technology",
-        "Price": "235.06"
+        "Price": "243.04"
     },
     {
         "Symbol": "ABBV",
         "Name": "AbbVie",
         "Sector": "Health Care",
-        "Price": "181.14"
+        "Price": "176.17"
     },
     {
         "Symbol": "ABNB",
         "Name": "Airbnb",
         "Sector": "Consumer Discretionary",
-        "Price": "139.67"
+        "Price": "136.32"
     },
     {
         "Symbol": "ABT",
         "Name": "Abbott Laboratories",
         "Sector": "Health Care",
-        "Price": "117.96"
+        "Price": "115.59"
     },
     {
         "Symbol": "ACGL",
         "Name": "Arch Capital Group",
         "Sector": "Financials",
-        "Price": "100.41"
+        "Price": "98.49"
     },
     {
         "Symbol": "ACN",
         "Name": "Accenture",
         "Sector": "Information Technology",
-        "Price": "363.18"
+        "Price": "358.13"
     },
     {
         "Symbol": "ADBE",
         "Name": "Adobe Inc.",
         "Sector": "Information Technology",
-        "Price": "525.30"
+        "Price": "538.22"
     },
     {
         "Symbol": "ADI",
         "Name": "Analog Devices",
         "Sector": "Information Technology",
-        "Price": "219.05"
+        "Price": "214.55"
     },
     {
         "Symbol": "ADM",
         "Name": "Archer Daniels Midland",
         "Sector": "Consumer Staples",
-        "Price": "53.72"
+        "Price": "52.28"
     },
     {
         "Symbol": "ADP",
         "Name": "Automatic Data Processing",
         "Sector": "Industrials",
-        "Price": "307.97"
+        "Price": "301.80"
     },
     {
         "Symbol": "ADSK",
         "Name": "Autodesk",
         "Sector": "Information Technology",
-        "Price": "317.96"
+        "Price": "305.17"
     },
     {
         "Symbol": "AEE",
         "Name": "Ameren",
         "Sector": "Utilities",
-        "Price": "94.27"
+        "Price": "92.28"
     },
     {
         "Symbol": "AEP",
         "Name": "American Electric Power",
         "Sector": "Utilities",
-        "Price": "99.33"
+        "Price": "97.45"
     },
     {
         "Symbol": "AES",
         "Name": "AES Corporation",
         "Sector": "Utilities",
-        "Price": "12.58"
+        "Price": "13.29"
     },
     {
         "Symbol": "AFL",
         "Name": "Aflac",
         "Sector": "Financials",
-        "Price": "114.02"
+        "Price": "107.75"
     },
     {
         "Symbol": "AIG",
         "Name": "American International Group",
         "Sector": "Financials",
-        "Price": "76.30"
+        "Price": "76.14"
     },
     {
         "Symbol": "AIZ",
         "Name": "Assurant",
         "Sector": "Financials",
-        "Price": "228.68"
+        "Price": "225.37"
     },
     {
         "Symbol": "AJG",
         "Name": "Arthur J. Gallagher & Co.",
         "Sector": "Financials",
-        "Price": "312.96"
+        "Price": "303.58"
     },
     {
         "Symbol": "AKAM",
         "Name": "Akamai Technologies",
         "Sector": "Information Technology",
-        "Price": "93.10"
+        "Price": "97.40"
     },
     {
         "Symbol": "ALB",
         "Name": "Albemarle Corporation",
         "Sector": "Materials",
-        "Price": "106.79"
+        "Price": "101.10"
     },
     {
         "Symbol": "ALGN",
         "Name": "Align Technology",
         "Sector": "Health Care",
-        "Price": "227.93"
+        "Price": "227.81"
     },
     {
         "Symbol": "ALL",
         "Name": "Allstate",
         "Sector": "Financials",
-        "Price": "207.87"
+        "Price": "204.23"
     },
     {
         "Symbol": "ALLE",
         "Name": "Allegion",
         "Sector": "Industrials",
-        "Price": "140.39"
+        "Price": "140.32"
     },
     {
         "Symbol": "AMAT",
         "Name": "Applied Materials",
         "Sector": "Information Technology",
-        "Price": "173.20"
+        "Price": "172.03"
     },
     {
         "Symbol": "AMCR",
         "Name": "Amcor",
         "Sector": "Materials",
-        "Price": "10.39"
+        "Price": "10.24"
     },
     {
         "Symbol": "AMD",
         "Name": "Advanced Micro Devices",
         "Sector": "Information Technology",
-        "Price": "137.72"
+        "Price": "141.36"
     },
     {
         "Symbol": "AME",
         "Name": "Ametek",
         "Sector": "Industrials",
-        "Price": "197.02"
+        "Price": "193.96"
     },
     {
         "Symbol": "AMGN",
         "Name": "Amgen",
         "Sector": "Health Care",
-        "Price": "280.01"
+        "Price": "274.33"
     },
     {
         "Symbol": "AMP",
         "Name": "Ameriprise Financial",
         "Sector": "Financials",
-        "Price": "574.01"
+        "Price": "565.21"
     },
     {
         "Symbol": "AMT",
         "Name": "American Tower",
         "Sector": "Real Estate",
-        "Price": "208.00"
+        "Price": "209.16"
     },
     {
         "Symbol": "AMTM",
         "Name": "Amentum",
         "Sector": "Industrials",
-        "Price": "24.61"
+        "Price": "23.00"
     },
     {
         "Symbol": "AMZN",
         "Name": "Amazon",
         "Sector": "Consumer Discretionary",
-        "Price": "207.86"
+        "Price": "220.55"
     },
     {
         "Symbol": "ANET",
         "Name": "Arista Networks",
         "Sector": "Information Technology",
-        "Price": "408.33"
+        "Price": "106.83"
     },
     {
         "Symbol": "ANSS",
         "Name": "Ansys",
         "Sector": "Information Technology",
-        "Price": "349.85"
+        "Price": "344.39"
     },
     {
         "Symbol": "AON",
         "Name": "Aon",
         "Sector": "Financials",
-        "Price": "390.25"
+        "Price": "379.73"
     },
     {
         "Symbol": "AOS",
         "Name": "A. O. Smith",
         "Sector": "Industrials",
-        "Price": "73.90"
+        "Price": "72.32"
     },
     {
         "Symbol": "APA",
         "Name": "APA Corporation",
         "Sector": "Energy",
-        "Price": "22.52"
+        "Price": "21.84"
     },
     {
         "Symbol": "APD",
         "Name": "Air Products",
         "Sector": "Materials",
-        "Price": "334.78"
+        "Price": "321.97"
     },
     {
         "Symbol": "APH",
         "Name": "Amphenol",
         "Sector": "Information Technology",
-        "Price": "73.26"
+        "Price": "74.39"
     },
     {
         "Symbol": "APTV",
         "Name": "Aptiv",
         "Sector": "Consumer Discretionary",
-        "Price": "55.28"
+        "Price": "56.91"
     },
     {
         "Symbol": "ARE",
         "Name": "Alexandria Real Estate Equities",
         "Sector": "Real Estate",
-        "Price": "111.75"
+        "Price": "105.43"
     },
     {
         "Symbol": "ATO",
         "Name": "Atmos Energy",
         "Sector": "Utilities",
-        "Price": "150.33"
+        "Price": "143.04"
     },
     {
         "Symbol": "AVB",
         "Name": "AvalonBay Communities",
         "Sector": "Real Estate",
-        "Price": "235.39"
+        "Price": "226.40"
     },
     {
         "Symbol": "AVGO",
         "Name": "Broadcom",
         "Sector": "Information Technology",
-        "Price": "164.74"
+        "Price": "170.47"
     },
     {
         "Symbol": "AVY",
         "Name": "Avery Dennison",
         "Sector": "Materials",
-        "Price": "204.62"
+        "Price": "203.29"
     },
     {
         "Symbol": "AWK",
         "Name": "American Water Works",
         "Sector": "Utilities",
-        "Price": "137.59"
+        "Price": "132.10"
     },
     {
         "Symbol": "AXON",
         "Name": "Axon Enterprise",
         "Sector": "Industrials",
-        "Price": "632.16"
+        "Price": "689.78"
     },
     {
         "Symbol": "AXP",
         "Name": "American Express",
         "Sector": "Financials",
-        "Price": "305.57"
+        "Price": "300.53"
     },
     {
         "Symbol": "AZO",
         "Name": "AutoZone",
         "Sector": "Consumer Discretionary",
-        "Price": "3144.21"
+        "Price": "3190.07"
     },
     {
         "Symbol": "BA",
         "Name": "Boeing",
         "Sector": "Industrials",
-        "Price": "150.76"
+        "Price": "156.67"
     },
     {
         "Symbol": "BAC",
         "Name": "Bank of America",
         "Sector": "Financials",
-        "Price": "47.75"
+        "Price": "47.00"
     },
     {
         "Symbol": "BALL",
         "Name": "Ball Corporation",
         "Sector": "Materials",
-        "Price": "62.37"
+        "Price": "57.55"
     },
     {
         "Symbol": "BAX",
         "Name": "Baxter International",
         "Sector": "Health Care",
-        "Price": "32.87"
+        "Price": "31.90"
     },
     {
         "Symbol": "BBY",
         "Name": "Best Buy",
         "Sector": "Consumer Discretionary",
-        "Price": "88.48"
+        "Price": "89.80"
     },
     {
         "Symbol": "BDX",
         "Name": "Becton Dickinson",
         "Sector": "Health Care",
-        "Price": "224.25"
+        "Price": "222.24"
     },
     {
         "Symbol": "BEN",
         "Name": "Franklin Resources",
         "Sector": "Financials",
-        "Price": "22.21"
+        "Price": "22.40"
     },
     {
         "Symbol": "BF-B",
         "Name": "Unknown",
         "Sector": "Consumer Staples",
-        "Price": "41.37"
+        "Price": "45.38"
     },
     {
         "Symbol": "BG",
         "Name": "Bunge Global",
         "Sector": "Consumer Staples",
-        "Price": "89.66"
+        "Price": "86.20"
     },
     {
         "Symbol": "BIIB",
         "Name": "Biogen",
         "Sector": "Health Care",
-        "Price": "157.69"
+        "Price": "159.26"
     },
     {
         "Symbol": "BK",
         "Name": "BNY Mellon",
         "Sector": "Financials",
-        "Price": "81.27"
+        "Price": "81.49"
     },
     {
         "Symbol": "BKNG",
         "Name": "Booking Holdings",
         "Sector": "Consumer Discretionary",
-        "Price": "5214.72"
+        "Price": "5287.94"
     },
     {
         "Symbol": "BKR",
         "Name": "Baker Hughes",
         "Sector": "Energy",
-        "Price": "43.53"
+        "Price": "42.51"
     },
     {
         "Symbol": "BLDR",
         "Name": "Builders FirstSource",
         "Sector": "Industrials",
-        "Price": "185.92"
+        "Price": "175.89"
     },
     {
         "Symbol": "BLK",
         "Name": "BlackRock",
         "Sector": "Financials",
-        "Price": "1026.48"
+        "Price": "1044.78"
     },
     {
         "Symbol": "BMY",
         "Name": "Bristol Myers Squibb",
         "Sector": "Health Care",
-        "Price": "58.74"
+        "Price": "58.84"
     },
     {
         "Symbol": "BR",
         "Name": "Broadridge Financial Solutions",
         "Sector": "Industrials",
-        "Price": "236.44"
+        "Price": "235.91"
     },
     {
         "Symbol": "BRK-B",
         "Name": "Unknown",
         "Sector": "Financials",
-        "Price": "478.56"
+        "Price": "470.57"
     },
     {
         "Symbol": "BRO",
         "Name": "Brown & Brown",
         "Sector": "Financials",
-        "Price": "113.42"
+        "Price": "110.55"
     },
     {
         "Symbol": "BSX",
         "Name": "Boston Scientific",
         "Sector": "Health Care",
-        "Price": "90.21"
+        "Price": "90.53"
     },
     {
         "Symbol": "BWA",
         "Name": "BorgWarner",
         "Sector": "Consumer Discretionary",
-        "Price": "34.17"
+        "Price": "33.99"
     },
     {
         "Symbol": "BX",
         "Name": "Blackstone Inc.",
         "Sector": "Financials",
-        "Price": "191.66"
+        "Price": "187.20"
     },
     {
         "Symbol": "BXP",
         "Name": "BXP, Inc.",
         "Sector": "Real Estate",
-        "Price": "83.22"
+        "Price": "79.23"
     },
     {
         "Symbol": "C",
         "Name": "Citigroup",
         "Sector": "Financials",
-        "Price": "69.75"
+        "Price": "72.23"
     },
     {
         "Symbol": "CAG",
         "Name": "Conagra Brands",
         "Sector": "Consumer Staples",
-        "Price": "27.49"
+        "Price": "27.82"
     },
     {
         "Symbol": "CAH",
         "Name": "Cardinal Health",
         "Sector": "Health Care",
-        "Price": "122.44"
+        "Price": "122.84"
     },
     {
         "Symbol": "CARR",
         "Name": "Carrier Global",
         "Sector": "Industrials",
-        "Price": "76.94"
+        "Price": "73.99"
     },
     {
         "Symbol": "CAT",
         "Name": "Caterpillar Inc.",
         "Sector": "Industrials",
-        "Price": "407.83"
+        "Price": "394.98"
     },
     {
         "Symbol": "CB",
         "Name": "Chubb Limited",
         "Sector": "Financials",
-        "Price": "288.48"
+        "Price": "286.62"
     },
     {
         "Symbol": "CBOE",
         "Name": "Cboe Global Markets",
         "Sector": "Financials",
-        "Price": "217.30"
+        "Price": "208.55"
     },
     {
         "Symbol": "CBRE",
         "Name": "CBRE Group",
         "Sector": "Real Estate",
-        "Price": "140.43"
+        "Price": "136.42"
     },
     {
         "Symbol": "CCI",
         "Name": "Crown Castle",
         "Sector": "Real Estate",
-        "Price": "106.30"
+        "Price": "103.32"
     },
     {
         "Symbol": "CCL",
         "Name": "Carnival",
         "Sector": "Consumer Discretionary",
-        "Price": "25.34"
+        "Price": "26.45"
     },
     {
         "Symbol": "CDNS",
         "Name": "Cadence Design Systems",
         "Sector": "Information Technology",
-        "Price": "310.10"
+        "Price": "303.79"
     },
     {
         "Symbol": "CDW",
         "Name": "CDW",
         "Sector": "Information Technology",
-        "Price": "177.80"
+        "Price": "178.30"
     },
     {
         "Symbol": "CE",
         "Name": "Celanese",
         "Sector": "Materials",
-        "Price": "72.85"
+        "Price": "69.44"
     },
     {
         "Symbol": "CEG",
         "Name": "Constellation Energy",
         "Sector": "Utilities",
-        "Price": "266.73"
+        "Price": "256.09"
     },
     {
         "Symbol": "CF",
         "Name": "CF Industries",
         "Sector": "Materials",
-        "Price": "88.14"
+        "Price": "89.37"
     },
     {
         "Symbol": "CFG",
         "Name": "Citizens Financial Group",
         "Sector": "Financials",
-        "Price": "48.10"
+        "Price": "46.77"
     },
     {
         "Symbol": "CHD",
         "Name": "Church & Dwight",
         "Sector": "Consumer Staples",
-        "Price": "110.38"
+        "Price": "109.16"
     },
     {
         "Symbol": "CHRW",
         "Name": "C.H. Robinson",
         "Sector": "Industrials",
-        "Price": "106.36"
+        "Price": "106.17"
     },
     {
         "Symbol": "CHTR",
         "Name": "Charter Communications",
         "Sector": "Communication Services",
-        "Price": "390.29"
+        "Price": "404.14"
     },
     {
         "Symbol": "CI",
         "Name": "Cigna",
         "Sector": "Health Care",
-        "Price": "335.00"
+        "Price": "322.61"
     },
     {
         "Symbol": "CINF",
         "Name": "Cincinnati Financial",
         "Sector": "Financials",
-        "Price": "159.61"
+        "Price": "157.16"
     },
     {
         "Symbol": "CL",
         "Name": "Colgate-Palmolive",
         "Sector": "Consumer Staples",
-        "Price": "96.58"
+        "Price": "95.10"
     },
     {
         "Symbol": "CLX",
         "Name": "Clorox",
         "Sector": "Consumer Staples",
-        "Price": "167.35"
+        "Price": "169.74"
     },
     {
         "Symbol": "CMCSA",
         "Name": "Comcast",
         "Sector": "Communication Services",
-        "Price": "42.64"
+        "Price": "42.79"
     },
     {
         "Symbol": "CME",
         "Name": "CME Group",
         "Sector": "Financials",
-        "Price": "234.39"
+        "Price": "246.02"
     },
     {
         "Symbol": "CMG",
         "Name": "Chipotle Mexican Grill",
         "Sector": "Consumer Discretionary",
-        "Price": "62.71"
+        "Price": "65.22"
     },
     {
         "Symbol": "CMI",
         "Name": "Cummins",
         "Sector": "Industrials",
-        "Price": "377.39"
+        "Price": "378.57"
     },
     {
         "Symbol": "CMS",
         "Name": "CMS Energy",
         "Sector": "Utilities",
-        "Price": "70.45"
+        "Price": "67.38"
     },
     {
         "Symbol": "CNC",
         "Name": "Centene Corporation",
         "Sector": "Health Care",
-        "Price": "60.00"
+        "Price": "57.95"
     },
     {
         "Symbol": "CNP",
         "Name": "CenterPoint Energy",
         "Sector": "Utilities",
-        "Price": "32.53"
+        "Price": "31.99"
     },
     {
         "Symbol": "COF",
         "Name": "Capital One",
         "Sector": "Financials",
-        "Price": "191.45"
+        "Price": "185.57"
     },
     {
         "Symbol": "COO",
         "Name": "Cooper Companies (The)",
         "Sector": "Health Care",
-        "Price": "102.64"
+        "Price": "103.23"
     },
     {
         "Symbol": "COP",
         "Name": "ConocoPhillips",
         "Sector": "Energy",
-        "Price": "106.78"
+        "Price": "104.44"
     },
     {
         "Symbol": "COR",
         "Name": "Cencora",
         "Sector": "Health Care",
-        "Price": "248.45"
+        "Price": "244.31"
     },
     {
         "Symbol": "COST",
         "Name": "Costco",
         "Sector": "Consumer Staples",
-        "Price": "971.50"
+        "Price": "982.26"
     },
     {
         "Symbol": "CPAY",
         "Name": "Corpay",
         "Sector": "Financials",
-        "Price": "382.14"
+        "Price": "367.58"
     },
     {
         "Symbol": "CPB",
         "Name": "Campbell Soup Company",
         "Sector": "Consumer Staples",
-        "Price": "46.60"
+        "Price": "42.63"
     },
     {
         "Symbol": "CPRT",
         "Name": "Copart",
         "Sector": "Industrials",
-        "Price": "63.80"
+        "Price": "61.91"
     },
     {
         "Symbol": "CPT",
         "Name": "Camden Property Trust",
         "Sector": "Real Estate",
-        "Price": "125.76"
+        "Price": "121.47"
     },
     {
         "Symbol": "CRL",
         "Name": "Charles River Laboratories",
         "Sector": "Health Care",
-        "Price": "197.75"
+        "Price": "191.54"
     },
     {
         "Symbol": "CRM",
         "Name": "Salesforce",
         "Sector": "Information Technology",
-        "Price": "343.18"
+        "Price": "361.38"
     },
     {
         "Symbol": "CRWD",
         "Name": "CrowdStrike",
         "Sector": "Information Technology",
-        "Price": "364.30"
+        "Price": "364.84"
     },
     {
         "Symbol": "CSCO",
         "Name": "Cisco",
         "Sector": "Information Technology",
-        "Price": "59.59"
+        "Price": "60.02"
     },
     {
         "Symbol": "CSGP",
         "Name": "CoStar Group",
         "Sector": "Real Estate",
-        "Price": "79.92"
+        "Price": "77.03"
     },
     {
         "Symbol": "CSX",
         "Name": "CSX Corporation",
         "Sector": "Industrials",
-        "Price": "36.69"
+        "Price": "34.62"
     },
     {
         "Symbol": "CTAS",
         "Name": "Cintas",
         "Sector": "Industrials",
-        "Price": "226.47"
+        "Price": "223.22"
     },
     {
         "Symbol": "CTLT",
         "Name": "Catalent",
         "Sector": "Health Care",
-        "Price": "60.75"
+        "Price": "62.12"
     },
     {
         "Symbol": "CTRA",
         "Name": "Coterra",
         "Sector": "Energy",
-        "Price": "26.78"
+        "Price": "25.66"
     },
     {
         "Symbol": "CTSH",
         "Name": "Cognizant",
         "Sector": "Information Technology",
-        "Price": "81.06"
+        "Price": "80.73"
     },
     {
         "Symbol": "CTVA",
         "Name": "Corteva",
         "Sector": "Materials",
-        "Price": "63.25"
+        "Price": "60.78"
     },
     {
         "Symbol": "CVS",
         "Name": "CVS Health",
         "Sector": "Health Care",
-        "Price": "59.01"
+        "Price": "56.86"
     },
     {
         "Symbol": "CVX",
         "Name": "Chevron Corporation",
         "Sector": "Energy",
-        "Price": "162.53"
+        "Price": "159.33"
     },
     {
         "Symbol": "CZR",
         "Name": "Caesars Entertainment",
         "Sector": "Consumer Discretionary",
-        "Price": "38.68"
+        "Price": "37.90"
     },
     {
         "Symbol": "D",
         "Name": "Dominion Energy",
         "Sector": "Utilities",
-        "Price": "59.12"
+        "Price": "56.91"
     },
     {
         "Symbol": "DAL",
         "Name": "Delta Air Lines",
         "Sector": "Industrials",
-        "Price": "64.14"
+        "Price": "65.77"
     },
     {
         "Symbol": "DAY",
         "Name": "Dayforce",
         "Sector": "Industrials",
-        "Price": "79.68"
+        "Price": "77.21"
     },
     {
         "Symbol": "DD",
         "Name": "DuPont",
         "Sector": "Materials",
-        "Price": "83.84"
+        "Price": "81.74"
     },
     {
         "Symbol": "DE",
         "Name": "Deere & Company",
         "Sector": "Industrials",
-        "Price": "461.04"
+        "Price": "448.12"
     },
     {
         "Symbol": "DECK",
         "Name": "Deckers Brands",
         "Sector": "Consumer Discretionary",
-        "Price": "194.41"
+        "Price": "200.92"
     },
     {
         "Symbol": "DELL",
         "Name": "Dell Technologies",
         "Sector": "Information Technology",
-        "Price": "141.74"
+        "Price": "125.07"
     },
     {
         "Symbol": "DFS",
         "Name": "Discover Financial",
         "Sector": "Financials",
-        "Price": "182.62"
+        "Price": "177.30"
     },
     {
         "Symbol": "DG",
         "Name": "Dollar General",
         "Sector": "Consumer Staples",
-        "Price": "74.64"
+        "Price": "79.60"
     },
     {
         "Symbol": "DGX",
         "Name": "Quest Diagnostics",
         "Sector": "Health Care",
-        "Price": "162.27"
+        "Price": "158.52"
     },
     {
         "Symbol": "DHI",
         "Name": "D. R. Horton",
         "Sector": "Consumer Discretionary",
-        "Price": "168.71"
+        "Price": "159.68"
     },
     {
         "Symbol": "DHR",
         "Name": "Danaher Corporation",
         "Sector": "Health Care",
-        "Price": "236.58"
+        "Price": "227.87"
     },
     {
         "Symbol": "DIS",
         "Name": "Walt Disney Company (The)",
         "Sector": "Communication Services",
-        "Price": "115.45"
+        "Price": "116.50"
     },
     {
         "Symbol": "DLR",
         "Name": "Digital Realty",
         "Sector": "Real Estate",
-        "Price": "194.02"
+        "Price": "191.08"
     },
     {
         "Symbol": "DLTR",
         "Name": "Dollar Tree",
         "Sector": "Consumer Staples",
-        "Price": "69.12"
+        "Price": "72.56"
     },
     {
         "Symbol": "DOC",
         "Name": "Healthpeak Properties",
         "Sector": "Real Estate",
-        "Price": "22.32"
+        "Price": "21.49"
     },
     {
         "Symbol": "DOV",
         "Name": "Dover Corporation",
         "Sector": "Industrials",
-        "Price": "206.34"
+        "Price": "201.78"
     },
     {
         "Symbol": "DOW",
         "Name": "Dow Inc.",
         "Sector": "Materials",
-        "Price": "44.54"
+        "Price": "42.19"
     },
     {
         "Symbol": "DPZ",
         "Name": "Domino's",
         "Sector": "Consumer Discretionary",
-        "Price": "472.91"
+        "Price": "465.41"
     },
     {
         "Symbol": "DRI",
         "Name": "Darden Restaurants",
         "Sector": "Consumer Discretionary",
-        "Price": "173.85"
+        "Price": "171.17"
     },
     {
         "Symbol": "DTE",
         "Name": "DTE Energy",
         "Sector": "Utilities",
-        "Price": "125.45"
+        "Price": "122.42"
     },
     {
         "Symbol": "DUK",
         "Name": "Duke Energy",
         "Sector": "Utilities",
-        "Price": "117.04"
+        "Price": "114.01"
     },
     {
         "Symbol": "DVA",
         "Name": "DaVita",
         "Sector": "Health Care",
-        "Price": "167.96"
+        "Price": "161.37"
     },
     {
         "Symbol": "DVN",
         "Name": "Devon Energy",
         "Sector": "Energy",
-        "Price": "37.71"
+        "Price": "35.96"
     },
     {
         "Symbol": "DXCM",
         "Name": "Dexcom",
         "Sector": "Health Care",
-        "Price": "77.94"
+        "Price": "78.92"
     },
     {
         "Symbol": "EA",
         "Name": "Electronic Arts",
         "Sector": "Communication Services",
-        "Price": "165.02"
+        "Price": "165.62"
     },
     {
         "Symbol": "EBAY",
         "Name": "eBay",
         "Sector": "Consumer Discretionary",
-        "Price": "65.09"
+        "Price": "63.62"
     },
     {
         "Symbol": "ECL",
         "Name": "Ecolab",
         "Sector": "Materials",
-        "Price": "247.38"
+        "Price": "247.98"
     },
     {
         "Symbol": "ED",
         "Name": "Consolidated Edison",
         "Sector": "Utilities",
-        "Price": "101.70"
+        "Price": "96.50"
     },
     {
         "Symbol": "EFX",
         "Name": "Equifax",
         "Sector": "Industrials",
-        "Price": "258.94"
+        "Price": "260.78"
     },
     {
         "Symbol": "EG",
         "Name": "Everest Group",
         "Sector": "Financials",
-        "Price": "387.50"
+        "Price": "374.71"
     },
     {
         "Symbol": "EIX",
         "Name": "Edison International",
         "Sector": "Utilities",
-        "Price": "87.74"
+        "Price": "84.92"
     },
     {
         "Symbol": "EL",
         "Name": "Est\u00e9e Lauder Companies (The)",
         "Sector": "Consumer Staples",
-        "Price": "73.18"
+        "Price": "78.17"
     },
     {
         "Symbol": "ELV",
         "Name": "Elevance Health",
         "Sector": "Health Care",
-        "Price": "401.96"
+        "Price": "392.98"
     },
     {
         "Symbol": "EMN",
         "Name": "Eastman Chemical Company",
         "Sector": "Materials",
-        "Price": "104.97"
+        "Price": "101.51"
     },
     {
         "Symbol": "EMR",
         "Name": "Emerson Electric",
         "Sector": "Industrials",
-        "Price": "133.00"
+        "Price": "133.15"
     },
     {
         "Symbol": "ENPH",
         "Name": "Enphase Energy",
         "Sector": "Information Technology",
-        "Price": "70.50"
+        "Price": "70.34"
     },
     {
         "Symbol": "EOG",
         "Name": "EOG Resources",
         "Sector": "Energy",
-        "Price": "132.54"
+        "Price": "130.02"
     },
     {
         "Symbol": "EPAM",
         "Name": "EPAM Systems",
         "Sector": "Information Technology",
-        "Price": "248.67"
+        "Price": "240.37"
     },
     {
         "Symbol": "EQIX",
         "Name": "Equinix",
         "Sector": "Real Estate",
-        "Price": "978.26"
+        "Price": "973.80"
     },
     {
         "Symbol": "EQR",
         "Name": "Equity Residential",
         "Sector": "Real Estate",
-        "Price": "77.10"
+        "Price": "73.38"
     },
     {
         "Symbol": "EQT",
         "Name": "EQT Corporation",
         "Sector": "Energy",
-        "Price": "45.56"
+        "Price": "44.45"
     },
     {
         "Symbol": "ERIE",
         "Name": "Erie Indemnity",
         "Sector": "Financials",
-        "Price": "438.48"
+        "Price": "424.40"
     },
     {
         "Symbol": "ES",
         "Name": "Eversource Energy",
         "Sector": "Utilities",
-        "Price": "63.58"
+        "Price": "61.64"
     },
     {
         "Symbol": "ESS",
         "Name": "Essex Property Trust",
         "Sector": "Real Estate",
-        "Price": "309.75"
+        "Price": "299.67"
     },
     {
         "Symbol": "ETN",
         "Name": "Eaton Corporation",
         "Sector": "Industrials",
-        "Price": "377.29"
+        "Price": "371.05"
     },
     {
         "Symbol": "ETR",
         "Name": "Entergy",
         "Sector": "Utilities",
-        "Price": "155.93"
+        "Price": "153.73"
     },
     {
         "Symbol": "EVRG",
         "Name": "Evergy",
         "Sector": "Utilities",
-        "Price": "64.84"
+        "Price": "63.32"
     },
     {
         "Symbol": "EW",
         "Name": "Edwards Lifesciences",
         "Sector": "Health Care",
-        "Price": "71.55"
+        "Price": "72.43"
     },
     {
         "Symbol": "EXC",
         "Name": "Exelon",
         "Sector": "Utilities",
-        "Price": "39.49"
+        "Price": "37.98"
     },
     {
         "Symbol": "EXPD",
         "Name": "Expeditors International",
         "Sector": "Industrials",
-        "Price": "121.65"
+        "Price": "120.45"
     },
     {
         "Symbol": "EXPE",
         "Name": "Expedia Group",
         "Sector": "Consumer Discretionary",
-        "Price": "186.28"
+        "Price": "191.01"
     },
     {
         "Symbol": "EXR",
         "Name": "Extra Space Storage",
         "Sector": "Real Estate",
-        "Price": "171.68"
+        "Price": "163.64"
     },
     {
         "Symbol": "F",
         "Name": "Ford Motor Company",
         "Sector": "Consumer Discretionary",
-        "Price": "11.10"
+        "Price": "10.44"
     },
     {
         "Symbol": "FANG",
         "Name": "Diamondback Energy",
         "Sector": "Energy",
-        "Price": "175.97"
+        "Price": "172.68"
     },
     {
         "Symbol": "FAST",
         "Name": "Fastenal",
         "Sector": "Industrials",
-        "Price": "84.10"
+        "Price": "81.76"
     },
     {
         "Symbol": "FCX",
         "Name": "Freeport-McMoRan",
         "Sector": "Materials",
-        "Price": "43.48"
+        "Price": "42.79"
     },
     {
         "Symbol": "FDS",
         "Name": "FactSet",
         "Sector": "Financials",
-        "Price": "490.98"
+        "Price": "478.37"
     },
     {
         "Symbol": "FDX",
         "Name": "FedEx",
         "Sector": "Industrials",
-        "Price": "302.98"
+        "Price": "279.42"
     },
     {
         "Symbol": "FE",
         "Name": "FirstEnergy",
         "Sector": "Utilities",
-        "Price": "42.28"
+        "Price": "41.34"
     },
     {
         "Symbol": "FFIV",
         "Name": "F5, Inc.",
         "Sector": "Information Technology",
-        "Price": "251.92"
+        "Price": "257.05"
     },
     {
         "Symbol": "FI",
         "Name": "Fiserv",
         "Sector": "Financials",
-        "Price": "222.45"
+        "Price": "204.00"
     },
     {
         "Symbol": "FICO",
         "Name": "Fair Isaac",
         "Sector": "Information Technology",
-        "Price": "2382.40"
+        "Price": "2367.16"
     },
     {
         "Symbol": "FIS",
         "Name": "Fidelity National Information Services",
         "Sector": "Financials",
-        "Price": "84.94"
+        "Price": "85.49"
     },
     {
         "Symbol": "FITB",
         "Name": "Fifth Third Bancorp",
         "Sector": "Financials",
-        "Price": "48.25"
+        "Price": "47.32"
     },
     {
         "Symbol": "FMC",
         "Name": "FMC Corporation",
         "Sector": "Materials",
-        "Price": "59.97"
+        "Price": "57.19"
     },
     {
         "Symbol": "FOX",
         "Name": "Fox Corporation (Class B)",
         "Sector": "Communication Services",
-        "Price": "43.81"
+        "Price": "44.25"
     },
     {
         "Symbol": "FOXA",
         "Name": "Fox Corporation (Class A)",
         "Sector": "Communication Services",
-        "Price": "46.15"
+        "Price": "46.65"
     },
     {
         "Symbol": "FRT",
         "Name": "Federal Realty Investment Trust",
         "Sector": "Real Estate",
-        "Price": "115.90"
+        "Price": "113.61"
     },
     {
         "Symbol": "FSLR",
         "Name": "First Solar",
         "Sector": "Information Technology",
-        "Price": "192.32"
+        "Price": "197.93"
     },
     {
         "Symbol": "FTNT",
         "Name": "Fortinet",
         "Sector": "Information Technology",
-        "Price": "96.44"
+        "Price": "98.46"
     },
     {
         "Symbol": "FTV",
         "Name": "Fortive",
         "Sector": "Industrials",
-        "Price": "78.96"
+        "Price": "79.14"
     },
     {
         "Symbol": "GD",
         "Name": "General Dynamics",
         "Sector": "Industrials",
-        "Price": "282.02"
+        "Price": "275.15"
     },
     {
         "Symbol": "GDDY",
         "Name": "GoDaddy",
         "Sector": "Information Technology",
-        "Price": "199.73"
+        "Price": "208.54"
     },
     {
         "Symbol": "GE",
         "Name": "GE Aerospace",
         "Sector": "Industrials",
-        "Price": "184.60"
+        "Price": "172.91"
     },
     {
         "Symbol": "GEHC",
         "Name": "GE HealthCare",
         "Sector": "Health Care",
-        "Price": "82.51"
+        "Price": "81.57"
     },
     {
         "Symbol": "GEN",
         "Name": "Gen Digital",
         "Sector": "Information Technology",
-        "Price": "30.90"
+        "Price": "31.25"
     },
     {
         "Symbol": "GEV",
         "Name": "GE Vernova",
         "Sector": "Industrials",
-        "Price": "338.89"
+        "Price": "348.13"
     },
     {
         "Symbol": "GILD",
         "Name": "Gilead Sciences",
         "Sector": "Health Care",
-        "Price": "91.35"
+        "Price": "93.39"
     },
     {
         "Symbol": "GIS",
         "Name": "General Mills",
         "Sector": "Consumer Staples",
-        "Price": "65.99"
+        "Price": "65.55"
     },
     {
         "Symbol": "GL",
         "Name": "Globe Life",
         "Sector": "Financials",
-        "Price": "111.43"
+        "Price": "106.61"
     },
     {
         "Symbol": "GLW",
         "Name": "Corning Inc.",
         "Sector": "Information Technology",
-        "Price": "48.00"
+        "Price": "49.76"
     },
     {
         "Symbol": "GM",
         "Name": "General Motors",
         "Sector": "Consumer Discretionary",
-        "Price": "54.79"
+        "Price": "53.39"
     },
     {
         "Symbol": "GNRC",
         "Name": "Generac",
         "Sector": "Industrials",
-        "Price": "192.26"
+        "Price": "179.98"
     },
     {
         "Symbol": "GOOG",
         "Name": "Alphabet Inc. (Class C)",
         "Sector": "Communication Services",
-        "Price": "170.62"
+        "Price": "174.31"
     },
     {
         "Symbol": "GOOGL",
         "Name": "Alphabet Inc. (Class A)",
         "Sector": "Communication Services",
-        "Price": "169.12"
+        "Price": "172.64"
     },
     {
         "Symbol": "GPC",
         "Name": "Genuine Parts Company",
         "Sector": "Consumer Discretionary",
-        "Price": "127.90"
+        "Price": "124.62"
     },
     {
         "Symbol": "GPN",
         "Name": "Global Payments",
         "Sector": "Financials",
-        "Price": "117.46"
+        "Price": "115.85"
     },
     {
         "Symbol": "GRMN",
         "Name": "Garmin",
         "Sector": "Consumer Discretionary",
-        "Price": "212.85"
+        "Price": "216.59"
     },
     {
         "Symbol": "GS",
         "Name": "Goldman Sachs",
         "Sector": "Financials",
-        "Price": "605.50"
+        "Price": "596.80"
     },
     {
         "Symbol": "GWW",
         "Name": "W. W. Grainger",
         "Sector": "Industrials",
-        "Price": "1217.30"
+        "Price": "1188.65"
     },
     {
         "Symbol": "HAL",
         "Name": "Halliburton",
         "Sector": "Energy",
-        "Price": "31.81"
+        "Price": "30.02"
     },
     {
         "Symbol": "HAS",
         "Name": "Hasbro",
         "Sector": "Consumer Discretionary",
-        "Price": "64.00"
+        "Price": "67.10"
     },
     {
         "Symbol": "HBAN",
         "Name": "Huntington Bancshares",
         "Sector": "Financials",
-        "Price": "18.14"
+        "Price": "17.70"
     },
     {
         "Symbol": "HCA",
         "Name": "HCA Healthcare",
         "Sector": "Health Care",
-        "Price": "328.95"
+        "Price": "320.05"
     },
     {
         "Symbol": "HD",
         "Name": "Home Depot (The)",
         "Sector": "Consumer Discretionary",
-        "Price": "429.52"
+        "Price": "426.54"
     },
     {
         "Symbol": "HES",
         "Name": "Hess Corporation",
         "Sector": "Energy",
-        "Price": "146.30"
+        "Price": "144.73"
     },
     {
         "Symbol": "HIG",
         "Name": "Hartford (The)",
         "Sector": "Financials",
-        "Price": "122.62"
+        "Price": "121.22"
     },
     {
         "Symbol": "HII",
         "Name": "Huntington Ingalls Industries",
         "Sector": "Industrials",
-        "Price": "197.98"
+        "Price": "188.88"
     },
     {
         "Symbol": "HLT",
         "Name": "Hilton Worldwide",
         "Sector": "Consumer Discretionary",
-        "Price": "253.00"
+        "Price": "255.39"
     },
     {
         "Symbol": "HOLX",
         "Name": "Hologic",
         "Sector": "Health Care",
-        "Price": "79.00"
+        "Price": "76.00"
     },
     {
         "Symbol": "HON",
         "Name": "Honeywell",
         "Sector": "Industrials",
-        "Price": "230.40"
+        "Price": "226.29"
     },
     {
         "Symbol": "HPE",
         "Name": "Hewlett Packard Enterprise",
         "Sector": "Information Technology",
-        "Price": "22.13"
+        "Price": "21.65"
     },
     {
         "Symbol": "HPQ",
         "Name": "HP Inc.",
         "Sector": "Information Technology",
-        "Price": "39.10"
+        "Price": "36.17"
     },
     {
         "Symbol": "HRL",
         "Name": "Hormel Foods",
         "Sector": "Consumer Staples",
-        "Price": "31.62"
+        "Price": "32.86"
     },
     {
         "Symbol": "HSIC",
         "Name": "Henry Schein",
         "Sector": "Health Care",
-        "Price": "77.28"
+        "Price": "72.49"
     },
     {
         "Symbol": "HST",
         "Name": "Host Hotels & Resorts",
         "Sector": "Real Estate",
-        "Price": "18.31"
+        "Price": "18.80"
     },
     {
         "Symbol": "HSY",
         "Name": "Hershey Company (The)",
         "Sector": "Consumer Staples",
-        "Price": "173.29"
+        "Price": "174.50"
     },
     {
         "Symbol": "HUBB",
         "Name": "Hubbell Incorporated",
         "Sector": "Industrials",
-        "Price": "460.74"
+        "Price": "467.12"
     },
     {
         "Symbol": "HUM",
         "Name": "Humana",
         "Sector": "Health Care",
-        "Price": "295.59"
+        "Price": "283.06"
     },
     {
         "Symbol": "HWM",
         "Name": "Howmet Aerospace",
         "Sector": "Industrials",
-        "Price": "117.18"
+        "Price": "120.07"
     },
     {
         "Symbol": "IBM",
         "Name": "IBM",
         "Sector": "Information Technology",
-        "Price": "228.83"
+        "Price": "234.75"
     },
     {
         "Symbol": "ICE",
         "Name": "Intercontinental Exchange",
         "Sector": "Financials",
-        "Price": "160.49"
+        "Price": "156.37"
     },
     {
         "Symbol": "IDXX",
         "Name": "Idexx Laboratories",
         "Sector": "Health Care",
-        "Price": "417.32"
+        "Price": "427.49"
     },
     {
         "Symbol": "IEX",
         "Name": "IDEX Corporation",
         "Sector": "Industrials",
-        "Price": "232.02"
+        "Price": "228.45"
     },
     {
         "Symbol": "IFF",
         "Name": "International Flavors & Fragrances",
         "Sector": "Materials",
-        "Price": "90.93"
+        "Price": "89.00"
     },
     {
         "Symbol": "INCY",
         "Name": "Incyte",
         "Sector": "Health Care",
-        "Price": "74.80"
+        "Price": "74.92"
     },
     {
         "Symbol": "INTC",
         "Name": "Intel",
         "Sector": "Information Technology",
-        "Price": "24.05"
+        "Price": "20.80"
     },
     {
         "Symbol": "INTU",
         "Name": "Intuit",
         "Sector": "Information Technology",
-        "Price": "638.83"
+        "Price": "648.70"
     },
     {
         "Symbol": "INVH",
         "Name": "Invitation Homes",
         "Sector": "Real Estate",
-        "Price": "34.16"
+        "Price": "33.58"
     },
     {
         "Symbol": "IP",
         "Name": "International Paper",
         "Sector": "Materials",
-        "Price": "59.11"
+        "Price": "56.71"
     },
     {
         "Symbol": "IPG",
         "Name": "Interpublic Group of Companies (The)",
         "Sector": "Communication Services",
-        "Price": "30.63"
+        "Price": "29.48"
     },
     {
         "Symbol": "IQV",
         "Name": "IQVIA",
         "Sector": "Health Care",
-        "Price": "201.23"
+        "Price": "199.93"
     },
     {
         "Symbol": "IR",
         "Name": "Ingersoll Rand",
         "Sector": "Industrials",
-        "Price": "104.74"
+        "Price": "102.96"
     },
     {
         "Symbol": "IRM",
         "Name": "Iron Mountain",
         "Sector": "Real Estate",
-        "Price": "123.61"
+        "Price": "118.37"
     },
     {
         "Symbol": "ISRG",
         "Name": "Intuitive Surgical",
         "Sector": "Health Care",
-        "Price": "542.10"
+        "Price": "547.65"
     },
     {
         "Symbol": "IT",
         "Name": "Gartner",
         "Sector": "Information Technology",
-        "Price": "523.00"
+        "Price": "516.60"
     },
     {
         "Symbol": "ITW",
         "Name": "Illinois Tool Works",
         "Sector": "Industrials",
-        "Price": "276.51"
+        "Price": "275.27"
     },
     {
         "Symbol": "IVZ",
         "Name": "Invesco",
         "Sector": "Financials",
-        "Price": "18.15"
+        "Price": "17.90"
     },
     {
         "Symbol": "J",
         "Name": "Jacobs Solutions",
         "Sector": "Industrials",
-        "Price": "140.69"
+        "Price": "137.74"
     },
     {
         "Symbol": "JBHT",
         "Name": "J.B. Hunt",
         "Sector": "Industrials",
-        "Price": "190.86"
+        "Price": "181.85"
     },
     {
         "Symbol": "JBL",
         "Name": "Jabil",
         "Sector": "Information Technology",
-        "Price": "132.72"
+        "Price": "135.78"
     },
     {
         "Symbol": "JCI",
         "Name": "Johnson Controls",
         "Sector": "Industrials",
-        "Price": "83.75"
+        "Price": "83.09"
     },
     {
         "Symbol": "JKHY",
         "Name": "Jack Henry & Associates",
         "Sector": "Financials",
-        "Price": "173.10"
+        "Price": "173.61"
     },
     {
         "Symbol": "JNJ",
         "Name": "Johnson & Johnson",
         "Sector": "Health Care",
-        "Price": "154.52"
+        "Price": "149.52"
     },
     {
         "Symbol": "JNPR",
         "Name": "Juniper Networks",
         "Sector": "Information Technology",
-        "Price": "36.02"
+        "Price": "36.78"
     },
     {
         "Symbol": "JPM",
         "Name": "JPMorgan Chase",
         "Sector": "Financials",
-        "Price": "249.97"
+        "Price": "245.48"
     },
     {
         "Symbol": "K",
         "Name": "Kellanova",
         "Sector": "Consumer Staples",
-        "Price": "81.13"
+        "Price": "80.77"
     },
     {
         "Symbol": "KDP",
         "Name": "Keurig Dr Pepper",
         "Sector": "Consumer Staples",
-        "Price": "32.65"
+        "Price": "32.98"
     },
     {
         "Symbol": "KEY",
         "Name": "KeyCorp",
         "Sector": "Financials",
-        "Price": "19.66"
+        "Price": "18.72"
     },
     {
         "Symbol": "KEYS",
         "Name": "Keysight Technologies",
         "Sector": "Information Technology",
-        "Price": "171.91"
+        "Price": "169.63"
     },
     {
         "Symbol": "KHC",
         "Name": "Kraft Heinz",
         "Sector": "Consumer Staples",
-        "Price": "31.97"
+        "Price": "30.91"
     },
     {
         "Symbol": "KIM",
         "Name": "Kimco Realty",
         "Sector": "Real Estate",
-        "Price": "25.46"
+        "Price": "25.10"
     },
     {
         "Symbol": "KKR",
         "Name": "KKR",
         "Sector": "Financials",
-        "Price": "161.27"
+        "Price": "157.04"
     },
     {
         "Symbol": "KLAC",
         "Name": "KLA Corporation",
         "Sector": "Information Technology",
-        "Price": "631.47"
+        "Price": "642.61"
     },
     {
         "Symbol": "KMB",
         "Name": "Kimberly-Clark",
         "Sector": "Consumer Staples",
-        "Price": "139.73"
+        "Price": "138.15"
     },
     {
         "Symbol": "KMI",
         "Name": "Kinder Morgan",
         "Sector": "Energy",
-        "Price": "28.09"
+        "Price": "27.97"
     },
     {
         "Symbol": "KMX",
         "Name": "CarMax",
         "Sector": "Consumer Discretionary",
-        "Price": "85.09"
+        "Price": "84.56"
     },
     {
         "Symbol": "KO",
         "Name": "Coca-Cola Company (The)",
         "Sector": "Consumer Staples",
-        "Price": "64.55"
+        "Price": "62.92"
     },
     {
         "Symbol": "KR",
         "Name": "Kroger",
         "Sector": "Consumer Staples",
-        "Price": "60.57"
+        "Price": "60.71"
     },
     {
         "Symbol": "KVUE",
         "Name": "Kenvue",
         "Sector": "Consumer Staples",
-        "Price": "24.12"
+        "Price": "23.13"
     },
     {
         "Symbol": "L",
         "Name": "Loews Corporation",
         "Sector": "Financials",
-        "Price": "86.61"
+        "Price": "85.94"
     },
     {
         "Symbol": "LDOS",
         "Name": "Leidos",
         "Sector": "Industrials",
-        "Price": "166.11"
+        "Price": "163.76"
     },
     {
         "Symbol": "LEN",
         "Name": "Lennar",
         "Sector": "Consumer Discretionary",
-        "Price": "173.40"
+        "Price": "164.99"
     },
     {
         "Symbol": "LH",
         "Name": "LabCorp",
         "Sector": "Health Care",
-        "Price": "238.73"
+        "Price": "234.90"
     },
     {
         "Symbol": "LHX",
         "Name": "L3Harris",
         "Sector": "Industrials",
-        "Price": "245.58"
+        "Price": "238.14"
     },
     {
         "Symbol": "LIN",
         "Name": "Linde plc",
         "Sector": "Materials",
-        "Price": "456.60"
+        "Price": "448.58"
     },
     {
         "Symbol": "LKQ",
         "Name": "LKQ Corporation",
         "Sector": "Consumer Discretionary",
-        "Price": "39.00"
+        "Price": "39.72"
     },
     {
         "Symbol": "LLY",
         "Name": "Lilly (Eli)",
         "Sector": "Health Care",
-        "Price": "789.32"
+        "Price": "825.62"
     },
     {
         "Symbol": "LMT",
         "Name": "Lockheed Martin",
         "Sector": "Industrials",
-        "Price": "521.45"
+        "Price": "517.48"
     },
     {
         "Symbol": "LNT",
         "Name": "Alliant Energy",
         "Sector": "Utilities",
-        "Price": "63.34"
+        "Price": "61.54"
     },
     {
         "Symbol": "LOW",
         "Name": "Lowe's",
         "Sector": "Consumer Discretionary",
-        "Price": "274.47"
+        "Price": "270.07"
     },
     {
         "Symbol": "LRCX",
         "Name": "Lam Research",
         "Sector": "Information Technology",
-        "Price": "72.69"
+        "Price": "75.21"
     },
     {
         "Symbol": "LULU",
         "Name": "Lululemon Athletica",
         "Sector": "Consumer Discretionary",
-        "Price": "318.84"
+        "Price": "344.81"
     },
     {
         "Symbol": "LUV",
         "Name": "Southwest Airlines",
         "Sector": "Industrials",
-        "Price": "31.96"
+        "Price": "34.84"
     },
     {
         "Symbol": "LVS",
         "Name": "Las Vegas Sands",
         "Sector": "Consumer Discretionary",
-        "Price": "50.92"
+        "Price": "53.84"
     },
     {
         "Symbol": "LW",
         "Name": "Lamb Weston",
         "Sector": "Consumer Staples",
-        "Price": "76.83"
+        "Price": "77.69"
     },
     {
         "Symbol": "LYB",
         "Name": "LyondellBasell",
         "Sector": "Materials",
-        "Price": "82.14"
+        "Price": "77.41"
     },
     {
         "Symbol": "LYV",
         "Name": "Live Nation Entertainment",
         "Sector": "Communication Services",
-        "Price": "138.87"
+        "Price": "134.67"
     },
     {
         "Symbol": "MA",
         "Name": "Mastercard",
         "Sector": "Financials",
-        "Price": "528.48"
+        "Price": "524.77"
     },
     {
         "Symbol": "MAA",
         "Name": "Mid-America Apartment Communities",
         "Sector": "Real Estate",
-        "Price": "163.16"
+        "Price": "159.19"
     },
     {
         "Symbol": "MAR",
         "Name": "Marriott International",
         "Sector": "Consumer Discretionary",
-        "Price": "288.18"
+        "Price": "292.48"
     },
     {
         "Symbol": "MAS",
         "Name": "Masco",
         "Sector": "Industrials",
-        "Price": "80.71"
+        "Price": "80.39"
     },
     {
         "Symbol": "MCD",
         "Name": "McDonald's",
         "Sector": "Consumer Discretionary",
-        "Price": "296.33"
+        "Price": "299.47"
     },
     {
         "Symbol": "MCHP",
         "Name": "Microchip Technology",
         "Sector": "Information Technology",
-        "Price": "68.41"
+        "Price": "58.25"
     },
     {
         "Symbol": "MCK",
         "Name": "McKesson Corporation",
         "Sector": "Health Care",
-        "Price": "625.00"
+        "Price": "607.52"
     },
     {
         "Symbol": "MCO",
         "Name": "Moody's Corporation",
         "Sector": "Financials",
-        "Price": "499.66"
+        "Price": "491.16"
     },
     {
         "Symbol": "MDLZ",
         "Name": "Mondelez International",
         "Sector": "Consumer Staples",
-        "Price": "64.88"
+        "Price": "63.24"
     },
     {
         "Symbol": "MDT",
         "Name": "Medtronic",
         "Sector": "Health Care",
-        "Price": "85.68"
+        "Price": "84.14"
     },
     {
         "Symbol": "MET",
         "Name": "MetLife",
         "Sector": "Financials",
-        "Price": "87.76"
+        "Price": "85.88"
     },
     {
         "Symbol": "META",
         "Name": "Meta Platforms",
         "Sector": "Communication Services",
-        "Price": "573.54"
+        "Price": "608.93"
     },
     {
         "Symbol": "MGM",
         "Name": "MGM Resorts",
         "Sector": "Consumer Discretionary",
-        "Price": "37.55"
+        "Price": "36.84"
     },
     {
         "Symbol": "MHK",
         "Name": "Mohawk Industries",
         "Sector": "Consumer Discretionary",
-        "Price": "139.92"
+        "Price": "131.43"
     },
     {
         "Symbol": "MKC",
         "Name": "McCormick & Company",
         "Sector": "Consumer Staples",
-        "Price": "77.81"
+        "Price": "78.14"
     },
     {
         "Symbol": "MKTX",
         "Name": "MarketAxess",
         "Sector": "Financials",
-        "Price": "261.02"
+        "Price": "243.96"
     },
     {
         "Symbol": "MLM",
         "Name": "Martin Marietta Materials",
         "Sector": "Materials",
-        "Price": "596.97"
+        "Price": "582.39"
     },
     {
         "Symbol": "MMC",
         "Name": "Marsh McLennan",
         "Sector": "Financials",
-        "Price": "232.77"
+        "Price": "228.26"
     },
     {
         "Symbol": "MMM",
         "Name": "3M",
         "Sector": "Industrials",
-        "Price": "132.95"
+        "Price": "133.33"
     },
     {
         "Symbol": "MNST",
         "Name": "Monster Beverage",
         "Sector": "Consumer Staples",
-        "Price": "54.83"
+        "Price": "53.10"
     },
     {
         "Symbol": "MO",
         "Name": "Altria",
         "Sector": "Consumer Staples",
-        "Price": "57.59"
+        "Price": "56.91"
     },
     {
         "Symbol": "MOH",
         "Name": "Molina Healthcare",
         "Sector": "Health Care",
-        "Price": "296.84"
+        "Price": "300.42"
     },
     {
         "Symbol": "MOS",
         "Name": "Mosaic Company (The)",
         "Sector": "Materials",
-        "Price": "25.40"
+        "Price": "25.61"
     },
     {
         "Symbol": "MPC",
         "Name": "Marathon Petroleum",
         "Sector": "Energy",
-        "Price": "157.14"
+        "Price": "150.10"
     },
     {
         "Symbol": "MPWR",
         "Name": "Monolithic Power Systems",
         "Sector": "Information Technology",
-        "Price": "572.08"
+        "Price": "572.32"
     },
     {
         "Symbol": "MRK",
         "Name": "Merck & Co.",
         "Sector": "Health Care",
-        "Price": "101.62"
+        "Price": "103.55"
     },
     {
         "Symbol": "MRNA",
         "Name": "Moderna",
         "Sector": "Health Care",
-        "Price": "42.05"
+        "Price": "42.94"
     },
     {
         "Symbol": "MRO",
@@ -1941,1086 +1941,1086 @@
         "Symbol": "MS",
         "Name": "Morgan Stanley",
         "Sector": "Financials",
-        "Price": "131.28"
+        "Price": "130.32"
     },
     {
         "Symbol": "MSCI",
         "Name": "MSCI",
         "Sector": "Financials",
-        "Price": "601.96"
+        "Price": "609.91"
     },
     {
         "Symbol": "MSFT",
         "Name": "Microsoft",
         "Sector": "Information Technology",
-        "Price": "427.99"
+        "Price": "442.62"
     },
     {
         "Symbol": "MSI",
         "Name": "Motorola Solutions",
         "Sector": "Information Technology",
-        "Price": "496.58"
+        "Price": "494.97"
     },
     {
         "Symbol": "MTB",
         "Name": "M&T Bank",
         "Sector": "Financials",
-        "Price": "220.75"
+        "Price": "212.42"
     },
     {
         "Symbol": "MTCH",
         "Name": "Match Group",
         "Sector": "Communication Services",
-        "Price": "32.66"
+        "Price": "32.59"
     },
     {
         "Symbol": "MTD",
         "Name": "Mettler Toledo",
         "Sector": "Health Care",
-        "Price": "1232.30"
+        "Price": "1247.90"
     },
     {
         "Symbol": "MU",
         "Name": "Micron Technology",
         "Sector": "Information Technology",
-        "Price": "101.80"
+        "Price": "100.87"
     },
     {
         "Symbol": "NCLH",
         "Name": "Norwegian Cruise Line Holdings",
         "Sector": "Consumer Discretionary",
-        "Price": "27.18"
+        "Price": "27.62"
     },
     {
         "Symbol": "NDAQ",
         "Name": "Nasdaq, Inc.",
         "Sector": "Financials",
-        "Price": "82.65"
+        "Price": "81.27"
     },
     {
         "Symbol": "NDSN",
         "Name": "Nordson Corporation",
         "Sector": "Industrials",
-        "Price": "258.73"
+        "Price": "254.58"
     },
     {
         "Symbol": "NEE",
         "Name": "NextEra Energy",
         "Sector": "Utilities",
-        "Price": "77.49"
+        "Price": "76.20"
     },
     {
         "Symbol": "NEM",
         "Name": "Newmont",
         "Sector": "Materials",
-        "Price": "42.25"
+        "Price": "41.07"
     },
     {
         "Symbol": "NFLX",
         "Name": "Netflix",
         "Sector": "Communication Services",
-        "Price": "872.60"
+        "Price": "917.87"
     },
     {
         "Symbol": "NI",
         "Name": "NiSource",
         "Sector": "Utilities",
-        "Price": "38.25"
+        "Price": "37.28"
     },
     {
         "Symbol": "NKE",
         "Name": "Nike, Inc.",
         "Sector": "Consumer Discretionary",
-        "Price": "77.61"
+        "Price": "78.58"
     },
     {
         "Symbol": "NOC",
         "Name": "Northrop Grumman",
         "Sector": "Industrials",
-        "Price": "488.43"
+        "Price": "479.57"
     },
     {
         "Symbol": "NOW",
         "Name": "ServiceNow",
         "Sector": "Information Technology",
-        "Price": "1070.07"
+        "Price": "1123.72"
     },
     {
         "Symbol": "NRG",
         "Name": "NRG Energy",
         "Sector": "Utilities",
-        "Price": "101.16"
+        "Price": "101.28"
     },
     {
         "Symbol": "NSC",
         "Name": "Norfolk Southern Railway",
         "Sector": "Industrials",
-        "Price": "276.09"
+        "Price": "264.00"
     },
     {
         "Symbol": "NTAP",
         "Name": "NetApp",
         "Sector": "Information Technology",
-        "Price": "129.60"
+        "Price": "128.79"
     },
     {
         "Symbol": "NTRS",
         "Name": "Northern Trust",
         "Sector": "Financials",
-        "Price": "110.75"
+        "Price": "109.94"
     },
     {
         "Symbol": "NUE",
         "Name": "Nucor",
         "Sector": "Materials",
-        "Price": "154.00"
+        "Price": "145.57"
     },
     {
         "Symbol": "NVDA",
         "Name": "Nvidia",
         "Sector": "Information Technology",
-        "Price": "136.92"
+        "Price": "145.06"
     },
     {
         "Symbol": "NVR",
         "Name": "NVR, Inc.",
         "Sector": "Consumer Discretionary",
-        "Price": "9222.00"
+        "Price": "8955.01"
     },
     {
         "Symbol": "NWS",
         "Name": "News Corp (Class B)",
         "Sector": "Communication Services",
-        "Price": "32.01"
+        "Price": "32.41"
     },
     {
         "Symbol": "NWSA",
         "Name": "News Corp (Class A)",
         "Sector": "Communication Services",
-        "Price": "29.28"
+        "Price": "29.52"
     },
     {
         "Symbol": "NXPI",
         "Name": "NXP Semiconductors",
         "Sector": "Information Technology",
-        "Price": "228.66"
+        "Price": "216.99"
     },
     {
         "Symbol": "O",
         "Name": "Realty Income",
         "Sector": "Real Estate",
-        "Price": "57.75"
+        "Price": "56.06"
     },
     {
         "Symbol": "ODFL",
         "Name": "Old Dominion",
         "Sector": "Industrials",
-        "Price": "225.97"
+        "Price": "202.97"
     },
     {
         "Symbol": "OKE",
         "Name": "ONEOK",
         "Sector": "Energy",
-        "Price": "113.45"
+        "Price": "110.12"
     },
     {
         "Symbol": "OMC",
         "Name": "Omnicom Group",
         "Sector": "Communication Services",
-        "Price": "104.63"
+        "Price": "103.14"
     },
     {
         "Symbol": "ON",
         "Name": "ON Semiconductor",
         "Sector": "Information Technology",
-        "Price": "70.82"
+        "Price": "65.74"
     },
     {
         "Symbol": "ORCL",
         "Name": "Oracle Corporation",
         "Sector": "Information Technology",
-        "Price": "190.37"
+        "Price": "186.24"
     },
     {
         "Symbol": "ORLY",
         "Name": "O'Reilly Auto Parts",
         "Sector": "Consumer Discretionary",
-        "Price": "1244.22"
+        "Price": "1234.81"
     },
     {
         "Symbol": "OTIS",
         "Name": "Otis Worldwide",
         "Sector": "Industrials",
-        "Price": "101.97"
+        "Price": "99.12"
     },
     {
         "Symbol": "OXY",
         "Name": "Occidental Petroleum",
         "Sector": "Energy",
-        "Price": "49.85"
+        "Price": "48.48"
     },
     {
         "Symbol": "PANW",
         "Name": "Palo Alto Networks",
         "Sector": "Information Technology",
-        "Price": "396.40"
+        "Price": "403.03"
     },
     {
         "Symbol": "PARA",
         "Name": "Paramount Global",
         "Sector": "Communication Services",
-        "Price": "10.64"
+        "Price": "10.81"
     },
     {
         "Symbol": "PAYC",
         "Name": "Paycom",
         "Sector": "Industrials",
-        "Price": "236.24"
+        "Price": "231.81"
     },
     {
         "Symbol": "PAYX",
         "Name": "Paychex",
         "Sector": "Industrials",
-        "Price": "146.19"
+        "Price": "142.40"
     },
     {
         "Symbol": "PCAR",
         "Name": "Paccar",
         "Sector": "Industrials",
-        "Price": "115.82"
+        "Price": "117.62"
     },
     {
         "Symbol": "PCG",
         "Name": "PG&E Corporation",
         "Sector": "Utilities",
-        "Price": "21.51"
+        "Price": "20.39"
     },
     {
         "Symbol": "PEG",
         "Name": "Public Service Enterprise Group",
         "Sector": "Utilities",
-        "Price": "94.51"
+        "Price": "91.52"
     },
     {
         "Symbol": "PEP",
         "Name": "PepsiCo",
         "Sector": "Consumer Staples",
-        "Price": "162.16"
+        "Price": "160.49"
     },
     {
         "Symbol": "PFE",
         "Name": "Pfizer",
         "Sector": "Health Care",
-        "Price": "25.77"
+        "Price": "25.70"
     },
     {
         "Symbol": "PFG",
         "Name": "Principal Financial Group",
         "Sector": "Financials",
-        "Price": "86.79"
+        "Price": "83.75"
     },
     {
         "Symbol": "PG",
         "Name": "Procter & Gamble",
         "Sector": "Consumer Staples",
-        "Price": "179.31"
+        "Price": "176.03"
     },
     {
         "Symbol": "PGR",
         "Name": "Progressive Corporation",
         "Sector": "Financials",
-        "Price": "268.02"
+        "Price": "261.29"
     },
     {
         "Symbol": "PH",
         "Name": "Parker Hannifin",
         "Sector": "Industrials",
-        "Price": "706.85"
+        "Price": "694.71"
     },
     {
         "Symbol": "PHM",
         "Name": "PulteGroup",
         "Sector": "Consumer Discretionary",
-        "Price": "135.60"
+        "Price": "127.87"
     },
     {
         "Symbol": "PKG",
         "Name": "Packaging Corporation of America",
         "Sector": "Materials",
-        "Price": "248.03"
+        "Price": "244.34"
     },
     {
         "Symbol": "PLD",
         "Name": "Prologis",
         "Sector": "Real Estate",
-        "Price": "116.17"
+        "Price": "113.79"
     },
     {
         "Symbol": "PLTR",
         "Name": "Palantir Technologies",
         "Sector": "Information Technology",
-        "Price": "65.74"
+        "Price": "71.87"
     },
     {
         "Symbol": "PM",
         "Name": "Philip Morris International",
         "Sector": "Consumer Staples",
-        "Price": "132.28"
+        "Price": "132.49"
     },
     {
         "Symbol": "PNC",
         "Name": "PNC Financial Services",
         "Sector": "Financials",
-        "Price": "214.20"
+        "Price": "208.83"
     },
     {
         "Symbol": "PNR",
         "Name": "Pentair",
         "Sector": "Industrials",
-        "Price": "109.11"
+        "Price": "108.06"
     },
     {
         "Symbol": "PNW",
         "Name": "Pinnacle West",
         "Sector": "Utilities",
-        "Price": "93.80"
+        "Price": "92.45"
     },
     {
         "Symbol": "PODD",
         "Name": "Insulet Corporation",
         "Sector": "Health Care",
-        "Price": "266.42"
+        "Price": "267.58"
     },
     {
         "Symbol": "POOL",
         "Name": "Pool Corporation",
         "Sector": "Consumer Discretionary",
-        "Price": "378.54"
+        "Price": "374.35"
     },
     {
         "Symbol": "PPG",
         "Name": "PPG Industries",
         "Sector": "Materials",
-        "Price": "123.35"
+        "Price": "125.50"
     },
     {
         "Symbol": "PPL",
         "Name": "PPL Corporation",
         "Sector": "Utilities",
-        "Price": "34.84"
+        "Price": "34.09"
     },
     {
         "Symbol": "PRU",
         "Name": "Prudential Financial",
         "Sector": "Financials",
-        "Price": "129.11"
+        "Price": "127.29"
     },
     {
         "Symbol": "PSA",
         "Name": "Public Storage",
         "Sector": "Real Estate",
-        "Price": "350.04"
+        "Price": "332.67"
     },
     {
         "Symbol": "PSX",
         "Name": "Phillips 66",
         "Sector": "Energy",
-        "Price": "134.25"
+        "Price": "129.83"
     },
     {
         "Symbol": "PTC",
         "Name": "PTC Inc.",
         "Sector": "Information Technology",
-        "Price": "199.26"
+        "Price": "200.86"
     },
     {
         "Symbol": "PWR",
         "Name": "Quanta Services",
         "Sector": "Industrials",
-        "Price": "346.60"
+        "Price": "334.97"
     },
     {
         "Symbol": "PYPL",
         "Name": "PayPal",
         "Sector": "Financials",
-        "Price": "86.94"
+        "Price": "89.04"
     },
     {
         "Symbol": "QCOM",
         "Name": "Qualcomm",
         "Sector": "Information Technology",
-        "Price": "156.93"
+        "Price": "160.39"
     },
     {
         "Symbol": "QRVO",
         "Name": "Qorvo",
         "Sector": "Information Technology",
-        "Price": "68.15"
+        "Price": "68.69"
     },
     {
         "Symbol": "RCL",
         "Name": "Royal Caribbean Group",
         "Sector": "Consumer Discretionary",
-        "Price": "244.50"
+        "Price": "251.14"
     },
     {
         "Symbol": "REG",
         "Name": "Regency Centers",
         "Sector": "Real Estate",
-        "Price": "75.00"
+        "Price": "74.31"
     },
     {
         "Symbol": "REGN",
         "Name": "Regeneron Pharmaceuticals",
         "Sector": "Health Care",
-        "Price": "753.03"
+        "Price": "767.90"
     },
     {
         "Symbol": "RF",
         "Name": "Regions Financial Corporation",
         "Sector": "Financials",
-        "Price": "27.31"
+        "Price": "26.29"
     },
     {
         "Symbol": "RJF",
         "Name": "Raymond James Financial",
         "Sector": "Financials",
-        "Price": "168.92"
+        "Price": "165.54"
     },
     {
         "Symbol": "RL",
         "Name": "Ralph Lauren Corporation",
         "Sector": "Consumer Discretionary",
-        "Price": "223.24"
+        "Price": "233.19"
     },
     {
         "Symbol": "RMD",
         "Name": "ResMed",
         "Sector": "Health Care",
-        "Price": "249.99"
+        "Price": "239.41"
     },
     {
         "Symbol": "ROK",
         "Name": "Rockwell Automation",
         "Sector": "Industrials",
-        "Price": "296.00"
+        "Price": "297.10"
     },
     {
         "Symbol": "ROL",
         "Name": "Rollins, Inc.",
         "Sector": "Industrials",
-        "Price": "51.59"
+        "Price": "48.85"
     },
     {
         "Symbol": "ROP",
         "Name": "Roper Technologies",
         "Sector": "Information Technology",
-        "Price": "561.89"
+        "Price": "557.90"
     },
     {
         "Symbol": "ROST",
         "Name": "Ross Stores",
         "Sector": "Consumer Discretionary",
-        "Price": "154.38"
+        "Price": "156.61"
     },
     {
         "Symbol": "RSG",
         "Name": "Republic Services",
         "Sector": "Industrials",
-        "Price": "218.75"
+        "Price": "215.48"
     },
     {
         "Symbol": "RTX",
         "Name": "RTX Corporation",
         "Sector": "Industrials",
-        "Price": "120.61"
+        "Price": "118.52"
     },
     {
         "Symbol": "RVTY",
         "Name": "Revvity",
         "Sector": "Health Care",
-        "Price": "115.07"
+        "Price": "115.09"
     },
     {
         "Symbol": "SBAC",
         "Name": "SBA Communications",
         "Sector": "Real Estate",
-        "Price": "226.59"
+        "Price": "221.58"
     },
     {
         "Symbol": "SBUX",
         "Name": "Starbucks",
         "Sector": "Consumer Discretionary",
-        "Price": "100.68"
+        "Price": "99.23"
     },
     {
         "Symbol": "SCHW",
         "Name": "Charles Schwab Corporation",
         "Sector": "Financials",
-        "Price": "82.25"
+        "Price": "81.81"
     },
     {
         "Symbol": "SHW",
         "Name": "Sherwin-Williams",
         "Sector": "Materials",
-        "Price": "396.14"
+        "Price": "385.24"
     },
     {
         "Symbol": "SJM",
         "Name": "J.M. Smucker Company (The)",
         "Sector": "Consumer Staples",
-        "Price": "120.09"
+        "Price": "116.67"
     },
     {
         "Symbol": "SLB",
         "Name": "Schlumberger",
         "Sector": "Energy",
-        "Price": "43.48"
+        "Price": "42.02"
     },
     {
         "Symbol": "SMCI",
         "Name": "Supermicro",
         "Sector": "Information Technology",
-        "Price": "34.43"
+        "Price": "41.14"
     },
     {
         "Symbol": "SNA",
         "Name": "Snap-on",
         "Sector": "Industrials",
-        "Price": "371.35"
+        "Price": "361.36"
     },
     {
         "Symbol": "SNPS",
         "Name": "Synopsys",
         "Sector": "Information Technology",
-        "Price": "553.95"
+        "Price": "515.29"
     },
     {
         "Symbol": "SO",
         "Name": "Southern Company",
         "Sector": "Utilities",
-        "Price": "89.33"
+        "Price": "86.19"
     },
     {
         "Symbol": "SOLV",
         "Name": "Solventum",
         "Sector": "Health Care",
-        "Price": "71.49"
+        "Price": "69.57"
     },
     {
         "Symbol": "SPG",
         "Name": "Simon Property Group",
         "Sector": "Real Estate",
-        "Price": "183.46"
+        "Price": "181.88"
     },
     {
         "Symbol": "SPGI",
         "Name": "S&P Global",
         "Sector": "Financials",
-        "Price": "521.96"
+        "Price": "513.89"
     },
     {
         "Symbol": "SRE",
         "Name": "Sempra",
         "Sector": "Utilities",
-        "Price": "93.29"
+        "Price": "90.94"
     },
     {
         "Symbol": "STE",
         "Name": "Steris",
         "Sector": "Health Care",
-        "Price": "216.06"
+        "Price": "217.43"
     },
     {
         "Symbol": "STLD",
         "Name": "Steel Dynamics",
         "Sector": "Materials",
-        "Price": "143.63"
+        "Price": "138.70"
     },
     {
         "Symbol": "STT",
         "Name": "State Street Corporation",
         "Sector": "Financials",
-        "Price": "98.81"
+        "Price": "98.60"
     },
     {
         "Symbol": "STX",
         "Name": "Seagate Technology",
         "Sector": "Information Technology",
-        "Price": "101.66"
+        "Price": "98.18"
     },
     {
         "Symbol": "STZ",
         "Name": "Constellation Brands",
         "Sector": "Consumer Staples",
-        "Price": "233.60"
+        "Price": "239.50"
     },
     {
         "Symbol": "SW",
         "Name": "Smurfit WestRock",
         "Sector": "Materials",
-        "Price": "55.53"
+        "Price": "54.77"
     },
     {
         "Symbol": "SWK",
         "Name": "Stanley Black & Decker",
         "Sector": "Industrials",
-        "Price": "89.54"
+        "Price": "84.93"
     },
     {
         "Symbol": "SWKS",
         "Name": "Skyworks Solutions",
         "Sector": "Information Technology",
-        "Price": "86.28"
+        "Price": "86.42"
     },
     {
         "Symbol": "SYF",
         "Name": "Synchrony Financial",
         "Sector": "Financials",
-        "Price": "67.26"
+        "Price": "66.92"
     },
     {
         "Symbol": "SYK",
         "Name": "Stryker Corporation",
         "Sector": "Health Care",
-        "Price": "389.71"
+        "Price": "382.45"
     },
     {
         "Symbol": "SYY",
         "Name": "Sysco",
         "Sector": "Consumer Staples",
-        "Price": "76.39"
+        "Price": "81.77"
     },
     {
         "Symbol": "T",
         "Name": "AT&T",
         "Sector": "Communication Services",
-        "Price": "23.09"
+        "Price": "23.83"
     },
     {
         "Symbol": "TAP",
         "Name": "Molson Coors Beverage Company",
         "Sector": "Consumer Staples",
-        "Price": "61.41"
+        "Price": "61.40"
     },
     {
         "Symbol": "TDG",
         "Name": "TransDigm Group",
         "Sector": "Industrials",
-        "Price": "1262.61"
+        "Price": "1292.86"
     },
     {
         "Symbol": "TDY",
         "Name": "Teledyne Technologies",
         "Sector": "Information Technology",
-        "Price": "479.03"
+        "Price": "476.72"
     },
     {
         "Symbol": "TECH",
         "Name": "Bio-Techne",
         "Sector": "Health Care",
-        "Price": "74.87"
+        "Price": "73.89"
     },
     {
         "Symbol": "TEL",
         "Name": "TE Connectivity",
         "Sector": "Information Technology",
-        "Price": "149.86"
+        "Price": "152.43"
     },
     {
         "Symbol": "TER",
         "Name": "Teradyne",
         "Sector": "Information Technology",
-        "Price": "109.06"
+        "Price": "113.72"
     },
     {
         "Symbol": "TFC",
         "Name": "Truist Financial",
         "Sector": "Financials",
-        "Price": "47.70"
+        "Price": "47.17"
     },
     {
         "Symbol": "TFX",
         "Name": "Teleflex",
         "Sector": "Health Care",
-        "Price": "191.01"
+        "Price": "186.47"
     },
     {
         "Symbol": "TGT",
         "Name": "Target Corporation",
         "Sector": "Consumer Staples",
-        "Price": "126.55"
+        "Price": "129.17"
     },
     {
         "Symbol": "TJX",
         "Name": "TJX Companies",
         "Sector": "Consumer Discretionary",
-        "Price": "126.20"
+        "Price": "125.92"
     },
     {
         "Symbol": "TMO",
         "Name": "Thermo Fisher Scientific",
         "Sector": "Health Care",
-        "Price": "512.98"
+        "Price": "520.86"
     },
     {
         "Symbol": "TMUS",
         "Name": "T-Mobile US",
         "Sector": "Communication Services",
-        "Price": "244.92"
+        "Price": "243.94"
     },
     {
         "Symbol": "TPL",
         "Name": "Texas Pacific Land Corporation",
         "Sector": "Energy",
-        "Price": "1571.77"
+        "Price": "1346.64"
     },
     {
         "Symbol": "TPR",
         "Name": "Tapestry, Inc.",
         "Sector": "Consumer Discretionary",
-        "Price": "61.06"
+        "Price": "63.57"
     },
     {
         "Symbol": "TRGP",
         "Name": "Targa Resources",
         "Sector": "Energy",
-        "Price": "203.41"
+        "Price": "198.33"
     },
     {
         "Symbol": "TRMB",
         "Name": "Trimble Inc.",
         "Sector": "Information Technology",
-        "Price": "72.37"
+        "Price": "75.40"
     },
     {
         "Symbol": "TROW",
         "Name": "T. Rowe Price",
         "Sector": "Financials",
-        "Price": "123.95"
+        "Price": "124.69"
     },
     {
         "Symbol": "TRV",
         "Name": "Travelers Companies (The)",
         "Sector": "Financials",
-        "Price": "263.77"
+        "Price": "263.26"
     },
     {
         "Symbol": "TSCO",
         "Name": "Tractor Supply",
         "Sector": "Consumer Discretionary",
-        "Price": "280.19"
+        "Price": "282.47"
     },
     {
         "Symbol": "TSLA",
         "Name": "Tesla, Inc.",
         "Sector": "Consumer Discretionary",
-        "Price": "338.23"
+        "Price": "369.49"
     },
     {
         "Symbol": "TSN",
         "Name": "Tyson Foods",
         "Sector": "Consumer Staples",
-        "Price": "63.81"
+        "Price": "63.70"
     },
     {
         "Symbol": "TT",
         "Name": "Trane Technologies",
         "Sector": "Industrials",
-        "Price": "419.14"
+        "Price": "415.06"
     },
     {
         "Symbol": "TTWO",
         "Name": "Take-Two Interactive",
         "Sector": "Communication Services",
-        "Price": "187.85"
+        "Price": "190.03"
     },
     {
         "Symbol": "TXN",
         "Name": "Texas Instruments",
         "Sector": "Information Technology",
-        "Price": "200.95"
+        "Price": "192.99"
     },
     {
         "Symbol": "TXT",
         "Name": "Textron",
         "Sector": "Industrials",
-        "Price": "85.13"
+        "Price": "83.11"
     },
     {
         "Symbol": "TYL",
         "Name": "Tyler Technologies",
         "Sector": "Information Technology",
-        "Price": "635.19"
+        "Price": "630.73"
     },
     {
         "Symbol": "UAL",
         "Name": "United Airlines Holdings",
         "Sector": "Industrials",
-        "Price": "96.51"
+        "Price": "102.44"
     },
     {
         "Symbol": "UBER",
         "Name": "Uber",
         "Sector": "Industrials",
-        "Price": "71.56"
+        "Price": "65.23"
     },
     {
         "Symbol": "UDR",
         "Name": "UDR, Inc.",
         "Sector": "Real Estate",
-        "Price": "45.94"
+        "Price": "44.73"
     },
     {
         "Symbol": "UHS",
         "Name": "Universal Health Services",
         "Sector": "Health Care",
-        "Price": "206.09"
+        "Price": "196.05"
     },
     {
         "Symbol": "ULTA",
         "Name": "Ulta Beauty",
         "Sector": "Consumer Discretionary",
-        "Price": "360.47"
+        "Price": "392.87"
     },
     {
         "Symbol": "UNH",
         "Name": "UnitedHealth Group",
         "Sector": "Health Care",
-        "Price": "606.79"
+        "Price": "578.97"
     },
     {
         "Symbol": "UNP",
         "Name": "Union Pacific Corporation",
         "Sector": "Industrials",
-        "Price": "245.63"
+        "Price": "234.63"
     },
     {
         "Symbol": "UPS",
         "Name": "United Parcel Service",
         "Sector": "Industrials",
-        "Price": "134.96"
+        "Price": "127.59"
     },
     {
         "Symbol": "URI",
         "Name": "United Rentals",
         "Sector": "Industrials",
-        "Price": "873.17"
+        "Price": "854.99"
     },
     {
         "Symbol": "USB",
         "Name": "U.S. Bancorp",
         "Sector": "Financials",
-        "Price": "53.66"
+        "Price": "52.12"
     },
     {
         "Symbol": "V",
         "Name": "Visa Inc.",
         "Sector": "Financials",
-        "Price": "311.82"
+        "Price": "309.08"
     },
     {
         "Symbol": "VICI",
         "Name": "Vici Properties",
         "Sector": "Real Estate",
-        "Price": "32.38"
+        "Price": "31.65"
     },
     {
         "Symbol": "VLO",
         "Name": "Valero Energy",
         "Sector": "Energy",
-        "Price": "139.80"
+        "Price": "133.05"
     },
     {
         "Symbol": "VLTO",
         "Name": "Veralto",
         "Sector": "Industrials",
-        "Price": "107.96"
+        "Price": "105.29"
     },
     {
         "Symbol": "VMC",
         "Name": "Vulcan Materials Company",
         "Sector": "Materials",
-        "Price": "288.40"
+        "Price": "287.63"
     },
     {
         "Symbol": "VRSK",
         "Name": "Verisk Analytics",
         "Sector": "Industrials",
-        "Price": "294.75"
+        "Price": "288.90"
     },
     {
         "Symbol": "VRSN",
         "Name": "Verisign",
         "Sector": "Information Technology",
-        "Price": "185.16"
+        "Price": "188.96"
     },
     {
         "Symbol": "VRTX",
         "Name": "Vertex Pharmaceuticals",
         "Sector": "Health Care",
-        "Price": "467.07"
+        "Price": "459.92"
     },
     {
         "Symbol": "VST",
         "Name": "Vistra Corp.",
         "Sector": "Utilities",
-        "Price": "162.66"
+        "Price": "160.88"
     },
     {
         "Symbol": "VTR",
         "Name": "Ventas",
         "Sector": "Real Estate",
-        "Price": "64.25"
+        "Price": "62.13"
     },
     {
         "Symbol": "VTRS",
         "Name": "Viatris",
         "Sector": "Health Care",
-        "Price": "13.08"
+        "Price": "12.89"
     },
     {
         "Symbol": "VZ",
         "Name": "Verizon",
         "Sector": "Communication Services",
-        "Price": "44.37"
+        "Price": "42.55"
     },
     {
         "Symbol": "WAB",
         "Name": "Wabtec",
         "Sector": "Industrials",
-        "Price": "201.71"
+        "Price": "202.93"
     },
     {
         "Symbol": "WAT",
         "Name": "Waters Corporation",
         "Sector": "Health Care",
-        "Price": "388.15"
+        "Price": "381.33"
     },
     {
         "Symbol": "WBA",
         "Name": "Walgreens Boots Alliance",
         "Sector": "Consumer Staples",
-        "Price": "8.73"
+        "Price": "8.47"
     },
     {
         "Symbol": "WBD",
         "Name": "Warner Bros. Discovery",
         "Sector": "Communication Services",
-        "Price": "10.11"
+        "Price": "10.68"
     },
     {
         "Symbol": "WDC",
         "Name": "Western Digital",
         "Sector": "Information Technology",
-        "Price": "73.02"
+        "Price": "72.11"
     },
     {
         "Symbol": "WEC",
         "Name": "WEC Energy Group",
         "Sector": "Utilities",
-        "Price": "101.55"
+        "Price": "97.72"
     },
     {
         "Symbol": "WELL",
         "Name": "Welltower",
         "Sector": "Real Estate",
-        "Price": "138.96"
+        "Price": "132.61"
     },
     {
         "Symbol": "WFC",
         "Name": "Wells Fargo",
         "Sector": "Financials",
-        "Price": "77.35"
+        "Price": "73.66"
     },
     {
         "Symbol": "WM",
         "Name": "Waste Management",
         "Sector": "Industrials",
-        "Price": "227.45"
+        "Price": "224.05"
     },
     {
         "Symbol": "WMB",
         "Name": "Williams Companies",
         "Sector": "Energy",
-        "Price": "58.37"
+        "Price": "57.16"
     },
     {
         "Symbol": "WMT",
         "Name": "Walmart",
         "Sector": "Consumer Staples",
-        "Price": "91.31"
+        "Price": "95.30"
     },
     {
         "Symbol": "WRB",
         "Name": "W. R. Berkley Corporation",
         "Sector": "Financials",
-        "Price": "64.33"
+        "Price": "63.61"
     },
     {
         "Symbol": "WST",
         "Name": "West Pharmaceutical Services",
         "Sector": "Health Care",
-        "Price": "319.35"
+        "Price": "318.20"
     },
     {
         "Symbol": "WTW",
         "Name": "Willis Towers Watson",
         "Sector": "Financials",
-        "Price": "316.65"
+        "Price": "330.00"
     },
     {
         "Symbol": "WY",
         "Name": "Weyerhaeuser",
         "Sector": "Real Estate",
-        "Price": "31.91"
+        "Price": "30.96"
     },
     {
         "Symbol": "WYNN",
         "Name": "Wynn Resorts",
         "Sector": "Consumer Discretionary",
-        "Price": "91.86"
+        "Price": "94.40"
     },
     {
         "Symbol": "XEL",
         "Name": "Xcel Energy",
         "Sector": "Utilities",
-        "Price": "71.87"
+        "Price": "70.86"
     },
     {
         "Symbol": "XOM",
         "Name": "ExxonMobil",
         "Sector": "Energy",
-        "Price": "117.97"
+        "Price": "114.78"
     },
     {
         "Symbol": "XYL",
         "Name": "Xylem Inc.",
         "Sector": "Industrials",
-        "Price": "124.54"
+        "Price": "126.23"
     },
     {
         "Symbol": "YUM",
         "Name": "Yum! Brands",
         "Sector": "Consumer Discretionary",
-        "Price": "138.63"
+        "Price": "138.13"
     },
     {
         "Symbol": "ZBH",
         "Name": "Zimmer Biomet",
         "Sector": "Health Care",
-        "Price": "110.64"
+        "Price": "109.16"
     },
     {
         "Symbol": "ZBRA",
         "Name": "Zebra Technologies",
         "Sector": "Information Technology",
-        "Price": "402.45"
+        "Price": "404.98"
     },
     {
         "Symbol": "ZTS",
         "Name": "Zoetis",
         "Sector": "Health Care",
-        "Price": "175.70"
+        "Price": "174.77"
     }
 ]

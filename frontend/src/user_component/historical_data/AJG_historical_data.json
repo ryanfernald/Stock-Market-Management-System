@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "AJG",
-        "price": 250.01,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "AJG",
-        "price": 244.5,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "AJG",
-        "price": 242.8,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "AJG",
-        "price": 247.3,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "AJG",
-        "price": 246.3,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "AJG",
-        "price": 245.86,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "AJG",
-        "price": 243.11,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "AJG",
         "price": 240.84,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "AJG",
         "price": 312.96,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "AJG",
+        "price": 315.16,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "AJG",
+        "price": 312.24,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "AJG",
+        "price": 307.96,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "AJG",
+        "price": 309.81,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "AJG",
+        "price": 307.26,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "AJG",
+        "price": 303.58,
+        "time_posted": "2024-12-05"
     }
 ]

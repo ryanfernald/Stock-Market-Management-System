@@ -228,5 +228,35 @@
         "ticker_symbol": "AMTM",
         "price": 24.61,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "AMTM",
+        "price": 23.9,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "AMTM",
+        "price": 24.35,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "AMTM",
+        "price": 23.86,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "AMTM",
+        "price": 24.27,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "AMTM",
+        "price": 23.91,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "AMTM",
+        "price": 23.0,
+        "time_posted": "2024-12-05"
     }
 ]

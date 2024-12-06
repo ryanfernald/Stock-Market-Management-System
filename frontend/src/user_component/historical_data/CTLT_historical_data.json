@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "CTLT",
-        "price": 39.11,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "CTLT",
-        "price": 39.46,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "CTLT",
-        "price": 39.57,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "CTLT",
-        "price": 38.85,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "CTLT",
-        "price": 40.15,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "CTLT",
-        "price": 39.97,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "CTLT",
-        "price": 38.91,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "CTLT",
         "price": 37.95,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "CTLT",
         "price": 60.75,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "CTLT",
+        "price": 61.0,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "CTLT",
+        "price": 61.11,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "CTLT",
+        "price": 61.43,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "CTLT",
+        "price": 61.7,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "CTLT",
+        "price": 61.84,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "CTLT",
+        "price": 62.12,
+        "time_posted": "2024-12-05"
     }
 ]

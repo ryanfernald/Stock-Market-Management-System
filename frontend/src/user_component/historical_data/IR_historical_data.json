@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "IR",
-        "price": 70.72,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "IR",
-        "price": 69.6,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "IR",
-        "price": 69.54,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "IR",
-        "price": 71.37,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "IR",
-        "price": 72.18,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "IR",
-        "price": 71.96,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "IR",
-        "price": 71.9,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "IR",
         "price": 71.32,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "IR",
         "price": 104.74,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "IR",
+        "price": 104.05,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "IR",
+        "price": 104.17,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "IR",
+        "price": 105.12,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "IR",
+        "price": 104.24,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "IR",
+        "price": 103.95,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "IR",
+        "price": 102.96,
+        "time_posted": "2024-12-05"
     }
 ]

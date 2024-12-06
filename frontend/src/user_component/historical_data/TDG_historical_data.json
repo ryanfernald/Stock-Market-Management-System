@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "TDG",
-        "price": 924.97,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "TDG",
-        "price": 905.65,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "TDG",
-        "price": 902.46,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "TDG",
-        "price": 911.98,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "TDG",
-        "price": 918.99,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "TDG",
-        "price": 916.25,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "TDG",
-        "price": 905.01,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "TDG",
         "price": 912.59,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "TDG",
         "price": 1262.61,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "TDG",
+        "price": 1249.33,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "TDG",
+        "price": 1252.97,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "TDG",
+        "price": 1260.47,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "TDG",
+        "price": 1258.71,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "TDG",
+        "price": 1307.81,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "TDG",
+        "price": 1292.86,
+        "time_posted": "2024-12-05"
     }
 ]

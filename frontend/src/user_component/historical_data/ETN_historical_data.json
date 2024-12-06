@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "ETN",
-        "price": 225.99,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "ETN",
-        "price": 221.85,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "ETN",
-        "price": 223.04,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "ETN",
-        "price": 224.91,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "ETN",
-        "price": 227.65,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "ETN",
-        "price": 225.41,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "ETN",
-        "price": 222.85,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "ETN",
         "price": 224.15,
         "time_posted": "2023-12-06"
     },
@@ -376,7 +341,7 @@
     },
     {
         "ticker_symbol": "ETN",
-        "price": 295.19,
+        "price": 295.18,
         "time_posted": "2024-03-15"
     },
     {
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "ETN",
         "price": 377.29,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "ETN",
+        "price": 371.98,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "ETN",
+        "price": 375.42,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "ETN",
+        "price": 372.22,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "ETN",
+        "price": 373.75,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "ETN",
+        "price": 377.52,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "ETN",
+        "price": 371.05,
+        "time_posted": "2024-12-05"
     }
 ]

@@ -1,1267 +1,1262 @@
 [
     {
         "ticker_symbol": "ALL",
-        "price": 134.37,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "ALL",
-        "price": 133.35,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "ALL",
-        "price": 133.3,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "ALL",
-        "price": 135.64,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "ALL",
-        "price": 135.46,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "ALL",
-        "price": 136.4,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "ALL",
-        "price": 136.44,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "ALL",
-        "price": 136.25,
+        "price": 135.65,
         "time_posted": "2023-12-06"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 136.78,
+        "price": 136.17,
         "time_posted": "2023-12-07"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 137.07,
+        "price": 136.47,
         "time_posted": "2023-12-08"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 140.76,
+        "price": 140.14,
         "time_posted": "2023-12-11"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 142.03,
+        "price": 141.4,
         "time_posted": "2023-12-12"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 142.02,
+        "price": 141.39,
         "time_posted": "2023-12-13"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 136.99,
+        "price": 136.39,
         "time_posted": "2023-12-14"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 136.82,
+        "price": 136.21,
         "time_posted": "2023-12-15"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 136.51,
+        "price": 135.91,
         "time_posted": "2023-12-18"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 136.02,
+        "price": 135.42,
         "time_posted": "2023-12-19"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 133.43,
+        "price": 132.84,
         "time_posted": "2023-12-20"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 133.21,
+        "price": 132.63,
         "time_posted": "2023-12-21"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 135.18,
+        "price": 134.58,
         "time_posted": "2023-12-22"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 135.85,
+        "price": 135.25,
         "time_posted": "2023-12-26"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 136.16,
+        "price": 135.55,
         "time_posted": "2023-12-27"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 137.56,
+        "price": 136.96,
         "time_posted": "2023-12-28"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 137.72,
+        "price": 137.11,
         "time_posted": "2023-12-29"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 141.49,
+        "price": 140.86,
         "time_posted": "2024-01-02"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 142.66,
+        "price": 142.03,
         "time_posted": "2024-01-03"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 146.1,
+        "price": 145.46,
         "time_posted": "2024-01-04"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 147.56,
+        "price": 146.91,
         "time_posted": "2024-01-05"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 146.97,
+        "price": 146.32,
         "time_posted": "2024-01-08"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 148.54,
+        "price": 147.89,
         "time_posted": "2024-01-09"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 147.88,
+        "price": 147.23,
         "time_posted": "2024-01-10"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 147.94,
+        "price": 147.29,
         "time_posted": "2024-01-11"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 148.59,
+        "price": 147.94,
         "time_posted": "2024-01-12"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 149.05,
+        "price": 148.4,
         "time_posted": "2024-01-16"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 150.09,
+        "price": 149.42,
         "time_posted": "2024-01-17"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 150.45,
+        "price": 149.79,
         "time_posted": "2024-01-18"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 152.38,
+        "price": 151.71,
         "time_posted": "2024-01-19"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 152.88,
+        "price": 152.21,
         "time_posted": "2024-01-22"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 151.62,
+        "price": 150.95,
         "time_posted": "2024-01-23"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 154.88,
+        "price": 154.19,
         "time_posted": "2024-01-24"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 156.49,
+        "price": 155.8,
         "time_posted": "2024-01-25"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 155.81,
+        "price": 155.13,
         "time_posted": "2024-01-26"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 153.54,
+        "price": 152.86,
         "time_posted": "2024-01-29"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 153.96,
+        "price": 153.28,
         "time_posted": "2024-01-30"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 152.74,
+        "price": 152.07,
         "time_posted": "2024-01-31"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 153.67,
+        "price": 152.99,
         "time_posted": "2024-02-01"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 154.83,
+        "price": 154.15,
         "time_posted": "2024-02-02"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 154.3,
+        "price": 153.62,
         "time_posted": "2024-02-05"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 154.81,
+        "price": 154.13,
         "time_posted": "2024-02-06"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 156.04,
+        "price": 155.35,
         "time_posted": "2024-02-07"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 159.14,
+        "price": 158.44,
         "time_posted": "2024-02-08"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 157.45,
+        "price": 156.75,
         "time_posted": "2024-02-09"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 156.75,
+        "price": 156.06,
         "time_posted": "2024-02-12"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 156.02,
+        "price": 155.33,
         "time_posted": "2024-02-13"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 158.79,
+        "price": 158.08,
         "time_posted": "2024-02-14"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 159.28,
+        "price": 158.57,
         "time_posted": "2024-02-15"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 159.17,
+        "price": 158.47,
         "time_posted": "2024-02-16"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 157.14,
+        "price": 156.45,
         "time_posted": "2024-02-20"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 156.6,
+        "price": 155.91,
         "time_posted": "2024-02-21"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 157.6,
+        "price": 156.91,
         "time_posted": "2024-02-22"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 156.56,
+        "price": 155.87,
         "time_posted": "2024-02-23"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 157.22,
+        "price": 156.53,
         "time_posted": "2024-02-26"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 156.96,
+        "price": 156.27,
         "time_posted": "2024-02-27"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 158.0,
+        "price": 157.3,
         "time_posted": "2024-02-28"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 156.95,
+        "price": 156.25,
         "time_posted": "2024-02-29"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 153.53,
+        "price": 152.85,
         "time_posted": "2024-03-01"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 154.75,
+        "price": 154.06,
         "time_posted": "2024-03-04"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 155.13,
+        "price": 154.45,
         "time_posted": "2024-03-05"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 155.4,
+        "price": 154.71,
         "time_posted": "2024-03-06"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 155.01,
+        "price": 154.32,
         "time_posted": "2024-03-07"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 155.28,
+        "price": 154.6,
         "time_posted": "2024-03-08"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 158.27,
+        "price": 157.57,
         "time_posted": "2024-03-11"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 157.93,
+        "price": 157.24,
         "time_posted": "2024-03-12"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 158.41,
+        "price": 157.71,
         "time_posted": "2024-03-13"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 157.72,
+        "price": 157.02,
         "time_posted": "2024-03-14"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 160.51,
+        "price": 159.8,
         "time_posted": "2024-03-15"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 161.31,
+        "price": 160.6,
         "time_posted": "2024-03-18"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 160.67,
+        "price": 159.96,
         "time_posted": "2024-03-19"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 159.49,
+        "price": 158.78,
         "time_posted": "2024-03-20"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 160.48,
+        "price": 159.77,
         "time_posted": "2024-03-21"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 163.53,
+        "price": 162.8,
         "time_posted": "2024-03-22"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 167.21,
+        "price": 166.47,
         "time_posted": "2024-03-25"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 169.03,
+        "price": 168.28,
         "time_posted": "2024-03-26"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 168.07,
+        "price": 167.33,
         "time_posted": "2024-03-27"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 171.2,
+        "price": 170.45,
         "time_posted": "2024-03-28"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 170.77,
+        "price": 170.01,
         "time_posted": "2024-04-01"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 170.74,
+        "price": 169.99,
         "time_posted": "2024-04-02"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 171.61,
+        "price": 170.85,
         "time_posted": "2024-04-03"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 169.44,
+        "price": 168.69,
         "time_posted": "2024-04-04"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 171.02,
+        "price": 170.26,
         "time_posted": "2024-04-05"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 170.56,
+        "price": 169.81,
         "time_posted": "2024-04-08"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 166.57,
+        "price": 165.84,
         "time_posted": "2024-04-09"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 167.98,
+        "price": 167.24,
         "time_posted": "2024-04-10"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 163.88,
+        "price": 163.16,
         "time_posted": "2024-04-11"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 165.07,
+        "price": 164.34,
         "time_posted": "2024-04-12"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 164.03,
+        "price": 163.31,
         "time_posted": "2024-04-15"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 162.5,
+        "price": 161.78,
         "time_posted": "2024-04-16"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 161.22,
+        "price": 160.51,
         "time_posted": "2024-04-17"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 167.35,
+        "price": 166.61,
         "time_posted": "2024-04-18"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 171.16,
+        "price": 170.4,
         "time_posted": "2024-04-19"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 173.58,
+        "price": 172.81,
         "time_posted": "2024-04-22"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 173.45,
+        "price": 172.68,
         "time_posted": "2024-04-23"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 170.47,
+        "price": 169.72,
         "time_posted": "2024-04-24"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 170.54,
+        "price": 169.79,
         "time_posted": "2024-04-25"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 168.3,
+        "price": 167.55,
         "time_posted": "2024-04-26"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 167.81,
+        "price": 167.07,
         "time_posted": "2024-04-29"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 168.29,
+        "price": 167.54,
         "time_posted": "2024-04-30"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 169.77,
+        "price": 169.02,
         "time_posted": "2024-05-01"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 167.41,
+        "price": 166.68,
         "time_posted": "2024-05-02"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 166.43,
+        "price": 165.69,
         "time_posted": "2024-05-03"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 168.31,
+        "price": 167.56,
         "time_posted": "2024-05-06"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 166.44,
+        "price": 165.7,
         "time_posted": "2024-05-07"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 168.5,
+        "price": 167.76,
         "time_posted": "2024-05-08"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 169.67,
+        "price": 168.92,
         "time_posted": "2024-05-09"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 170.91,
+        "price": 170.15,
         "time_posted": "2024-05-10"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 168.11,
+        "price": 167.36,
         "time_posted": "2024-05-13"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 167.32,
+        "price": 166.58,
         "time_posted": "2024-05-14"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 164.54,
+        "price": 163.81,
         "time_posted": "2024-05-15"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 167.32,
+        "price": 166.58,
         "time_posted": "2024-05-16"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 167.74,
+        "price": 167.0,
         "time_posted": "2024-05-17"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 166.11,
+        "price": 165.37,
         "time_posted": "2024-05-20"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 166.44,
+        "price": 165.7,
         "time_posted": "2024-05-21"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 164.44,
+        "price": 163.71,
         "time_posted": "2024-05-22"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 162.29,
+        "price": 161.57,
         "time_posted": "2024-05-23"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 163.12,
+        "price": 162.4,
         "time_posted": "2024-05-24"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 162.95,
+        "price": 162.23,
         "time_posted": "2024-05-28"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 161.79,
+        "price": 161.08,
         "time_posted": "2024-05-29"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 163.26,
+        "price": 162.54,
         "time_posted": "2024-05-30"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 166.7,
+        "price": 165.97,
         "time_posted": "2024-05-31"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 163.32,
+        "price": 162.6,
         "time_posted": "2024-06-03"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 162.62,
+        "price": 161.9,
         "time_posted": "2024-06-04"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 162.5,
+        "price": 161.78,
         "time_posted": "2024-06-05"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 162.32,
+        "price": 161.61,
         "time_posted": "2024-06-06"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 164.25,
+        "price": 163.53,
         "time_posted": "2024-06-07"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 163.01,
+        "price": 162.29,
         "time_posted": "2024-06-10"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 160.81,
+        "price": 160.1,
         "time_posted": "2024-06-11"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 159.85,
+        "price": 159.14,
         "time_posted": "2024-06-12"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 160.04,
+        "price": 159.34,
         "time_posted": "2024-06-13"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 156.3,
+        "price": 155.61,
         "time_posted": "2024-06-14"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 157.96,
+        "price": 157.27,
         "time_posted": "2024-06-17"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 159.28,
+        "price": 158.57,
         "time_posted": "2024-06-18"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 161.8,
+        "price": 161.08,
         "time_posted": "2024-06-20"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 159.73,
+        "price": 159.02,
         "time_posted": "2024-06-21"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 161.62,
+        "price": 160.9,
         "time_posted": "2024-06-24"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 160.55,
+        "price": 159.84,
         "time_posted": "2024-06-25"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 157.59,
+        "price": 156.89,
         "time_posted": "2024-06-26"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 159.23,
+        "price": 158.52,
         "time_posted": "2024-06-27"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 158.88,
+        "price": 158.18,
         "time_posted": "2024-06-28"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 159.76,
+        "price": 159.05,
         "time_posted": "2024-07-01"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 159.4,
+        "price": 158.69,
         "time_posted": "2024-07-02"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 158.66,
+        "price": 157.96,
         "time_posted": "2024-07-03"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 157.66,
+        "price": 156.96,
         "time_posted": "2024-07-05"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 158.76,
+        "price": 158.06,
         "time_posted": "2024-07-08"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 157.94,
+        "price": 157.25,
         "time_posted": "2024-07-09"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 159.19,
+        "price": 158.49,
         "time_posted": "2024-07-10"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 161.25,
+        "price": 160.54,
         "time_posted": "2024-07-11"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 162.89,
+        "price": 162.17,
         "time_posted": "2024-07-12"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 166.09,
+        "price": 165.36,
         "time_posted": "2024-07-15"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 166.99,
+        "price": 166.25,
         "time_posted": "2024-07-16"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 169.87,
+        "price": 169.12,
         "time_posted": "2024-07-17"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 175.83,
+        "price": 175.05,
         "time_posted": "2024-07-18"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 173.53,
+        "price": 172.76,
         "time_posted": "2024-07-19"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 173.98,
+        "price": 173.21,
         "time_posted": "2024-07-22"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 172.75,
+        "price": 171.99,
         "time_posted": "2024-07-23"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 171.5,
+        "price": 170.74,
         "time_posted": "2024-07-24"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 164.59,
+        "price": 163.86,
         "time_posted": "2024-07-25"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 168.34,
+        "price": 167.6,
         "time_posted": "2024-07-26"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 168.4,
+        "price": 167.66,
         "time_posted": "2024-07-29"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 172.74,
+        "price": 171.98,
         "time_posted": "2024-07-30"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 170.28,
+        "price": 169.53,
         "time_posted": "2024-07-31"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 176.51,
+        "price": 175.73,
         "time_posted": "2024-08-01"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 175.96,
+        "price": 175.18,
         "time_posted": "2024-08-02"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 168.19,
+        "price": 167.45,
         "time_posted": "2024-08-05"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 168.96,
+        "price": 168.21,
         "time_posted": "2024-08-06"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 169.84,
+        "price": 169.09,
         "time_posted": "2024-08-07"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 169.69,
+        "price": 168.94,
         "time_posted": "2024-08-08"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 170.19,
+        "price": 169.44,
         "time_posted": "2024-08-09"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 170.52,
+        "price": 169.77,
         "time_posted": "2024-08-12"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 171.12,
+        "price": 170.36,
         "time_posted": "2024-08-13"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 180.07,
+        "price": 179.27,
         "time_posted": "2024-08-14"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 177.24,
+        "price": 176.46,
         "time_posted": "2024-08-15"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 178.76,
+        "price": 177.97,
         "time_posted": "2024-08-16"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 179.74,
+        "price": 178.94,
         "time_posted": "2024-08-19"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 179.53,
+        "price": 178.74,
         "time_posted": "2024-08-20"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 177.97,
+        "price": 177.18,
         "time_posted": "2024-08-21"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 180.34,
+        "price": 179.55,
         "time_posted": "2024-08-22"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 179.63,
+        "price": 178.83,
         "time_posted": "2024-08-23"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 182.2,
+        "price": 181.39,
         "time_posted": "2024-08-26"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 184.24,
+        "price": 183.42,
         "time_posted": "2024-08-27"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 186.15,
+        "price": 185.32,
         "time_posted": "2024-08-28"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 187.43,
+        "price": 186.6,
         "time_posted": "2024-08-29"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 188.94,
+        "price": 188.11,
         "time_posted": "2024-08-30"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 189.2,
+        "price": 188.36,
         "time_posted": "2024-09-03"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 189.87,
+        "price": 189.03,
         "time_posted": "2024-09-04"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 185.76,
+        "price": 184.94,
         "time_posted": "2024-09-05"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 185.36,
+        "price": 184.54,
         "time_posted": "2024-09-06"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 187.2,
+        "price": 186.37,
         "time_posted": "2024-09-09"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 184.87,
+        "price": 184.05,
         "time_posted": "2024-09-10"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 184.39,
+        "price": 183.58,
         "time_posted": "2024-09-11"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 186.1,
+        "price": 185.28,
         "time_posted": "2024-09-12"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 188.3,
+        "price": 187.47,
         "time_posted": "2024-09-13"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 190.56,
+        "price": 189.72,
         "time_posted": "2024-09-16"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 190.26,
+        "price": 189.42,
         "time_posted": "2024-09-17"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 191.01,
+        "price": 190.17,
         "time_posted": "2024-09-18"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 190.68,
+        "price": 189.84,
         "time_posted": "2024-09-19"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 191.0,
+        "price": 190.16,
         "time_posted": "2024-09-20"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 192.89,
+        "price": 192.04,
         "time_posted": "2024-09-23"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 191.82,
+        "price": 190.97,
         "time_posted": "2024-09-24"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 190.0,
+        "price": 189.16,
         "time_posted": "2024-09-25"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 188.69,
+        "price": 187.86,
         "time_posted": "2024-09-26"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 188.36,
+        "price": 187.53,
         "time_posted": "2024-09-27"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 189.65,
+        "price": 188.81,
         "time_posted": "2024-09-30"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 189.88,
+        "price": 189.04,
         "time_posted": "2024-10-01"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 190.22,
+        "price": 189.38,
         "time_posted": "2024-10-02"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 187.84,
+        "price": 187.01,
         "time_posted": "2024-10-03"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 190.57,
+        "price": 189.73,
         "time_posted": "2024-10-04"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 181.25,
+        "price": 180.45,
         "time_posted": "2024-10-07"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 182.87,
+        "price": 182.06,
         "time_posted": "2024-10-08"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 184.91,
+        "price": 184.09,
         "time_posted": "2024-10-09"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 185.79,
+        "price": 184.97,
         "time_posted": "2024-10-10"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 188.28,
+        "price": 187.45,
         "time_posted": "2024-10-11"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 190.53,
+        "price": 189.69,
         "time_posted": "2024-10-14"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 193.01,
+        "price": 192.16,
         "time_posted": "2024-10-15"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 195.65,
+        "price": 194.79,
         "time_posted": "2024-10-16"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 195.51,
+        "price": 194.65,
         "time_posted": "2024-10-17"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 195.37,
+        "price": 194.51,
         "time_posted": "2024-10-18"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 192.64,
+        "price": 191.79,
         "time_posted": "2024-10-21"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 192.78,
+        "price": 191.93,
         "time_posted": "2024-10-22"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 192.78,
+        "price": 191.93,
         "time_posted": "2024-10-23"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 192.0,
+        "price": 191.15,
         "time_posted": "2024-10-24"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 188.12,
+        "price": 187.29,
         "time_posted": "2024-10-25"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 189.21,
+        "price": 188.37,
         "time_posted": "2024-10-28"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 186.57,
+        "price": 185.75,
         "time_posted": "2024-10-29"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 189.44,
+        "price": 188.6,
         "time_posted": "2024-10-30"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 186.52,
+        "price": 185.7,
         "time_posted": "2024-10-31"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 184.15,
+        "price": 183.34,
         "time_posted": "2024-11-01"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 182.37,
+        "price": 181.56,
         "time_posted": "2024-11-04"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 185.06,
+        "price": 184.24,
         "time_posted": "2024-11-05"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 188.79,
+        "price": 187.96,
         "time_posted": "2024-11-06"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 190.55,
+        "price": 189.71,
         "time_posted": "2024-11-07"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 196.9,
+        "price": 196.03,
         "time_posted": "2024-11-08"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 197.52,
+        "price": 196.65,
         "time_posted": "2024-11-11"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 198.1,
+        "price": 197.22,
         "time_posted": "2024-11-12"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 197.3,
+        "price": 196.43,
         "time_posted": "2024-11-13"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 195.78,
+        "price": 194.91,
         "time_posted": "2024-11-14"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 196.88,
+        "price": 196.01,
         "time_posted": "2024-11-15"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 199.97,
+        "price": 199.09,
         "time_posted": "2024-11-18"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 196.6,
+        "price": 195.73,
         "time_posted": "2024-11-19"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 197.29,
+        "price": 196.42,
         "time_posted": "2024-11-20"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 203.48,
+        "price": 202.58,
         "time_posted": "2024-11-21"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 203.8,
+        "price": 202.9,
         "time_posted": "2024-11-22"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 202.03,
+        "price": 201.14,
         "time_posted": "2024-11-25"
     },
     {
         "ticker_symbol": "ALL",
-        "price": 207.87,
+        "price": 206.95,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "ALL",
+        "price": 207.28,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "ALL",
+        "price": 207.39,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "ALL",
+        "price": 204.39,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "ALL",
+        "price": 203.4,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "ALL",
+        "price": 204.95,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "ALL",
+        "price": 204.23,
+        "time_posted": "2024-12-05"
     }
 ]

@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "ARE",
-        "price": 100.68,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "ARE",
-        "price": 103.27,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "ARE",
-        "price": 104.51,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "ARE",
-        "price": 104.88,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "ARE",
-        "price": 113.26,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "ARE",
-        "price": 114.94,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "ARE",
-        "price": 114.77,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "ARE",
         "price": 116.8,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "ARE",
         "price": 111.75,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "ARE",
+        "price": 110.52,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "ARE",
+        "price": 110.23,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "ARE",
+        "price": 109.7,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "ARE",
+        "price": 108.02,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "ARE",
+        "price": 104.93,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "ARE",
+        "price": 105.43,
+        "time_posted": "2024-12-05"
     }
 ]

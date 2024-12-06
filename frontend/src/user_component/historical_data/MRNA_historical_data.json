@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "MRNA",
-        "price": 77.72,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "MRNA",
-        "price": 78.18,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "MRNA",
-        "price": 79.01,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "MRNA",
-        "price": 77.7,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "MRNA",
-        "price": 79.83,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "MRNA",
-        "price": 79.87,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "MRNA",
-        "price": 78.28,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "MRNA",
         "price": 80.6,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "MRNA",
         "price": 42.05,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "MRNA",
+        "price": 43.39,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "MRNA",
+        "price": 43.06,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "MRNA",
+        "price": 44.26,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "MRNA",
+        "price": 42.58,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "MRNA",
+        "price": 41.63,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "MRNA",
+        "price": 42.94,
+        "time_posted": "2024-12-05"
     }
 ]

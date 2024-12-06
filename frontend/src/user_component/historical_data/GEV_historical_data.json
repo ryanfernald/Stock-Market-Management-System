@@ -838,5 +838,35 @@
         "ticker_symbol": "GEV",
         "price": 338.89,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 335.33,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 334.12,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 337.54,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 331.92,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 343.75,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "GEV",
+        "price": 348.13,
+        "time_posted": "2024-12-05"
     }
 ]

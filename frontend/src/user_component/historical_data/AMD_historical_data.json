@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "AMD",
-        "price": 122.65,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "AMD",
-        "price": 122.01,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "AMD",
-        "price": 123.85,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "AMD",
-        "price": 121.16,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "AMD",
-        "price": 121.39,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "AMD",
-        "price": 118.57,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "AMD",
-        "price": 118.38,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "AMD",
         "price": 116.82,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "AMD",
         "price": 137.72,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "AMD",
+        "price": 136.24,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "AMD",
+        "price": 137.18,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "AMD",
+        "price": 142.06,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "AMD",
+        "price": 141.98,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "AMD",
+        "price": 143.99,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "AMD",
+        "price": 141.36,
+        "time_posted": "2024-12-05"
     }
 ]

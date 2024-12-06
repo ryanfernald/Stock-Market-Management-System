@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "NXPI",
-        "price": 196.31,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "NXPI",
-        "price": 196.68,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "NXPI",
-        "price": 200.91,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "NXPI",
-        "price": 200.66,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "NXPI",
-        "price": 202.23,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "NXPI",
-        "price": 202.82,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "NXPI",
-        "price": 202.38,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "NXPI",
         "price": 202.47,
         "time_posted": "2023-12-06"
     },
@@ -586,7 +551,7 @@
     },
     {
         "ticker_symbol": "NXPI",
-        "price": 269.83,
+        "price": 269.84,
         "time_posted": "2024-05-15"
     },
     {
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "NXPI",
         "price": 228.66,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "NXPI",
+        "price": 226.53,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "NXPI",
+        "price": 229.37,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "NXPI",
+        "price": 233.61,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "NXPI",
+        "price": 228.36,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "NXPI",
+        "price": 223.66,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "NXPI",
+        "price": 216.99,
+        "time_posted": "2024-12-05"
     }
 ]

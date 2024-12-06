@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "ADSK",
-        "price": 202.26,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "ADSK",
-        "price": 207.37,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "ADSK",
-        "price": 213.85,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "ADSK",
-        "price": 218.43,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "ADSK",
-        "price": 224.93,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "ADSK",
-        "price": 221.31,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "ADSK",
-        "price": 220.45,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "ADSK",
         "price": 219.55,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "ADSK",
         "price": 317.96,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "ADSK",
+        "price": 290.64,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "ADSK",
+        "price": 291.9,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "ADSK",
+        "price": 296.65,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "ADSK",
+        "price": 298.96,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "ADSK",
+        "price": 304.23,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "ADSK",
+        "price": 305.17,
+        "time_posted": "2024-12-05"
     }
 ]

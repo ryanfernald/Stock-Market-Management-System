@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "RCL",
-        "price": 106.18,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "RCL",
-        "price": 105.44,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "RCL",
-        "price": 105.66,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "RCL",
-        "price": 107.21,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "RCL",
-        "price": 110.47,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "RCL",
-        "price": 113.94,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "RCL",
-        "price": 114.02,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "RCL",
         "price": 117.89,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "RCL",
         "price": 244.5,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "RCL",
+        "price": 241.62,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "RCL",
+        "price": 244.06,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "RCL",
+        "price": 246.41,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "RCL",
+        "price": 245.9,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "RCL",
+        "price": 249.74,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "RCL",
+        "price": 251.14,
+        "time_posted": "2024-12-05"
     }
 ]

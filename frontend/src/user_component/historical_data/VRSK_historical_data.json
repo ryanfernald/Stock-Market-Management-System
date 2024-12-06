@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "VRSK",
-        "price": 239.57,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "VRSK",
-        "price": 238.64,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "VRSK",
-        "price": 236.84,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "VRSK",
-        "price": 239.99,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "VRSK",
-        "price": 241.29,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "VRSK",
-        "price": 237.88,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "VRSK",
-        "price": 237.18,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "VRSK",
         "price": 233.46,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "VRSK",
         "price": 294.75,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "VRSK",
+        "price": 294.56,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "VRSK",
+        "price": 294.21,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "VRSK",
+        "price": 292.7,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "VRSK",
+        "price": 289.05,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "VRSK",
+        "price": 291.69,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "VRSK",
+        "price": 288.9,
+        "time_posted": "2024-12-05"
     }
 ]

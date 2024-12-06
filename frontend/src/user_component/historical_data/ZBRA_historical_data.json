@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "ZBRA",
-        "price": 231.5,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "ZBRA",
-        "price": 233.89,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "ZBRA",
-        "price": 236.62,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "ZBRA",
-        "price": 236.98,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "ZBRA",
-        "price": 241.22,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "ZBRA",
-        "price": 239.37,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "ZBRA",
-        "price": 234.36,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "ZBRA",
         "price": 234.13,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "ZBRA",
         "price": 402.45,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "ZBRA",
+        "price": 405.75,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "ZBRA",
+        "price": 407.0,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "ZBRA",
+        "price": 410.04,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "ZBRA",
+        "price": 406.4,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "ZBRA",
+        "price": 411.94,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "ZBRA",
+        "price": 404.98,
+        "time_posted": "2024-12-05"
     }
 ]

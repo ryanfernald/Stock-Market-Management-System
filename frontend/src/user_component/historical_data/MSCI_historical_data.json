@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "MSCI",
-        "price": 519.31,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "MSCI",
-        "price": 517.82,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "MSCI",
-        "price": 520.52,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "MSCI",
-        "price": 514.87,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "MSCI",
-        "price": 521.64,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "MSCI",
-        "price": 519.45,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "MSCI",
-        "price": 517.42,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "MSCI",
         "price": 509.19,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "MSCI",
         "price": 601.96,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "MSCI",
+        "price": 604.96,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "MSCI",
+        "price": 609.63,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "MSCI",
+        "price": 608.97,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "MSCI",
+        "price": 608.1,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "MSCI",
+        "price": 615.93,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "MSCI",
+        "price": 609.91,
+        "time_posted": "2024-12-05"
     }
 ]

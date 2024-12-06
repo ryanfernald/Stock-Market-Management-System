@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "PARA",
-        "price": 13.91,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "PARA",
-        "price": 13.67,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "PARA",
-        "price": 14.17,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "PARA",
-        "price": 14.13,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "PARA",
-        "price": 15.51,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "PARA",
-        "price": 15.68,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "PARA",
-        "price": 15.25,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "PARA",
         "price": 14.96,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "PARA",
         "price": 10.64,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.77,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.85,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.98,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.92,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 11.02,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "PARA",
+        "price": 10.81,
+        "time_posted": "2024-12-05"
     }
 ]

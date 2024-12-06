@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "PKG",
-        "price": 154.47,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "PKG",
-        "price": 153.92,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "PKG",
-        "price": 157.53,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "PKG",
-        "price": 163.53,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "PKG",
-        "price": 165.18,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "PKG",
-        "price": 163.86,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "PKG",
-        "price": 160.88,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "PKG",
         "price": 159.83,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "PKG",
         "price": 248.03,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "PKG",
+        "price": 247.03,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "PKG",
+        "price": 248.85,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "PKG",
+        "price": 244.8,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "PKG",
+        "price": 244.05,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "PKG",
+        "price": 243.99,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "PKG",
+        "price": 244.34,
+        "time_posted": "2024-12-05"
     }
 ]

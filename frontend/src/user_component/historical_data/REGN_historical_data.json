@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "REGN",
-        "price": 798.08,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "REGN",
-        "price": 801.14,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "REGN",
-        "price": 808.59,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "REGN",
-        "price": 823.81,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "REGN",
-        "price": 814.86,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "REGN",
-        "price": 823.32,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "REGN",
-        "price": 820.9,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "REGN",
         "price": 835.75,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "REGN",
         "price": 753.03,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "REGN",
+        "price": 754.87,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "REGN",
+        "price": 750.22,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "REGN",
+        "price": 762.34,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "REGN",
+        "price": 749.57,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "REGN",
+        "price": 754.26,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "REGN",
+        "price": 767.9,
+        "time_posted": "2024-12-05"
     }
 ]

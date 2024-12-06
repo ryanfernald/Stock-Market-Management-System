@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "AIG",
-        "price": 63.89,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "AIG",
-        "price": 63.29,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "AIG",
-        "price": 63.48,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "AIG",
-        "price": 64.44,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "AIG",
-        "price": 64.6,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "AIG",
-        "price": 64.63,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "AIG",
-        "price": 64.53,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "AIG",
         "price": 64.01,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "AIG",
         "price": 76.3,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "AIG",
+        "price": 77.14,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "AIG",
+        "price": 76.88,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "AIG",
+        "price": 76.01,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "AIG",
+        "price": 75.1,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "AIG",
+        "price": 75.96,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "AIG",
+        "price": 76.14,
+        "time_posted": "2024-12-05"
     }
 ]

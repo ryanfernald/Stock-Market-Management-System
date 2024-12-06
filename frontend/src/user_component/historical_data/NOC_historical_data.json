@@ -1,1267 +1,1262 @@
 [
     {
         "ticker_symbol": "NOC",
-        "price": 462.59,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "NOC",
-        "price": 464.26,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "NOC",
-        "price": 461.62,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "NOC",
-        "price": 469.27,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "NOC",
-        "price": 473.9,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "NOC",
-        "price": 474.38,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "NOC",
-        "price": 470.71,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "NOC",
-        "price": 474.34,
+        "price": 472.35,
         "time_posted": "2023-12-06"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 471.57,
+        "price": 469.58,
         "time_posted": "2023-12-07"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 470.35,
+        "price": 468.37,
         "time_posted": "2023-12-08"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 472.83,
+        "price": 470.84,
         "time_posted": "2023-12-11"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 473.31,
+        "price": 471.32,
         "time_posted": "2023-12-12"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 479.0,
+        "price": 476.99,
         "time_posted": "2023-12-13"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 457.92,
+        "price": 455.99,
         "time_posted": "2023-12-14"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 455.34,
+        "price": 453.42,
         "time_posted": "2023-12-15"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 459.66,
+        "price": 457.72,
         "time_posted": "2023-12-18"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 458.41,
+        "price": 456.48,
         "time_posted": "2023-12-19"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 451.5,
+        "price": 449.6,
         "time_posted": "2023-12-20"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 453.53,
+        "price": 451.62,
         "time_posted": "2023-12-21"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 457.39,
+        "price": 455.47,
         "time_posted": "2023-12-22"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 458.75,
+        "price": 456.82,
         "time_posted": "2023-12-26"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 458.47,
+        "price": 456.54,
         "time_posted": "2023-12-27"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 459.91,
+        "price": 457.98,
         "time_posted": "2023-12-28"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 462.34,
+        "price": 460.4,
         "time_posted": "2023-12-29"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 464.27,
+        "price": 462.31,
         "time_posted": "2024-01-02"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 469.0,
+        "price": 467.02,
         "time_posted": "2024-01-03"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 465.89,
+        "price": 463.93,
         "time_posted": "2024-01-04"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 464.07,
+        "price": 462.12,
         "time_posted": "2024-01-05"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 469.37,
+        "price": 467.4,
         "time_posted": "2024-01-08"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 466.38,
+        "price": 464.42,
         "time_posted": "2024-01-09"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 466.1,
+        "price": 464.14,
         "time_posted": "2024-01-10"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 461.55,
+        "price": 459.61,
         "time_posted": "2024-01-11"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 475.12,
+        "price": 473.12,
         "time_posted": "2024-01-12"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 471.98,
+        "price": 469.99,
         "time_posted": "2024-01-16"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 468.01,
+        "price": 466.04,
         "time_posted": "2024-01-17"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 468.75,
+        "price": 466.78,
         "time_posted": "2024-01-18"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 464.65,
+        "price": 462.7,
         "time_posted": "2024-01-19"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 460.84,
+        "price": 458.9,
         "time_posted": "2024-01-22"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 462.12,
+        "price": 460.18,
         "time_posted": "2024-01-23"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 458.17,
+        "price": 456.25,
         "time_posted": "2024-01-24"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 429.17,
+        "price": 427.36,
         "time_posted": "2024-01-25"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 432.54,
+        "price": 430.72,
         "time_posted": "2024-01-26"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 432.88,
+        "price": 431.06,
         "time_posted": "2024-01-29"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 438.01,
+        "price": 436.16,
         "time_posted": "2024-01-30"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 441.23,
+        "price": 439.37,
         "time_posted": "2024-01-31"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 440.69,
+        "price": 438.84,
         "time_posted": "2024-02-01"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 441.05,
+        "price": 439.19,
         "time_posted": "2024-02-02"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 436.8,
+        "price": 434.96,
         "time_posted": "2024-02-05"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 442.62,
+        "price": 440.76,
         "time_posted": "2024-02-06"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 448.28,
+        "price": 446.39,
         "time_posted": "2024-02-07"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 445.63,
+        "price": 443.76,
         "time_posted": "2024-02-08"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 449.29,
+        "price": 447.4,
         "time_posted": "2024-02-09"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 445.88,
+        "price": 444.0,
         "time_posted": "2024-02-12"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 440.64,
+        "price": 438.79,
         "time_posted": "2024-02-13"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 440.84,
+        "price": 438.99,
         "time_posted": "2024-02-14"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 444.43,
+        "price": 442.56,
         "time_posted": "2024-02-15"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 445.37,
+        "price": 443.5,
         "time_posted": "2024-02-16"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 448.29,
+        "price": 446.4,
         "time_posted": "2024-02-20"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 454.3,
+        "price": 452.39,
         "time_posted": "2024-02-21"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 451.39,
+        "price": 449.49,
         "time_posted": "2024-02-22"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 457.26,
+        "price": 455.34,
         "time_posted": "2024-02-23"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 455.51,
+        "price": 453.6,
         "time_posted": "2024-02-26"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 454.54,
+        "price": 452.63,
         "time_posted": "2024-02-27"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 455.13,
+        "price": 453.21,
         "time_posted": "2024-02-28"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 457.18,
+        "price": 455.26,
         "time_posted": "2024-02-29"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 451.11,
+        "price": 449.21,
         "time_posted": "2024-03-01"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 456.25,
+        "price": 454.33,
         "time_posted": "2024-03-04"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 454.44,
+        "price": 452.53,
         "time_posted": "2024-03-05"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 457.23,
+        "price": 455.31,
         "time_posted": "2024-03-06"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 452.6,
+        "price": 450.69,
         "time_posted": "2024-03-07"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 455.67,
+        "price": 453.76,
         "time_posted": "2024-03-08"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 455.42,
+        "price": 453.51,
         "time_posted": "2024-03-11"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 455.02,
+        "price": 453.1,
         "time_posted": "2024-03-12"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 454.41,
+        "price": 452.5,
         "time_posted": "2024-03-13"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 457.02,
+        "price": 455.1,
         "time_posted": "2024-03-14"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 457.9,
+        "price": 455.98,
         "time_posted": "2024-03-15"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 458.54,
+        "price": 456.61,
         "time_posted": "2024-03-18"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 463.59,
+        "price": 461.64,
         "time_posted": "2024-03-19"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 466.83,
+        "price": 464.87,
         "time_posted": "2024-03-20"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 463.6,
+        "price": 461.65,
         "time_posted": "2024-03-21"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 464.85,
+        "price": 462.89,
         "time_posted": "2024-03-22"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 465.41,
+        "price": 463.45,
         "time_posted": "2024-03-25"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 466.0,
+        "price": 464.04,
         "time_posted": "2024-03-26"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 473.38,
+        "price": 471.39,
         "time_posted": "2024-03-27"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 474.67,
+        "price": 472.68,
         "time_posted": "2024-03-28"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 467.42,
+        "price": 465.46,
         "time_posted": "2024-04-01"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 462.48,
+        "price": 460.53,
         "time_posted": "2024-04-02"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 453.2,
+        "price": 451.3,
         "time_posted": "2024-04-03"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 455.65,
+        "price": 453.74,
         "time_posted": "2024-04-04"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 450.71,
+        "price": 448.82,
         "time_posted": "2024-04-05"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 452.56,
+        "price": 450.65,
         "time_posted": "2024-04-08"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 450.87,
+        "price": 448.98,
         "time_posted": "2024-04-09"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 454.1,
+        "price": 452.19,
         "time_posted": "2024-04-10"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 454.02,
+        "price": 452.11,
         "time_posted": "2024-04-11"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 452.31,
+        "price": 450.41,
         "time_posted": "2024-04-12"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 447.53,
+        "price": 445.65,
         "time_posted": "2024-04-15"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 446.6,
+        "price": 444.72,
         "time_posted": "2024-04-16"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 448.28,
+        "price": 446.4,
         "time_posted": "2024-04-17"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 448.73,
+        "price": 446.84,
         "time_posted": "2024-04-18"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 458.73,
+        "price": 456.8,
         "time_posted": "2024-04-19"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 467.06,
+        "price": 465.09,
         "time_posted": "2024-04-22"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 470.73,
+        "price": 468.75,
         "time_posted": "2024-04-23"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 470.62,
+        "price": 468.64,
         "time_posted": "2024-04-24"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 483.99,
+        "price": 481.96,
         "time_posted": "2024-04-25"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 476.45,
+        "price": 474.44,
         "time_posted": "2024-04-26"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 482.17,
+        "price": 480.14,
         "time_posted": "2024-04-29"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 480.99,
+        "price": 478.97,
         "time_posted": "2024-04-30"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 482.32,
+        "price": 480.29,
         "time_posted": "2024-05-01"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 471.04,
+        "price": 469.06,
         "time_posted": "2024-05-02"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 465.18,
+        "price": 463.23,
         "time_posted": "2024-05-03"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 464.95,
+        "price": 463.0,
         "time_posted": "2024-05-06"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 469.8,
+        "price": 467.83,
         "time_posted": "2024-05-07"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 467.68,
+        "price": 465.71,
         "time_posted": "2024-05-08"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 469.49,
+        "price": 467.51,
         "time_posted": "2024-05-09"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 470.85,
+        "price": 468.86,
         "time_posted": "2024-05-10"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 472.68,
+        "price": 470.69,
         "time_posted": "2024-05-13"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 470.12,
+        "price": 468.14,
         "time_posted": "2024-05-14"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 465.74,
+        "price": 463.78,
         "time_posted": "2024-05-15"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 466.77,
+        "price": 464.81,
         "time_posted": "2024-05-16"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 466.3,
+        "price": 464.34,
         "time_posted": "2024-05-17"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 465.03,
+        "price": 463.08,
         "time_posted": "2024-05-20"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 467.97,
+        "price": 466.0,
         "time_posted": "2024-05-21"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 470.74,
+        "price": 468.76,
         "time_posted": "2024-05-22"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 463.32,
+        "price": 461.37,
         "time_posted": "2024-05-23"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 464.59,
+        "price": 462.64,
         "time_posted": "2024-05-24"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 453.71,
+        "price": 451.8,
         "time_posted": "2024-05-28"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 444.63,
+        "price": 442.76,
         "time_posted": "2024-05-29"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 444.76,
+        "price": 442.89,
         "time_posted": "2024-05-30"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 449.0,
+        "price": 447.11,
         "time_posted": "2024-05-31"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 447.56,
+        "price": 445.68,
         "time_posted": "2024-06-03"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 446.62,
+        "price": 444.75,
         "time_posted": "2024-06-04"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 440.63,
+        "price": 438.77,
         "time_posted": "2024-06-05"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 443.03,
+        "price": 441.16,
         "time_posted": "2024-06-06"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 438.31,
+        "price": 436.46,
         "time_posted": "2024-06-07"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 434.05,
+        "price": 432.23,
         "time_posted": "2024-06-10"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 428.13,
+        "price": 426.33,
         "time_posted": "2024-06-11"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 425.47,
+        "price": 423.68,
         "time_posted": "2024-06-12"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 421.75,
+        "price": 419.98,
         "time_posted": "2024-06-13"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 422.42,
+        "price": 420.64,
         "time_posted": "2024-06-14"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 428.09,
+        "price": 426.29,
         "time_posted": "2024-06-17"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 424.15,
+        "price": 422.37,
         "time_posted": "2024-06-18"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 432.77,
+        "price": 430.95,
         "time_posted": "2024-06-20"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 430.39,
+        "price": 428.58,
         "time_posted": "2024-06-21"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 428.97,
+        "price": 427.17,
         "time_posted": "2024-06-24"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 426.79,
+        "price": 425.0,
         "time_posted": "2024-06-25"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 429.79,
+        "price": 427.98,
         "time_posted": "2024-06-26"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 433.2,
+        "price": 431.38,
         "time_posted": "2024-06-27"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 434.23,
+        "price": 432.41,
         "time_posted": "2024-06-28"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 433.29,
+        "price": 431.46,
         "time_posted": "2024-07-01"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 435.65,
+        "price": 433.82,
         "time_posted": "2024-07-02"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 435.37,
+        "price": 433.54,
         "time_posted": "2024-07-03"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 433.02,
+        "price": 431.2,
         "time_posted": "2024-07-05"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 428.56,
+        "price": 426.75,
         "time_posted": "2024-07-08"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 422.06,
+        "price": 420.29,
         "time_posted": "2024-07-09"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 424.56,
+        "price": 422.78,
         "time_posted": "2024-07-10"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 430.32,
+        "price": 428.51,
         "time_posted": "2024-07-11"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 430.54,
+        "price": 428.73,
         "time_posted": "2024-07-12"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 430.22,
+        "price": 428.41,
         "time_posted": "2024-07-15"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 433.45,
+        "price": 431.62,
         "time_posted": "2024-07-16"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 438.44,
+        "price": 436.59,
         "time_posted": "2024-07-17"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 437.88,
+        "price": 436.04,
         "time_posted": "2024-07-18"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 436.22,
+        "price": 434.38,
         "time_posted": "2024-07-19"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 436.38,
+        "price": 434.54,
         "time_posted": "2024-07-22"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 440.56,
+        "price": 438.71,
         "time_posted": "2024-07-23"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 440.38,
+        "price": 438.53,
         "time_posted": "2024-07-24"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 468.72,
+        "price": 466.75,
         "time_posted": "2024-07-25"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 478.41,
+        "price": 476.4,
         "time_posted": "2024-07-26"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 475.41,
+        "price": 473.41,
         "time_posted": "2024-07-29"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 484.81,
+        "price": 482.77,
         "time_posted": "2024-07-30"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 482.41,
+        "price": 480.38,
         "time_posted": "2024-07-31"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 491.42,
+        "price": 489.35,
         "time_posted": "2024-08-01"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 492.6,
+        "price": 490.53,
         "time_posted": "2024-08-02"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 490.69,
+        "price": 488.63,
         "time_posted": "2024-08-05"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 484.61,
+        "price": 482.58,
         "time_posted": "2024-08-06"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 487.82,
+        "price": 485.77,
         "time_posted": "2024-08-07"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 489.39,
+        "price": 487.33,
         "time_posted": "2024-08-08"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 492.39,
+        "price": 490.32,
         "time_posted": "2024-08-09"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 499.68,
+        "price": 497.58,
         "time_posted": "2024-08-12"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 500.4,
+        "price": 498.3,
         "time_posted": "2024-08-13"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 503.01,
+        "price": 500.9,
         "time_posted": "2024-08-14"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 501.72,
+        "price": 499.61,
         "time_posted": "2024-08-15"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 504.67,
+        "price": 502.54,
         "time_posted": "2024-08-16"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 502.88,
+        "price": 500.77,
         "time_posted": "2024-08-19"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 506.04,
+        "price": 503.91,
         "time_posted": "2024-08-20"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 504.86,
+        "price": 502.74,
         "time_posted": "2024-08-21"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 507.62,
+        "price": 505.49,
         "time_posted": "2024-08-22"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 507.33,
+        "price": 505.2,
         "time_posted": "2024-08-23"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 509.98,
+        "price": 507.84,
         "time_posted": "2024-08-26"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 510.42,
+        "price": 508.27,
         "time_posted": "2024-08-27"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 511.54,
+        "price": 509.39,
         "time_posted": "2024-08-28"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 517.31,
+        "price": 515.13,
         "time_posted": "2024-08-29"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 521.15,
+        "price": 518.96,
         "time_posted": "2024-08-30"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 522.69,
+        "price": 520.49,
         "time_posted": "2024-09-03"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 523.68,
+        "price": 521.48,
         "time_posted": "2024-09-04"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 519.39,
+        "price": 517.2,
         "time_posted": "2024-09-05"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 515.0,
+        "price": 512.83,
         "time_posted": "2024-09-06"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 524.21,
+        "price": 522.0,
         "time_posted": "2024-09-09"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 519.97,
+        "price": 517.78,
         "time_posted": "2024-09-10"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 515.93,
+        "price": 513.76,
         "time_posted": "2024-09-11"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 518.54,
+        "price": 516.36,
         "time_posted": "2024-09-12"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 519.78,
+        "price": 517.59,
         "time_posted": "2024-09-13"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 521.27,
+        "price": 519.08,
         "time_posted": "2024-09-16"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 520.75,
+        "price": 518.56,
         "time_posted": "2024-09-17"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 521.63,
+        "price": 519.44,
         "time_posted": "2024-09-18"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 522.26,
+        "price": 520.06,
         "time_posted": "2024-09-19"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 525.13,
+        "price": 522.92,
         "time_posted": "2024-09-20"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 533.14,
+        "price": 530.9,
         "time_posted": "2024-09-23"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 529.86,
+        "price": 527.63,
         "time_posted": "2024-09-24"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 528.11,
+        "price": 525.89,
         "time_posted": "2024-09-25"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 524.31,
+        "price": 522.1,
         "time_posted": "2024-09-26"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 526.79,
+        "price": 524.57,
         "time_posted": "2024-09-27"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 528.07,
+        "price": 525.85,
         "time_posted": "2024-09-30"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 543.88,
+        "price": 541.59,
         "time_posted": "2024-10-01"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 538.87,
+        "price": 536.6,
         "time_posted": "2024-10-02"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 537.58,
+        "price": 535.32,
         "time_posted": "2024-10-03"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 536.74,
+        "price": 534.48,
         "time_posted": "2024-10-04"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 533.97,
+        "price": 531.72,
         "time_posted": "2024-10-07"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 532.65,
+        "price": 530.41,
         "time_posted": "2024-10-08"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 532.23,
+        "price": 529.99,
         "time_posted": "2024-10-09"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 527.09,
+        "price": 524.87,
         "time_posted": "2024-10-10"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 528.7,
+        "price": 526.48,
         "time_posted": "2024-10-11"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 534.07,
+        "price": 531.82,
         "time_posted": "2024-10-14"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 526.93,
+        "price": 524.71,
         "time_posted": "2024-10-15"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 531.43,
+        "price": 529.19,
         "time_posted": "2024-10-16"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 527.97,
+        "price": 525.75,
         "time_posted": "2024-10-17"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 530.79,
+        "price": 528.56,
         "time_posted": "2024-10-18"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 529.65,
+        "price": 527.42,
         "time_posted": "2024-10-21"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 520.2,
+        "price": 518.01,
         "time_posted": "2024-10-22"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 516.4,
+        "price": 514.23,
         "time_posted": "2024-10-23"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 523.68,
+        "price": 521.48,
         "time_posted": "2024-10-24"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 519.35,
+        "price": 517.17,
         "time_posted": "2024-10-25"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 512.15,
+        "price": 510.0,
         "time_posted": "2024-10-28"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 504.05,
+        "price": 501.93,
         "time_posted": "2024-10-29"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 505.34,
+        "price": 503.21,
         "time_posted": "2024-10-30"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 509.02,
+        "price": 506.88,
         "time_posted": "2024-10-31"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 506.95,
+        "price": 504.82,
         "time_posted": "2024-11-01"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 507.44,
+        "price": 505.31,
         "time_posted": "2024-11-04"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 512.9,
+        "price": 510.74,
         "time_posted": "2024-11-05"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 523.14,
+        "price": 520.94,
         "time_posted": "2024-11-06"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 520.58,
+        "price": 518.39,
         "time_posted": "2024-11-07"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 528.99,
+        "price": 526.76,
         "time_posted": "2024-11-08"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 533.7,
+        "price": 531.45,
         "time_posted": "2024-11-11"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 531.39,
+        "price": 529.15,
         "time_posted": "2024-11-12"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 520.42,
+        "price": 518.23,
         "time_posted": "2024-11-13"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 500.34,
+        "price": 498.24,
         "time_posted": "2024-11-14"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 493.99,
+        "price": 491.91,
         "time_posted": "2024-11-15"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 488.68,
+        "price": 486.62,
         "time_posted": "2024-11-18"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 491.02,
+        "price": 488.95,
         "time_posted": "2024-11-19"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 491.98,
+        "price": 489.91,
         "time_posted": "2024-11-20"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 496.41,
+        "price": 494.32,
         "time_posted": "2024-11-21"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 496.87,
+        "price": 494.78,
         "time_posted": "2024-11-22"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 485.27,
+        "price": 483.23,
         "time_posted": "2024-11-25"
     },
     {
         "ticker_symbol": "NOC",
-        "price": 488.43,
+        "price": 486.38,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "NOC",
+        "price": 487.02,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "NOC",
+        "price": 487.59,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "NOC",
+        "price": 484.75,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "NOC",
+        "price": 485.21,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "NOC",
+        "price": 486.62,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "NOC",
+        "price": 479.57,
+        "time_posted": "2024-12-05"
     }
 ]

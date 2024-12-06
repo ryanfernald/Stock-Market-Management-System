@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "CAT",
-        "price": 243.48,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "CAT",
-        "price": 243.59,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "CAT",
-        "price": 245.51,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "CAT",
-        "price": 246.76,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "CAT",
-        "price": 252.71,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "CAT",
-        "price": 250.73,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "CAT",
-        "price": 251.16,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "CAT",
         "price": 251.93,
         "time_posted": "2023-12-06"
     },
@@ -376,7 +341,7 @@
     },
     {
         "ticker_symbol": "CAT",
-        "price": 343.07,
+        "price": 343.08,
         "time_posted": "2024-03-15"
     },
     {
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "CAT",
         "price": 407.83,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "CAT",
+        "price": 403.7,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "CAT",
+        "price": 406.11,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "CAT",
+        "price": 402.51,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "CAT",
+        "price": 399.26,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "CAT",
+        "price": 399.51,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "CAT",
+        "price": 394.98,
+        "time_posted": "2024-12-05"
     }
 ]

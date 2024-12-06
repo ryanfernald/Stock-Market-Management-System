@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "WYNN",
-        "price": 86.12,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "WYNN",
-        "price": 84.02,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "WYNN",
-        "price": 82.76,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "WYNN",
-        "price": 83.5,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "WYNN",
-        "price": 84.23,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "WYNN",
-        "price": 82.98,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "WYNN",
-        "price": 81.32,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "WYNN",
         "price": 81.51,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "WYNN",
         "price": 91.86,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "WYNN",
+        "price": 91.67,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "WYNN",
+        "price": 94.38,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "WYNN",
+        "price": 96.16,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "WYNN",
+        "price": 93.76,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "WYNN",
+        "price": 94.79,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "WYNN",
+        "price": 94.4,
+        "time_posted": "2024-12-05"
     }
 ]

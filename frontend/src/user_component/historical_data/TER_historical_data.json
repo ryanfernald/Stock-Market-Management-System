@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "TER",
-        "price": 91.55,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "TER",
-        "price": 90.87,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "TER",
-        "price": 92.38,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "TER",
-        "price": 91.85,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "TER",
-        "price": 93.48,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "TER",
-        "price": 92.78,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "TER",
-        "price": 90.87,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "TER",
         "price": 90.85,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "TER",
         "price": 109.06,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "TER",
+        "price": 108.09,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "TER",
+        "price": 110.0,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "TER",
+        "price": 113.2,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "TER",
+        "price": 115.47,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "TER",
+        "price": 116.89,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "TER",
+        "price": 113.72,
+        "time_posted": "2024-12-05"
     }
 ]

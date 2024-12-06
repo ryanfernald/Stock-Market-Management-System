@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "MCHP",
-        "price": 79.94,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "MCHP",
-        "price": 80.0,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "MCHP",
-        "price": 81.14,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "MCHP",
-        "price": 81.59,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "MCHP",
-        "price": 82.78,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "MCHP",
-        "price": 82.61,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "MCHP",
-        "price": 81.69,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "MCHP",
         "price": 81.76,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "MCHP",
         "price": 68.41,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "MCHP",
+        "price": 67.87,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "MCHP",
+        "price": 68.17,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "MCHP",
+        "price": 70.31,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "MCHP",
+        "price": 65.39,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "MCHP",
+        "price": 61.64,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "MCHP",
+        "price": 58.25,
+        "time_posted": "2024-12-05"
     }
 ]

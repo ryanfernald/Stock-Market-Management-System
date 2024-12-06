@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "OTIS",
-        "price": 83.86,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "OTIS",
-        "price": 82.97,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "OTIS",
-        "price": 83.0,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "OTIS",
-        "price": 84.44,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "OTIS",
-        "price": 85.38,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "OTIS",
-        "price": 85.87,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "OTIS",
-        "price": 84.49,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "OTIS",
         "price": 85.09,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "OTIS",
         "price": 101.97,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "OTIS",
+        "price": 102.52,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "OTIS",
+        "price": 102.98,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "OTIS",
+        "price": 101.8,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "OTIS",
+        "price": 101.06,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "OTIS",
+        "price": 101.13,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "OTIS",
+        "price": 99.12,
+        "time_posted": "2024-12-05"
     }
 ]

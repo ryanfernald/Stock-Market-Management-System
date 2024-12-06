@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "JNJ",
-        "price": 146.64,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "JNJ",
-        "price": 146.98,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "JNJ",
-        "price": 147.44,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "JNJ",
-        "price": 149.91,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "JNJ",
-        "price": 153.52,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "JNJ",
-        "price": 154.0,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "JNJ",
-        "price": 153.68,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "JNJ",
         "price": 151.81,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "JNJ",
         "price": 154.52,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "JNJ",
+        "price": 155.4,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "JNJ",
+        "price": 155.01,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "JNJ",
+        "price": 154.8,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "JNJ",
+        "price": 152.36,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "JNJ",
+        "price": 150.47,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "JNJ",
+        "price": 149.52,
+        "time_posted": "2024-12-05"
     }
 ]

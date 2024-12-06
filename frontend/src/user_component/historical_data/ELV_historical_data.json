@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "ELV",
-        "price": 471.56,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "ELV",
-        "price": 469.66,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "ELV",
-        "price": 459.66,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "ELV",
-        "price": 473.61,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "ELV",
-        "price": 477.2,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "ELV",
-        "price": 477.18,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "ELV",
-        "price": 477.6,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "ELV",
         "price": 473.89,
         "time_posted": "2023-12-06"
     },
@@ -396,7 +361,7 @@
     },
     {
         "ticker_symbol": "ELV",
-        "price": 511.58,
+        "price": 511.57,
         "time_posted": "2024-03-21"
     },
     {
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "ELV",
         "price": 401.96,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "ELV",
+        "price": 402.75,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "ELV",
+        "price": 406.96,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "ELV",
+        "price": 410.39,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "ELV",
+        "price": 408.07,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "ELV",
+        "price": 400.11,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "ELV",
+        "price": 392.98,
+        "time_posted": "2024-12-05"
     }
 ]

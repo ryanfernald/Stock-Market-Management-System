@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "URI",
-        "price": 460.01,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "URI",
-        "price": 451.77,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "URI",
-        "price": 471.93,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "URI",
-        "price": 471.73,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "URI",
-        "price": 497.31,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "URI",
-        "price": 485.68,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "URI",
-        "price": 471.22,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "URI",
         "price": 472.15,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "URI",
         "price": 873.17,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "URI",
+        "price": 856.98,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "URI",
+        "price": 866.0,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "URI",
+        "price": 857.05,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "URI",
+        "price": 869.02,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "URI",
+        "price": 868.24,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "URI",
+        "price": 854.99,
+        "time_posted": "2024-12-05"
     }
 ]

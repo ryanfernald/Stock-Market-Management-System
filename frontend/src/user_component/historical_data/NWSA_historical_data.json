@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "NWSA",
-        "price": 22.22,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "NWSA",
-        "price": 22.16,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "NWSA",
-        "price": 22.17,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "NWSA",
-        "price": 21.87,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "NWSA",
-        "price": 21.98,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "NWSA",
-        "price": 21.89,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "NWSA",
-        "price": 21.61,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "NWSA",
         "price": 21.63,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "NWSA",
         "price": 29.28,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "NWSA",
+        "price": 29.05,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "NWSA",
+        "price": 29.35,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "NWSA",
+        "price": 29.45,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "NWSA",
+        "price": 29.86,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "NWSA",
+        "price": 29.65,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "NWSA",
+        "price": 29.52,
+        "time_posted": "2024-12-05"
     }
 ]

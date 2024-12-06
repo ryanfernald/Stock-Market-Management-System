@@ -1,1267 +1,1262 @@
 [
     {
         "ticker_symbol": "JKHY",
-        "price": 152.01,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "JKHY",
-        "price": 153.14,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "JKHY",
-        "price": 154.0,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "JKHY",
-        "price": 157.17,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "JKHY",
-        "price": 159.25,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "JKHY",
-        "price": 161.12,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "JKHY",
-        "price": 159.79,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "JKHY",
-        "price": 163.82,
+        "price": 163.31,
         "time_posted": "2023-12-06"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 163.57,
+        "price": 163.06,
         "time_posted": "2023-12-07"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 163.11,
+        "price": 162.61,
         "time_posted": "2023-12-08"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 162.81,
+        "price": 162.3,
         "time_posted": "2023-12-11"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 164.53,
+        "price": 164.02,
         "time_posted": "2023-12-12"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 166.56,
+        "price": 166.04,
         "time_posted": "2023-12-13"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 165.3,
+        "price": 164.79,
         "time_posted": "2023-12-14"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 162.79,
+        "price": 162.28,
         "time_posted": "2023-12-15"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 164.69,
+        "price": 164.18,
         "time_posted": "2023-12-18"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 163.67,
+        "price": 163.16,
         "time_posted": "2023-12-19"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 161.26,
+        "price": 160.76,
         "time_posted": "2023-12-20"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 161.71,
+        "price": 161.2,
         "time_posted": "2023-12-21"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 163.5,
+        "price": 162.99,
         "time_posted": "2023-12-22"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 163.98,
+        "price": 163.46,
         "time_posted": "2023-12-26"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 161.68,
+        "price": 161.17,
         "time_posted": "2023-12-27"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 162.31,
+        "price": 161.81,
         "time_posted": "2023-12-28"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 161.85,
+        "price": 161.34,
         "time_posted": "2023-12-29"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 163.08,
+        "price": 162.58,
         "time_posted": "2024-01-02"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 161.87,
+        "price": 161.36,
         "time_posted": "2024-01-03"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 165.08,
+        "price": 164.56,
         "time_posted": "2024-01-04"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 165.12,
+        "price": 164.61,
         "time_posted": "2024-01-05"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 168.08,
+        "price": 167.55,
         "time_posted": "2024-01-08"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 165.59,
+        "price": 165.07,
         "time_posted": "2024-01-09"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 166.01,
+        "price": 165.49,
         "time_posted": "2024-01-10"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 165.67,
+        "price": 165.15,
         "time_posted": "2024-01-11"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 165.99,
+        "price": 165.47,
         "time_posted": "2024-01-12"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 163.6,
+        "price": 163.09,
         "time_posted": "2024-01-16"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 164.17,
+        "price": 163.66,
         "time_posted": "2024-01-17"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 163.96,
+        "price": 163.44,
         "time_posted": "2024-01-18"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 164.8,
+        "price": 164.28,
         "time_posted": "2024-01-19"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 167.19,
+        "price": 166.67,
         "time_posted": "2024-01-22"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 166.44,
+        "price": 165.92,
         "time_posted": "2024-01-23"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 165.04,
+        "price": 164.52,
         "time_posted": "2024-01-24"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 166.68,
+        "price": 166.16,
         "time_posted": "2024-01-25"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 167.95,
+        "price": 167.42,
         "time_posted": "2024-01-26"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 167.92,
+        "price": 167.39,
         "time_posted": "2024-01-29"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 167.83,
+        "price": 167.3,
         "time_posted": "2024-01-30"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 164.24,
+        "price": 163.73,
         "time_posted": "2024-01-31"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 165.08,
+        "price": 164.56,
         "time_posted": "2024-02-01"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 164.06,
+        "price": 163.54,
         "time_posted": "2024-02-02"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 161.68,
+        "price": 161.17,
         "time_posted": "2024-02-05"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 162.34,
+        "price": 161.84,
         "time_posted": "2024-02-06"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 167.56,
+        "price": 167.04,
         "time_posted": "2024-02-07"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 172.38,
+        "price": 171.85,
         "time_posted": "2024-02-08"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 174.25,
+        "price": 173.7,
         "time_posted": "2024-02-09"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 174.03,
+        "price": 173.49,
         "time_posted": "2024-02-12"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 170.96,
+        "price": 170.42,
         "time_posted": "2024-02-13"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 173.58,
+        "price": 173.04,
         "time_posted": "2024-02-14"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 172.41,
+        "price": 171.88,
         "time_posted": "2024-02-15"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 170.83,
+        "price": 170.3,
         "time_posted": "2024-02-16"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 171.44,
+        "price": 170.91,
         "time_posted": "2024-02-20"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 170.48,
+        "price": 169.95,
         "time_posted": "2024-02-21"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 171.98,
+        "price": 171.44,
         "time_posted": "2024-02-22"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 174.27,
+        "price": 173.72,
         "time_posted": "2024-02-23"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 172.75,
+        "price": 172.21,
         "time_posted": "2024-02-26"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 173.51,
+        "price": 172.97,
         "time_posted": "2024-02-27"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 171.67,
+        "price": 171.14,
         "time_posted": "2024-02-28"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 172.11,
+        "price": 171.57,
         "time_posted": "2024-02-29"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 170.31,
+        "price": 169.78,
         "time_posted": "2024-03-01"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 171.89,
+        "price": 171.35,
         "time_posted": "2024-03-04"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 170.87,
+        "price": 170.34,
         "time_posted": "2024-03-05"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 172.65,
+        "price": 172.11,
         "time_posted": "2024-03-06"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 172.66,
+        "price": 172.12,
         "time_posted": "2024-03-07"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 173.53,
+        "price": 172.98,
         "time_posted": "2024-03-08"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 172.4,
+        "price": 171.87,
         "time_posted": "2024-03-11"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 170.71,
+        "price": 170.18,
         "time_posted": "2024-03-12"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 171.24,
+        "price": 170.71,
         "time_posted": "2024-03-13"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 169.71,
+        "price": 169.18,
         "time_posted": "2024-03-14"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 169.85,
+        "price": 169.32,
         "time_posted": "2024-03-15"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 169.3,
+        "price": 168.78,
         "time_posted": "2024-03-18"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 169.95,
+        "price": 169.42,
         "time_posted": "2024-03-19"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 170.4,
+        "price": 169.86,
         "time_posted": "2024-03-20"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 170.75,
+        "price": 170.22,
         "time_posted": "2024-03-21"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 167.86,
+        "price": 167.34,
         "time_posted": "2024-03-22"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 164.68,
+        "price": 164.17,
         "time_posted": "2024-03-25"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 165.32,
+        "price": 164.8,
         "time_posted": "2024-03-26"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 171.15,
+        "price": 170.62,
         "time_posted": "2024-03-27"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 172.61,
+        "price": 172.07,
         "time_posted": "2024-03-28"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 169.36,
+        "price": 168.83,
         "time_posted": "2024-04-01"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 169.19,
+        "price": 168.67,
         "time_posted": "2024-04-02"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 169.16,
+        "price": 168.64,
         "time_posted": "2024-04-03"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 168.32,
+        "price": 167.79,
         "time_posted": "2024-04-04"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 168.94,
+        "price": 168.41,
         "time_posted": "2024-04-05"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 170.47,
+        "price": 169.93,
         "time_posted": "2024-04-08"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 173.05,
+        "price": 172.51,
         "time_posted": "2024-04-09"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 169.36,
+        "price": 168.83,
         "time_posted": "2024-04-10"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 168.96,
+        "price": 168.43,
         "time_posted": "2024-04-11"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 166.49,
+        "price": 165.97,
         "time_posted": "2024-04-12"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 163.98,
+        "price": 163.47,
         "time_posted": "2024-04-15"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 162.7,
+        "price": 162.19,
         "time_posted": "2024-04-16"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 163.61,
+        "price": 163.1,
         "time_posted": "2024-04-17"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 163.71,
+        "price": 163.2,
         "time_posted": "2024-04-18"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 164.53,
+        "price": 164.02,
         "time_posted": "2024-04-19"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 163.78,
+        "price": 163.27,
         "time_posted": "2024-04-22"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 165.41,
+        "price": 164.89,
         "time_posted": "2024-04-23"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 164.14,
+        "price": 163.62,
         "time_posted": "2024-04-24"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 164.82,
+        "price": 164.31,
         "time_posted": "2024-04-25"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 163.82,
+        "price": 163.31,
         "time_posted": "2024-04-26"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 165.05,
+        "price": 164.54,
         "time_posted": "2024-04-29"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 161.64,
+        "price": 161.14,
         "time_posted": "2024-04-30"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 161.47,
+        "price": 160.97,
         "time_posted": "2024-05-01"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 161.46,
+        "price": 160.96,
         "time_posted": "2024-05-02"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 163.12,
+        "price": 162.61,
         "time_posted": "2024-05-03"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 163.9,
+        "price": 163.39,
         "time_posted": "2024-05-06"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 164.58,
+        "price": 164.07,
         "time_posted": "2024-05-07"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 164.52,
+        "price": 164.01,
         "time_posted": "2024-05-08"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 167.95,
+        "price": 167.43,
         "time_posted": "2024-05-09"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 168.15,
+        "price": 167.63,
         "time_posted": "2024-05-10"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 166.64,
+        "price": 166.12,
         "time_posted": "2024-05-13"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 164.62,
+        "price": 164.11,
         "time_posted": "2024-05-14"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 166.75,
+        "price": 166.23,
         "time_posted": "2024-05-15"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 168.29,
+        "price": 167.77,
         "time_posted": "2024-05-16"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 167.9,
+        "price": 167.38,
         "time_posted": "2024-05-17"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 168.36,
+        "price": 167.83,
         "time_posted": "2024-05-20"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 167.99,
+        "price": 167.47,
         "time_posted": "2024-05-21"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 168.54,
+        "price": 168.01,
         "time_posted": "2024-05-22"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 167.25,
+        "price": 166.73,
         "time_posted": "2024-05-23"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 168.07,
+        "price": 167.55,
         "time_posted": "2024-05-24"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 162.05,
+        "price": 161.55,
         "time_posted": "2024-05-28"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 161.02,
+        "price": 160.51,
         "time_posted": "2024-05-29"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 160.64,
+        "price": 160.14,
         "time_posted": "2024-05-30"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 164.16,
+        "price": 163.64,
         "time_posted": "2024-05-31"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 162.74,
+        "price": 162.23,
         "time_posted": "2024-06-03"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 161.19,
+        "price": 160.68,
         "time_posted": "2024-06-04"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 163.86,
+        "price": 163.35,
         "time_posted": "2024-06-05"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 164.03,
+        "price": 163.52,
         "time_posted": "2024-06-06"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 164.26,
+        "price": 163.74,
         "time_posted": "2024-06-07"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 163.53,
+        "price": 163.02,
         "time_posted": "2024-06-10"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 161.02,
+        "price": 160.51,
         "time_posted": "2024-06-11"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 159.7,
+        "price": 159.2,
         "time_posted": "2024-06-12"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 158.05,
+        "price": 157.55,
         "time_posted": "2024-06-13"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 161.06,
+        "price": 160.55,
         "time_posted": "2024-06-14"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 164.52,
+        "price": 164.0,
         "time_posted": "2024-06-17"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 161.69,
+        "price": 161.19,
         "time_posted": "2024-06-18"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 165.35,
+        "price": 164.84,
         "time_posted": "2024-06-20"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 166.21,
+        "price": 165.69,
         "time_posted": "2024-06-21"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 165.9,
+        "price": 165.38,
         "time_posted": "2024-06-24"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 165.83,
+        "price": 165.31,
         "time_posted": "2024-06-25"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 166.58,
+        "price": 166.06,
         "time_posted": "2024-06-26"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 166.19,
+        "price": 165.67,
         "time_posted": "2024-06-27"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 165.49,
+        "price": 164.98,
         "time_posted": "2024-06-28"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 162.97,
+        "price": 162.46,
         "time_posted": "2024-07-01"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 163.24,
+        "price": 162.73,
         "time_posted": "2024-07-02"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 163.13,
+        "price": 162.62,
         "time_posted": "2024-07-03"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 162.54,
+        "price": 162.03,
         "time_posted": "2024-07-05"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 163.82,
+        "price": 163.31,
         "time_posted": "2024-07-08"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 162.36,
+        "price": 161.86,
         "time_posted": "2024-07-09"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 160.36,
+        "price": 159.86,
         "time_posted": "2024-07-10"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 163.62,
+        "price": 163.11,
         "time_posted": "2024-07-11"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 165.75,
+        "price": 165.23,
         "time_posted": "2024-07-12"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 166.84,
+        "price": 166.32,
         "time_posted": "2024-07-15"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 169.2,
+        "price": 168.67,
         "time_posted": "2024-07-16"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 169.2,
+        "price": 168.67,
         "time_posted": "2024-07-17"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 167.52,
+        "price": 166.99,
         "time_posted": "2024-07-18"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 165.57,
+        "price": 165.06,
         "time_posted": "2024-07-19"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 168.4,
+        "price": 167.88,
         "time_posted": "2024-07-22"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 166.54,
+        "price": 166.02,
         "time_posted": "2024-07-23"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 167.4,
+        "price": 166.87,
         "time_posted": "2024-07-24"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 166.95,
+        "price": 166.43,
         "time_posted": "2024-07-25"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 169.79,
+        "price": 169.26,
         "time_posted": "2024-07-26"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 169.63,
+        "price": 169.1,
         "time_posted": "2024-07-29"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 171.86,
+        "price": 171.33,
         "time_posted": "2024-07-30"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 170.94,
+        "price": 170.4,
         "time_posted": "2024-07-31"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 168.53,
+        "price": 168.01,
         "time_posted": "2024-08-01"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 169.67,
+        "price": 169.14,
         "time_posted": "2024-08-02"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 163.28,
+        "price": 162.77,
         "time_posted": "2024-08-05"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 165.98,
+        "price": 165.46,
         "time_posted": "2024-08-06"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 165.48,
+        "price": 164.97,
         "time_posted": "2024-08-07"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 166.82,
+        "price": 166.3,
         "time_posted": "2024-08-08"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 165.91,
+        "price": 165.39,
         "time_posted": "2024-08-09"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 162.19,
+        "price": 161.69,
         "time_posted": "2024-08-12"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 164.64,
+        "price": 164.12,
         "time_posted": "2024-08-13"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 164.27,
+        "price": 163.75,
         "time_posted": "2024-08-14"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 164.25,
+        "price": 163.73,
         "time_posted": "2024-08-15"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 164.55,
+        "price": 164.03,
         "time_posted": "2024-08-16"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 163.57,
+        "price": 163.06,
         "time_posted": "2024-08-19"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 165.02,
+        "price": 164.51,
         "time_posted": "2024-08-20"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 164.92,
+        "price": 164.41,
         "time_posted": "2024-08-21"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 163.27,
+        "price": 162.76,
         "time_posted": "2024-08-22"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 164.11,
+        "price": 163.59,
         "time_posted": "2024-08-23"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 168.3,
+        "price": 167.78,
         "time_posted": "2024-08-26"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 170.85,
+        "price": 170.31,
         "time_posted": "2024-08-27"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 173.21,
+        "price": 172.67,
         "time_posted": "2024-08-28"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 171.34,
+        "price": 170.81,
         "time_posted": "2024-08-29"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 172.48,
+        "price": 171.94,
         "time_posted": "2024-08-30"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 174.52,
+        "price": 173.98,
         "time_posted": "2024-09-03"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 173.54,
+        "price": 173.0,
         "time_posted": "2024-09-04"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 172.66,
+        "price": 172.12,
         "time_posted": "2024-09-05"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 169.64,
+        "price": 169.11,
         "time_posted": "2024-09-06"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 171.9,
+        "price": 171.36,
         "time_posted": "2024-09-09"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 175.04,
+        "price": 174.49,
         "time_posted": "2024-09-10"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 174.01,
+        "price": 173.47,
         "time_posted": "2024-09-11"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 175.54,
+        "price": 174.99,
         "time_posted": "2024-09-12"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 176.07,
+        "price": 175.52,
         "time_posted": "2024-09-13"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 177.06,
+        "price": 176.51,
         "time_posted": "2024-09-16"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 175.69,
+        "price": 175.14,
         "time_posted": "2024-09-17"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 174.21,
+        "price": 173.67,
         "time_posted": "2024-09-18"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 175.6,
+        "price": 175.05,
         "time_posted": "2024-09-19"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 173.59,
+        "price": 173.05,
         "time_posted": "2024-09-20"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 174.85,
+        "price": 174.3,
         "time_posted": "2024-09-23"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 173.71,
+        "price": 173.17,
         "time_posted": "2024-09-24"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 170.28,
+        "price": 169.75,
         "time_posted": "2024-09-25"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 174.14,
+        "price": 173.6,
         "time_posted": "2024-09-26"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 175.99,
+        "price": 175.44,
         "time_posted": "2024-09-27"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 176.54,
+        "price": 175.99,
         "time_posted": "2024-09-30"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 179.7,
+        "price": 179.14,
         "time_posted": "2024-10-01"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 179.55,
+        "price": 178.99,
         "time_posted": "2024-10-02"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 183.58,
+        "price": 183.01,
         "time_posted": "2024-10-03"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 182.14,
+        "price": 181.57,
         "time_posted": "2024-10-04"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 179.81,
+        "price": 179.25,
         "time_posted": "2024-10-07"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 181.29,
+        "price": 180.72,
         "time_posted": "2024-10-08"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 182.45,
+        "price": 181.88,
         "time_posted": "2024-10-09"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 181.58,
+        "price": 181.01,
         "time_posted": "2024-10-10"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 183.38,
+        "price": 182.81,
         "time_posted": "2024-10-11"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 184.29,
+        "price": 183.71,
         "time_posted": "2024-10-14"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 184.71,
+        "price": 184.13,
         "time_posted": "2024-10-15"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 185.67,
+        "price": 185.09,
         "time_posted": "2024-10-16"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 185.98,
+        "price": 185.4,
         "time_posted": "2024-10-17"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 186.12,
+        "price": 185.54,
         "time_posted": "2024-10-18"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 184.97,
+        "price": 184.39,
         "time_posted": "2024-10-21"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 183.28,
+        "price": 182.71,
         "time_posted": "2024-10-22"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 184.42,
+        "price": 183.84,
         "time_posted": "2024-10-23"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 184.59,
+        "price": 184.01,
         "time_posted": "2024-10-24"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 182.44,
+        "price": 181.87,
         "time_posted": "2024-10-25"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 183.57,
+        "price": 183.0,
         "time_posted": "2024-10-28"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 182.66,
+        "price": 182.09,
         "time_posted": "2024-10-29"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 182.78,
+        "price": 182.21,
         "time_posted": "2024-10-30"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 181.93,
+        "price": 181.36,
         "time_posted": "2024-10-31"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 183.06,
+        "price": 182.49,
         "time_posted": "2024-11-01"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 184.32,
+        "price": 183.74,
         "time_posted": "2024-11-04"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 185.52,
+        "price": 184.94,
         "time_posted": "2024-11-05"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 180.4,
+        "price": 179.84,
         "time_posted": "2024-11-06"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 179.97,
+        "price": 179.41,
         "time_posted": "2024-11-07"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 179.77,
+        "price": 179.21,
         "time_posted": "2024-11-08"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 177.06,
+        "price": 176.51,
         "time_posted": "2024-11-11"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 177.11,
+        "price": 176.56,
         "time_posted": "2024-11-12"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 174.95,
+        "price": 174.4,
         "time_posted": "2024-11-13"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 172.45,
+        "price": 171.91,
         "time_posted": "2024-11-14"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 173.21,
+        "price": 172.67,
         "time_posted": "2024-11-15"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 172.06,
+        "price": 171.52,
         "time_posted": "2024-11-18"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 171.63,
+        "price": 171.09,
         "time_posted": "2024-11-19"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 171.12,
+        "price": 170.59,
         "time_posted": "2024-11-20"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 172.5,
+        "price": 171.96,
         "time_posted": "2024-11-21"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 172.5,
+        "price": 171.96,
         "time_posted": "2024-11-22"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 172.39,
+        "price": 171.85,
         "time_posted": "2024-11-25"
     },
     {
         "ticker_symbol": "JKHY",
-        "price": 173.1,
+        "price": 172.56,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "JKHY",
+        "price": 173.42,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "JKHY",
+        "price": 175.63,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "JKHY",
+        "price": 175.66,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "JKHY",
+        "price": 175.33,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "JKHY",
+        "price": 172.36,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "JKHY",
+        "price": 173.61,
+        "time_posted": "2024-12-05"
     }
 ]

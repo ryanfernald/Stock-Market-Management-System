@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "VZ",
-        "price": 35.02,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "VZ",
-        "price": 35.13,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "VZ",
-        "price": 35.4,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "VZ",
-        "price": 35.94,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "VZ",
-        "price": 36.17,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "VZ",
-        "price": 35.66,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "VZ",
-        "price": 36.02,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "VZ",
         "price": 36.09,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "VZ",
         "price": 44.37,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "VZ",
+        "price": 44.38,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "VZ",
+        "price": 44.34,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "VZ",
+        "price": 43.85,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "VZ",
+        "price": 43.83,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "VZ",
+        "price": 42.52,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "VZ",
+        "price": 42.55,
+        "time_posted": "2024-12-05"
     }
 ]

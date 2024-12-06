@@ -1,1267 +1,1262 @@
 [
     {
         "ticker_symbol": "LMT",
-        "price": 433.76,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "LMT",
-        "price": 436.46,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "LMT",
-        "price": 433.29,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "LMT",
-        "price": 439.08,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "LMT",
-        "price": 440.69,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "LMT",
-        "price": 441.95,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "LMT",
-        "price": 437.58,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "LMT",
-        "price": 440.69,
+        "price": 437.94,
         "time_posted": "2023-12-06"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 438.44,
+        "price": 435.7,
         "time_posted": "2023-12-07"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 439.33,
+        "price": 436.59,
         "time_posted": "2023-12-08"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 442.51,
+        "price": 439.75,
         "time_posted": "2023-12-11"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 442.87,
+        "price": 440.11,
         "time_posted": "2023-12-12"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 442.68,
+        "price": 439.92,
         "time_posted": "2023-12-13"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 436.63,
+        "price": 433.91,
         "time_posted": "2023-12-14"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 433.24,
+        "price": 430.54,
         "time_posted": "2023-12-15"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 438.24,
+        "price": 435.51,
         "time_posted": "2023-12-18"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 439.1,
+        "price": 436.37,
         "time_posted": "2023-12-19"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 434.01,
+        "price": 431.31,
         "time_posted": "2023-12-20"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 439.33,
+        "price": 436.59,
         "time_posted": "2023-12-21"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 439.52,
+        "price": 436.78,
         "time_posted": "2023-12-22"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 441.45,
+        "price": 438.69,
         "time_posted": "2023-12-26"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 440.26,
+        "price": 437.52,
         "time_posted": "2023-12-27"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 442.48,
+        "price": 439.72,
         "time_posted": "2023-12-28"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 444.45,
+        "price": 441.68,
         "time_posted": "2023-12-29"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 447.27,
+        "price": 444.48,
         "time_posted": "2024-01-02"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 450.21,
+        "price": 447.41,
         "time_posted": "2024-01-03"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 448.99,
+        "price": 446.19,
         "time_posted": "2024-01-04"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 447.64,
+        "price": 444.85,
         "time_posted": "2024-01-05"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 449.7,
+        "price": 446.9,
         "time_posted": "2024-01-08"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 447.44,
+        "price": 444.65,
         "time_posted": "2024-01-09"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 446.57,
+        "price": 443.78,
         "time_posted": "2024-01-10"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 444.34,
+        "price": 441.57,
         "time_posted": "2024-01-11"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 454.19,
+        "price": 451.36,
         "time_posted": "2024-01-12"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 448.96,
+        "price": 446.16,
         "time_posted": "2024-01-16"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 447.61,
+        "price": 444.82,
         "time_posted": "2024-01-17"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 450.65,
+        "price": 447.85,
         "time_posted": "2024-01-18"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 448.88,
+        "price": 446.08,
         "time_posted": "2024-01-19"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 449.86,
+        "price": 447.06,
         "time_posted": "2024-01-22"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 431.14,
+        "price": 428.45,
         "time_posted": "2024-01-23"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 423.28,
+        "price": 420.64,
         "time_posted": "2024-01-24"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 422.68,
+        "price": 420.04,
         "time_posted": "2024-01-25"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 421.57,
+        "price": 418.94,
         "time_posted": "2024-01-26"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 419.71,
+        "price": 417.09,
         "time_posted": "2024-01-29"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 423.31,
+        "price": 420.67,
         "time_posted": "2024-01-30"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 421.08,
+        "price": 418.45,
         "time_posted": "2024-01-31"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 421.43,
+        "price": 418.81,
         "time_posted": "2024-02-01"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 417.71,
+        "price": 415.1,
         "time_posted": "2024-02-02"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 413.52,
+        "price": 410.94,
         "time_posted": "2024-02-05"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 418.67,
+        "price": 416.06,
         "time_posted": "2024-02-06"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 421.76,
+        "price": 419.13,
         "time_posted": "2024-02-07"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 418.72,
+        "price": 416.11,
         "time_posted": "2024-02-08"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 418.23,
+        "price": 415.62,
         "time_posted": "2024-02-09"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 419.77,
+        "price": 417.15,
         "time_posted": "2024-02-12"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 418.25,
+        "price": 415.64,
         "time_posted": "2024-02-13"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 410.08,
+        "price": 407.52,
         "time_posted": "2024-02-14"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 414.91,
+        "price": 412.33,
         "time_posted": "2024-02-15"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 415.84,
+        "price": 413.25,
         "time_posted": "2024-02-16"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 416.04,
+        "price": 413.45,
         "time_posted": "2024-02-20"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 419.26,
+        "price": 416.64,
         "time_posted": "2024-02-21"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 420.57,
+        "price": 417.95,
         "time_posted": "2024-02-22"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 422.76,
+        "price": 420.12,
         "time_posted": "2024-02-23"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 420.85,
+        "price": 418.23,
         "time_posted": "2024-02-26"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 422.08,
+        "price": 419.45,
         "time_posted": "2024-02-27"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 424.09,
+        "price": 421.45,
         "time_posted": "2024-02-28"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 423.01,
+        "price": 420.38,
         "time_posted": "2024-02-29"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 421.26,
+        "price": 418.63,
         "time_posted": "2024-03-01"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 426.67,
+        "price": 424.01,
         "time_posted": "2024-03-04"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 426.71,
+        "price": 424.05,
         "time_posted": "2024-03-05"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 428.19,
+        "price": 425.52,
         "time_posted": "2024-03-06"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 424.74,
+        "price": 422.09,
         "time_posted": "2024-03-07"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 427.62,
+        "price": 424.95,
         "time_posted": "2024-03-08"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 429.44,
+        "price": 426.77,
         "time_posted": "2024-03-11"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 429.6,
+        "price": 426.92,
         "time_posted": "2024-03-12"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 429.3,
+        "price": 426.62,
         "time_posted": "2024-03-13"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 430.45,
+        "price": 427.77,
         "time_posted": "2024-03-14"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 430.5,
+        "price": 427.82,
         "time_posted": "2024-03-15"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 427.91,
+        "price": 425.25,
         "time_posted": "2024-03-18"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 431.85,
+        "price": 429.16,
         "time_posted": "2024-03-19"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 435.03,
+        "price": 432.32,
         "time_posted": "2024-03-20"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 437.75,
+        "price": 435.02,
         "time_posted": "2024-03-21"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 440.44,
+        "price": 437.69,
         "time_posted": "2024-03-22"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 440.86,
+        "price": 438.11,
         "time_posted": "2024-03-25"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 440.55,
+        "price": 437.8,
         "time_posted": "2024-03-26"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 451.21,
+        "price": 448.39,
         "time_posted": "2024-03-27"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 449.32,
+        "price": 446.52,
         "time_posted": "2024-03-28"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 447.26,
+        "price": 444.48,
         "time_posted": "2024-04-01"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 447.71,
+        "price": 444.92,
         "time_posted": "2024-04-02"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 442.43,
+        "price": 439.68,
         "time_posted": "2024-04-03"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 448.5,
+        "price": 445.7,
         "time_posted": "2024-04-04"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 449.82,
+        "price": 447.02,
         "time_posted": "2024-04-05"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 446.86,
+        "price": 444.07,
         "time_posted": "2024-04-08"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 442.11,
+        "price": 439.35,
         "time_posted": "2024-04-09"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 446.2,
+        "price": 443.42,
         "time_posted": "2024-04-10"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 446.8,
+        "price": 444.01,
         "time_posted": "2024-04-11"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 444.9,
+        "price": 442.13,
         "time_posted": "2024-04-12"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 447.55,
+        "price": 444.76,
         "time_posted": "2024-04-15"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 448.77,
+        "price": 445.97,
         "time_posted": "2024-04-16"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 450.48,
+        "price": 447.68,
         "time_posted": "2024-04-17"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 450.52,
+        "price": 447.72,
         "time_posted": "2024-04-18"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 458.21,
+        "price": 455.35,
         "time_posted": "2024-04-19"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 455.7,
+        "price": 452.86,
         "time_posted": "2024-04-22"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 454.46,
+        "price": 451.63,
         "time_posted": "2024-04-23"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 453.54,
+        "price": 450.71,
         "time_posted": "2024-04-24"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 459.11,
+        "price": 456.25,
         "time_posted": "2024-04-25"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 455.66,
+        "price": 452.82,
         "time_posted": "2024-04-26"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 461.84,
+        "price": 458.96,
         "time_posted": "2024-04-29"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 459.26,
+        "price": 456.39,
         "time_posted": "2024-04-30"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 456.09,
+        "price": 453.25,
         "time_posted": "2024-05-01"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 457.55,
+        "price": 454.69,
         "time_posted": "2024-05-02"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 456.27,
+        "price": 453.43,
         "time_posted": "2024-05-03"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 457.13,
+        "price": 454.28,
         "time_posted": "2024-05-06"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 460.98,
+        "price": 458.11,
         "time_posted": "2024-05-07"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 460.47,
+        "price": 457.6,
         "time_posted": "2024-05-08"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 462.67,
+        "price": 459.79,
         "time_posted": "2024-05-09"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 463.16,
+        "price": 460.27,
         "time_posted": "2024-05-10"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 464.82,
+        "price": 461.92,
         "time_posted": "2024-05-13"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 461.48,
+        "price": 458.6,
         "time_posted": "2024-05-14"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 458.42,
+        "price": 455.56,
         "time_posted": "2024-05-15"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 459.16,
+        "price": 456.29,
         "time_posted": "2024-05-16"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 460.51,
+        "price": 457.64,
         "time_posted": "2024-05-17"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 461.38,
+        "price": 458.5,
         "time_posted": "2024-05-20"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 462.59,
+        "price": 459.71,
         "time_posted": "2024-05-21"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 463.98,
+        "price": 461.09,
         "time_posted": "2024-05-22"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 461.38,
+        "price": 458.5,
         "time_posted": "2024-05-23"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 461.65,
+        "price": 458.77,
         "time_posted": "2024-05-24"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 452.88,
+        "price": 450.06,
         "time_posted": "2024-05-28"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 447.19,
+        "price": 444.41,
         "time_posted": "2024-05-29"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 455.31,
+        "price": 452.48,
         "time_posted": "2024-05-30"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 464.6,
+        "price": 461.7,
         "time_posted": "2024-05-31"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 465.01,
+        "price": 462.11,
         "time_posted": "2024-06-03"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 466.29,
+        "price": 463.38,
         "time_posted": "2024-06-04"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 462.65,
+        "price": 459.77,
         "time_posted": "2024-06-05"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 466.02,
+        "price": 463.12,
         "time_posted": "2024-06-06"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 467.52,
+        "price": 464.61,
         "time_posted": "2024-06-07"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 464.87,
+        "price": 461.97,
         "time_posted": "2024-06-10"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 460.23,
+        "price": 457.37,
         "time_posted": "2024-06-11"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 456.56,
+        "price": 453.72,
         "time_posted": "2024-06-12"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 456.02,
+        "price": 453.17,
         "time_posted": "2024-06-13"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 455.8,
+        "price": 452.96,
         "time_posted": "2024-06-14"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 456.46,
+        "price": 453.62,
         "time_posted": "2024-06-17"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 457.45,
+        "price": 454.6,
         "time_posted": "2024-06-18"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 463.75,
+        "price": 460.86,
         "time_posted": "2024-06-20"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 465.01,
+        "price": 462.11,
         "time_posted": "2024-06-21"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 468.9,
+        "price": 465.97,
         "time_posted": "2024-06-24"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 465.47,
+        "price": 462.57,
         "time_posted": "2024-06-25"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 464.4,
+        "price": 461.51,
         "time_posted": "2024-06-26"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 464.54,
+        "price": 461.64,
         "time_posted": "2024-06-27"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 464.51,
+        "price": 461.61,
         "time_posted": "2024-06-28"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 463.85,
+        "price": 460.96,
         "time_posted": "2024-07-01"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 463.12,
+        "price": 460.23,
         "time_posted": "2024-07-02"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 463.45,
+        "price": 460.56,
         "time_posted": "2024-07-03"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 459.6,
+        "price": 456.73,
         "time_posted": "2024-07-05"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 459.2,
+        "price": 456.34,
         "time_posted": "2024-07-08"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 457.75,
+        "price": 454.89,
         "time_posted": "2024-07-09"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 458.45,
+        "price": 455.6,
         "time_posted": "2024-07-10"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 457.83,
+        "price": 454.97,
         "time_posted": "2024-07-11"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 461.16,
+        "price": 458.28,
         "time_posted": "2024-07-12"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 461.31,
+        "price": 458.43,
         "time_posted": "2024-07-15"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 465.98,
+        "price": 463.08,
         "time_posted": "2024-07-16"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 473.43,
+        "price": 470.48,
         "time_posted": "2024-07-17"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 473.36,
+        "price": 470.41,
         "time_posted": "2024-07-18"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 472.29,
+        "price": 469.34,
         "time_posted": "2024-07-19"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 471.96,
+        "price": 469.02,
         "time_posted": "2024-07-22"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 498.51,
+        "price": 495.4,
         "time_posted": "2024-07-23"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 512.34,
+        "price": 509.15,
         "time_posted": "2024-07-24"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 518.51,
+        "price": 515.28,
         "time_posted": "2024-07-25"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 521.89,
+        "price": 518.64,
         "time_posted": "2024-07-26"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 524.71,
+        "price": 521.44,
         "time_posted": "2024-07-29"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 534.68,
+        "price": 531.35,
         "time_posted": "2024-07-30"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 538.92,
+        "price": 535.56,
         "time_posted": "2024-07-31"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 545.82,
+        "price": 542.41,
         "time_posted": "2024-08-01"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 545.73,
+        "price": 542.33,
         "time_posted": "2024-08-02"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 542.36,
+        "price": 538.98,
         "time_posted": "2024-08-05"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 538.56,
+        "price": 535.2,
         "time_posted": "2024-08-06"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 545.47,
+        "price": 542.07,
         "time_posted": "2024-08-07"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 548.56,
+        "price": 545.14,
         "time_posted": "2024-08-08"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 548.52,
+        "price": 545.1,
         "time_posted": "2024-08-09"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 553.82,
+        "price": 550.37,
         "time_posted": "2024-08-12"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 556.32,
+        "price": 552.85,
         "time_posted": "2024-08-13"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 560.1,
+        "price": 556.61,
         "time_posted": "2024-08-14"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 557.18,
+        "price": 553.71,
         "time_posted": "2024-08-15"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 557.02,
+        "price": 553.55,
         "time_posted": "2024-08-16"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 555.29,
+        "price": 551.83,
         "time_posted": "2024-08-19"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 553.92,
+        "price": 550.47,
         "time_posted": "2024-08-20"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 550.69,
+        "price": 547.26,
         "time_posted": "2024-08-21"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 553.94,
+        "price": 550.49,
         "time_posted": "2024-08-22"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 551.93,
+        "price": 548.49,
         "time_posted": "2024-08-23"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 555.01,
+        "price": 551.55,
         "time_posted": "2024-08-26"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 557.3,
+        "price": 553.83,
         "time_posted": "2024-08-27"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 560.85,
+        "price": 557.36,
         "time_posted": "2024-08-28"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 563.71,
+        "price": 560.19,
         "time_posted": "2024-08-29"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 564.95,
+        "price": 561.43,
         "time_posted": "2024-08-30"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 567.22,
+        "price": 563.68,
         "time_posted": "2024-09-03"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 574.78,
+        "price": 571.2,
         "time_posted": "2024-09-04"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 568.59,
+        "price": 565.05,
         "time_posted": "2024-09-05"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 566.63,
+        "price": 563.1,
         "time_posted": "2024-09-06"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 576.57,
+        "price": 572.98,
         "time_posted": "2024-09-09"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 572.19,
+        "price": 568.62,
         "time_posted": "2024-09-10"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 566.96,
+        "price": 563.43,
         "time_posted": "2024-09-11"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 568.27,
+        "price": 564.73,
         "time_posted": "2024-09-12"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 569.91,
+        "price": 566.36,
         "time_posted": "2024-09-13"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 572.92,
+        "price": 569.35,
         "time_posted": "2024-09-16"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 567.01,
+        "price": 563.48,
         "time_posted": "2024-09-17"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 565.49,
+        "price": 561.97,
         "time_posted": "2024-09-18"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 565.18,
+        "price": 561.66,
         "time_posted": "2024-09-19"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 571.92,
+        "price": 568.36,
         "time_posted": "2024-09-20"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 580.51,
+        "price": 576.89,
         "time_posted": "2024-09-23"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 578.63,
+        "price": 575.02,
         "time_posted": "2024-09-24"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 577.94,
+        "price": 574.34,
         "time_posted": "2024-09-25"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 577.4,
+        "price": 573.8,
         "time_posted": "2024-09-26"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 582.36,
+        "price": 578.73,
         "time_posted": "2024-09-27"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 584.56,
+        "price": 580.92,
         "time_posted": "2024-09-30"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 605.86,
+        "price": 602.08,
         "time_posted": "2024-10-01"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 603.2,
+        "price": 599.44,
         "time_posted": "2024-10-02"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 605.82,
+        "price": 602.04,
         "time_posted": "2024-10-03"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 605.13,
+        "price": 601.36,
         "time_posted": "2024-10-04"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 605.54,
+        "price": 601.77,
         "time_posted": "2024-10-07"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 608.05,
+        "price": 604.26,
         "time_posted": "2024-10-08"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 605.11,
+        "price": 601.34,
         "time_posted": "2024-10-09"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 597.49,
+        "price": 593.77,
         "time_posted": "2024-10-10"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 604.17,
+        "price": 600.4,
         "time_posted": "2024-10-11"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 610.87,
+        "price": 607.06,
         "time_posted": "2024-10-14"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 605.0,
+        "price": 601.23,
         "time_posted": "2024-10-15"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 612.83,
+        "price": 609.01,
         "time_posted": "2024-10-16"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 609.62,
+        "price": 605.82,
         "time_posted": "2024-10-17"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 611.81,
+        "price": 608.0,
         "time_posted": "2024-10-18"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 614.61,
+        "price": 610.78,
         "time_posted": "2024-10-21"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 576.98,
+        "price": 573.38,
         "time_posted": "2024-10-22"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 571.1,
+        "price": 567.54,
         "time_posted": "2024-10-23"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 564.21,
+        "price": 560.69,
         "time_posted": "2024-10-24"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 562.29,
+        "price": 558.79,
         "time_posted": "2024-10-25"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 555.17,
+        "price": 551.71,
         "time_posted": "2024-10-28"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 546.8,
+        "price": 543.39,
         "time_posted": "2024-10-29"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 545.94,
+        "price": 542.54,
         "time_posted": "2024-10-30"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 546.05,
+        "price": 542.65,
         "time_posted": "2024-10-31"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 545.35,
+        "price": 541.95,
         "time_posted": "2024-11-01"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 543.1,
+        "price": 539.71,
         "time_posted": "2024-11-04"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 546.75,
+        "price": 543.34,
         "time_posted": "2024-11-05"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 551.82,
+        "price": 548.38,
         "time_posted": "2024-11-06"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 551.84,
+        "price": 548.4,
         "time_posted": "2024-11-07"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 564.56,
+        "price": 561.04,
         "time_posted": "2024-11-08"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 570.58,
+        "price": 567.02,
         "time_posted": "2024-11-11"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 565.96,
+        "price": 562.43,
         "time_posted": "2024-11-12"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 557.73,
+        "price": 554.25,
         "time_posted": "2024-11-13"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 538.99,
+        "price": 535.63,
         "time_posted": "2024-11-14"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 534.83,
+        "price": 531.5,
         "time_posted": "2024-11-15"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 530.96,
+        "price": 527.65,
         "time_posted": "2024-11-18"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 533.26,
+        "price": 529.94,
         "time_posted": "2024-11-19"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 534.73,
+        "price": 531.4,
         "time_posted": "2024-11-20"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 542.01,
+        "price": 538.63,
         "time_posted": "2024-11-21"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 542.22,
+        "price": 538.84,
         "time_posted": "2024-11-22"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 521.89,
+        "price": 518.64,
         "time_posted": "2024-11-25"
     },
     {
         "ticker_symbol": "LMT",
-        "price": 521.45,
+        "price": 518.2,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "LMT",
+        "price": 522.47,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "LMT",
+        "price": 526.11,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "LMT",
+        "price": 520.34,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "LMT",
+        "price": 517.0,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "LMT",
+        "price": 517.5,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "LMT",
+        "price": 517.48,
+        "time_posted": "2024-12-05"
     }
 ]

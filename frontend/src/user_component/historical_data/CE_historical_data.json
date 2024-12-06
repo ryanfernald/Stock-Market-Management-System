@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "CE",
-        "price": 131.37,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "CE",
-        "price": 131.88,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "CE",
-        "price": 134.75,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "CE",
-        "price": 135.95,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "CE",
-        "price": 138.28,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "CE",
-        "price": 138.64,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "CE",
-        "price": 137.26,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "CE",
         "price": 138.17,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "CE",
         "price": 72.85,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "CE",
+        "price": 72.91,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "CE",
+        "price": 73.21,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "CE",
+        "price": 74.22,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "CE",
+        "price": 72.5,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "CE",
+        "price": 70.9,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "CE",
+        "price": 69.44,
+        "time_posted": "2024-12-05"
     }
 ]

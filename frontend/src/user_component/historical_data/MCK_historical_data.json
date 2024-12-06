@@ -1,1267 +1,1262 @@
 [
     {
         "ticker_symbol": "MCK",
-        "price": 459.63,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "MCK",
-        "price": 459.34,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "MCK",
-        "price": 454.46,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "MCK",
-        "price": 468.89,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "MCK",
-        "price": 463.0,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "MCK",
-        "price": 457.67,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "MCK",
-        "price": 459.16,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "MCK",
-        "price": 455.97,
+        "price": 455.45,
         "time_posted": "2023-12-06"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 454.04,
+        "price": 453.53,
         "time_posted": "2023-12-07"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 456.27,
+        "price": 455.75,
         "time_posted": "2023-12-08"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 460.34,
+        "price": 459.82,
         "time_posted": "2023-12-11"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 460.5,
+        "price": 459.98,
         "time_posted": "2023-12-12"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 459.17,
+        "price": 458.65,
         "time_posted": "2023-12-13"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 440.11,
+        "price": 439.62,
         "time_posted": "2023-12-14"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 437.91,
+        "price": 437.42,
         "time_posted": "2023-12-15"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 445.95,
+        "price": 445.45,
         "time_posted": "2023-12-18"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 446.44,
+        "price": 445.94,
         "time_posted": "2023-12-19"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 444.38,
+        "price": 443.88,
         "time_posted": "2023-12-20"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 451.11,
+        "price": 450.6,
         "time_posted": "2023-12-21"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 452.59,
+        "price": 452.08,
         "time_posted": "2023-12-22"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 454.14,
+        "price": 453.63,
         "time_posted": "2023-12-26"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 455.87,
+        "price": 455.35,
         "time_posted": "2023-12-27"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 455.88,
+        "price": 455.36,
         "time_posted": "2023-12-28"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 461.34,
+        "price": 460.82,
         "time_posted": "2023-12-29"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 471.74,
+        "price": 471.21,
         "time_posted": "2024-01-02"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 478.64,
+        "price": 478.1,
         "time_posted": "2024-01-03"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 472.87,
+        "price": 472.33,
         "time_posted": "2024-01-04"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 476.49,
+        "price": 475.96,
         "time_posted": "2024-01-05"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 474.94,
+        "price": 474.4,
         "time_posted": "2024-01-08"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 479.35,
+        "price": 478.81,
         "time_posted": "2024-01-09"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 481.98,
+        "price": 481.43,
         "time_posted": "2024-01-10"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 487.11,
+        "price": 486.56,
         "time_posted": "2024-01-11"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 483.6,
+        "price": 483.05,
         "time_posted": "2024-01-12"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 486.77,
+        "price": 486.22,
         "time_posted": "2024-01-16"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 484.1,
+        "price": 483.55,
         "time_posted": "2024-01-17"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 491.25,
+        "price": 490.7,
         "time_posted": "2024-01-18"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 482.88,
+        "price": 482.34,
         "time_posted": "2024-01-19"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 485.59,
+        "price": 485.04,
         "time_posted": "2024-01-22"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 483.65,
+        "price": 483.1,
         "time_posted": "2024-01-23"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 483.28,
+        "price": 482.73,
         "time_posted": "2024-01-24"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 484.61,
+        "price": 484.06,
         "time_posted": "2024-01-25"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 483.55,
+        "price": 483.0,
         "time_posted": "2024-01-26"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 484.74,
+        "price": 484.19,
         "time_posted": "2024-01-29"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 488.28,
+        "price": 487.73,
         "time_posted": "2024-01-30"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 498.12,
+        "price": 497.56,
         "time_posted": "2024-01-31"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 500.07,
+        "price": 499.51,
         "time_posted": "2024-02-01"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 502.66,
+        "price": 502.09,
         "time_posted": "2024-02-02"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 506.14,
+        "price": 505.57,
         "time_posted": "2024-02-05"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 505.07,
+        "price": 504.5,
         "time_posted": "2024-02-06"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 515.15,
+        "price": 514.57,
         "time_posted": "2024-02-07"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 492.48,
+        "price": 491.92,
         "time_posted": "2024-02-08"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 499.57,
+        "price": 499.01,
         "time_posted": "2024-02-09"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 492.73,
+        "price": 492.17,
         "time_posted": "2024-02-12"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 502.98,
+        "price": 502.41,
         "time_posted": "2024-02-13"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 499.42,
+        "price": 498.86,
         "time_posted": "2024-02-14"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 503.89,
+        "price": 503.32,
         "time_posted": "2024-02-15"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 509.25,
+        "price": 508.67,
         "time_posted": "2024-02-16"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 504.94,
+        "price": 504.37,
         "time_posted": "2024-02-20"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 505.62,
+        "price": 505.05,
         "time_posted": "2024-02-21"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 508.49,
+        "price": 507.92,
         "time_posted": "2024-02-22"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 514.41,
+        "price": 513.83,
         "time_posted": "2024-02-23"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 517.36,
+        "price": 516.78,
         "time_posted": "2024-02-26"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 517.14,
+        "price": 516.56,
         "time_posted": "2024-02-27"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 521.82,
+        "price": 521.23,
         "time_posted": "2024-02-28"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 520.18,
+        "price": 519.59,
         "time_posted": "2024-02-29"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 524.64,
+        "price": 524.04,
         "time_posted": "2024-03-01"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 532.92,
+        "price": 532.32,
         "time_posted": "2024-03-04"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 527.58,
+        "price": 526.98,
         "time_posted": "2024-03-05"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 523.81,
+        "price": 523.22,
         "time_posted": "2024-03-06"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 527.23,
+        "price": 526.64,
         "time_posted": "2024-03-07"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 526.16,
+        "price": 525.57,
         "time_posted": "2024-03-08"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 525.42,
+        "price": 524.82,
         "time_posted": "2024-03-11"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 529.98,
+        "price": 529.39,
         "time_posted": "2024-03-12"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 518.98,
+        "price": 518.39,
         "time_posted": "2024-03-13"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 528.11,
+        "price": 527.51,
         "time_posted": "2024-03-14"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 532.38,
+        "price": 531.78,
         "time_posted": "2024-03-15"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 528.46,
+        "price": 527.86,
         "time_posted": "2024-03-18"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 533.08,
+        "price": 532.47,
         "time_posted": "2024-03-19"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 529.5,
+        "price": 528.9,
         "time_posted": "2024-03-20"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 532.92,
+        "price": 532.32,
         "time_posted": "2024-03-21"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 531.31,
+        "price": 530.71,
         "time_posted": "2024-03-22"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 531.29,
+        "price": 530.69,
         "time_posted": "2024-03-25"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 534.82,
+        "price": 534.22,
         "time_posted": "2024-03-26"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 537.99,
+        "price": 537.38,
         "time_posted": "2024-03-27"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 535.58,
+        "price": 534.98,
         "time_posted": "2024-03-28"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 535.22,
+        "price": 534.62,
         "time_posted": "2024-04-01"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 532.01,
+        "price": 531.41,
         "time_posted": "2024-04-02"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 538.81,
+        "price": 538.2,
         "time_posted": "2024-04-03"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 533.53,
+        "price": 532.92,
         "time_posted": "2024-04-04"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 537.48,
+        "price": 536.87,
         "time_posted": "2024-04-05"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 530.97,
+        "price": 530.37,
         "time_posted": "2024-04-08"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 526.03,
+        "price": 525.44,
         "time_posted": "2024-04-09"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 528.74,
+        "price": 528.14,
         "time_posted": "2024-04-10"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 522.13,
+        "price": 521.54,
         "time_posted": "2024-04-11"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 521.77,
+        "price": 521.18,
         "time_posted": "2024-04-12"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 521.44,
+        "price": 520.86,
         "time_posted": "2024-04-15"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 527.1,
+        "price": 526.51,
         "time_posted": "2024-04-16"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 524.68,
+        "price": 524.08,
         "time_posted": "2024-04-17"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 517.58,
+        "price": 517.0,
         "time_posted": "2024-04-18"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 523.59,
+        "price": 523.0,
         "time_posted": "2024-04-19"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 526.07,
+        "price": 525.48,
         "time_posted": "2024-04-22"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 530.74,
+        "price": 530.14,
         "time_posted": "2024-04-23"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 534.15,
+        "price": 533.55,
         "time_posted": "2024-04-24"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 538.66,
+        "price": 538.06,
         "time_posted": "2024-04-25"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 542.02,
+        "price": 541.4,
         "time_posted": "2024-04-26"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 534.82,
+        "price": 534.22,
         "time_posted": "2024-04-29"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 535.94,
+        "price": 535.33,
         "time_posted": "2024-04-30"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 529.84,
+        "price": 529.25,
         "time_posted": "2024-05-01"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 529.02,
+        "price": 528.42,
         "time_posted": "2024-05-02"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 527.61,
+        "price": 527.01,
         "time_posted": "2024-05-03"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 532.15,
+        "price": 531.55,
         "time_posted": "2024-05-06"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 544.46,
+        "price": 543.84,
         "time_posted": "2024-05-07"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 542.33,
+        "price": 541.71,
         "time_posted": "2024-05-08"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 553.81,
+        "price": 553.18,
         "time_posted": "2024-05-09"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 558.59,
+        "price": 557.96,
         "time_posted": "2024-05-10"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 553.3,
+        "price": 552.67,
         "time_posted": "2024-05-13"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 550.28,
+        "price": 549.65,
         "time_posted": "2024-05-14"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 550.26,
+        "price": 549.63,
         "time_posted": "2024-05-15"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 554.45,
+        "price": 553.82,
         "time_posted": "2024-05-16"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 563.19,
+        "price": 562.55,
         "time_posted": "2024-05-17"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 562.67,
+        "price": 562.03,
         "time_posted": "2024-05-20"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 551.08,
+        "price": 550.46,
         "time_posted": "2024-05-21"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 556.06,
+        "price": 555.43,
         "time_posted": "2024-05-22"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 556.71,
+        "price": 556.08,
         "time_posted": "2024-05-23"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 559.4,
+        "price": 558.77,
         "time_posted": "2024-05-24"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 547.96,
+        "price": 547.34,
         "time_posted": "2024-05-28"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 557.57,
+        "price": 556.94,
         "time_posted": "2024-05-29"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 559.63,
+        "price": 559.0,
         "time_posted": "2024-05-30"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 568.24,
+        "price": 567.6,
         "time_posted": "2024-05-31"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 572.43,
+        "price": 571.78,
         "time_posted": "2024-06-03"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 573.0,
+        "price": 572.35,
         "time_posted": "2024-06-04"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 578.86,
+        "price": 578.21,
         "time_posted": "2024-06-05"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 585.36,
+        "price": 584.7,
         "time_posted": "2024-06-06"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 586.15,
+        "price": 585.49,
         "time_posted": "2024-06-07"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 590.53,
+        "price": 589.86,
         "time_posted": "2024-06-10"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 590.54,
+        "price": 589.87,
         "time_posted": "2024-06-11"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 584.04,
+        "price": 583.38,
         "time_posted": "2024-06-12"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 590.32,
+        "price": 589.65,
         "time_posted": "2024-06-13"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 589.2,
+        "price": 588.53,
         "time_posted": "2024-06-14"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 596.69,
+        "price": 596.01,
         "time_posted": "2024-06-17"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 602.16,
+        "price": 601.48,
         "time_posted": "2024-06-18"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 602.47,
+        "price": 601.79,
         "time_posted": "2024-06-20"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 602.31,
+        "price": 601.63,
         "time_posted": "2024-06-21"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 607.03,
+        "price": 606.35,
         "time_posted": "2024-06-24"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 603.65,
+        "price": 602.97,
         "time_posted": "2024-06-25"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 598.79,
+        "price": 598.12,
         "time_posted": "2024-06-26"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 592.44,
+        "price": 591.77,
         "time_posted": "2024-06-27"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 583.29,
+        "price": 582.64,
         "time_posted": "2024-06-28"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 585.59,
+        "price": 584.93,
         "time_posted": "2024-07-01"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 584.08,
+        "price": 583.42,
         "time_posted": "2024-07-02"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 582.61,
+        "price": 581.95,
         "time_posted": "2024-07-03"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 587.01,
+        "price": 586.35,
         "time_posted": "2024-07-05"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 588.78,
+        "price": 588.11,
         "time_posted": "2024-07-08"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 586.06,
+        "price": 585.4,
         "time_posted": "2024-07-09"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 586.07,
+        "price": 585.41,
         "time_posted": "2024-07-10"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 574.5,
+        "price": 573.85,
         "time_posted": "2024-07-11"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 575.92,
+        "price": 575.27,
         "time_posted": "2024-07-12"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 577.52,
+        "price": 576.87,
         "time_posted": "2024-07-15"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 583.2,
+        "price": 582.55,
         "time_posted": "2024-07-16"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 581.32,
+        "price": 580.66,
         "time_posted": "2024-07-17"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 577.69,
+        "price": 577.04,
         "time_posted": "2024-07-18"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 579.39,
+        "price": 578.73,
         "time_posted": "2024-07-19"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 582.26,
+        "price": 581.6,
         "time_posted": "2024-07-22"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 584.99,
+        "price": 584.33,
         "time_posted": "2024-07-23"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 589.24,
+        "price": 588.57,
         "time_posted": "2024-07-24"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 594.97,
+        "price": 594.3,
         "time_posted": "2024-07-25"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 599.39,
+        "price": 598.72,
         "time_posted": "2024-07-26"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 605.94,
+        "price": 605.25,
         "time_posted": "2024-07-29"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 608.94,
+        "price": 608.25,
         "time_posted": "2024-07-30"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 616.23,
+        "price": 615.54,
         "time_posted": "2024-07-31"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 628.29,
+        "price": 627.58,
         "time_posted": "2024-08-01"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 629.58,
+        "price": 628.86,
         "time_posted": "2024-08-02"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 612.17,
+        "price": 611.48,
         "time_posted": "2024-08-05"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 613.54,
+        "price": 612.84,
         "time_posted": "2024-08-06"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 616.72,
+        "price": 616.03,
         "time_posted": "2024-08-07"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 546.81,
+        "price": 546.19,
         "time_posted": "2024-08-08"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 540.46,
+        "price": 539.85,
         "time_posted": "2024-08-09"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 550.3,
+        "price": 549.67,
         "time_posted": "2024-08-12"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 551.05,
+        "price": 550.42,
         "time_posted": "2024-08-13"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 552.12,
+        "price": 551.5,
         "time_posted": "2024-08-14"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 544.71,
+        "price": 544.1,
         "time_posted": "2024-08-15"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 547.01,
+        "price": 546.39,
         "time_posted": "2024-08-16"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 547.7,
+        "price": 547.08,
         "time_posted": "2024-08-19"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 547.82,
+        "price": 547.2,
         "time_posted": "2024-08-20"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 557.53,
+        "price": 556.9,
         "time_posted": "2024-08-21"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 560.18,
+        "price": 559.55,
         "time_posted": "2024-08-22"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 551.45,
+        "price": 550.82,
         "time_posted": "2024-08-23"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 546.77,
+        "price": 546.15,
         "time_posted": "2024-08-26"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 550.02,
+        "price": 549.4,
         "time_posted": "2024-08-27"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 555.99,
+        "price": 555.36,
         "time_posted": "2024-08-28"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 555.44,
+        "price": 554.81,
         "time_posted": "2024-08-29"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 561.08,
+        "price": 560.45,
         "time_posted": "2024-08-30"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 573.95,
+        "price": 573.3,
         "time_posted": "2024-09-03"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 571.28,
+        "price": 570.63,
         "time_posted": "2024-09-04"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 514.75,
+        "price": 514.17,
         "time_posted": "2024-09-05"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 504.17,
+        "price": 503.6,
         "time_posted": "2024-09-06"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 509.42,
+        "price": 508.84,
         "time_posted": "2024-09-09"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 505.73,
+        "price": 505.16,
         "time_posted": "2024-09-10"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 510.45,
+        "price": 509.87,
         "time_posted": "2024-09-11"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 511.17,
+        "price": 510.59,
         "time_posted": "2024-09-12"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 518.81,
+        "price": 518.22,
         "time_posted": "2024-09-13"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 519.82,
+        "price": 519.23,
         "time_posted": "2024-09-16"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 513.91,
+        "price": 513.33,
         "time_posted": "2024-09-17"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 511.62,
+        "price": 511.04,
         "time_posted": "2024-09-18"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 508.16,
+        "price": 507.59,
         "time_posted": "2024-09-19"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 508.0,
+        "price": 507.43,
         "time_posted": "2024-09-20"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 505.0,
+        "price": 504.43,
         "time_posted": "2024-09-23"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 480.49,
+        "price": 479.95,
         "time_posted": "2024-09-24"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 479.14,
+        "price": 478.6,
         "time_posted": "2024-09-25"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 479.06,
+        "price": 478.52,
         "time_posted": "2024-09-26"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 488.25,
+        "price": 487.7,
         "time_posted": "2024-09-27"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 494.42,
+        "price": 493.86,
         "time_posted": "2024-09-30"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 498.48,
+        "price": 497.92,
         "time_posted": "2024-10-01"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 488.78,
+        "price": 488.23,
         "time_posted": "2024-10-02"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 482.27,
+        "price": 481.73,
         "time_posted": "2024-10-03"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 485.42,
+        "price": 484.87,
         "time_posted": "2024-10-04"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 483.67,
+        "price": 483.12,
         "time_posted": "2024-10-07"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 495.09,
+        "price": 494.53,
         "time_posted": "2024-10-08"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 502.12,
+        "price": 501.55,
         "time_posted": "2024-10-09"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 506.25,
+        "price": 505.68,
         "time_posted": "2024-10-10"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 505.59,
+        "price": 505.02,
         "time_posted": "2024-10-11"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 509.28,
+        "price": 508.7,
         "time_posted": "2024-10-14"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 513.67,
+        "price": 513.09,
         "time_posted": "2024-10-15"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 510.93,
+        "price": 510.35,
         "time_posted": "2024-10-16"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 508.72,
+        "price": 508.15,
         "time_posted": "2024-10-17"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 509.2,
+        "price": 508.62,
         "time_posted": "2024-10-18"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 508.32,
+        "price": 507.75,
         "time_posted": "2024-10-21"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 505.38,
+        "price": 504.81,
         "time_posted": "2024-10-22"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 501.76,
+        "price": 501.19,
         "time_posted": "2024-10-23"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 504.96,
+        "price": 504.39,
         "time_posted": "2024-10-24"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 507.41,
+        "price": 506.84,
         "time_posted": "2024-10-25"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 508.95,
+        "price": 508.38,
         "time_posted": "2024-10-28"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 499.18,
+        "price": 498.62,
         "time_posted": "2024-10-29"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 499.34,
+        "price": 498.78,
         "time_posted": "2024-10-30"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 500.59,
+        "price": 500.02,
         "time_posted": "2024-10-31"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 526.34,
+        "price": 525.75,
         "time_posted": "2024-11-01"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 525.94,
+        "price": 525.35,
         "time_posted": "2024-11-04"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 525.28,
+        "price": 524.69,
         "time_posted": "2024-11-05"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 549.31,
+        "price": 548.69,
         "time_posted": "2024-11-06"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 607.51,
+        "price": 606.82,
         "time_posted": "2024-11-07"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 613.0,
+        "price": 612.31,
         "time_posted": "2024-11-08"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 615.59,
+        "price": 614.89,
         "time_posted": "2024-11-11"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 617.66,
+        "price": 616.96,
         "time_posted": "2024-11-12"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 624.6,
+        "price": 623.89,
         "time_posted": "2024-11-13"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 610.16,
+        "price": 609.47,
         "time_posted": "2024-11-14"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 606.29,
+        "price": 605.61,
         "time_posted": "2024-11-15"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 615.6,
+        "price": 614.9,
         "time_posted": "2024-11-18"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 615.65,
+        "price": 614.95,
         "time_posted": "2024-11-19"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 621.14,
+        "price": 620.44,
         "time_posted": "2024-11-20"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 628.27,
+        "price": 627.56,
         "time_posted": "2024-11-21"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 623.19,
+        "price": 622.49,
         "time_posted": "2024-11-22"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 616.73,
+        "price": 616.03,
         "time_posted": "2024-11-25"
     },
     {
         "ticker_symbol": "MCK",
-        "price": 625.0,
+        "price": 624.29,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "MCK",
+        "price": 625.67,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "MCK",
+        "price": 627.79,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "MCK",
+        "price": 621.29,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "MCK",
+        "price": 617.95,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "MCK",
+        "price": 611.99,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "MCK",
+        "price": 607.52,
+        "time_posted": "2024-12-05"
     }
 ]

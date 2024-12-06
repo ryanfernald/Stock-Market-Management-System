@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "IFF",
-        "price": 73.16,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "IFF",
-        "price": 73.97,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "IFF",
-        "price": 73.54,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "IFF",
-        "price": 73.68,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "IFF",
-        "price": 75.05,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "IFF",
-        "price": 74.58,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "IFF",
-        "price": 73.72,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "IFF",
         "price": 74.01,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "IFF",
         "price": 90.93,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "IFF",
+        "price": 90.82,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "IFF",
+        "price": 91.36,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "IFF",
+        "price": 91.27,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "IFF",
+        "price": 90.16,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "IFF",
+        "price": 89.3,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "IFF",
+        "price": 89.0,
+        "time_posted": "2024-12-05"
     }
 ]

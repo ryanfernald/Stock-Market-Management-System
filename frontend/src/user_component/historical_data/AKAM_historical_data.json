@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "AKAM",
-        "price": 113.75,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "AKAM",
-        "price": 114.65,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "AKAM",
-        "price": 115.7,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "AKAM",
-        "price": 115.53,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "AKAM",
-        "price": 116.03,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "AKAM",
-        "price": 115.9,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "AKAM",
-        "price": 115.62,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "AKAM",
         "price": 114.47,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "AKAM",
         "price": 93.1,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "AKAM",
+        "price": 93.86,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "AKAM",
+        "price": 94.02,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "AKAM",
+        "price": 97.93,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "AKAM",
+        "price": 97.53,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "AKAM",
+        "price": 98.3,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "AKAM",
+        "price": 97.4,
+        "time_posted": "2024-12-05"
     }
 ]

@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "BRK-B",
-        "price": 361.34,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "BRK-B",
-        "price": 360.05,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "BRK-B",
-        "price": 358.69,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "BRK-B",
-        "price": 360.0,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "BRK-B",
-        "price": 357.07,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "BRK-B",
-        "price": 356.66,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "BRK-B",
-        "price": 355.03,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "BRK-B",
         "price": 352.38,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "BRK-B",
         "price": 478.56,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "BRK-B",
+        "price": 483.08,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "BRK-B",
+        "price": 483.02,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "BRK-B",
+        "price": 477.33,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "BRK-B",
+        "price": 470.19,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "BRK-B",
+        "price": 468.32,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "BRK-B",
+        "price": 470.57,
+        "time_posted": "2024-12-05"
     }
 ]

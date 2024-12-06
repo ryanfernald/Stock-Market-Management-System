@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "XYL",
-        "price": 102.05,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "XYL",
-        "price": 101.52,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "XYL",
-        "price": 102.37,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "XYL",
-        "price": 103.98,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "XYL",
-        "price": 105.04,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "XYL",
-        "price": 105.31,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "XYL",
-        "price": 104.64,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "XYL",
         "price": 104.94,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "XYL",
         "price": 124.54,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "XYL",
+        "price": 125.61,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "XYL",
+        "price": 126.75,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "XYL",
+        "price": 127.01,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "XYL",
+        "price": 127.69,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "XYL",
+        "price": 127.54,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "XYL",
+        "price": 126.23,
+        "time_posted": "2024-12-05"
     }
 ]

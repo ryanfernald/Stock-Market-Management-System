@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "WAB",
-        "price": 116.16,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "WAB",
-        "price": 114.52,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "WAB",
-        "price": 114.63,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "WAB",
-        "price": 115.99,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "WAB",
-        "price": 119.53,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "WAB",
-        "price": 119.36,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "WAB",
-        "price": 118.27,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "WAB",
         "price": 117.71,
         "time_posted": "2023-12-06"
     },
@@ -261,7 +226,7 @@
     },
     {
         "ticker_symbol": "WAB",
-        "price": 136.4,
+        "price": 136.39,
         "time_posted": "2024-02-12"
     },
     {
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "WAB",
         "price": 201.71,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "WAB",
+        "price": 200.04,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "WAB",
+        "price": 200.62,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "WAB",
+        "price": 199.78,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "WAB",
+        "price": 200.35,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "WAB",
+        "price": 202.7,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "WAB",
+        "price": 202.93,
+        "time_posted": "2024-12-05"
     }
 ]

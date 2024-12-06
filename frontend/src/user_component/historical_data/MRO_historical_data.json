@@ -1253,5 +1253,10 @@
         "ticker_symbol": "MRO",
         "price": 28.55,
         "time_posted": "2024-11-21"
+    },
+    {
+        "ticker_symbol": "MRO",
+        "price": 28.55,
+        "time_posted": "2024-12-05"
     }
 ]

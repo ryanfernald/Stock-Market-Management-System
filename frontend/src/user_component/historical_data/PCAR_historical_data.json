@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "PCAR",
-        "price": 87.76,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "PCAR",
-        "price": 87.0,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "PCAR",
-        "price": 87.35,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "PCAR",
-        "price": 87.84,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "PCAR",
-        "price": 89.14,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "PCAR",
-        "price": 89.66,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "PCAR",
-        "price": 89.8,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "PCAR",
         "price": 90.61,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "PCAR",
         "price": 115.82,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "PCAR",
+        "price": 116.18,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "PCAR",
+        "price": 117.0,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "PCAR",
+        "price": 116.24,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "PCAR",
+        "price": 116.85,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "PCAR",
+        "price": 118.41,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "PCAR",
+        "price": 117.62,
+        "time_posted": "2024-12-05"
     }
 ]

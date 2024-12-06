@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "EG",
-        "price": 406.75,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "EG",
-        "price": 400.26,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "EG",
-        "price": 396.4,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "EG",
-        "price": 404.49,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "EG",
-        "price": 401.62,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "EG",
-        "price": 393.17,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "EG",
-        "price": 391.33,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "EG",
         "price": 384.61,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "EG",
         "price": 387.5,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "EG",
+        "price": 389.0,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "EG",
+        "price": 387.56,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "EG",
+        "price": 383.73,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "EG",
+        "price": 385.21,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "EG",
+        "price": 378.77,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "EG",
+        "price": 374.71,
+        "time_posted": "2024-12-05"
     }
 ]

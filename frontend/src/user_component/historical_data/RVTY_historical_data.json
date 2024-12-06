@@ -1,41 +1,6 @@
 [
     {
         "ticker_symbol": "RVTY",
-        "price": 88.02,
-        "time_posted": "2023-11-27"
-    },
-    {
-        "ticker_symbol": "RVTY",
-        "price": 87.52,
-        "time_posted": "2023-11-28"
-    },
-    {
-        "ticker_symbol": "RVTY",
-        "price": 89.18,
-        "time_posted": "2023-11-29"
-    },
-    {
-        "ticker_symbol": "RVTY",
-        "price": 88.67,
-        "time_posted": "2023-11-30"
-    },
-    {
-        "ticker_symbol": "RVTY",
-        "price": 91.04,
-        "time_posted": "2023-12-01"
-    },
-    {
-        "ticker_symbol": "RVTY",
-        "price": 91.52,
-        "time_posted": "2023-12-04"
-    },
-    {
-        "ticker_symbol": "RVTY",
-        "price": 89.12,
-        "time_posted": "2023-12-05"
-    },
-    {
-        "ticker_symbol": "RVTY",
         "price": 90.41,
         "time_posted": "2023-12-06"
     },
@@ -1263,5 +1228,35 @@
         "ticker_symbol": "RVTY",
         "price": 115.07,
         "time_posted": "2024-11-26"
+    },
+    {
+        "ticker_symbol": "RVTY",
+        "price": 116.23,
+        "time_posted": "2024-11-27"
+    },
+    {
+        "ticker_symbol": "RVTY",
+        "price": 116.14,
+        "time_posted": "2024-11-29"
+    },
+    {
+        "ticker_symbol": "RVTY",
+        "price": 116.7,
+        "time_posted": "2024-12-02"
+    },
+    {
+        "ticker_symbol": "RVTY",
+        "price": 115.02,
+        "time_posted": "2024-12-03"
+    },
+    {
+        "ticker_symbol": "RVTY",
+        "price": 116.13,
+        "time_posted": "2024-12-04"
+    },
+    {
+        "ticker_symbol": "RVTY",
+        "price": 115.09,
+        "time_posted": "2024-12-05"
     }
 ]
