@@ -117,13 +117,39 @@ const UserDashboard = () => {
       fetchUserH();
    }, []);
 
+   const [cash, setCash] = useState([]);
+   useEffect(() => {
+      const fetchUserH = async () => {
+         const userId = localStorage.getItem("uid");
+         if (!userId) {
+            console.error("User ID not found in local storage.");
+            return;
+         }
 
+         try {
+            const response = await fetch(`http://127.0.0.1:5000/user_b/balance/${userId}`);
+            if (!response.ok) {
+               throw new Error(`Error fetching balance: ${response.statusText}`);
+            }
+            const t = await response.json();
+            console.log(t)
+            setCash(t); // Update state with fetched data
+            console.log("**********************", t)
+            setLoading(false);
+         } catch (error) {
+            console.error("Failed to fetch user balance:", error);
+            setLoading(false);
+         }
+      };
+      fetchUserH();
+   }, []);
 
    const getCurrentPrice = (symbol, stockDetails) => {
       const stock = stockDetails.find((stock) => stock.Symbol === symbol);
       return stock ? parseFloat(stock.Price) : 0; // Return price or 0 if not found
    };
 
+   var temp = balanceDetails + cash.net_balance
 
    return (
       <>
@@ -141,7 +167,9 @@ const UserDashboard = () => {
                      <p>Loading...</p>
                   ) : (
                      <div id="balance-details">
-                        <p>${balanceDetails.toFixed(2)}</p>
+                        <p>Portfolio Value: ${temp.toFixed(2)}</p>
+                        <p>Cash Value: ${cash.net_balance.toFixed(2)}</p>
+
                      </div>
                   )}
                   <button onClick={() => (window.location.href = "/userstatement")}>View Details</button>

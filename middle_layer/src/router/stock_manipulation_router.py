@@ -1,10 +1,13 @@
 # stock_manipulation_router.py
 from flask import Blueprint, request, jsonify
 from db_config import db
+from flask_cors import cross_origin
+
 
 stock_manipulation = Blueprint('stock_manipulation', __name__)
 
 @stock_manipulation.route('/buy/<user_id>/<ticker>/<quantity>', methods=['POST'])
+@cross_origin()
 def buy_stock(user_id, ticker, quantity):
     try:
         db.buy_stock(user_id, ticker, int(quantity))
@@ -13,6 +16,7 @@ def buy_stock(user_id, ticker, quantity):
         return jsonify({"status": "error", "message": str(e)}), 400
 
 @stock_manipulation.route('/sell/<user_id>/<ticker>/<quantity>', methods=['POST'])
+@cross_origin()
 def sell_stock(user_id, ticker, quantity):
     try:
         db.sell_stock(user_id, ticker, int(quantity))
@@ -21,5 +25,6 @@ def sell_stock(user_id, ticker, quantity):
         return jsonify({"status": "error", "message": str(e)}), 400
     
 @stock_manipulation.route('/list', methods=['GET'])
+@cross_origin()
 def get_list_of_supported_stocks():
     return db.get_list_of_supported_stocks(), 200
