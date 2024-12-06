@@ -23,6 +23,7 @@ const LandingPage = () => {
         'APPL': applData
     }[selectedChart].slice().reverse();
 
+    
     // Filter data based on selected date range
     const filteredData = originalData.filter(({ date }) => {
         const parsedDate = new Date(date);

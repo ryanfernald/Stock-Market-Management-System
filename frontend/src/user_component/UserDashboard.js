@@ -37,9 +37,16 @@ const UserDashboard = () => {
       return format(new Date(dateString), 'yyyy-MM');
    };
    // Toggle row expansion for Holdings table
-   const toggleRow = (index) => {
-      setExpandedRow(expandedRow === index ? null : index);
-   };
+   const toggleRow = async (index, tickerSymbol) => {
+      if (expandedRow === index) {
+          setExpandedRow(null);
+          setStockHistory([]);
+      } else {
+          setExpandedRow(index);
+          const historyData = await loadStockHistory(tickerSymbol);
+          setStockHistory(historyData);
+      }
+  };
 
 
    const activityData = [
@@ -147,8 +154,19 @@ const UserDashboard = () => {
    const getCurrentPrice = (symbol, stockDetails) => {
       const stock = stockDetails.find((stock) => stock.Symbol === symbol);
       return stock ? parseFloat(stock.Price) : 0; // Return price or 0 if not found
-   };
+  };
 
+  const loadStockHistory = async (tickerSymbol) => {
+      try {
+         const data = await import(`./historical_data/${tickerSymbol}_historical_data.json`);
+         return data.default;
+      } catch (error) {
+         console.error(`Error loading historical data for ${tickerSymbol}:`, error);
+         return [];
+      }
+   };
+  
+   const [stockHistory, setStockHistory] = useState([]);
    var temp = balanceDetails + cash.net_balance
 
    return (
@@ -220,9 +238,9 @@ const UserDashboard = () => {
                      );
                   })}
                </div>
-            </div>
-            {/* Transaction History */}
-            <div className="activity-card holdings">
+               </div>
+               {/* Transaction History */}
+               <div className="activity-card holdings">
                <h3>Holdings</h3>
                <table>
                   <thead>
@@ -271,7 +289,7 @@ const UserDashboard = () => {
 
                            return (
                               <React.Fragment key={index}>
-                                 <tr onClick={() => toggleRow(index)} style={{ cursor: "pointer" }}>
+                                 <tr onClick={() => toggleRow(index, ticker_symbol)} style={{ cursor: "pointer" }}>
                                     <td>{ticker_symbol}</td>
                                     <td>{quantity}</td>
                                     <td>${price_purchased.toFixed(2)}</td>
@@ -296,39 +314,54 @@ const UserDashboard = () => {
                                        ${calculateDollarChange(price_purchased, currentPrice).toFixed(2)}
                                     </td>
                                  </tr>
+                                 {expandedRow === index && (
+                                    <tr>
+                                          <td colSpan="7">
+                                             <ResponsiveContainer width="100%" height={300}>
+                                                <LineChart data={stockHistory}>
+                                                      <CartesianGrid strokeDasharray="3 3" />
+                                                      <XAxis dataKey="time_posted" tickFormatter={formatTick} />
+                                                      <YAxis />
+                                                      <Tooltip />
+                                                      <Line type="monotone" dataKey="price" stroke="#8884d8" strokeWidth={2} />
+                                                </LineChart>
+                                             </ResponsiveContainer>
+                                          </td>
+                                    </tr>
+                                 )}
                               </React.Fragment>
                            );
                         })}
                   </tbody>
                </table>
-            </div>
-            <div className="activity-card watch-list">
-               <h3>Watch List</h3>
-               <table className="watch-list-table">
-                  <thead>
-                     <tr>
-                        <th>Stock</th>
-                        <th>Company</th>
-                        <th>Current Price</th>
-                     </tr>
-                  </thead>
-                  <tbody>
-                     {watchList.map((item, index) => (
-                        <tr
-                           key={index}
-                           onClick={() => handleRowClick(item.Company)} // Make sure this triggers the handleRowClick method
-                           style={{ cursor: "pointer" }}
-                        >
-                           <td>{item.Stock}</td>
-                           <td>{item.Company}</td>
-                           <td>${parseFloat(item.Price)}</td>
+               </div>
+               <div className="activity-card watch-list">
+                  <h3>Watch List</h3>
+                  <table className="watch-list-table">
+                     <thead>
+                        <tr>
+                           <th>Stock</th>
+                           <th>Company</th>
+                           <th>Current Price</th>
                         </tr>
-                     ))}
-                  </tbody>
-               </table>
+                     </thead>
+                     <tbody>
+                        {watchList.map((item, index) => (
+                           <tr
+                              key={index}
+                              onClick={() => handleRowClick(item.Company)} // Make sure this triggers the handleRowClick method
+                              style={{ cursor: "pointer" }}
+                           >
+                              <td>{item.Stock}</td>
+                              <td>{item.Company}</td>
+                              <td>${parseFloat(item.Price)}</td>
+                           </tr>
+                        ))}
+                     </tbody>
+                  </table>
+               </div>
+               
             </div>
-
-         </div>
       </>
    );
 };

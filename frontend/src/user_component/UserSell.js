@@ -60,7 +60,7 @@ const UserSell = () => {
             const saleValue = quantityToSell * getCurrentPrice(selectedStock.ticker_symbol, stockDetails);
             
             // Display a pop-up message (optional)
-            // alert(`${quantityToSell} Shares of ${selectedStock.ticker_symbol} Sold for $${saleValue} Cash`);
+            alert(`${quantityToSell} Shares of ${selectedStock.ticker_symbol} Sold for $${saleValue} Cash`);
     
             const userId = localStorage.getItem("uid");
             if (!userId) {

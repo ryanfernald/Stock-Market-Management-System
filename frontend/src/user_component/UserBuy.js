@@ -47,7 +47,8 @@ const UserBuy = () => {
         setFilteredStocks(
             stockData.filter((stock) =>
                 stock.Symbol.toLowerCase().includes(lowercasedQuery) ||
-                stock.Name.toLowerCase().includes(lowercasedQuery)
+                stock.Name.toLowerCase().includes(lowercasedQuery) ||
+                stock.Sector.toLowerCase().includes(lowercasedQuery)
             )
         );
     }, [query]);

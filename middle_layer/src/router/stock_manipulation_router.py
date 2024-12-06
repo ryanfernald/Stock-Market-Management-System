@@ -3,7 +3,6 @@ from flask import Blueprint, request, jsonify
 from db_config import db
 from flask_cors import cross_origin
 
-
 stock_manipulation = Blueprint('stock_manipulation', __name__)
 
 @stock_manipulation.route('/buy/<user_id>/<ticker>/<quantity>', methods=['POST'])
