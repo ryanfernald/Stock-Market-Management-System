@@ -143,6 +143,9 @@ If you happen to run into any issues with the server or the react app you should
 These operations should only be performed by professionals, please don't attempt at home.
 Good luck and have fun!
 
+## Important note
+Make sure to sign up before trying to log in with google. Log in without sign up will result in abnormal application behaviours.
+
 ## Motivation
 
 To evaluate the trading strategies/portfolio stocks in a real-world environment without risking real money. By utilizing mock trading, users can test their investment strategies and analyze stock performance using real market data, helping them to gain experience and confidence without financial risk. This approach allows for refining trading decisions, assessing portfolio diversification, and experimenting with different market conditions. Additionally, the platform provides comprehensive research tools for market trends and specific companies, enabling informed decision-making and enhancing users' understanding of stock behavior while maintaining a controlled, risk-free environment.
