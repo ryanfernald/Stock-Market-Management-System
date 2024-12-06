@@ -1,9 +1,0 @@
-pandas
-tqdm
-yfinance
-requests
-python-dotenv
-mysql-connector-python
-pytz
-flask
-psycopg2-binary
