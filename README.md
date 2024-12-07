@@ -70,16 +70,23 @@ and include these credentials
     DATABASE_PORT =3306
     DATABASE_NAME = 'YHFinance'
 
-### Step 5 Sync firebase Users with SQL users 
+### Step 5 
+
+Sync firebase Users with SQL users.
+```bash
     cd frontend/src
     node fbSync
+```
 
+Set openssl to the legacy provider.
 
-run the command to start frontend application
+    export NODE_OPTIONS=--openssl-legacy-provider
+
+Run the command to start frontend application
 
     npm start
 
-### Step 5
+### Step 6
 Go to a browser of your choice and visit `http://localhost:3000/` to visit the web page
 
 Now that the front end is running, we need to get the Database working properly. Lets get started.
