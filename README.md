@@ -61,16 +61,25 @@ and include these credentials
     REACT_APP_FIREBASE_MESSAGING_SENDER_ID=630350953898
     REACT_APP_FIREBASE_APP_ID=1:630350953898:web:13899a592c14275743bfd3
     REACT_APP_FIREBASE_MEASUREMENT_ID=G-887YEK784C
-
     REACT_APP_NEWS_API_KEY=34bf762c08c4477a8454f3b07beacf26
     REACT_APP_API_BASE_URL=http://127.0.0.1:5000
+    FB_Name = 'https://YHUser.firebaseio.com'
+    DATABASE_USER ='root'
+    DATABASE_PASSWORD ='Kakachoo123'
+    DATABASE_HOST ='localhost'
+    DATABASE_PORT =3306
+    DATABASE_NAME = 'YHFinance'
+
+### Step 5 Sync firebase Users with SQL users 
+    cd frontend/src
+    node fbSync
 
 
 run the command to start frontend application
 
     npm start
 
-### Step 4
+### Step 5
 Go to a browser of your choice and visit `http://localhost:3000/` to visit the web page
 
 Now that the front end is running, we need to get the Database working properly. Lets get started.

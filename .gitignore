@@ -13,7 +13,6 @@ flask/router/__pycache__/*
 
 __pycache__/
 *.py[cod]
-frontend/src/firebase-adminsdk.json
 frontend/src/firbaseconfig.js
 /frontend/src/admin_coponent/firbaseconfig.js
 /frontend/src/common_component/firbaseconfig.js
