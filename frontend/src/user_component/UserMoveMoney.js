@@ -3,7 +3,7 @@ import { useSearchParams } from "react-router-dom";
 import UserNavbar from "./UserNavBar";
 import "./styling/UserMoveMoney.css";
 
-const API_BASE_URL = process.env.REACT_APP_API_BASE_URL;
+// const API_BASE_URL = process.env.REACT_APP_API_BASE_URL;
 
 const UserMoveMoney = () => {
     const [tab, setTab] = useState("deposit");
