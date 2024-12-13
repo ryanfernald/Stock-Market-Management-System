@@ -1,7 +1,7 @@
 # Mock the Stock -  A Professional & Reliable Stock Trading Environment
 
 
-
+For the Stonks-Market project, responsibilities were divided as follows: Ryan and Sean handled the front-end development, focusing on the functional components and integration. Ashken took charge of the backend, working on the logging system, user login functionality, and the admin dashboard. Max was responsible for the SQL schema design, data normalization, and data insertion/retrieval functions in the middle layer. Varun worked on data fetching, implementing the API integrations, and ensuring efficient data retrieval. 
 
 ## Installation 
 
