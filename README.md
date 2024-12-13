@@ -1,7 +1,7 @@
 # Mock the Stock -  A Professional & Reliable Stock Trading Environment
 
 
-For the Stonks-Market project, responsibilities were divided as follows: Ryan and Sean handled the front-end development, focusing on the functional components and integration. Ashken took charge of the backend, working on the logging system, user login functionality, and the admin dashboard. Max was responsible for the SQL schema design, data normalization, and data insertion/retrieval functions in the middle layer. Varun worked on data fetching, implementing the API integrations, and ensuring efficient data retrieval. 
+For the Stonks-Market project, responsibilities were divided as follows: Ryan and Sean handled the front-end development, focusing on the functional components and integration. Ashkan took charge of the backend, working on the logging system, user login functionality, and the admin dashboard. Max was responsible for the SQL schema design, data normalization, and data insertion/retrieval functions in the middle layer. Varun worked on data fetching, implementing the API integrations, and ensuring efficient data retrieval. 
 
 ## Installation 
 
@@ -18,7 +18,7 @@ Lets get started with the Frontend.
 We built our front end using a React application so in order to have this install properly we need to make sure we have npm installer and Node.js
 
 ### Step 1
-The can be installed online or if you prefer homebrew we can use these commands: 
+The can be installed online here: `https://nodejs.org/en/download/package-manager/current` or if you prefer homebrew we can use these commands: 
 
     brew install node
     
@@ -65,10 +65,12 @@ and include these credentials
     REACT_APP_API_BASE_URL=http://127.0.0.1:5000
     FB_Name = 'https://YHUser.firebaseio.com'
     DATABASE_USER ='root'
-    DATABASE_PASSWORD ='Kakachoo123'
+    DATABASE_PASSWORD ='{YOUR_DB_PW}'
     DATABASE_HOST ='localhost'
     DATABASE_PORT =3306
     DATABASE_NAME = 'YHFinance'
+
+Replace `{YOUR_DB_PW}` with your database password, DATABASE_NAME we use YHFinance, but you can use a different name which we describe later in the database section. 
 
 ### Step 5 
 
@@ -80,8 +82,13 @@ Sync firebase Users with SQL users.
 
 Set openssl to the legacy provider.
 
+For Mac / Linux
+
     export NODE_OPTIONS=--openssl-legacy-provider
 
+For Windows 
+
+    set NODE_OPTIONS=--openssl-legacy-provider
 Run the command to start frontend application
 
     npm start
