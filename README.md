@@ -28,13 +28,13 @@ When users launch our program, they are welcomed by a landing page that showcase
 
 ### Logging In and Signing Up
 
-In order to most of the other features the user needs to register an account with us. They use can use the Sign Up button, or if they already have an account they can Login. All they need to Signup is an Email, Password and their name. We also have a connection with Google’s Firebase API which allows the user to sign up / login with their Google Account.
+In order to use most of the features the user needs to register an account with us. They use can use the Sign Up button, or if they already have an account they can Login. All they need to Signup is an Email, Password and their name. We also have a connection with Google’s Firebase API which allows the user to sign up / login with their Google Account.
 
 <img width="1007" alt="Screenshot 2025-01-27 at 11 57 26 AM" src="https://github.com/user-attachments/assets/02dae992-9f79-4484-bb9c-c0d7dd12b698" />
 
 ### Handling Transactions
 
-The Deposit and Withdrawal functions allow users to manage their account funds effortlessly. When a user logs in, they can quickly access these actions, as illustrated in Figure 8 below. Upon clicking either the deposit or withdrawal button, the corresponding amount is instantly processed and sent to the database through our routers, ensuring seamless data management. Users can immediately see an update in their Portfolio Value and Cash Value that reflects the recent transaction, providing them with real-time insights into their financial standing.
+The Deposit and Withdrawal functions allow users to manage their account funds effortlessly. When a user logs in, they can quickly access the Buy, Sell, Deposite and Withdraw Buttons. Upon clicking either the deposit or withdrawal button, the corresponding amount is instantly processed and sent to the database through our routers, ensuring seamless data management. Users can immediately see an update in their Portfolio Value and Cash Value that reflects the recent transaction, providing them with real-time insights into their financial standing.
 
 #### Buying a Stock
 
@@ -44,7 +44,7 @@ Once users have sufficient funds in their accounts, they can navigate to the Buy
 
 ### Dynamic Chart Data
 
-After a successful purchase, the stock information is instantly sent to our database via the stock manipulation router, processing the transaction as a Market Order and updating the user's cash balance accordingly. Returning to the User Dashboard, the Holdings Table reflects the newly purchased stock, displaying all market orders. Each entry in the table is clickable, revealing a detailed chart of the stock's 1-year price history, which aids users in making informed decisions about their investments. The Holdings Table, as depicted in Figure 10, also provides users with metrics like Percent Change and Dollar Change, allowing for easy tracking of profits and potential losses.
+After a successful purchase, the stock information is instantly sent to our database via the stock manipulation router, processing the transaction as a Market Order and updating the user's cash balance accordingly. Returning to the User Dashboard, the Holdings Table reflects the newly purchased stock, displaying all market orders. Each entry in the table is clickable, revealing a detailed chart of the stock's 1-year price history, which aids users in making informed decisions about their investments. The Holdings Table also provides users with metrics like Percent Change and Dollar Change, allowing for easy tracking of profits and potential losses.
 
 https://github.com/user-attachments/assets/1663c259-973e-42b4-90f7-5cb7e0087279
 
